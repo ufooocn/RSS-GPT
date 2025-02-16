@@ -180,7 +180,7 @@ def gpt_summary(query,model,language):
             # example:"http://my.test.proxy.example.com",
         )
     completion = client.chat.completions.create(
-        model=model,
+        model=custom_model,
         messages=messages,
     )
     return completion.choices[0].message.content
