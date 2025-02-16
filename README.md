@@ -56,7 +56,7 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 
 - https://brett.trpstra.net/brettterpstra -> https://ufooocn.github.io/RSS-GPT/brett-terpstra.xml
 - https://www.nature.com/nature.rss -> https://ufooocn.github.io/RSS-GPT/Nature.xml
-- https://rknight.me/feed.xml -> https://ufooocn.github.io/RSS-GPT/robb-knight.xml
+- https://onlinelibrary.wiley.com/feed/15214095/most-recent -> https://ufooocn.github.io/RSS-GPT/Advanced Materials.xml
 - https://stephanango.com/feed.xml -> https://ufooocn.github.io/RSS-GPT/steph-ango.xml
 - https://lopespm.com/atom.xml -> https://ufooocn.github.io/RSS-GPT/byte-tank.xml
 - https://rsshub.app/paulgraham/articles -> https://ufooocn.github.io/RSS-GPT/paul-graham.xml
