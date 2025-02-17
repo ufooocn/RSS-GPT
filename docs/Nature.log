@@ -196,3 +196,10 @@ Existing_entries: 84
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-17 20:18:10.002104
+------------------------------------------------------
+Started: 2025-02-17 22:15:50.570165
+Existing_entries: 84
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: FANCD2–FANCI surveys DNA and recognizes double- to single-stranded junctions](https://www.nature.com/articles/s41586-025-08763-z)
+append_entries: 1
+Finish: 2025-02-17 22:15:50.819968
