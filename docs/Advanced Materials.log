@@ -317,3 +317,23 @@ Existing_entries: 245
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-02-17 08:23:50.028775
+------------------------------------------------------
+Started: 2025-02-17 10:19:31.151203
+Existing_entries: 245
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Leaf Vein‐Inspired Programmable Superstructure Liquid Metal Photothermal Actuator for Soft Robots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416991?af=R)
+Append: [Bio‐Inspired, Miniaturized Magnetic Heart Valve System for Superior Performance Cardiovascular Simulator](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419504?af=R)
+Append: [Triple‐Additive Strategy for Enhanced Material and Device Stability in Perovskite Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413712?af=R)
+Append: [Glassy Thermal Transport Triggers Ultra‐High Thermoelectric Performance in GeTe](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417561?af=R)
+Append: [Waveguide Microactuators Self‐Rolled Around an Optical Fiber Taper](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418316?af=R)
+Append: [Cryo‐Shocked Tumor‐Reprogrammed Sonosensitive Antigen‐Presenting Cells Improving Sonoimmunotherapy via T Cells and NK Cells Immunity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413289?af=R)
+Append: [DNA‐Capturing Manganese‐Coordinated Chitosan Microparticles Potentiate Radiotherapy via Activating the cGAS‐STING Pathway and Maintaining Tumor‐Infiltrating CD8+ T‐Cell Stemness](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418583?af=R)
+Append: [Ultra‐Fast Gallium Oxide Solar‐Blind Photodetector with Novel Thermal Pulse Treatment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414130?af=R)
+Append: [Perturbing Organelle‐Level K+/Ca2+ Homeostasis by Nanotherapeutics for Enhancing Ion‐Mediated Cancer Immunotherapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416574?af=R)
+Append: [All‐Climate Energy‐Dense Cascade Aqueous Zn‐I2 Batteries Enabled by a Polycationic Hydrogel Electrolyte](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415979?af=R)
+Append: [A PD‐L1 siRNA‐Loaded Boron Nanoparticle for Targeted Cancer Radiotherapy and Immunotherapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419418?af=R)
+Append: [Advances and Outlooks for Carbon Nanotube‐Based Thermoelectric Materials and Devices](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500947?af=R)
+append_entries: 12
+Finish: 2025-02-17 10:19:33.673612
