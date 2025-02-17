@@ -157,3 +157,13 @@ Existing_entries: 75
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-17 10:19:31.026224
+------------------------------------------------------
+Started: 2025-02-17 12:35:18.155313
+Existing_entries: 75
+Fetching from https://www.nature.com/nature.rss
+Append: [Researchers overlooked airborne diseases for centuries — then COVID-19 changed everything](https://www.nature.com/articles/d41586-025-00459-8)
+Append: [Money and murder: the dark side of the Asilomar meeting on recombinant DNA](https://www.nature.com/articles/d41586-025-00457-w)
+Append: [What are the best AI tools for research? <i>Nature</i>’s guide](https://www.nature.com/articles/d41586-025-00437-0)
+Append: [Daily briefing: Scientists use AI to design life-like enzymes from scratch](https://www.nature.com/articles/d41586-025-00513-5)
+append_entries: 4
+Finish: 2025-02-17 12:35:18.367126
