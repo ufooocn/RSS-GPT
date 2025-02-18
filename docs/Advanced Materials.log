@@ -403,3 +403,29 @@ Existing_entries: 257
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-02-18 08:22:21.395730
+------------------------------------------------------
+Started: 2025-02-18 10:18:35.714853
+Existing_entries: 257
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Interface Engineering of 2D Materials toward High‐Temperature Electronic Devices](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418439?af=R)
+Append: [Topology‐Oriented Lymph Node Drainage of Dendritic Polymer‐TLR Agonist Conjugates to Enhance Vaccine Immunogenicity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417704?af=R)
+Append: [Diluted Ternary Heterojunctions to Suppress Charge Recombination for Organic Solar Cells with 21% Efficiency](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419923?af=R)
+Append: [Polarization Boost and Ferroelectricity Down to One Unit Cell in Layered Carpy‐Galy La2Ti2O7 Thin Films](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416963?af=R)
+Append: [Si‐CMOS Compatible Synthesis of Wafer‐Scale 1T‐CrTe2 with Step‐Like Magnetic Transition](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414845?af=R)
+Append: [Interfacial π‐Electron Cloud Extension and Charge Transfer Between Preferable Single‐Crystalline Conjugated MOFs and Graphene for Ultrafast Pulse Generation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420043?af=R)
+Append: [Autonomous, Moisture‐Driven Flexible Electrogenerative Dressing for Enhanced Wound Healing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418074?af=R)
+Append: [1D Magnetic Topological Inorganic Electrides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418904?af=R)
+Append: [Two Material Properties from One Wavelength‐Orthogonal Photoresin Enabled by a Monochromatic Laser Integrated Stereolithographic Apparatus (Mono LISA)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419639?af=R)
+Append: [Quantum‐Dot‐Electrolyte Light‐Emitting Diodes for Displays](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417330?af=R)
+Append: [Construction of Acceptor‐Multi‐F State Electrolyte to Enable Unprecedented Long‐Life and High‐Capacity Fluoride‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415106?af=R)
+Append: [Electrocatalytic Hydrogenation Boosted by Surface Hydroxyls‐Modulated Hydrogen Migration over Nonreducible Oxides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500371?af=R)
+Append: [Mitochondrial Transplantation via Magnetically Responsive Artificial Cells Promotes Intracerebral Hemorrhage Recovery by Supporting Microglia Immunological Homeostasis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500303?af=R)
+Append: [Directional Mushroom‐Derived Scaffold for Microenvironment Regulation in Infected Bone Defects](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407730?af=R)
+Append: [Double Confinement Design to Access Highly Stable Intermetallic Nanoparticles for Fuel Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417095?af=R)
+Append: [Electrochemically Driven Optical Dynamics of Reflectin Protein Films](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411005?af=R)
+Append: [Multicolor Organic Single‐Crystal Microcavity Light Emitting Diodes With High Color‐Purity and High Brightness](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418278?af=R)
+Append: [Rhodamine B‐Derived Low‐Toxicity Full‐Color Carbon Dots with Wide Tunable High‐Stable Liquid‐State Lasers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420197?af=R)
+append_entries: 18
+Finish: 2025-02-18 10:18:37.687692
