@@ -253,3 +253,10 @@ Append: [Migraine is more than a headache — a radical rethink offers hope to o
 Append: [Daily briefing: The ‘dark side’ of the Asilomar conference](https://www.nature.com/articles/d41586-025-00516-2)
 append_entries: 8
 Finish: 2025-02-18 12:33:25.488795
+------------------------------------------------------
+Started: 2025-02-18 14:16:44.494076
+Existing_entries: 93
+Fetching from https://www.nature.com/nature.rss
+Append: [Pinpointing neurons that hinder cancer treatment](https://www.nature.com/articles/d41586-025-00501-9)
+append_entries: 1
+Finish: 2025-02-18 14:16:44.696056
