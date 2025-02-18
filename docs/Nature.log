@@ -280,3 +280,9 @@ Append: [Vertical structure of an exoplanet’s atmospheric jet stream](https://
 Append: [A human gene makes mice squeak differently — did it contribute to language?](https://www.nature.com/articles/d41586-025-00518-0)
 append_entries: 2
 Finish: 2025-02-18 18:24:44.087042
+------------------------------------------------------
+Started: 2025-02-18 20:17:57.246200
+Existing_entries: 102
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-02-18 20:17:57.480036
