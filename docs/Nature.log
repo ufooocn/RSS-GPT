@@ -332,3 +332,11 @@ Append: [Why retractions data could be a powerful tool for cleaning up science](
 Append: [Exclusive: These universities have the most retracted scientific articles](https://www.nature.com/articles/d41586-025-00455-y)
 append_entries: 3
 Finish: 2025-02-19 10:18:48.411713
+------------------------------------------------------
+Started: 2025-02-19 12:32:19.044453
+Existing_entries: 106
+Fetching from https://www.nature.com/nature.rss
+Append: [Women need platforms to celebrate excellence in research and technology](https://www.nature.com/articles/d41586-025-00510-8)
+Append: [Daily briefing: CAR-T-cell therapy recipient nears two decades in cancer remission](https://www.nature.com/articles/d41586-025-00522-4)
+append_entries: 2
+Finish: 2025-02-19 12:32:19.262212
