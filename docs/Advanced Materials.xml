@@ -2,8 +2,407 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Wiley: Advanced Materials: Table of Contents</title>
-<link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
+<link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+<item>
+<title>Large‐Scale 2D Perovskite Nanocrystals Photodetector Array via Ultrasonic Spray Synthesis</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417761?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417761?af=R</guid>
+<content:encoded><![CDATA[
+
+Red, green, and blue (R/G/B) colored 2D perovskite nanocrystals synthesized via an ultrasonic spray method demonstrate outstanding photo‐detection performance in 4‐inch photodetector arrays with a 100% operational yield, enabled by a liquid‐bridge‐transport strategy. This scalable, self‐aligned synthesis provides a practical pathway for high‐performance, large‐area perovskite optoelectronic devices and shows promising potential for broader applications in integrated optoelectronic systems.
+
+
+
+
+
+
+
+
+Abstract
+2D perovskite (PVSK) single crystals have received significant attention due to their unique optical and optoelectronic properties. However, current synthesis methods face limitations, particularly in large‐area fabrication, which remain critical barriers to practical applications. In this study, the synthesis of red/green/purple‐blue‐colored 2D PVSK nanocrystals over a large area (4‐inch wafer) and the fabrication of high‐performance photodetector arrays are presented via a facile yet efficient spray‐coating approach with a liquid‐bridge transport effect. The photodetector array achieves 100% working yield, high photo‐responsivity (1.5 × 106 A W−1) and specific‐detectivity (1.1 × 1016 Jones) with competitive photomapping characteristics. An intelligent vision system for automatic shape recognition is further demonstrated with a recognition rate exceeding 90%. This study provides significant advances in the scalable synthesis of nanoscale 2D PVSK crystals, their integration into large‐area optoelectronic devices, and their potential use in artificial‐intelligence systems.
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 00:10:22 -0800</pubDate>
+<pubDate>2025-02-19T12:10:22-08:00</pubDate>
+</item>
+<item>
+<title>Regulating the Isomerization Geometry and Energy State of Covalent Organic Frameworks for Enhanced Oxygen Reduction Activity</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500063?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500063?af=R</guid>
+<content:encoded><![CDATA[
+
+A geometric isomerization strategy is reported to modulate the electron and energy states of metal‐free COF‐based catalysts via introducing bithiophene units featuring diverse substitutions. The asymmetric 2,3‐substitution COFs with enhanced dipole moment and non‐uniform charge distribution show high electrocatalytic activity, with the pentacyclic‐carbon (thiophene β‐position) far from sulfur atoms emerging as active sites.
+
+
+
+
+
+
+
+
+Abstract
+Embedding isomer entities onto crystalline frameworks with precisely defined spatial distributions represents a promising approach to enhancing the efficiency of oxygen reduction reaction (ORR) in fuel cells. However, accurately constructing covalent organic frameworks (COFs) to regulate energy state effectively remains a significant challenge. Herein, an innovative geometric isomerization strategy aimed at minimizing the rotational barrier energy (ΔE), average local ionization energy (ALIE), and Gibbs free energy (ΔG) for ORR within COFs is proposed. Based on this strategy, isomeric Py‐COF‐αα with 2,2‐substitution, Py‐COF‐ββ with 3,3‐substitution, and Py‐COF‐αβ with 2,3‐substitution on the mainchain frameworks have been obtained. The electronic states and intermediate adsorption capabilities are finely tuned through isomer modification, yielding a precisely controllable chemical activity. Notably, Py‐COF‐αβ with lower ΔE between thiophenes achieves remarkable performance, evidenced by a half‐wave potential of 0.77 V vs reversible hydrogen electrode (RHE), surpassing most reported metal‐free electrocatalysts. Combined with theoretical prediction and in situ Raman spectra, it is revealed that the increased dipole moment and non‐uniform charge distribution caused by isomer endows pentacyclic‐carbon (thiophene β‐position) far from sulfur atoms with efficient catalytic activity. This work has opened up a novel paradigm for the isomerization of COFs and underscores the pivotal role of charge regulation in facilitating efficient catalysis.
+]]></content:encoded>
+<pubDate>Wed, 19 Feb 2025 00:09:34 -0800</pubDate>
+<pubDate>2025-02-19T12:09:34-08:00</pubDate>
+</item>
+<item>
+<title>Advanced Interface Design of Direct‐Current Tribovoltaic Nanogenerator</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417254?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417254?af=R</guid>
+<content:encoded><![CDATA[
+
+Interface design is a promising strategy to help TVNGs achieve goals ranging from simple performance improvements to ingenious construction of novel functionalities. Herein, the frontier advances on interface design for TVNGs are elaborately outlined for the first time, which details the tribovoltaic effect mechanisms, diverse interface strategies, and outlines existing challenges and future prospects.
+
+
+
+
+
+
+
+
+Abstract
+Tribovoltaic nanogenerator (TVNG), which manifests distinct advantages of direct‐current output characteristics and remarkable energy utilization efficiency, is an emerging energy technology relying on the coupling of semiconductor and contact electrification. Dynamic semiconductor interface is the key to TVNGs, as its performance and functionality largely depend on the design and optimization of interface. Hence, with the booming development of TVNGs, it is of great significance to timely update the fundamental understanding of its interface design, which is currently lacking. In this review, the frontier advances on interface design for TVNGs are elaborately outlined for the first time. First, the underlying mechanisms of tribovoltaic effect at the interface are elaborated, as well as some governing equations and key interface design concepts. Subsequently, diverse strategies for advanced interface design are highlighted, including modulating interfacial charge dynamics, multi‐energy coupling, reducing interface wear loss, and extending flexible/wearable application. At last, some assumptions about the future direction and prospects of advanced interface design in efficient, multifunctional TVNGs are presented.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:49:11 -0800</pubDate>
+<pubDate>2025-02-18T11:49:11-08:00</pubDate>
+</item>
+<item>
+<title>Andrias davidianus Derived Glycosaminoglycans Direct Diabetic Wound Repair by Reprogramming Reparative Macrophage Glucolipid Metabolism</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417801?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417801?af=R</guid>
+<content:encoded><![CDATA[
+
+Glycosaminoglycans (GAGs) in the skin mucus of Andrias davidianus and its derived engineered microspheres have been shown to promote angiogenesis and modulate the inflammatory microenvironment by inducing the polarization of reparative macrophages, thus contributing to wound healing. This is an excellent paradigm for harnessing cross‐species regenerative capabilities to address impaired wound repair, introducing a novel therapeutic strategy for refractory wounds.
+
+
+
+
+
+
+
+
+Abstract
+Harnessing cross‐species regenerative cues to direct human regenerative potential is increasingly recognized as an excellent strategy in regenerative medicine, particularly for addressing the challenges of impaired wound healing in aging populations. The skin mucus of Andrias davidianus plays a critical role in self‐protection and tissue repair, yet the fundamental regenerative factors and mechanisms involved remain elusive. Here, this work presents evidence that glycosaminoglycans (GAGs) derived from the skin secretion of Andrias davidianus (SAGs) serve as potent mediators of angiogenesis and inflammatory remodeling, facilitating efficient healing of diabetic wounds. Mechanistic studies reveal that SAGs promote macrophage polarization toward an anti‐inflammatory and pro‐regenerative phenotype (CD206+/Arg1+) via glucolipid metabolic reprogramming. This process suppresses excessive inflammation and enhances the expression of VEGF and IL‐10 to create a facilitative microenvironment for tissue regeneration. Additionally, this work develops SAGs‐GelMA composite microspheres that address multiple stages of wound healing, including rapid hemostasis, exudate control, and activation of endogenous regenerative processes. This engineered approach significantly improves the scarless healing of diabetic wounds by facilitating the recruitment and activation of reparative macrophages. The findings offer new insights into the regenerative mechanisms of Andrias davidianus and highlight the potential therapeutic application of SAGs in tissue repair.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:43:42 -0800</pubDate>
+<pubDate>2025-02-18T11:43:42-08:00</pubDate>
+</item>
+<item>
+<title>Emerging Trends in Bioinspired Superhydrophobic and Superoleophobic Sustainable Surfaces</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415961?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415961?af=R</guid>
+<content:encoded><![CDATA[
+
+Biomimicry offers an exceptional opportunity to design materials with advanced properties. This review summarizes the latest findings for developing sustainable superhydrophobic–superoleophobic materials using biomimicry, their challenges, and future directions. For a more comprehensive approach in this research area, experimental methods for surface engineering are given in detail, along with computational modeling and artificial intelligence applications.
+
+
+
+
+
+
+
+
+Abstract
+Inspired by nature's ability to master materials for performance and sustainability, biomimicry has enabled the creation of bioinspired materials for structural color, superadhesion, hydrophobicity and hydrophilicity, among many others. This review summarizes the emerging trends in novel sustainable fluorocarbon‐free bioinspired designs for creating superhydrophobic and superoleophobic surfaces. It discusses methods, challenges, and future directions, alongside the impact of computational modeling and artificial intelligence in accelerating the experimental development of more sustainable surface materials. While significant progress is made in superhydrophobic materials, sustainable superoleophobic surfaces remain a challenge. However, bioinspiration and experimental techniques supported by computational platforms are paving the way to new renewable and biodegradable repellent surfaces that meet environmental standards without sacrificing performance. Nevertheless, despite environmental concerns, and policies, several bioinspired designs still continue to apply fluorination and other environmentally harmful techniques to achieve the required standard of repellency. As discussed in this critical review, a new paradigm that integrates advanced materials characterization, nanotechnology, additive manufacturing, computational modeling, and artificial intelligence is coming, to generate bioinspired materials with tailored superhydrophobicity and superoleophobicity while adhering to environmental standards.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:42:44 -0800</pubDate>
+<pubDate>2025-02-18T11:42:44-08:00</pubDate>
+</item>
+<item>
+<title>Capturing Copper Single Atom in Proton Donor Stimulated O‐End Nitrate Reduction</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415632?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415632?af=R</guid>
+<content:encoded><![CDATA[
+
+Electrocatalytic nitrate reduction (e‐NO3RR) shows promise for NH3 synthesis but suffer from insufficient activity. One mechanism is proposed to integrate a proton donor for O‐end e‐NO3RR. Based on that, a model catalyst with Cu single atoms on La‐based nanoparticles is designed, achieving exceptional efficiency and stability. This paves the way for innovative electrocatalyst design in NH3 production and beyond.
+
+
+
+
+
+
+
+
+Abstract
+Ammonia (NH3) is vital in global production and energy cycles. Electrocatalytic nitrate reduction (e‐NO3RR) offers a promising route for nitrogen (N) conversion and NH3 synthesis, yet it faces challenges like competing reactions and low catalyst activity. This study proposes a synergistic mechanism incorporating a proton donor to mediate O‐end e‐NO3RR, addressing these limitations. A novel method combining ultraviolet radiation reduction, confined synthesis, and microwave treatment was developed to create a model catalyst embedding Cu single atoms on La‐based nanoparticles (p‐CNCusLan‐m). DFT analysis emphasizes the critical role of La‐based clusters as proton donors in e‐NO3RR, while in situ characterization reveals an O‐end adsorption reduction mechanism. The catalyst achieves a remarkable Faraday efficiency (FENH3) of 97.7%, producing 10.6 mol gmetal−1 h−1 of NH3, surpassing most prior studies. In a flow cell, it demonstrated exceptional stability, with only a 9% decrease in current density after 111 hours and a NH3 production rate of 1.57 mgNH3/h/cm−2. The proton donor mechanism's effectiveness highlights its potential for advancing electrocatalyst design. Beyond NH3 production, the O‐end mechanism opens avenues for exploring molecular‐oriented coupling reactions in e‐NO3RR, paving the way for innovative electrochemical synthesis applications.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:40:05 -0800</pubDate>
+<pubDate>2025-02-18T11:40:05-08:00</pubDate>
+</item>
+<item>
+<title>Toward High‐Performance, Flexible, Photo‐Assisted All‐Solid‐State Sodium‐Metal Batteries: Screening of Solid‐Polymer‐Based Electrolytes Coupled with Photoelectrochemical Storage Cathodes</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500348?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500348?af=R</guid>
+<content:encoded><![CDATA[
+
+Highly cycle‐stable photo‐assisted all‐solid‐state sodium‐metal batteries are successfully designed and constructed based on computational screening of catalytic active fillers and mechanical reinforcement from natural lignocellulose fillers, combined with the coupling mechanism of light‐driven and photoelectrochemical storage. These innovations enable the flexible photo‐assisted pouch battery to achieve a high discharge capacity of 117 mAh g−1, while maintaining 89.1% capacity retention after 300 cycles at 1 C.
+
+
+
+
+
+
+
+
+Abstract
+The advancement of photo‐assisted rechargeable sodium‐metal batteries with high energy efficiency, lightweight structure, and simplified design is crucial for the growing demand in portable electronics. However, addressing the intrinsic safety concerns of liquid electrolytes and the sluggish reaction kinetics in existing photoelectrochemical storage cathodes (PSCs) remains a significant challenge. In this work, functionalized light‐driven composite solid electrolyte (CSE) fillers are systematically screened, and optimized PSC materials are employed to construct advanced photo‐assisted solid‐state sodium‐metal battery (PSSMB). To further enhance the mechanical properties and poly(ethylene oxide) compatibility of the CSE, natural lignocellulose is incorporated, enabling the fabrication of flexible PSSMBs. In situ tests and density functional theory calculations reveal that the light‐driven electric field facilitated sodium salt dissociation, reduced interfacial resistance, and improved ionic conductivity (0.1 mS cm−1). Meanwhile, energy‐level matching of the PSC maximized the utilization of photogenerated carriers, accelerating reaction kinetics and enhancing interface compatibility between the electrolyte and cathode. The resulting flexible pouch‐type PSSMB demonstrates a remarkable discharge capacity of 117 mAh g−1 and outstanding long‐term cycling stability, retaining 89.1% of its capacity and achieving an energy storage efficiency of 96.8% after 300 cycles at 1 C. This study highlights a versatile strategy for advancing safe, high‐performance solid‐state batteries.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:39:39 -0800</pubDate>
+<pubDate>2025-02-18T11:39:39-08:00</pubDate>
+</item>
+<item>
+<title>Etchless InSe Cavities Based on Bound States in the Continuum for Enhanced Exciton‐Mediated Emission</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500226?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500226?af=R</guid>
+<content:encoded><![CDATA[
+
+An etchless bound‐state‐in‐the‐continuum polymer cavity is designed on a 2D InSe flake, achieving an impressive photoluminescence enhancement of 218 times. The exciton‐exciton scattering in InSe is intensively amplified on cavity, which is unobservable off‐cavity. Second harmonic generation in InSe can also be significantly enhanced by 404 times. The etchless cavity concept can be extended to other nanostructures beyond grating.
+
+
+
+
+
+
+
+
+Abstract
+Recently, fervent research interest is sparked to indium selenide (γ‐InSe) due to its dazzling optical and electronic properties. The direct bandgap in the near‐infrared (NIR) range ensures efficient carrier recombination in InSe, promoting impressive competency for lavish NIR applications. Nevertheless, the photoluminescence (PL) efficiency of InSe is significantly limited by out‐of‐plane (OP) excitons, adverse to practical devices. Herein, a facile and effective solution is proposed by introducing photonic bound‐states‐in‐the‐continuum (BIC) modes to enhance excitons in InSe through strengthened exciton‐photon coupling. This cavity is constructed simply by patterning a polymer grating onto the InSe flake without an etching process, achieving an impressive PL enhancement of over 200 times. By adjusting the cavity resonance wavelength, it can selectively amplify the exciton emission or the exciton‐exciton scattering process, which is not observable off‐cavity at room temperature. Additionally, the second harmonic generation (SHG) process in InSe can also be largely enhanced by over 400 times on the cavity. Notably, the etchless cavity design can be further extended to other nanostructures beyond grating. This research presents a feasible and efficient approach to enhancing the optical performance of OP excitons, paving a prospective avenue for advanced linear and nonlinear photonic devices.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:36:49 -0800</pubDate>
+<pubDate>2025-02-18T11:36:49-08:00</pubDate>
+</item>
+<item>
+<title>Self‐Powered Artificial Neuron Devices: Towards the All‐In‐One Perception and Computation System</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416897?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416897?af=R</guid>
+<content:encoded><![CDATA[
+
+This review summarizes the recent advancements in self‐powered artificial neuron devices (ANDs), with a particular emphasis on mechanical and optical energy sources, operational modes, fundamental mechanisms, device architectures, and application in all‐in‐one environmental perception systems. In addition, the challenges and perspectives in this field are discussed to inspire further development and facilitate future application.
+
+
+
+
+
+
+
+
+Abstract
+The increasing demand for energy supply in sensing units and the computational efficiency of computation units has prompted researchers to explore novel, integrated technology that offers high efficiency and low energy consumption. Self‐powered sensing technology enables environmental perception without external energy sources, while neuromorphic computation provides energy‐efficient and high‐performance computing capabilities. The integration of self‐powered sensing technology and neuromorphic computation presents a promising solution for an all‐in‐one system. This review examines recent developments and advancements in self‐powered artificial neuron devices based on triboelectric, piezoelectric, and photoelectric effects, focusing on their structures, mechanisms, and functions. Furthermore, it compares the electrical characteristics of various types of self‐powered artificial neuron devices and discusses effective methods for enhancing their performance. Additionally, this review provides a comprehensive summary of self‐powered perception systems, encompassing tactile, visual, and auditory perception systems. Moreover, it elucidates recently integrated systems that combine perception, computing, and actuation units into all‐in‐one configurations, aspiring to realize closed‐loop control. The seamless integration of self‐powered sensing and neuromorphic computation holds significant potential for shaping a more intelligent future for humanity.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:35:22 -0800</pubDate>
+<pubDate>2025-02-18T11:35:22-08:00</pubDate>
+</item>
+<item>
+<title>Mechanically Compatible Sealing of Hydrogel with Coherent Interface</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414515?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414515?af=R</guid>
+<content:encoded><![CDATA[
+
+A mechanically compatible seal is proposed for preventing hydrogels from water loss and swelling. This seal is made of a carbon‐based elastomer blended with oligomers for controlling modulus and with polar polymeric domains for forming coherent interfaces, resulting in orders of magnitude improvements in the longevity of hydrogels without sacrificing their softness and stretchability.
+
+
+
+
+
+
+
+
+Abstract
+Long‐term operation of hydrogels relies on protective coatings to avoid water swelling or evaporation, but these protections often cause substantial decreases in overall softness and stretchability. Here, a mechanically compatible seal with a coherent interfacial design is developed to encapsulate hydrogels. This seal is made from polybutylene (PIB) and polypropylene‐graft‐maleic anhydride (PP‐g‐MAH) blended poly(styrene‐isobutylene‐styrene) (SIBS). The PIB oligomers soften the SIBS networks, while the MAH groups facilitate covalent bonding between the SIBS and hydrogel. The sealed hydrogel exhibits an elastic modulus of 24 kPa and an elongation at a break of >1000%, both comparable to those of the pristine hydrogel. The adhesion energy between the seal and hydrogel reached >140 J m−2 and can be further increased to >400 J m−2 by a thermal treatment. This tough interface, together with the intrinsically low water vapor transmission rate of SIBS, allows the sealed hydrogel to maintain its modulus and stretchability after 10 days of drying in air. The sealed hydrogel is chemically and mechanically stable under harsh conditions, including acidic/alkaline/salty solutions, high temperatures, and cyclic mechanical deformation. This strategy applies to various hydrogels with diverse compositions and structures, leading to orders of magnitude improvements in the longevity of hydrogel‐based electronic devices.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:33:47 -0800</pubDate>
+<pubDate>2025-02-18T11:33:47-08:00</pubDate>
+</item>
+<item>
+<title>Violet to Near‐Infrared Optical Addressing of Spin Pairs in Hexagonal Boron Nitride</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414846?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414846?af=R</guid>
+<content:encoded><![CDATA[
+
+Spin‐dependent optical emission is observed in hexagonal boron nitride across a wide band of wavelengths from the violet to the near‐infrared, and attributed to spin defect pairs. These broadband spin pairs are found to exist naturally in a variety of samples from bulk crystals to powders to epitaxial films, and can be coherently controlled across the entire wavelength range.
+
+
+
+
+
+
+
+
+Abstract
+Optically addressable solid‐state spins are an important platform for practical quantum technologies. Van der Waals material hexagonal boron nitride (hBN) is a promising host as it contains a wide variety of optical emitters, but thus far observations of addressable spins have been sparse, and most of them lacked a demonstration of coherent spin control. Here, robust optical readout of spin pairs in hBN is demonstrated with emission wavelengths spanning from violet to the near‐infrared. It is found that these broadband spin pairs exist naturally in a variety of hBN samples from bulk crystals to powders to epitaxial films, and can be coherently controlled across the entire wavelength range. Furthermore, the optimal wavelengths are identified for independent readout of spin pairs and boron vacancy spin defects co‐existing in the same sample. These results establish the ubiquity of the optically addressable spin pair system in hBN across a broad parameter space, making it a versatile playground for spin‐based quantum technologies.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:32:52 -0800</pubDate>
+<pubDate>2025-02-18T11:32:52-08:00</pubDate>
+</item>
+<item>
+<title>Cooperative Magnetic Interfacial Microrobot Couplefor Versatile Non‐Contact Biomedical Applications</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417416?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417416?af=R</guid>
+<content:encoded><![CDATA[
+
+A novel robotic system that comprises a microrobot couple, characterizing cooperative interactions, non‐contact manipulation, and high cargo transport velocity is introduced. This microrobot couple can switch between capture and release states, facilitating effective cooperation. Using these capabilities, targeted drug delivery in a stomach model is conducted and performed the removal of uterine fibroids in a uterine model.
+
+
+
+
+
+
+
+
+Abstract
+Magnetic interfacial microrobots are increasingly recognized as a promising approach for potential biomedical applications ranging from electronic functionalization to minimally invasive surgery and targeted drug delivery. Nevertheless, existing research faces challenges, including less cooperative interactions, contact‐based cargo manipulation, and slow transport velocity. Here, the cooperative magnetic interfacial microrobot couple (CMIMC) is proposed to address the above challenges. The CMIMC can be maneuvered by a single magnet and readily switched between capture and release states. By leveraging cooperative interactions and meticulous engineering of capillary forces through shape design and surface treatment, the CMIMC demonstrates the ability to perform non‐contact cargo manipulation. Using the synergy of preferred magnetization directions and magnetic field distribution, along with optimization of the resistance‐reducing shape, the CMIMC significantly enhances the cargo transport velocity, reaching 12.2 body length per second. The studies demonstrate various biomedical applications like targeted drug delivery and myomectomy, paving the way for the broad implementation of interfacial microrobots in biomedical fields.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:31:00 -0800</pubDate>
+<pubDate>2025-02-18T11:31:00-08:00</pubDate>
+</item>
+<item>
+<title>Bollard‐Anchored Binder System for High‐Loading Cathodes Fabricated via Dry Electrode Process for Li‐Ion Batteries</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416872?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416872?af=R</guid>
+<content:encoded><![CDATA[
+
+Dry battery electrode (DBE) technology simplifies electrode production but relies on PTFE, which faces regulatory and performance challenges. The study introduces a “bollard hitch” dual‐binder system using poly(acrylic acid)‐grafted sodium carboxymethyl cellulose (PC) and minimal PTFE, reducing PTFE use by over 70%. This innovation enhances conductivity, flexibility, and mass loading, enabling sustainable, high‐performance battery production.
+
+
+
+
+
+
+
+
+Abstract
+The dry battery electrode (DBE) process offers significant advantages over conventional wet‐coating methods for electrode fabrication. Unlike traditional processes that rely on toxic solvents such as N‐methyl‐2‐pyrrolidone (NMP), the DBE technique uses solvent‐free methods, reducing environmental impact and production costs while enhancing compatibility and performance. However, polytetrafluoroethylene (PTFE), the only binder currently used for large‐scale DBE fabrication (binder fibrillation), faces potential regulatory restrictions under Polyfluoroalkyl Substances (PFAS) guidelines and limits Li‐ion conductivity, elastomeric properties, and particle adhesion. This study explores a novel dual‐binder system, termed the “bollard hitch” model, designed to overcome these limitations as the first PTFE‐less binder for binder fibrillation. Poly(acrylic acid)‐grafted sodium carboxymethyl cellulose (PC) acts as the “bollard,” strongly attaching to the PTFE “anchor.” This binder system reduces PTFE usage by over 70% and enables the fabrication of high‐mass loading cathodes (up to 90 mg cm−2, 15.6 mAh cm−2) with superior performance. It enhances ionic conductivity and mechanical strength, making it suitable for high‐voltage applications and offering great potential to revolutionize the manufacturing of high‐performance, durable energy storage systems.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:29:36 -0800</pubDate>
+<pubDate>2025-02-18T11:29:36-08:00</pubDate>
+</item>
+<item>
+<title>Dual‐Gradient Silk‐Based Hydrogel for Spatially Targeted Delivery and Osteochondral Regeneration</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420394?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420394?af=R</guid>
+<content:encoded><![CDATA[
+
+A dual‐gradient silk‐based hydrogel is developed via an electric‐field‐driven method to enhance osteochondral regeneration. By integrating biomechanical and biochemical gradients, the hydrogel mimics native tissue architecture, directing site‐specific cell differentiation. Encapsulated TGF‐β1 nanocapsules ensure sustained release, promoting cartilage formation and subchondral bone remodeling, demonstrating its potential for regenerative medicine and targeted therapies.
+
+
+
+
+
+
+
+
+Abstract
+Contemporary clinical interventions for cartilage injuries focus on symptom management through pharmaceuticals and surgical procedures. Recent research has aimed at developing innovative scaffolds with biochemical elements, yet challenges like inadequate targeted delivery and reduced load‐bearing capacity hinder their adoption. Inspired by the spatial gradients of biophysical and biochemical cues in native osteochondral tissues, a silk‐based hydrogel that facilitates spontaneous dual‐gradient formation, including mechanical gradients and growth factor gradients, for tissue regeneration, is presented. Driven by an electrical field, the hydrogel transitions from stiff to soft along the anode‐to‐cathode direction, mimicking the anisotropic structure of natural tissues. Simultaneously, incorporated growth factors encapsulated by charged monomers migrate to the cathode region, creating another parallel gradient that enables their sustained release. This design maintains bioactivity and enhances programmable growth factor concentration in the defect environment. In a rabbit model with full‐thickness osteochondral defects, the dual‐gradient hydrogel demonstrates significant potential for promoting osteochondral regeneration, offering a promising tool for clinical translation.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:29:11 -0800</pubDate>
+<pubDate>2025-02-18T11:29:11-08:00</pubDate>
+</item>
+<item>
+<title>Fully Field‐Free Spin‐Orbit Torque Switching Induced by Spin Splitting Effect in Altermagnetic RuO2</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416712?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416712?af=R</guid>
+<content:encoded><![CDATA[
+
+This study reports robust, 100% field‐free spin‐orbit torque (SOT) switching in a RuO2(101)/[Co/Pt]2/Ta structure. Z‐polarized spins generate out‐of‐plane anti‐damping torque, enabling deterministic switching without an external magnetic field. The altermagnetic spin splitting effect (ASSE) in RuO2 enhances anisotropic spin current generation, demonstrating the potential of RuO2 as an efficient spin current source.
+
+
+
+
+
+
+
+
+Abstract
+Altermagnetism, a newly identified class of magnetism blending characteristics of both ferromagnetism and antiferromagnetism, is emerging as a compelling frontier in spintronics. This study reports a groundbreaking discovery of robust, 100% field‐free spin‐orbit torque (SOT) switching in a RuO2(101)/[Co/Pt]2/Ta structure. The experimental results reveal that the spin currents, induced by the in‐plane charge current, flow along the [100] axis, with the spin polarization direction aligned parallel to the Néel vector. These z‐polarized spins generate an out‐of‐plane anti‐damping torque, enabling deterministic switching of the Co/Pt layer without the necessity of an external magnetic field. The altermagnetic spin splitting effect (ASSE) in RuO2 promotes the generation of spin currents with pronounced anisotropic behavior, maximized when the charge current flows along the [010] direction. This unique capability yields the highest field‐free switching ratio, maintaining stable SOT switching even under a wide range of external magnetic fields, demonstrating exceptional resistance to magnetic interference. Notably, the ASSE‐dominated spin current is found to be most effective when the current is aligned with the [010] direction. The study highlights the potential of RuO2 as a powerful spin current generator, opening new avenues for advancing spin‐torque switching technologies and other cutting‐edge spintronic devices.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:27:40 -0800</pubDate>
+<pubDate>2025-02-18T11:27:40-08:00</pubDate>
+</item>
+<item>
+<title>Robust Full‐Surface Bonding of Substrate and Electrode for Ultra‐Flexible Sensor Integration</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417590?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417590?af=R</guid>
+<content:encoded><![CDATA[
+
+A direct hybrid bonding method that enables both gold and parylene bonding without adhesives is developed. This technique achieves full‐surface direct bonding of electrodes and substrates in flexible electronic connections. The method offers high flexibility, stable mechanical durability, and high‐resolution interconnections, accommodating varying electrode shapes and sizes in flexible electronic applications.
+
+
+
+
+
+
+
+
+Abstract
+The integration of multiple flexible electronics is crucial for the development of ultra‐flexible wearable and implantable devices. To fabricate an integrated system, robust and flexible bonding throughout the connection area, irrespective of the electrode or substrate, is needed. Conventional methods for flexible direct bonding have primarily been confined to metal electrodes or substrate‐only bonding due to varying material properties. Consequently, the mechanical and electrical properties of the connections deteriorate based on their shape and size. This study introduces a bonding technique for wearable electronics, achieving strong, flexible connections between materials like gold and parylene at a low temperature (85 °C). This hybrid direct bonding method ensures strong bonding across both the Au electrode and parylene substrate within electronic interconnections. Additionally, a 3D‐stacked flexible structure that maintains robustness and high flexibility without an adhesive layer is successfully developed. An ultrathin photoplethysmography sensor developed by stacking an ultrathin organic photodetector atop an organic light‐emitting diode is demonstrated. Unlike traditional methods requiring adhesives or high pressure, this approach maintains flexibility essential for deformation, withstanding bending at a radius of 0.5 mm. The technique's robustness suggests promising applications in durable, ultra‐flexible electronics integration.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:27:27 -0800</pubDate>
+<pubDate>2025-02-18T11:27:27-08:00</pubDate>
+</item>
+<item>
+<title>Stochastically Broken Inversion Symmetry of Van der Waals Topological Insulator for Nanoscale Physically Unclonable Functions</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419927?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419927?af=R</guid>
+<content:encoded><![CDATA[
+
+vdW Janus topological insulator is presented with stochastic inversion asymmetry via penetrative single‐step plasma sulfurization, which enables the large‐scale synthesis, one‐step process, and low‐temperature condition with back‐end‐of‐line process compatibility. Sulfur dominance and its corresponding spatial OOP domain distribution are spatially observed using piezoelectric force microscopy hysteresis mapping, cross‐sectional transmission electron microscopy, top‐view scanning electroc microscopy, Kelvin probe force microscopy, and force‐distance curve mapping. This provides an extendable synthetic solution for stochastic and size‐controllable challenge‐response pairs generation for PUFs application, which can overcome the conventional limitations of encryption technology.
+
+
+
+
+
+
+
+
+Abstract
+Owing to the exotic state of quantum matter, topological insulators have emerged as a significant platform for new‐generation functional devices. Among these topological insulators, tetradymites have received significant attention because of their van der Waals (vdW) structures and inversion symmetries. Although this inversion symmetry completely blocks exotic quantum phenomena, it should be broken down to facilitate versatile topological functionalities. Recently, a Janus structure is suggested for asymmetric out‐of‐plane lattice structures, terminating the heterogeneous atoms at two sides of the vdW structure. However, the synthesis of Janus structures has not been achieved commercially because of the imprecise control of the layer‐by‐layer growth, high‐temperature synthesis, and low yield. To overcome these limitations, plasma sulfurization of vdW topological insulators has been presented, enabling stochastic inversion asymmetry. To take practical advantage of the random lattice distortion, physically unclonable functions (PUFs) have been suggested as applications of vdW Janus topological insulators. The sulfur dominance is experimentally demonstrated via X‐ray photoelectron spectroscopy, hysteresis variation, cross‐sectional transmission electron microscopy, and adhesion energy variation. In conclusion, it is envisioned that the vdW Janus topological insulators can provide an extendable encryption platform for randomized lattice distortion, offering on‐demand stochastic inversion asymmetry via a single‐step plasma sulfurization.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:27:12 -0800</pubDate>
+<pubDate>2025-02-18T11:27:12-08:00</pubDate>
+</item>
+<item>
+<title>Ultrafast Charge Transfer on Ru‐Cu Atomic Units for Enhanced Photocatalytic H2O2 Production</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202406748?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202406748?af=R</guid>
+<content:encoded><![CDATA[
+
+[Ru(bpy)2]2+ photosensitive components are integrated into the Cu‐HHTP MOF, coordinating with the Cu‐O4 sites to assemble a bi‐functional unit, thereby facilitating efficient local electron migration. Compared to the dissociative photosensitizer system, this newly constructed configuration exhibits a significant increase in the efficiency of photoinduced charge carrier transfer, resulting in a 37.2‐fold enhancement in the photosynthesis of H2O2.
+
+
+
+
+
+
+
+
+Abstract
+Photosensitizer‐assisted photocatalytic systems offer a solution to overcome the limitations of inherent light harvesting capabilities in catalysts. However, achieving efficient charge transfer between the dissociative photosensitizer and catalyst poses a significant challenge. Incorporating photosensitive components into reactive centers to establish well‐defined charge transfer channels is expected to effectively address this issue. Herein, the electrostatic‐driven self‐assembly method is utilized to integrate photosensitizers into metal–organic frameworks, constructing atomically Ru‐Cu bi‐functional units to promote efficient local electron migration. Within this newly constructed system, the [Ru(bpy)2]2+ component and Cu site serve as photosensitive and catalytic active centers for photocarrier generation and H2O2 production, respectively, and their integration significantly reduces the barriers to charge transfer. Ultrafast spectroscopy and in situ characterization unveil accelerated directional charge transfer over Ru‐Cu units, presenting orders of magnitude improvement over dissociative photosensitizer systems. As a result, a 37.2‐fold enhancement of the H2O2 generation rate (570.9 µmol g−1 h−1) over that of dissociative photosensitizer system (15.3 µmol g−1 h−1) is achieved. This work presents a promising strategy for integrating atomic‐scale photosensitive and catalytic active centers to achieve ultrafast photocarrier transfer and enhanced photocatalytic performance.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:26:34 -0800</pubDate>
+<pubDate>2025-02-18T11:26:34-08:00</pubDate>
+</item>
+<item>
+<title>All‐Solid‐State Lithium Metal Batteries with Microdomain‐Regulated Polycationic Solid Electrolytes</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417829?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417829?af=R</guid>
+<content:encoded><![CDATA[
+
+Analogic to the design of an anionic framework for inorganic sulfide/oxide solid electrolytes, a copolymeric polycationic electrolyte, P(AT‐MBA‐6F), that leverages the polycationic backbones with fluorinated microdomain trapping effect is constructed, which enables stable, fast and high‐energy all‐solid‐state LMBs at ambient temperature.
+
+
+
+
+
+
+
+
+Abstract
+Solid polymer electrolytes (SPEs) are promising for high‐energy and high‐safety solid‐state lithium metal batteries (LMBs). Here, a polycationic solid electrolyte (PCSE) is described that leverages the inherent high thermal/chemical stability of the polycationic domain and the anion trapping (FMAT) effect of another fluorinated microdomain for stable and fast‐charging high‐voltage LMBs. Specifically, while the polycationic imidazolium backbone ensures high segmental flexibility facilitating the Li+ mobility, the fluorinated microdomain effectively traps the bis(trifluoromethanesulfonyl)imide anions by strong dipole interactions, imparting localized solvation and restricted mobility of the anions, as well as improved oxidation stability. As a result, the PCSE exhibits a high ionic conductivity of 1.4 mS cm−1, a high Li+ transference number of 0.50, and a wide electrochemical window of ∼5.5 V at 25 °C. By way of in situ thermal polymerization of the electrolyte within assembled cells, the PCSE enables ultra‐stable cycling of Li|LiNi0.8Co0.1Mn0.1O2 cells with a capacity retention of 98.1% after 500 cycles at 0.2 C at ambient temperatures. The work on the molecular design of PCSEs represents a fundamentally unique perspective for the rational design of SPEs with balanced properties that are historically challenging for high‐energy, long‐life, ambient‐temperature solid‐state LMBs.
+]]></content:encoded>
+<pubDate>Tue, 18 Feb 2025 23:25:21 -0800</pubDate>
+<pubDate>2025-02-18T11:25:21-08:00</pubDate>
+</item>
 
 <item>
 <title>Interface Engineering of 2D Materials toward High‐Temperature Electronic Devices</title>

@@ -742,3 +742,30 @@ Existing_entries: 520
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-02-19 08:23:12.513916
+------------------------------------------------------
+Started: 2025-02-19 10:18:48.673166
+Existing_entries: 520
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Large‐Scale 2D Perovskite Nanocrystals Photodetector Array via Ultrasonic Spray Synthesis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417761?af=R)
+Append: [Regulating the Isomerization Geometry and Energy State of Covalent Organic Frameworks for Enhanced Oxygen Reduction Activity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500063?af=R)
+Append: [Advanced Interface Design of Direct‐Current Tribovoltaic Nanogenerator](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417254?af=R)
+Append: [Andrias davidianus Derived Glycosaminoglycans Direct Diabetic Wound Repair by Reprogramming Reparative Macrophage Glucolipid Metabolism](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417801?af=R)
+Append: [Emerging Trends in Bioinspired Superhydrophobic and Superoleophobic Sustainable Surfaces](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415961?af=R)
+Append: [Capturing Copper Single Atom in Proton Donor Stimulated O‐End Nitrate Reduction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415632?af=R)
+Append: [Toward High‐Performance, Flexible, Photo‐Assisted All‐Solid‐State Sodium‐Metal Batteries: Screening of Solid‐Polymer‐Based Electrolytes Coupled with Photoelectrochemical Storage Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500348?af=R)
+Append: [Etchless InSe Cavities Based on Bound States in the Continuum for Enhanced Exciton‐Mediated Emission](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500226?af=R)
+Append: [Self‐Powered Artificial Neuron Devices: Towards the All‐In‐One Perception and Computation System](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416897?af=R)
+Append: [Mechanically Compatible Sealing of Hydrogel with Coherent Interface](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414515?af=R)
+Append: [Violet to Near‐Infrared Optical Addressing of Spin Pairs in Hexagonal Boron Nitride](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414846?af=R)
+Append: [Cooperative Magnetic Interfacial Microrobot Couplefor Versatile Non‐Contact Biomedical Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417416?af=R)
+Append: [Bollard‐Anchored Binder System for High‐Loading Cathodes Fabricated via Dry Electrode Process for Li‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416872?af=R)
+Append: [Dual‐Gradient Silk‐Based Hydrogel for Spatially Targeted Delivery and Osteochondral Regeneration](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420394?af=R)
+Append: [Fully Field‐Free Spin‐Orbit Torque Switching Induced by Spin Splitting Effect in Altermagnetic RuO2](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416712?af=R)
+Append: [Robust Full‐Surface Bonding of Substrate and Electrode for Ultra‐Flexible Sensor Integration](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417590?af=R)
+Append: [Stochastically Broken Inversion Symmetry of Van der Waals Topological Insulator for Nanoscale Physically Unclonable Functions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419927?af=R)
+Append: [Ultrafast Charge Transfer on Ru‐Cu Atomic Units for Enhanced Photocatalytic H2O2 Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202406748?af=R)
+Append: [All‐Solid‐State Lithium Metal Batteries with Microdomain‐Regulated Polycationic Solid Electrolytes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417829?af=R)
+append_entries: 19
+Finish: 2025-02-19 10:18:50.710744

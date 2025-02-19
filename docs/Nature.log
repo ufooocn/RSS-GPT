@@ -323,3 +323,12 @@ Existing_entries: 103
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-19 08:23:11.481227
+------------------------------------------------------
+Started: 2025-02-19 10:18:48.001950
+Existing_entries: 103
+Fetching from https://www.nature.com/nature.rss
+Append: [Why these scientists devote time to editing and updating Wikipedia](https://www.nature.com/articles/d41586-025-00244-7)
+Append: [Why retractions data could be a powerful tool for cleaning up science](https://www.nature.com/articles/d41586-025-00509-1)
+Append: [Exclusive: These universities have the most retracted scientific articles](https://www.nature.com/articles/d41586-025-00455-y)
+append_entries: 3
+Finish: 2025-02-19 10:18:48.411713
