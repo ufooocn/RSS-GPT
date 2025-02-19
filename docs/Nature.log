@@ -405,3 +405,12 @@ Append: [Hypotaxy of wafer-scale single-crystal transition metal dichalcogenides
 Append: [Microsoft claims quantum-computing breakthrough — but some physicists are sceptical](https://www.nature.com/articles/d41586-025-00527-z)
 append_entries: 2
 Finish: 2025-02-19 18:22:40.477684
+------------------------------------------------------
+Started: 2025-02-19 20:19:09.144405
+Existing_entries: 155
+Fetching from https://www.nature.com/nature.rss
+Append: [Publisher Correction: Skin autonomous antibody production regulates host–microbiota interactions](https://www.nature.com/articles/s41586-025-08776-8)
+Append: [Low-iridium device speeds progress towards green hydrogen](https://www.nature.com/articles/d41586-025-00504-6)
+Append: [Endogenous DNA damage at sites of terminated transcripts](https://www.nature.com/articles/s41586-024-08578-4)
+append_entries: 3
+Finish: 2025-02-19 20:19:09.514586
