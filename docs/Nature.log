@@ -486,3 +486,11 @@ Append: [Trump’s siege of science: how the first 30 days unfolded and what’s
 Append: [Daily briefing: Meet the scientists who edit Wikipedia](https://www.nature.com/articles/d41586-025-00535-z)
 append_entries: 5
 Finish: 2025-02-20 18:24:09.296282
+------------------------------------------------------
+Started: 2025-02-20 20:19:34.946639
+Existing_entries: 164
+Fetching from https://www.nature.com/nature.rss
+Append: [How leading a postdoc network boosted my career prospects](https://www.nature.com/articles/d41586-025-00207-y)
+Append: [AI tool diagnoses diabetes, HIV and COVID from a blood sample](https://www.nature.com/articles/d41586-025-00528-y)
+append_entries: 2
+Finish: 2025-02-20 20:19:35.088614
