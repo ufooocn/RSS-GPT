@@ -8340,3 +8340,9 @@ error: Connection error.
 Append: [Ephemeral content](https://manuelmoreale.com/ephemeral-content)
 append_entries: 1
 Finish: 2025-02-20 16:23:21.513088
+------------------------------------------------------
+Started: 2025-02-20 18:24:28.148672
+Existing_entries: 616
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-02-20 18:24:28.831700

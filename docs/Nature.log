@@ -475,3 +475,14 @@ Existing_entries: 159
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-20 16:23:11.084287
+------------------------------------------------------
+Started: 2025-02-20 18:24:08.980255
+Existing_entries: 159
+Fetching from https://www.nature.com/nature.rss
+Append: [Structural dynamics of human fatty acid synthase in the condensing cycle](https://www.nature.com/articles/s41586-025-08782-w)
+Append: [Author Correction: The genetic origin of the Indo-Europeans](https://www.nature.com/articles/s41586-025-08789-3)
+Append: [Snapshots of acyl carrier protein shuttling in human fatty acid synthase](https://www.nature.com/articles/s41586-025-08587-x)
+Append: [Trump’s siege of science: how the first 30 days unfolded and what’s next](https://www.nature.com/articles/d41586-025-00525-1)
+Append: [Daily briefing: Meet the scientists who edit Wikipedia](https://www.nature.com/articles/d41586-025-00535-z)
+append_entries: 5
+Finish: 2025-02-20 18:24:09.296282
