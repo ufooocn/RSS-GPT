@@ -463,3 +463,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Rare genetic disorder treated in womb for the first time](https://www.nature.com/articles/d41586-025-00534-0)
 append_entries: 1
 Finish: 2025-02-20 12:35:01.471411
+------------------------------------------------------
+Started: 2025-02-20 14:17:00.822032
+Existing_entries: 159
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-02-20 14:17:00.990427
