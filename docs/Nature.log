@@ -548,3 +548,10 @@ Append: [Asteroid 2024 YR4 now unlikely to hit Earth — but scientists are read
 Append: [Daily briefing: First in-womb treatment for motor-neuron condition is a success](https://www.nature.com/articles/d41586-025-00556-8)
 append_entries: 5
 Finish: 2025-02-21 12:34:39.535856
+------------------------------------------------------
+Started: 2025-02-21 14:15:15.218349
+Existing_entries: 172
+Fetching from https://www.nature.com/nature.rss
+Append: [Putting early cancer detection to the test](https://www.nature.com/articles/d41586-025-00530-4)
+append_entries: 1
+Finish: 2025-02-21 14:15:15.611304
