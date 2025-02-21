@@ -537,3 +537,14 @@ Existing_entries: 167
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-21 10:18:27.365186
+------------------------------------------------------
+Started: 2025-02-21 12:34:39.153406
+Existing_entries: 167
+Fetching from https://www.nature.com/nature.rss
+Append: [Stories of people, past, present and future: Books in brief](https://www.nature.com/articles/d41586-025-00555-9)
+Append: [What sparked the COVID pandemic? Mounting evidence points to raccoon dogs](https://www.nature.com/articles/d41586-025-00426-3)
+Append: [How to bring health and happiness to your lab](https://www.nature.com/articles/d41586-025-00538-w)
+Append: [Asteroid 2024 YR4 now unlikely to hit Earth — but scientists are ready for future threats](https://www.nature.com/articles/d41586-025-00552-y)
+Append: [Daily briefing: First in-womb treatment for motor-neuron condition is a success](https://www.nature.com/articles/d41586-025-00556-8)
+append_entries: 5
+Finish: 2025-02-21 12:34:39.535856
