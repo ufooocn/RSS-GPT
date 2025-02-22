@@ -1090,3 +1090,25 @@ Existing_entries: 648
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-02-22 08:19:50.166386
+------------------------------------------------------
+Started: 2025-02-22 10:17:16.368660
+Existing_entries: 648
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Nonlocal Conduction in a Metawire](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415278?af=R)
+Append: [Mechanosensitive and pH‐Gated Butterfly‐Shaped Artificial Ion Channel for High‐Selective K+ Transport and Cancer Cell Apoptosis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416852?af=R)
+Append: [Generating Self‐Adjuvated Nanofiber Vaccines by Coating Bacterial Flagella with Antigens](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415887?af=R)
+Append: [Industrial‐current Ammonia Synthesis by Polarized Cuprous Cyanamide Coupled to Valorization of Glycerol at 4,000 mA cm−2](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418451?af=R)
+Append: [Giant and Anisotropic Enhancement of Spin‐Charge Conversion in Graphene‐Based Quantum System](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418541?af=R)
+Append: [Engineered Living Memory Microspheroid‐Based Archival File System for Random Accessible In Vivo DNA Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415358?af=R)
+Append: [Arylamine‐Linked Porous Organic Polymers with Abundant Redox‐Active Sites as High‐Capacity and High‐Rate Organic Cathodes for Lithium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416661?af=R)
+Append: [CuPt Alloy Enabling the Tandem Catalysis for Reduction of HCOOH and NO3− to Urea at High Current Density](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419738?af=R)
+Append: [High‐Entropy 1T‐Phase Quantum Sheets of Transition‐Metal Disulfides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500321?af=R)
+Append: [Cooling‐induced Strains in 2D Materials and Their Modulation via Interface Engineering](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417428?af=R)
+Append: [Epitaxial Ferroelectric Hexagonal Boron Nitride Grown on Graphene](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414442?af=R)
+Append: [Toward Intrinsically Stretchable OLEDs with High Efficiency](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420008?af=R)
+Append: [Red Phosphorescence at Elevated Temperatures Enabled by Dexter Energy Transfer in Polyaromatic Hydrocarbon‐Xanthone Systems](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418042?af=R)
+Append: [The Influence of Ionizing Radiation on Quantification for In Situ and Operando Liquid‐Phase Electron Microscopy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415728?af=R)
+append_entries: 14
+Finish: 2025-02-22 10:17:18.821552
