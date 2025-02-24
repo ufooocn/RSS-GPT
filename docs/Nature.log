@@ -797,3 +797,11 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Breast cancer is on the rise: data reveal drastic gap in survival rates](https://www.nature.com/articles/d41586-025-00265-2)
 append_entries: 1
 Finish: 2025-02-24 18:24:47.245835
+------------------------------------------------------
+Started: 2025-02-24 20:19:36.961458
+Existing_entries: 187
+Fetching from https://www.nature.com/nature.rss
+Append: [Postdocs and PhD students hit hard by Trump’s crackdown on science](https://www.nature.com/articles/d41586-025-00550-0)
+Append: [How a junk-food splurge can change your brain activity](https://www.nature.com/articles/d41586-025-00549-7)
+append_entries: 2
+Finish: 2025-02-24 20:19:37.213658
