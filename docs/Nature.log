@@ -756,3 +756,10 @@ Existing_entries: 176
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-24 08:23:24.512328
+------------------------------------------------------
+Started: 2025-02-24 10:19:32.318316
+Existing_entries: 176
+Fetching from https://www.nature.com/nature.rss
+Append: [Trekking across Nepal to bridge its gender gap in the sciences](https://www.nature.com/articles/d41586-025-00276-z)
+append_entries: 1
+Finish: 2025-02-24 10:19:32.485599

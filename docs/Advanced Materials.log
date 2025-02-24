@@ -1250,3 +1250,34 @@ Existing_entries: 662
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-02-24 08:23:26.035470
+------------------------------------------------------
+Started: 2025-02-24 10:19:32.822135
+Existing_entries: 662
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Conjugated Coordination Polymer Aerogels with Increased Accessibility of Well‐Defined Single‐Atom Metal Sites as a New Paradigm of Electrocatalysts](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420565?af=R)
+Append: [Hierarchical‐Structured RGO@EGaIn Composites as Advanced Self‐Healing Anode for Room‐Temperature Liquid Metal Battery](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419060?af=R)
+Append: [An Electron Transfer Mediated Mechanism for Efficient Photoreforming of Waste Plastics Using a Ni3S4/ZnCdS Heterojunction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416581?af=R)
+Append: [Electrochemical Synthesis of 2D Polymeric Fullerene for Broadband Photodetection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416741?af=R)
+Append: [Radical Molecular Network‐Buffer Minimizes Photovoltage Loss in FAPbI₃ Perovskite Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417289?af=R)
+Append: [Universal Prophylactic Antitumor Vaccination Using Stem Cell Membrane‐Coated Nanoparticles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501616?af=R)
+Append: [Single‐Atom Enables Reverse Hydrogen Spillover for High‐Performance Protonic Ceramic Fuel Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501387?af=R)
+Append: [Advancements in Understanding the Physicochemical Properties of Reticular Materials: An In Situ and Operando Spectroscopic Perspective](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415135?af=R)
+Append: [Organic Gradient Homojunction via D‐A Engineering Enables Photoelectric/Photothermal Dual‐Assisted Catalysis Toward Full Spectrum Light‐Coupled Low‐Temperature Seawater Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415608?af=R)
+Append: [Biplane Ion‐Pairing Induced Supramolecular Assembly for High‐Performance Uranium Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418952?af=R)
+Append: [Point Defects Enhance Cross‐Plane Thermal Conductivity In Graphite](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418569?af=R)
+Append: [Interlocking Antiphase Boundary with 180° Domain Wall in PbTiO3 – Antiphase Ferroelectric Boundary](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416616?af=R)
+Append: [Kinetics Manipulation Enabled by Solubility Control Toward 19% Organic Solar Cells via Compatible Air Coating](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420096?af=R)
+Append: [Mitochondrion‐Targeted Type I Photodynamic Therapy for Agonist Independent cGAS‐STING Activation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418894?af=R)
+Append: [An Integrated Virtual Screening Platform to Identify Potent Co‐Assembled Nanodrugs for Cancer Treatment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414154?af=R)
+Append: [Lab‐in‐Cell: A Covalent Photosensitizer Reverses Hypoxia and Evokes Ferroptosis and Pyroptosis for Enhanced Anti‐Tumor Immunity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415673?af=R)
+Append: [Strong Proquinoidal Acceptor Enables High‐Performance Ambipolar Organic Electrochemical Transistors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417146?af=R)
+Append: [Homo‐Hetero Double Junction Coupling Weakens Exciton Effects to Enhance Selective Photocatalytic O2 Activation on Carbon Nitride](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420080?af=R)
+Append: [Radioactive Diselenide Bonded Covalent Organic Framework](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413002?af=R)
+Append: [Directly Printed 3D Soft Microwave Plasmonic Enhanced‐Q Resonators by Decoupling from Lossy Media](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418182?af=R)
+Append: [A Universal Solution for Direct Regeneration of Spent Lithium Iron Phosphate](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420238?af=R)
+Append: [Exploring Structure Diversity in Atomic Resolution Microscopy With Graph](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417478?af=R)
+Append: [Biomimetic rhCOL17‐P334 Conjugate for Enhanced Wound Healing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417980?af=R)
+append_entries: 23
+Finish: 2025-02-24 10:19:35.278631
