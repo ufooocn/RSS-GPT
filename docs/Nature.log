@@ -891,3 +891,9 @@ Append: [My experience of speaking at a conference with a baby](https://www.natu
 Append: [Trump 2.0: an assault on science anywhere is an assault on science everywhere](https://www.nature.com/articles/d41586-025-00562-w)
 append_entries: 2
 Finish: 2025-02-25 20:19:26.311450
+------------------------------------------------------
+Started: 2025-02-25 22:16:44.434295
+Existing_entries: 203
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-02-25 22:16:44.809323
