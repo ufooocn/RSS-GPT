@@ -860,3 +860,11 @@ Append: [How quickly are you ageing? What molecular ‘clocks’ can tell you ab
 Append: [Daily briefing: What science photos do that AI-generated images can’t](https://www.nature.com/articles/d41586-025-00591-5)
 append_entries: 7
 Finish: 2025-02-25 12:35:34.321109
+------------------------------------------------------
+Started: 2025-02-25 14:17:40.975228
+Existing_entries: 196
+Fetching from https://www.nature.com/nature.rss
+Append: [Move beyond ‘publish or perish’ by measuring behaviours that benefit academia](https://www.nature.com/articles/d41586-025-00563-9)
+Append: [PhD scientists who forged a career off the beaten track](https://www.nature.com/articles/d41586-025-00569-3)
+append_entries: 2
+Finish: 2025-02-25 14:17:41.117909
