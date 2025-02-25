@@ -868,3 +868,12 @@ Append: [Move beyond ‘publish or perish’ by measuring behaviours that benefi
 Append: [PhD scientists who forged a career off the beaten track](https://www.nature.com/articles/d41586-025-00569-3)
 append_entries: 2
 Finish: 2025-02-25 14:17:41.117909
+------------------------------------------------------
+Started: 2025-02-25 16:22:50.722192
+Existing_entries: 198
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Neutralizing GDF-15 can overcome anti-PD-1 and anti-PD-L1 resistance in solid tumours](https://www.nature.com/articles/s41586-025-08827-0)
+Append: [Author Correction: A comprehensive spatio-cellular map of the human hypothalamus](https://www.nature.com/articles/s41586-025-08826-1)
+Append: [How to develop a good writing style](https://www.nature.com/articles/d41586-025-00465-w)
+append_entries: 3
+Finish: 2025-02-25 16:22:50.956774
