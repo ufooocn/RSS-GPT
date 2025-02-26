@@ -944,3 +944,11 @@ Append: [Quantum technologies need big investments to deliver on their big promi
 Append: [Daily briefing: Postdocs and PhD students hit hard by Trump’s crackdown on science](https://www.nature.com/articles/d41586-025-00598-y)
 append_entries: 4
 Finish: 2025-02-26 12:35:36.171657
+------------------------------------------------------
+Started: 2025-02-26 14:17:16.942248
+Existing_entries: 208
+Fetching from https://www.nature.com/nature.rss
+Append: [How blowing the whistle on the Theranos scandal transformed Erika Cheung’s career](https://www.nature.com/articles/d41586-025-00366-y)
+Append: [Choice](https://www.nature.com/articles/d41586-025-00571-9)
+append_entries: 2
+Finish: 2025-02-26 14:17:17.177324
