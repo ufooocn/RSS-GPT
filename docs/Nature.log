@@ -934,3 +934,13 @@ Existing_entries: 204
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-26 10:19:21.734674
+------------------------------------------------------
+Started: 2025-02-26 12:35:35.844451
+Existing_entries: 204
+Fetching from https://www.nature.com/nature.rss
+Append: [Can AI help beat poverty? Researchers test ways to aid the poorest people](https://www.nature.com/articles/d41586-025-00565-7)
+Append: [Combine AI with citizen science to fight poverty](https://www.nature.com/articles/d41586-025-00561-x)
+Append: [Quantum technologies need big investments to deliver on their big promises](https://www.nature.com/articles/d41586-025-00564-8)
+Append: [Daily briefing: Postdocs and PhD students hit hard by Trump’s crackdown on science](https://www.nature.com/articles/d41586-025-00598-y)
+append_entries: 4
+Finish: 2025-02-26 12:35:36.171657
