@@ -909,3 +909,10 @@ Existing_entries: 203
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-26 02:51:10.712388
+------------------------------------------------------
+Started: 2025-02-26 04:21:31.279792
+Existing_entries: 203
+Fetching from https://www.nature.com/nature.rss
+Append: [Trump officials bar US climate team from global talks](https://www.nature.com/articles/d41586-025-00596-0)
+append_entries: 1
+Finish: 2025-02-26 04:21:31.444985
