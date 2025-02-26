@@ -952,3 +952,10 @@ Append: [How blowing the whistle on the Theranos scandal transformed Erika Cheun
 Append: [Choice](https://www.nature.com/articles/d41586-025-00571-9)
 append_entries: 2
 Finish: 2025-02-26 14:17:17.177324
+------------------------------------------------------
+Started: 2025-02-26 16:23:03.396614
+Existing_entries: 210
+Fetching from https://www.nature.com/nature.rss
+Append: [NIH turmoil sparks anxiety over future of its global grants](https://www.nature.com/articles/d41586-025-00595-1)
+append_entries: 1
+Finish: 2025-02-26 16:23:03.542684
