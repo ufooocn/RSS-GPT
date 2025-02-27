@@ -1610,3 +1610,24 @@ Existing_entries: 800
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-02-27 08:22:49.956051
+------------------------------------------------------
+Started: 2025-02-27 10:19:15.185133
+Existing_entries: 800
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [2D Metastable‐Phase Hafnium Oxide Triggers Hydrogen Spillover for Boosting Hydrogen Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415978?af=R)
+Append: [Engineered Stem Cell Booster Breaks Pathological Barriers to Treat Chronic Pancreatitis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416261?af=R)
+Append: [Folding of mRNA‐DNA Origami for Controlled Translation and Viral Vector Packaging](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417642?af=R)
+Append: [Win–Win Integration of Genetically Engineered Cellular Nanovesicles with High‐Absorbing Multimodal Phototheranostic Molecules for Boosted Cancer Photo‐Immunotherapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416590?af=R)
+Append: [Nanoporous Ag Microparticles with Tailorable and Noncontaminated Nanopores for SERS Sensing Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414962?af=R)
+Append: [Plasma Membrane Targeted Photodynamic Nanoagonist to Potentiate Immune Checkpoint Blockade Therapy by Initiating Tumor Cell Pyroptosis and Depleting Infiltrating B Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415078?af=R)
+Append: [Printing Multi‐Layered Functional Devices Using One Stamp with Programmable Surface Energy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413819?af=R)
+Append: [Advanced 3D Food Printing with Simultaneous Cooking and Generative AI Design](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408282?af=R)
+Append: [Buckle‐Barrel Correspondence Based on Topological Polarization Conversion in Mechanical Metamaterials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415962?af=R)
+Append: [17.68% Efficiency Nonhalogenated Solvent‐Processed Organic Solar Cell Modules Driven by Seed Crystal Strategy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420308?af=R)
+Append: [Multi‐material Volumetric Bioprinting and Plug‐and‐play Suspension Bath Biofabrication via Bioresin Molecular Weight Tuning and via Multiwavelength Alignment Optics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202409355?af=R)
+Append: [Quantum Batteries: A Materials Science Perspective](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415073?af=R)
+Append: [De‐Novo Design of Actively Spinning and Gyrating Spherical Micro‐Vesicles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419716?af=R)
+append_entries: 13
+Finish: 2025-02-27 10:19:17.840027
