@@ -8859,3 +8859,12 @@ Existing_entries: 617
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-02-27 20:19:49.151800
+------------------------------------------------------
+Started: 2025-02-27 22:17:57.339035
+Existing_entries: 617
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [The cost of doing the right thing](https://manuelmoreale.com/the-cost-of-doing-the-right-thing)
+append_entries: 1
+Finish: 2025-02-27 22:17:59.770012
