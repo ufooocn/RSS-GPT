@@ -25047,3 +25047,12 @@ Existing_entries: 67
 Fetching from https://nesslabs.com/feed
 append_entries: 0
 Finish: 2025-02-27 14:17:31.643334
+------------------------------------------------------
+Started: 2025-02-27 16:23:56.134563
+Existing_entries: 67
+Fetching from https://nesslabs.com/feed
+Summarization failed, append the original article
+error: Connection error.
+Append: [The Liberating Effect of Uncertainty](https://nesslabs.com/liberating-uncertainty?utm_source=rss&utm_medium=rss&utm_campaign=liberating-uncertainty)
+append_entries: 1
+Finish: 2025-02-27 16:23:58.077020

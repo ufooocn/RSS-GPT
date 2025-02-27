@@ -1075,3 +1075,11 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Daily briefing: <i>Nature</i> denounces Trump’s attack on US research](https://www.nature.com/articles/d41586-025-00610-5)
 append_entries: 1
 Finish: 2025-02-27 14:17:23.556820
+------------------------------------------------------
+Started: 2025-02-27 16:23:22.632669
+Existing_entries: 261
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: CTLA4 blockade abrogates <i>KEAP1/STK11</i>-related resistance to PD-(L)1 inhibitors](https://www.nature.com/articles/s41586-025-08767-9)
+Append: [Four ways to power-up AI for drug discovery](https://www.nature.com/articles/d41586-025-00602-5)
+append_entries: 2
+Finish: 2025-02-27 16:23:22.824789
