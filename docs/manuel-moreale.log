@@ -8907,3 +8907,12 @@ error: Connection error.
 Append: [Audience of one](https://manuelmoreale.com/audience-of-one)
 append_entries: 1
 Finish: 2025-02-28 10:19:01.068799
+------------------------------------------------------
+Started: 2025-02-28 12:34:54.182926
+Existing_entries: 619
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [P&B: Marco Giancotti](https://manuelmoreale.com/pb-marco-giancotti)
+append_entries: 1
+Finish: 2025-02-28 12:34:56.302517
