@@ -8916,3 +8916,9 @@ error: Connection error.
 Append: [P&B: Marco Giancotti](https://manuelmoreale.com/pb-marco-giancotti)
 append_entries: 1
 Finish: 2025-02-28 12:34:56.302517
+------------------------------------------------------
+Started: 2025-02-28 14:17:12.795293
+Existing_entries: 620
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-02-28 14:17:13.625269

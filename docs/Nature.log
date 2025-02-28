@@ -1149,3 +1149,12 @@ Append: [Audio long read: Why kids need to take more risks — science reveals t
 Append: [Daily briefing: An unvaccinated child is first US measles death in a decade](https://www.nature.com/articles/d41586-025-00647-6)
 append_entries: 2
 Finish: 2025-02-28 12:34:45.705184
+------------------------------------------------------
+Started: 2025-02-28 14:16:36.783019
+Existing_entries: 269
+Fetching from https://www.nature.com/nature.rss
+Append: [Just a smidgen of yellow-fever vaccine is enough](https://www.nature.com/articles/d41586-025-00580-8)
+Append: [Ukraine’s research sector is struggling — can Europe help?](https://www.nature.com/articles/d41586-025-00473-w)
+Append: [How academia’s ‘lone wolf’ culture is harming researcher mental health](https://www.nature.com/articles/d41586-025-00603-4)
+append_entries: 3
+Finish: 2025-02-28 14:16:36.972291
