@@ -1176,3 +1176,10 @@ Existing_entries: 272
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-02-28 20:19:11.579088
+------------------------------------------------------
+Started: 2025-02-28 22:18:22.287646
+Existing_entries: 272
+Fetching from https://www.nature.com/nature.rss
+Append: [Trump team orders huge government layoffs: how science could fare](https://www.nature.com/articles/d41586-025-00660-9)
+append_entries: 1
+Finish: 2025-02-28 22:18:22.645553
