@@ -1769,3 +1769,22 @@ Existing_entries: 813
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-01 08:20:39.586642
+------------------------------------------------------
+Started: 2025-03-01 10:17:24.385086
+Existing_entries: 813
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Bioinspired Nanoscale 3D Printing of Calcium Phosphates Using Bone Prenucleation Clusters](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R)
+Append: [Nanoscale Biodegradable Printing for Designed Tuneability of Vaccine Delivery Kinetics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417290?af=R)
+Append: [20.6% Efficiency Organic Solar Cells Enabled by Incorporating a Lower Bandgap Guest Nonfullerene Acceptor Without Open‐Circuit Voltage Loss](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500282?af=R)
+Append: [Regulating Interface Engineering by Helmholtz Plane Reconstructed Achieves Highly Reversible Zinc Metal Anodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420489?af=R)
+Append: [Engineered MSCs Break Endothelial‐Myofibroblast Crosstalk in Pulmonary Fibrosis: Reconstructing the Vascular Niche](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414601?af=R)
+Append: [Enhancing the Performance of Fluorinated Graphdiyne Moisture Cells via Hard Acid‐Base Coordination of Aluminum Ions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419706?af=R)
+Append: [Friction Memory Ionogels With Hysteretic Sticky‐Slippery Transition via Thermolocking the Metastable state](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416250?af=R)
+Append: [Development of Bioorthogonally Degradable Tough Hydrogels Using Enamine N‐Oxide Based Crosslinkers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414692?af=R)
+Append: [Lipoic Acid/Choline Ionic Liquid Enhanced Intratumoral Heat/Mass Transfer for Suppressing Thermo‐Mediated Tumor Relapse and Metastasis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415157?af=R)
+Append: [Crack‐Resistant and Self‐Healable Passive Radiative Cooling Silicone Compounds](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500738?af=R)
+Append: [Strong Metal‐Support Interaction to Invert Hydrogen Evolution Overpotential of Cu Coating for High‐Coulombic‐Efficiency Stable Zn Anode in Aqueous Zn‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417775?af=R)
+append_entries: 11
+Finish: 2025-03-01 10:17:26.870154
