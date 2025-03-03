@@ -1968,3 +1968,17 @@ Existing_entries: 852
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-03 12:35:59.398242
+------------------------------------------------------
+Started: 2025-03-03 14:17:37.902175
+Existing_entries: 852
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Strong and Tough Water‐Tolerant Conductive Eutectogels with Phase‐Separated Hydrophilic/Hydrophobic Dual Ionic Channels](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500770?af=R)
+Append: [Stereoisomerism of Vicinal Polydichloronorbornene for Ultra‐High‐Temperature Capacitive Energy Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417625?af=R)
+Append: [Correction to “Hydrophobicity‐Adaptive Polymers Trigger Fission of Tumor‐Cell‐Derived Microparticles for Enhanced Anticancer Drug Delivery”](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502404?af=R)
+Append: [Development of Ternary Hydrogel Electrolytes for Superior Gel Thermocells: Exceptional Anti‐Drying, Anti‐Freezing, and Mechanical Robustness](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420214?af=R)
+Append: [Möbius Solvation Structure for Zinc‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415373?af=R)
+Append: [Deep Learning Analysis of Localized Interlayer Stacking Displacement and Dynamics in Bilayer Phosphorene](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416480?af=R)
+append_entries: 6
+Finish: 2025-03-03 14:17:40.816196
