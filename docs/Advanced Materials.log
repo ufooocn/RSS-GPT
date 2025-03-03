@@ -1926,3 +1926,39 @@ Existing_entries: 824
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-03 08:24:49.234033
+------------------------------------------------------
+Started: 2025-03-03 10:20:02.046413
+Existing_entries: 824
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Hole‐selective Transparent In Situ Passivation Contacts for Efficient and Stable n–i–p Graded Perovskite/Silicon Tandem Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416530?af=R)
+Append: [Ionic Liquid Reinforcing Ether Coordination of Localized High Concentration Electrolyte Enables High‐Voltage Lithium Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416668?af=R)
+Append: [Reduction of Nonradiative Recombination at Perovskite/C60 Interface in Inverted Perovskite Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500501?af=R)
+Append: [Photo‐Responsive H2S Composite System Regulates the Nerve Regeneration Microenvironment Through Multiple Pathways](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413992?af=R)
+Append: [Light‐Driven Artificial Cell Micromotors for Degenerative Knee Osteoarthritis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416349?af=R)
+Append: [Highly Bright Pure Room Temperature Phosphorescence for Circularly Polarized Organic Hyperafterglow](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500953?af=R)
+Append: [Abnormal Slow Phonon Dynamics Toward Prolonging Excited States Dynamics Enabled by Crystalline‐Assembling Donor–Acceptor Molecules](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416873?af=R)
+Append: [Benchmarking Corrosion with Anionic Polarity Index for Stable and Fast Aqueous Batteries Even in Low‐Concentration Electrolyte](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501049?af=R)
+Append: [Red, Green and Blue Liquid‐Film Lasers Based on Colloidal Quantum‐Dots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414953?af=R)
+Append: [Self‐Oxygenating PROTAC Microneedle for Spatiotemporally‐Confined Protein Degradation and Enhanced Glioblastoma Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411869?af=R)
+Append: [Bio‐Based Multicompartment Photonic Pigments: Unlocking Non‐Iridescent Pure RGB Structural Colors for Versatile Chromatic Engineering](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501303?af=R)
+Append: [Hofmeister Effect‐Enhanced, Nanoparticle‐Shielded, Thermally Stable Hydrogels for Anti‐UV, Fast‐Response, and All‐Day‐Modulated Smart Windows](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418372?af=R)
+Append: [Mixed Electrolyte Enabling Ultrafast Mass Transport and Compatibility with Polypropylene Separator for Stable and Low‐Cost Aluminum Ion Battery](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419865?af=R)
+Append: [A Soft Nonpolar‐Soluble Two‐Dimensional Perovskite for General Construction of Mixed‐Dimensional Heterojunctions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419750?af=R)
+Append: [Molecular Design of Dimeric Acceptor Enables Binary Organic Solar Cells with 19.78% Efficiency and Enhanced Stability](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501671?af=R)
+Append: [Thermal Processing Creates Water‐Stable PEDOT:PSS Films for Bioelectronics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R)
+Append: [Incorporating Ordered Indium Sites into Rhodium for Ultra‐Low Potential Electrocatalytic Conversion of Ethylene Glycol to Glycolic Acid](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418959?af=R)
+Append: [Kinetically Dormant Ni‐Rich Layered Cathode During High‐Voltage Operation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419253?af=R)
+Append: [Adhesives with Debonding‐On‐Demand Capability: Leveraging Responsive Microcapsules for Mechanically‐Induced Debonding](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R)
+Append: [Pillared Laminar Vermiculite Membranes with Tunable Monovalent and Multivalent Ion Selectivity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417994?af=R)
+Append: [3D Molecular‐Reconstructed Disordered Precursor Toward Highly Stable Porous Ramie Carbon](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418997?af=R)
+Append: [An Opto‐Iontronic Cholesteric Liquid Crystalline Retina for Multimodal Circularly Polarized Neuromorphic Vision](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419747?af=R)
+Append: [Minimizing Buried Interface Energy Losses with Post‐Assembled Chelating Molecular Bridges for High‐Performance and Stable Inverted Perovskite Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500708?af=R)
+Append: [Fully Recyclable Pluripotent Networks for 3D Printing Enabled by Dissociative Dynamic Bonds](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417355?af=R)
+Append: [A Supramolecular Nanoengine Generates Nanomechanical Force on Demand for Precise Cytosolic Delivery of Anti‐miRNAs and Synergistic TNBC Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419651?af=R)
+Append: [An Implantable and Degradable Silk Sericin Protein Film Energy Harvester for Next‐Generation Cardiovascular Electronic Devices](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413610?af=R)
+Append: [Photopolymer Resins from Sulfenyl Chloride Commodity Chemicals for Plastic Optics, Photopatterning and 3D‐Printing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418149?af=R)
+Append: [Electrolyte Chemistry Modulation Toward High‐Performance and Ultralow‐Temperature Silicon Anode](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417981?af=R)
+append_entries: 28
+Finish: 2025-03-03 10:20:04.682929
