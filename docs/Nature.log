@@ -1386,3 +1386,11 @@ Existing_entries: 278
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-03 16:21:20.764795
+------------------------------------------------------
+Started: 2025-03-03 18:24:15.401666
+Existing_entries: 278
+Fetching from https://www.nature.com/nature.rss
+Append: [Constitutively active glucagon receptor drives high blood glucose in birds](https://www.nature.com/articles/s41586-025-08811-8)
+Append: [Daily briefing: Trump administration policies create turmoil for NIH-funded researchers worldwide](https://www.nature.com/articles/d41586-025-00669-0)
+append_entries: 2
+Finish: 2025-03-03 18:24:15.632253
