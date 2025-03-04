@@ -1461,3 +1461,13 @@ Append: [We moved a conference halfway around the globe to avoid visa discrimina
 Append: [Daily briefing: What another round of layoffs means for US science](https://www.nature.com/articles/d41586-025-00687-y)
 append_entries: 9
 Finish: 2025-03-04 12:35:47.753591
+------------------------------------------------------
+Started: 2025-03-04 20:19:20.803287
+Existing_entries: 293
+Fetching from https://www.nature.com/nature.rss
+Append: [A name for the study of life in the Universe](https://www.nature.com/articles/d41586-025-00466-9)
+Append: [‘Omg, did PubMed go dark?’ Blackout stokes fears about database’s future](https://www.nature.com/articles/d41586-025-00674-3)
+Append: [Meet the ‘woolly mouse’: why scientists doubt it’s a big step towards recreating mammoths](https://www.nature.com/articles/d41586-025-00684-1)
+Append: [I want to ensure that Africans take part in the AI revolution](https://www.nature.com/articles/d41586-025-00521-5)
+append_entries: 4
+Finish: 2025-03-04 20:19:20.959679
