@@ -9285,3 +9285,9 @@ error: Connection error.
 Append: [A moment with someone flying to the moon](https://manuelmoreale.com/a-moment-with-someone-flying-to-the-moon)
 append_entries: 1
 Finish: 2025-03-05 20:20:08.464623
+------------------------------------------------------
+Started: 2025-03-05 22:17:22.869562
+Existing_entries: 621
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-05 22:17:23.729081
