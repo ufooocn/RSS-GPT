@@ -2096,3 +2096,32 @@ Existing_entries: 858
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-05 10:19:21.958840
+------------------------------------------------------
+Started: 2025-03-05 12:35:45.719997
+Existing_entries: 858
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Negative‐Valent Platinum Stabilized by Pt─Ni Electron Bridges on Oxygen‐Deficient NiFe‐LDH for Enhanced Electrocatalytic Hydrogen Evolution](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500595?af=R)
+Append: [Lean‐Water Hydrogel with Multipolar Sites for Flexible and High‐Performance Aqueous Aluminum Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500695?af=R)
+Append: [Critical Ingredients Revitalize Magnesium‐Metal Batteries: Rationality and Challenges](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417652?af=R)
+Append: [Xantphos–Cu‐Decorated Covalent Organic Frameworks for C─H Arylation through Sensitized Electron Transfer](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416100?af=R)
+Append: [Frozen by Heating: Temperature Controlled Dynamic States in Droplet Microswimmers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416813?af=R)
+Append: [Colored Radiative Cooling: from Photonic Approaches to Fluorescent Colors and Beyond](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414300?af=R)
+Append: [Heterostructured Electrocatalysts: from Fundamental Microkinetic Model to Electron Configuration and Interfacial Reactive Microenvironment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418146?af=R)
+Append: [Towards Stable Metal–I2 Battery: Design of Iodine–Containing Functional Groups for Enhanced Halogen Bond](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419943?af=R)
+Append: [Engineered Bacterial Outer Membrane Vesicles‐Based Doxorubicin and CD47‐siRNA Co‐Delivery Nanoplatform Overcomes Immune Resistance to Potentiate the Immunotherapy of Glioblastoma](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418053?af=R)
+Append: [Proton Exchange Membrane Water Splitting: Advances in Electrode Structure and Mass‐Charge Transport Optimization](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416012?af=R)
+Append: [Covalent Anchoring of Mechanical Polymer for Highly Stable Zinc Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500596?af=R)
+Append: [Infrared In‐Sensor Computing Based on Flexible Photothermoelectric Tellurium Nanomesh Arrays](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419653?af=R)
+Append: [Advancing Beyond 800 Nm: Highly Stable Near‐Infrared Thermally Activated Delayed Lasing Triggered by Excited‐State Intramolecular Proton Transfer Process](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502129?af=R)
+Append: [Meter‐Scale Wearable Multifunctional Core‐Shell Nanofiber Textiles for Ultra‐Broadband Electromagnetic Interference Shielding and Infrared Stealth](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501485?af=R)
+Append: [Transparent and Conductive Polyimide‐Ionene Hybrid Interlayers for High Performance and Cost‐Effective Semitransparent Organic Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500450?af=R)
+Append: [Nanopore‐Functionalized Hybrid Lipid‐Block Copolymer Membranes Allow Efficient Single‐Molecule Sampling and Stable Sensing of Human Serum](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418462?af=R)
+Append: [Elimination of Concentration Polarization Under Ultra‐High Current Density Zinc Deposition by Nanofluid Self‐Driven Ion Enrichment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419034?af=R)
+Append: [Electrolyte Regulation toward Cathodes with Enhanced‐Performance in Aqueous Zinc Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501538?af=R)
+Append: [Titanium Self‐Intercalation in Titanium Diselenide Devices: Insights from In Situ Transmission Electron Microscopy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418557?af=R)
+Append: [Engineering Ultra‐Small Ag Nanoparticles with Enhanced Activity in Microporous Polymer Membranes for C2H4/C2H6 Separation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416851?af=R)
+Append: [Co Single‐Atom Catalysis for High‐Efficiency LiCl/Cl2 Conversion in Rechargeable Lithium‐Chlorine Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418990?af=R)
+append_entries: 21
+Finish: 2025-03-05 12:35:48.407055
