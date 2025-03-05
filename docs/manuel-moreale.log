@@ -9276,3 +9276,12 @@ Existing_entries: 620
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-05 18:26:38.850942
+------------------------------------------------------
+Started: 2025-03-05 20:20:06.146253
+Existing_entries: 620
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [A moment with someone flying to the moon](https://manuelmoreale.com/a-moment-with-someone-flying-to-the-moon)
+append_entries: 1
+Finish: 2025-03-05 20:20:08.464623
