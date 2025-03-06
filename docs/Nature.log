@@ -1626,3 +1626,10 @@ Existing_entries: 356
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-06 04:21:12.748223
+------------------------------------------------------
+Started: 2025-03-06 06:25:43.739107
+Existing_entries: 356
+Fetching from https://www.nature.com/nature.rss
+Append: [Trump's nominee for NIH chief talks frozen grants and fostering ‘scientific dissent’](https://www.nature.com/articles/d41586-025-00694-z)
+append_entries: 1
+Finish: 2025-03-06 06:25:43.893414
