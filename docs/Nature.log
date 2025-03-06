@@ -1613,3 +1613,10 @@ Existing_entries: 355
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-06 01:22:24.673720
+------------------------------------------------------
+Started: 2025-03-06 02:54:17.644546
+Existing_entries: 355
+Fetching from https://www.nature.com/nature.rss
+Append: [Exclusive: NIH to terminate hundreds of active research grants](https://www.nature.com/articles/d41586-025-00703-1)
+append_entries: 1
+Finish: 2025-03-06 02:54:17.842630
