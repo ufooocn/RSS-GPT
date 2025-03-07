@@ -1757,3 +1757,9 @@ Append: [The surprising culprit for the loss of huge swathes of tropical forest]
 Append: [Who’s likely to wake up from a coma? Brain waves provide a clue](https://www.nature.com/articles/d41586-025-00606-1)
 append_entries: 2
 Finish: 2025-03-07 18:24:25.337453
+------------------------------------------------------
+Started: 2025-03-07 20:19:11.806624
+Existing_entries: 373
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-07 20:19:12.066361

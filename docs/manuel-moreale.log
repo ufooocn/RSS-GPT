@@ -9429,3 +9429,9 @@ error: Connection error.
 Append: [How personal should a personal site be?](https://manuelmoreale.com/how-personal-should-a-personal-site-be)
 append_entries: 1
 Finish: 2025-03-07 18:25:02.674353
+------------------------------------------------------
+Started: 2025-03-07 20:19:23.042506
+Existing_entries: 623
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-07 20:19:23.842349
