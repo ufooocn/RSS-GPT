@@ -1763,3 +1763,10 @@ Existing_entries: 373
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-07 20:19:12.066361
+------------------------------------------------------
+Started: 2025-03-07 22:14:21.117669
+Existing_entries: 373
+Fetching from https://www.nature.com/nature.rss
+Append: [‘Scientists will not be silenced’: thousands protest Trump research cuts](https://www.nature.com/articles/d41586-025-00704-0)
+append_entries: 1
+Finish: 2025-03-07 22:14:21.431676
