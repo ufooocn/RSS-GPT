@@ -9408,3 +9408,9 @@ error: Connection error.
 Append: [P&B: James](https://manuelmoreale.com/pb-james)
 append_entries: 1
 Finish: 2025-03-07 12:35:27.674813
+------------------------------------------------------
+Started: 2025-03-07 14:17:16.275433
+Existing_entries: 622
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-07 14:17:17.395999

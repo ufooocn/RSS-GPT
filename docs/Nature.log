@@ -1733,3 +1733,12 @@ Append: [AI tools are spotting errors in research papers: inside a growing movem
 Append: [Daily briefing: The second X chromosome isn’t so silent after all](https://www.nature.com/articles/d41586-025-00723-x)
 append_entries: 3
 Finish: 2025-03-07 12:34:50.482134
+------------------------------------------------------
+Started: 2025-03-07 14:16:44.016047
+Existing_entries: 367
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Warming and cooling catalyse widespread temporal turnover in biodiversity](https://www.nature.com/articles/s41586-025-08857-8)
+Append: [Rock hunters, tree huggers and taxi drivers: Books in brief](https://www.nature.com/articles/d41586-025-00718-8)
+Append: [‘I was told to toughen up’: is academia getting resilience all wrong?](https://www.nature.com/articles/d41586-025-00383-x)
+append_entries: 3
+Finish: 2025-03-07 14:16:44.159095
