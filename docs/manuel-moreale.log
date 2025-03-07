@@ -9399,3 +9399,12 @@ Existing_entries: 621
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-07 10:19:04.334329
+------------------------------------------------------
+Started: 2025-03-07 12:35:25.345840
+Existing_entries: 621
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [P&B: James](https://manuelmoreale.com/pb-james)
+append_entries: 1
+Finish: 2025-03-07 12:35:27.674813
