@@ -2356,3 +2356,19 @@ Existing_entries: 976
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-07 08:22:46.750279
+------------------------------------------------------
+Started: 2025-03-07 10:18:55.047889
+Existing_entries: 976
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Cluster‐Scale Multisite Interface Reinforces Ruthenium‐Based Anode Catalysts for Alkaline Anion Exchange Membrane Fuel Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502127?af=R)
+Append: [Cardiac Organoid Model Inspired Micro‐Robot Smart Patch to Treat Myocardial Infarction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417327?af=R)
+Append: [Tribenzyl Organic Cations Carried Multidentate X‐Type Lewis Soft Base for High‐Performance Foldable Perovskite Light‐Emitting Diodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415211?af=R)
+Append: [Unveiling the Origin of Oxygen Framework Stability in Ultra‐High Nickel Layered Oxide Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419856?af=R)
+Append: [Surface Engineering Enabling Efficient Upcycling of Highly Degraded Layered Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419872?af=R)
+Append: [3D Printed Materials with Nanovoxelated Elastic Moduli](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416262?af=R)
+Append: [Bias‐Switchable Photomultiplication and Photovoltaic Dual‐Mode Near‐Infrared Organic Photodetector](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500491?af=R)
+Append: [Machine Learning Relationships Between Nanoporous Structures and Electrochemical Performance in MOF Supercapacitors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500943?af=R)
+append_entries: 8
+Finish: 2025-03-07 10:18:57.259996
