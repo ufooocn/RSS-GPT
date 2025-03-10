@@ -2587,3 +2587,36 @@ Existing_entries: 987
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-10 08:19:45.954000
+------------------------------------------------------
+Started: 2025-03-10 10:17:19.804628
+Existing_entries: 987
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Machine‐Learning‐Enhanced Trial‐and‐Error for Efficient Optimization of Rubber Composites](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407763?af=R)
+Append: [Synchronizing Multicolor Changes and Shape Deformation Into Structurally Homogeneous Hydrogels via a Single Photochromophore](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500857?af=R)
+Append: [Recent Advances in Scalable, High‐Mass Loaded Electrodes for Grid‐Scale Energy Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417128?af=R)
+Append: [MAPbBr3 Quantum Dots Encapsulated Within Lanthanide‐MOFs for Time‐Resolved Multicolor Dynamic Anticounterfeiting](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501271?af=R)
+Append: [Anomalous Nonlinear Magnetoconductivity in van der Waals Magnet CrSBr](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419283?af=R)
+Append: [Morphogenic Growth 3D Printing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202406265?af=R)
+Append: [Mobile Oxygen Capture Enhances Photothermal Stability of Perovskite Solar Cells Under ISOS Protocols](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500268?af=R)
+Append: [Programmable Non‐Volatile Photonic Analog‐to‐Digital Converter Based on Back‐End‐of‐Line Compatible Phase‐Change Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419444?af=R)
+Append: [Terahertz Spin‐to‐Charge Conversion in Strontium Iridate‐Based Magnetic Heterostructures](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417752?af=R)
+Append: [Multifunctional Terahertz Biodetection Enabled by Resonant Metasurfaces](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418147?af=R)
+Append: [Simultaneous AoLP and DoLP Detection in a Bias‐Switchable PdSe2/MoS2/PdSe2 Heterojunction for Polarization Discrimination](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500572?af=R)
+Append: [Toward Practical All‐Solid‐State Batteries: Current Status of Functional Binders](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500079?af=R)
+Append: [Correction to “A Mesoporous Nanoenzyme Derived from Metal–Organic Frameworks with Endogenous Oxygen Generation to Alleviate Tumor Hypoxia for Significantly Enhanced Photodynamic Therapy”](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503402?af=R)
+Append: [Correction to “Construction of Ultrastable Ultrathin Black Phosphorus Nanodisks Hybridized with Fe3O4 Nanoclusters and Iron (V)‐Oxo Complex for Efficient Potassium Storage”](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502942?af=R)
+Append: [Remolding the Interface Stability for Practical Aqueous Zn/I2 Batteries via Sulfonic Acid‐Rich Electrolyte and Separator Design](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419502?af=R)
+Append: [Superconductivity in PrNiO2 Infinite‐Layer Nickelates](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416187?af=R)
+Append: [Artificial Intelligence and Multiscale Modeling for Sustainable Biopolymers and Bioinspired Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416901?af=R)
+Append: [Surface‐ and Spatial‐Regulated Cd‐Free Quantum Dots for Efficient, Mechanically Stable, and Full‐Color Flexible Light‐Emitting Diodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420575?af=R)
+Append: [Ephaptic Coupling in Ultralow‐Power Ion‐Gel Nanofiber Artificial Synapses for Enhanced Working Memory](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419013?af=R)
+Append: [Electrically Tunable and Modulated Perovskite Quantum Emitters via Surface‐Enhanced Landau Damping](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419076?af=R)
+Append: [Morphology Optimization of Spinel Catalysts for High‐Efficiency Photothermal Catalytic Upcycling of Polyethylene Terephthalate](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500090?af=R)
+Append: [Long‐Lasting Solid‐State Aluminum Battery with High‐Areal‐Capacity Enabled by In Situ Polymerization Strategy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416755?af=R)
+Append: [Coupling Strategies of Multi‐Physical Fields in 2D Materials‐Based Photodetectors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501833?af=R)
+Append: [Double‐Walled Carbon Nanotubes with Dynamic Strength of over 90 GPa Enhanced by Intershell Friction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414643?af=R)
+Append: [Multidimensional‐Encrypted Meta‐Optics Storage Empowered by Diffraction‐Order Decoupling](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419322?af=R)
+append_entries: 25
+Finish: 2025-03-10 10:17:21.766263

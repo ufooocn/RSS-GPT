@@ -1944,3 +1944,11 @@ Existing_entries: 374
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-10 08:19:44.917705
+------------------------------------------------------
+Started: 2025-03-10 10:17:18.933001
+Existing_entries: 374
+Fetching from https://www.nature.com/nature.rss
+Append: [Science diplomacy can help to heal global rifts — if research is respected](https://www.nature.com/articles/d41586-025-00726-8)
+Append: [Our experience of teaching neuroscience in a maximum-security prison](https://www.nature.com/articles/d41586-025-00208-x)
+append_entries: 2
+Finish: 2025-03-10 10:17:19.301236
