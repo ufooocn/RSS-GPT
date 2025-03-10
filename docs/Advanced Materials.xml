@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Machine‐Learning‐Enhanced Trial‐and‐Error for Efficient Optimization of Rubber Composites</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407763?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407763?af=R</guid>
 <content:encoded><![CDATA[
-
 This study introduces a novel workflow termed machine‐learning (ML)‐enhanced trial‐and‐error approach, for efficient optimization of rubber composites. This approach integrates orthogonal experimental design with symbolic regression to proficiently extract empirical principles. This integrated approach not only preserves the features of conventional trial‐and‐error methodologies but also substantially enhances their efficiency and effectiveness.
 
 
@@ -22,7 +22,6 @@ This study introduces a novel workflow termed machine‐learning (ML)‐enhanced
 Abstract
 The traditional trial‐and‐error approach, although effective, is inefficient for optimizing rubber composites. The latest developments in machine learning (ML)‐assisted methodologies are also not suitable for predicting and optimizing rubber composite properties. This is due to the dependency of the properties on processing conditions, which prevents the alignment of data collected from different sources. In this work, a novel workflow called the ML‐enhanced trial‐and‐error approach is proposed. This approach integrates orthogonal experimental design with symbolic regression (SR) to effectively extract empirical principles. This combination enables the optimization process to retain the characteristics of the traditional trial‐and‐error approach while significantly improving efficiency and capability. Using rubber composites as the model system, the ML‐enhanced trial‐and‐error approach effectively extracts empirical principles encapsulated by high‐frequency terms in the SR‐derived mathematical formulas, offering clear guidance for material property optimization. An online platform has been developed that allows for no‐code usage of the proposed methodology, designed to seamlessly integrate into the existing experimental optimization process.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:56:26 -0700</pubDate>
 <pubDate>2025-03-10T12:56:26-07:00</pubDate>
 </item>
 <item>
@@ -30,7 +29,6 @@ The traditional trial‐and‐error approach, although effective, is inefficient
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500857?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500857?af=R</guid>
 <content:encoded><![CDATA[
-
 A spiropyran‐derived photochromphore that exhibits a concurrent molecular alteration in fluorescence and charge upon irradiation is reported, which simultaneously enables both photochromic and photodeformable capability upon covalent incorporation into a structurally homogenous hydrogel. The engineered hydrogel system demonstrates synchronized multicolor changes (from red to green) and shape deformation (from positive to negative phototropism) under a single stimulus of light illumination.
 
 
@@ -43,7 +41,6 @@ A spiropyran‐derived photochromphore that exhibits a concurrent molecular alte
 Abstract
 The design of synthetic hydrogels that can mimic their biological counterparts in the simultaneous production of multicolor change and shape transformation in response to environmental stimuli is of great importance toward intelligent camouflage, encryption, and actuation. Previous efforts have focused primarily on developing heterogeneous hydrogels that highly rely on respective mechanisms to achieve color and shape changes separately, and synergistically synchronizing such two variations into structurally homogenous hydrogels via a single chromophore has been challenging. Here, the molecular design of a structurally homogenous hydrogel simultaneously exhibiting synchronized multicolor change and shape deformation triggered by a single stimulus of light is reported. The synchronization mechanism originates from a coupled alteration upon irradiation in the fluorescence emission and charge states of a spiropyran photochromophore covalently incorporated into the hydrogel network, thus leading to macroscale color change and shape variation in the hydrogel, respectively. Following this principle, both positive and negative phototropic deformation are obtained concomitantly with synchronized but flexibly tunable multicolor changes upon light illumination and demonstrated the ingenious application of biomimetic actuation, encryption, and camouflage by the rational combination of these two systems. This work represents an innovative molecular design strategy for developing bioinspired materials with synchronized functions via a single compound.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:56:05 -0700</pubDate>
 <pubDate>2025-03-10T12:56:05-07:00</pubDate>
 </item>
 <item>
@@ -51,7 +48,6 @@ The design of synthetic hydrogels that can mimic their biological counterparts i
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417128?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417128?af=R</guid>
 <content:encoded><![CDATA[
-
 Increased reliance on renewable energy requires enhanced grid‐scale energy storage. The subject of this review, the high mass loading of electrodes, is critical for determining manufacturing costs. Several of the reviewed fabrication techniques surpass the mass loading of conventional electrodes and achieve values above 100 mg cm−2. These results represent an important step towards meeting future demands for grid storage.
 
 
@@ -64,7 +60,6 @@ Increased reliance on renewable energy requires enhanced grid‐scale energy sto
 Abstract
 The increasing electrification of daily life as well as the intermittent characteristic of renewable energy sources require viable solutions for grid‐scale energy storage. Critical considerations for grid storage applications are electrode mass loading and electrode thickness as these features govern battery pack energy density, an important factor in determining manufacturing costs. For this reason, there is increased interest in finding new ways of creating electrodes with high mass loading. In this review, various high‐mass loading fabrication approaches are considered for positive electrode materials used in batteries. The benchmark used for high mass loading is above 20 mg cm−2, which is higher than the practical limit of conventional tape‐cast electrodes. Several different electrode approaches are described including templating, laser patterning, direct ink writing, and electrodeposition. A variety of materials are covered with the most prominent being LiFe(PO4) (LFP), LiCoO2(LCO), and MnO2. In research to date, scalable electrochemical performance has been achieved with mass loadings over 100 mg cm−2. Areal capacities as high as 14.7 mAh cm−2 at 1.82 mA cm−2 have been achieved in non‐aqueous electrolytes and 9.8 mAh cm−2 at 10 mA cm−2 in aqueous electrolytes. These results establish that the mass loading of electrodes can be scaled up without compromising their electrochemical properties.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:55:35 -0700</pubDate>
 <pubDate>2025-03-10T12:55:35-07:00</pubDate>
 </item>
 <item>
@@ -72,7 +67,6 @@ The increasing electrification of daily life as well as the intermittent charact
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501271?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501271?af=R</guid>
 <content:encoded><![CDATA[
-
 Multicolor dynamic anticounterfeiting are achieved by utilizing the quantum‐confinement effect of MAPbBr3 QDs within the MOFs. This unique anticounterfeiting tag enables high PL intensity and visible recognition to the naked eye and allows for multiple authentications in both time and space dimensions. These results provide valuable insights for designing high‐security, high‐intensity multicolor dynamic anticounterfeiting tags.
 
 
@@ -85,7 +79,6 @@ Multicolor dynamic anticounterfeiting are achieved by utilizing the quantum‐co
 Abstract
 Multicolor dynamic optical materials exhibit significant potential in the realms of anticounterfeiting and information encryption, benefitting from their capacity for generating unpredictable optical information that changes over time. Herein, a novel approach is presented utilizing quantum‐confinement effect of MAPbBr3 quantum dots (QDs) embedded within lanthanide‐metal organic frameworks (Ln‐MOFs) for time‐resolved multicolor dynamic anticounterfeiting applications. The dimensions of MAPbBr3 QDs undergo temporal variations during in situ growth, resulting in dynamic alterations in luminescent color due to the quantum‐confinement effect. Furthermore, the emission colors of MAPbBr3@Eu‐MOFs can be modulated by varying UV excitation wavelengths, thereby conferring a spatially distinguishable anticounterfeiting dimension. The time‐resolved unpredictability of these dynamic color changes coupled with sustained luminescent intensity and multi‐dimensional anticounterfeiting, render them suitable system for advanced graphical coding. These findings pave the way for the advancement of intelligent multicolor dynamic optical anticounterfeiting.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:54:46 -0700</pubDate>
 <pubDate>2025-03-10T12:54:46-07:00</pubDate>
 </item>
 <item>
@@ -93,7 +86,6 @@ Multicolor dynamic optical materials exhibit significant potential in the realms
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419283?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419283?af=R</guid>
 <content:encoded><![CDATA[
-
 Anomalous nonlinear magnetoconductivity (NLMC) is demonstrated by manipulating internal magnetic orders in van der Waals magnet CrSBr interfaced by hBN layer. The anomalous NLMC presents multiple resistance states governed by both magnetization vector and Néel vector utilizing the metamagnetic transition of CrSBr. This anomalous NLMC of the engineered CrSBr system promises efficient electrical readout of multiple magnetic information.
 
 
@@ -106,7 +98,6 @@ Anomalous nonlinear magnetoconductivity (NLMC) is demonstrated by manipulating i
 Abstract
 Nonlinear magnetoconductivity (NLMC) is a nonreciprocal transport response arising in non‐centrosymmetric materials. However, this ordinary NLMC signal vanishes at zero magnetic field, limiting its potential for applications. Here, the observation of an anomalous NLMC controlled by internal order parameters such as the magnetization or Néel vectors is reported. This response is achieved by breaking both inversion and time‐reversal symmetry in artificial van der Waals heterostructures based on the magnetic CrSBr and insulating hBN. The nonreciprocal signal can be tuned between two different states in ferromagnetic monolayer CrSBr and among four different states in antiferromagnetic bilayer CrSBr, thanks to its metamagnetic transition. Remarkably, this output signal in the ferromagnetic (antiferromagnetic) state of CrSBr is three (one) orders of magnitude higher than those previously measured. A conductivity scaling analysis reveals the Berry connection polarizability as the origin of the anomalous NLMC. The results pave the way for high‐frequency rectifiers with magnetically switchable output polarity as well as for an efficient electrical readout of the magnetic state of antiferromagnetic materials.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:51:14 -0700</pubDate>
 <pubDate>2025-03-10T12:51:14-07:00</pubDate>
 </item>
 <item>
@@ -114,7 +105,6 @@ Nonlinear magnetoconductivity (NLMC) is a nonreciprocal transport response arisi
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202406265?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202406265?af=R</guid>
 <content:encoded><![CDATA[
-
 I additive manufacturing process exploits the spatial propagation of a polymerization reaction front to produce 3D polymer parts 10× faster and 1000× more energy efficient  than the fastest stereolithography. In contrast with existing 3D printing, this morphogenic process is inspired by biological “growth and form” due to the self‐directed propagation of the reaction.
 
 
@@ -127,7 +117,6 @@ I additive manufacturing process exploits the spatial propagation of a polymeriz
 Abstract
 Inspired by nature's morphogenesis, a new 3D printing process –growth printing (GP)– takes advantage of a self‐propagating curing front to produce 3D polymeric parts following a growth‐like development plan. The propagation of the curing front is driven by the exothermic polymerization of dicyclopentadiene (DCPD), which transforms the liquid resin into a stiff polymer as it propagates at 1 mm s−1. GP is triggered when a heated initiator contacts the uncured liquid resin in an open container. The initiator nucleates the frontal polymerization reaction and the isotropic radial propagation of the growth front. Simultaneously, the initiator is moved up across the free surface of the resin, pulling the cured object out of the uncured resin. The motion trajectory of the initiator with respect to the free resin surface controls the growth morphology of the 3D part. An inverse design algorithm is developed to produce 3D parts by modeling the reaction‐diffusion‐driven solidification process. This process has substantial energy savings and high printing speeds.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:49:48 -0700</pubDate>
 <pubDate>2025-03-10T12:49:48-07:00</pubDate>
 </item>
 <item>
@@ -135,7 +124,6 @@ Inspired by nature's morphogenesis, a new 3D printing process –growth printing
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500268?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500268?af=R</guid>
 <content:encoded><![CDATA[
-
 The SnO2/ZnSb2O6‐x double electron transport layer promotes a highly ordered arrangement of the perovskite lattice, improving film quality and suppressing non‐radiative recombination, which in turn enhances carrier transport and overall device performance. Under photothermal conditions, ZnSb2O6‐x effectively captures oxygen atoms at the SnO2 interface, preventing ion migration and thereby enhancing the photothermal operational stability of PSCs.
 
 
@@ -148,7 +136,6 @@ The SnO2/ZnSb2O6‐x double electron transport layer promotes a highly ordered a
 Abstract
 Stability testing protocols from the International Summit on Organic and Hybrid Solar Cell Stability (ISOS) are essential for standardizing studies on the photothermally operational stability of perovskite solar cells (PSCs). Under photothermal conditions, the migration of oxygen from SnO2 layer induces cationic dehydrogenation at the A‐site of the perovskite, accelerating degradation to PbI2. This leads to the formation of photoinduced I2 and Pb0 defects, significantly compromising long‐term stability. In this study, ordonezite (ZnSb2O6‐x) as a multifunctional electron transport layer (ETL) that captures migrating oxygen atoms at the SnO2/perovskite interface is introduced, effectively preventing degradation of the buried interface. Additionally, the lattice match between ZnSb2O6‐x and perovskite facilitates well‐ordered perovskite film growth. As a result, PSCs featuring ZnSb2O6‐x ETLs achieved a high power conversion efficiency of 25.02% and retained 90.62% of their initial performance after 1000 h under the ISOS‐D‐2 protocol. Furthermore, devices demonstrated remarkable thermal stability, maintaining 83.69% of their original performance after 800 h of maximum power point tracking at 85 °C, meeting the stringent ISOS‐L‐2 protocol requirements.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:48:34 -0700</pubDate>
 <pubDate>2025-03-10T12:48:34-07:00</pubDate>
 </item>
 <item>
@@ -156,7 +143,6 @@ Stability testing protocols from the International Summit on Organic and Hybrid 
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419444?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419444?af=R</guid>
 <content:encoded><![CDATA[
-
 This work introduces a programmable photonic analog‐to‐digital converter (ADC), leveraging phase‐change materials (PCMs) and foundry‐based silicon photonics. 2‐ and 4‐bit ADCs with zero quantization energy are achieved by the programmable and non‐volatile nature of PCMs. The photonic ADC can reach a resolution of 8‐bit with 65‐state PCMs. An all‐optical analog‐to‐digital conversion is successfully demonstrated, marking a significant advancement in efficient high‐speed photonic processing.
 
 
@@ -169,7 +155,6 @@ This work introduces a programmable photonic analog‐to‐digital converter (AD
 Abstract
 High‐performance signal processing and telecommunication systems absolutely necessitate analog‐to‐digital converters (ADCs) that offer extensive bandwidth, exceptional precision, and minimal power consumption, in order to efficiently convert real‐world analog signals into digital signals. While current electronic ADCs are constrained by limitations such as low bandwidth, high jitter noise, susceptibility to electromagnetic interference, and excessive energy consumption, photonic ADCs present promising solutions to overcome these challenges. Here, a programmable photonic ADC is developed by integrating phase‐change materials (PCMs) with silicon photonics fabricated using foundry processes. Thanks to the programmability and non‐volatile nature of PCMs, 2‐ and 4‐bit photonic ADCs are demonstrated on a single chip, achieving zero energy consumption during the quantization. Through the experimental demonstration of 65‐state PCMs, photonic ADCs can attain a resolution of 8‐bit, marking a significant milestone as the highest resolution reported to date for ADCs leveraging optical technologies. As a proof of concept, an all‐optical analog‐to‐digital conversion system is demonstrated by integrating 2‐bit photonic ADCs with optical sampling using a mode‐locked laser (MLL). This system achieves the conversion of a 321 MHz radio frequency (RF) signal at a sampling rate of 40 MS s−1. The programmable, energy‐efficient, and high‐speed photonic ADCs represent a significant advancement in the evolution of signal processing systems.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:46:44 -0700</pubDate>
 <pubDate>2025-03-10T12:46:44-07:00</pubDate>
 </item>
 <item>
@@ -177,7 +162,6 @@ High‐performance signal processing and telecommunication systems absolutely ne
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417752?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417752?af=R</guid>
 <content:encoded><![CDATA[
-
 This work presents a novel system for next‐generation spintronic THz emitting sources based on 5d oxides that operate at room temperature. By interfacing a SrIrO3 epitaxial film with ultra‐thin ferromagnetic materials and using femtosecond spin injection THz emission spectroscopy, this system confirms the generation of electromagnetic waves at the THz frequency.
 
 
@@ -190,7 +174,6 @@ This work presents a novel system for next‐generation spintronic THz emitting 
 Abstract
 Oxide interfaces have enormous potential for future electronics with many applications, such as large spin Hall conductance, phase transitions, topological states, and superconductivity. However, previous investigations have predominantly focused on gigahertz frequencies; whilst the possibilities to fabricate devices operational at terahertz frequencies are demonstrated. A model solution is proposed employing 5d rare‐earth, strontium iridate (SrIrO3) heterostructure with cobalt (Co) ultrathin layers. Femtosecond lasers are used to photoexcite the spins in Co, which super diffuse into the SrIrO3 layer to produce an ultrafast inverse spin Hall effect in sub‐picosecond timescales. The devices exploit the external magnetic field and laser fluence to control the spin polarization from the Co layer and demonstrate a tailored spin Hall effect. These results thus pave paths for next‐generation ultrafast oxide electronics offering possibilities for room temperature‐based devices.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:41:37 -0700</pubDate>
 <pubDate>2025-03-10T12:41:37-07:00</pubDate>
 </item>
 <item>
@@ -198,7 +181,6 @@ Oxide interfaces have enormous potential for future electronics with many applic
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418147?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418147?af=R</guid>
 <content:encoded><![CDATA[
-
 Testing diverse biomolecules and observing their dynamic interaction in complex biological systems in a label‐free manner is critically important for THz absorption spectroscopy. A compact and multifunctional THz plasmonic biosensing platform by leveraging multiple interfering resonances from quasi‐bound states in the continuum designed to noninvasively and in situ track the temporal evolution of molecules in multiple analyte systems is proposed.
 
 
@@ -211,7 +193,6 @@ Testing diverse biomolecules and observing their dynamic interaction in complex 
 Abstract
 Testing diverse biomolecules and observing their dynamic interaction in complex biological systems in a label‐free manner is critically important for terahertz (THz) absorption spectroscopy. However, traditionally employed micro/nanophotonic techniques suffer from a narrow operating resonance and strong absorption band interference from polar solutions preventing seriously reliable, on‐demand biosensor integration. Here, a multifunctional THz plasmonic biosensing platform by leveraging multiple interfering resonances from quasi‐bound states in the continuum designed to noninvasively and in situ track the temporal evolution of molecules in multiple analyte systems, is proposed. In contrast to conventional microphotonic sensors, this platform demonstrates substantially broadband performance and reduced footprints, allowing for simultaneous detection of diverse molecular vibrant at multiple spectral points through robust near‐field interactions. Furthermore, this sensor enables real‐time analysis of amino acid absorption as water evaporates despite its strong overlapping absorption bands in the THz range. By utilizing the real‐time format of the reflectance method to acquire a comprehensive spectro‐temporal data collection, this approach supports developing a deep neural network to discriminate and predict the composition and proportion of multiple mixtures, obviating the need for frequency scanning or microfluidic devices. This approach offers innovative viewpoints for exploring biological processes and provides valuable tools for biological analysis.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:40:58 -0700</pubDate>
 <pubDate>2025-03-10T12:40:58-07:00</pubDate>
 </item>
 <item>
@@ -219,7 +200,6 @@ Testing diverse biomolecules and observing their dynamic interaction in complex 
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500572?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500572?af=R</guid>
 <content:encoded><![CDATA[
-
 A PdSe2/MoS2/PdSe2 vdWH heterostructure polarized photodetector is introduced, which possesses the capability to simultaneously measure both the linear polarization angle and the degree of polarization. This device demonstrates bias‐switchable polarization detection over a wide spectral range, and exhibits a bipolar photoresponse even at zero bias. Taking advantage of these unique properties, the photodetector has been successfully applied in imaging scenarios and has also been simulated for use in dual coding communication.
 
 
@@ -232,7 +212,6 @@ A PdSe2/MoS2/PdSe2 vdWH heterostructure polarized photodetector is introduced, w
 Abstract
 On‐chip polarized photodetectors play a crucial role in advancing ultra‐compact optoelectronic devices for next‐generation technologies. However, simultaneously detecting the angle of linear polarization (AoLP) and the degree of linear polarization (DoLP) within a single device remains a challenging task, particularly due to the inherently weak polarization states found in naturally anisotropic materials. In this paper, it is reported on the development of a twisted monopole barrier photodetector based on a PdSe2/MoS2/PdSe2 configuration. This photodetector features a rapid response time of 7–12 µs. In an imaging demonstration, it operates as a single‐polarization photodetector, reconstructing AoLP and DoLP distributions of target objects through bias‐switchable polarization detection across a wide spectral range, all without the plasmonic/metasurface nanostructures or polarization filters. Additionally, it demonstrates bipolar characteristics under zero‐bias conditions at room temperature, enabling dual‐binary coding for polarimetric‐encoded communication. These combination of features positions the photodetector as a highly promising candidate for on‐chip applications.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:12:44 -0700</pubDate>
 <pubDate>2025-03-10T12:12:44-07:00</pubDate>
 </item>
 <item>
@@ -240,7 +219,6 @@ On‐chip polarized photodetectors play a crucial role in advancing ultra‐comp
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500079?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500079?af=R</guid>
 <content:encoded><![CDATA[
-
 As an effective strategy to address the key scientific issues and enhance the electrochemical performance of all‐solid‐state batteries, the summary of the latest research advances aims to stimulate the exploration of innovative binders in the future and to contribute to the realization of high‐energy‐density all‐solid‐state batteries.
 
 
@@ -253,7 +231,6 @@ As an effective strategy to address the key scientific issues and enhance the el
 Abstract
 All‐solid‐state batteries (ASSBs) are promising candidates for next‐generation energy storage devices due to their high energy density and enhanced safety. Binder plays an irreplaceable role in stabilizing the electrode structure, enhancing carrier transport and modulating solid electrolyte interfaces by connecting each component of the electrode. The development of functional binders is seen as a key strategy to achieve higher energy densities of ASSBs. This review systematically examines recent progress in binder development, focusing on their roles, impacts, and failure mechanisms in ASSBs. It begins by outlining the specific functionalities required of binders in ASSBs and provides a comprehensive summary of their applications across different components, including the anode, cathode, and solid electrolyte. Furthermore, the review highlights innovative binder design principles while also summarizing key testing methods and advanced characterization techniques for evaluating binder performance. This review proposes future directions for binder design based on current developments and emerging technologies, with the aim of creating optimal binder systems for high‐energy‐density applications.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:11:24 -0700</pubDate>
 <pubDate>2025-03-10T12:11:24-07:00</pubDate>
 </item>
 <item>
@@ -262,9 +239,7 @@ All‐solid‐state batteries (ASSBs) are promising candidates for next‐genera
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503402?af=R</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:08:21 -0700</pubDate>
 <pubDate>2025-03-10T12:08:21-07:00</pubDate>
 </item>
 <item>
@@ -273,9 +248,7 @@ All‐solid‐state batteries (ASSBs) are promising candidates for next‐genera
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502942?af=R</guid>
 <content:encoded><![CDATA[
 
-
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:06:45 -0700</pubDate>
 <pubDate>2025-03-10T12:06:45-07:00</pubDate>
 </item>
 <item>
@@ -283,7 +256,6 @@ All‐solid‐state batteries (ASSBs) are promising candidates for next‐genera
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419502?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419502?af=R</guid>
 <content:encoded><![CDATA[
-
 The stability of the electrolyte‐electrode interface plays a crucial role in aqueous Zn/I2 batteries and is largely determined by the properties of the electrolyte and separator. Herein, a sulfonic acid‐rich electrolyte additive and separator are designed to suppress the shuttling effect and side reactions, and the electrolyte additive and separator impact the interface stability of Zn/I2 batteries is investigated.
 
 
@@ -296,7 +268,6 @@ The stability of the electrolyte‐electrode interface plays a crucial role in a
 Abstract
 The electrolyte‐electrode interface plays a crucial role in aqueous Zn/I2 battery and is largely determined by the properties of electrolyte and separator. Here, the synergistic effect of sulfonic acid‐rich electrolyte additive and separator impacts the interface stability of Zn/I2 batteries is comprehensively investigated using operando synchrotron‐based Fourier‐transform infrared spectroscopy, cryo‐electron microscopy, and in situ spectroscopy. As a case study, a cost‐effective additive known as lignosulfonic acid sodium (LAS) and a flexible sulfonated polyether sulfone membrane are employed to facilitate the formation of a stable solid electrolyte interface (SEI) on the Zn anode and effectively suppress the shuttle effect. The chemisorption of LAS on Zn, its interaction with Zn2+, and the impact on the Zn desolvation process are systematically investigated through both theoretical simulations and operando measurements. Furthermore, the formation of an in situ SEI consisting of ZnS and ZnF2 is identified, which facilitates the uniform nucleation and planar plating of Zn(002), while effectively suppressing detrimental side reactions. Additionally, visualization experiments and in situ spectroscopy confirm that R−SO3− groups effectively impede the shuttle process of I3−/I5− anions through electrostatic repulsion. This work provides valuable insights for designing robust electrolyte interfaces for high‐performance aqueous Zn/I2 batteries.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:06:06 -0700</pubDate>
 <pubDate>2025-03-10T12:06:06-07:00</pubDate>
 </item>
 <item>
@@ -304,7 +275,6 @@ The electrolyte‐electrode interface plays a crucial role in aqueous Zn/I2 batt
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416187?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416187?af=R</guid>
 <content:encoded><![CDATA[
-
 This study unveils a superconducting state in undoped parent compound PrNiO2 thin films, challenging previous views on nickelate superconductivity. Through scanning transmission electron microscopy and spectroscopic techniques, the research demonstrates the high structural quality and distinct electronic properties of the thin films grown by pulsed laser deposition. While requiring an independent verification, this result suggests that the self‐doping mechanism is sufficient for superconductivity and the reported phase diagram of infinite‐layer nickelates might need a revision.
 
 
@@ -317,7 +287,6 @@ This study unveils a superconducting state in undoped parent compound PrNiO2 thi
 Abstract
 Several reports about infinite‐layer nickelate thin films suggest that the superconducting critical temperature versus chemical doping phase diagram has a dome‐like shape, similar to cuprates. Here, a highly reproducible superconducting state in undoped PrNiO2 thin films grown on SrTiO3 are demonstrated. Scanning transmission electron microscopy measurements show coherent infinite‐layer phase with no visible stacking‐fault defects, an overall high structural quality where possible unintentional chemical doping or interstitial oxygen, if present, sum well below the measurable threshold of the technique. X‐ray absorption measurements show very sharp features at the Ni L3,2‐edges with a large linear dichroism, indicating the preferential hole occupation of Ni1+‐3dx2−y2${\rm d}_{x^2-y^2}$ orbitals in a square planar geometry. Resonant inelastic X‐ray scattering measurements reveal sharp magnon excitations of 200 meV energy at the magnetic Brillouin zone boundary, highly resonant at the Ni1 + absorption peak. The results indicate that, when properly stabilized, infinite‐layer nickelate thin films are superconducting without chemical doping.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:04:28 -0700</pubDate>
 <pubDate>2025-03-10T12:04:28-07:00</pubDate>
 </item>
 <item>
@@ -325,7 +294,6 @@ Several reports about infinite‐layer nickelate thin films suggest that the sup
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416901?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416901?af=R</guid>
 <content:encoded><![CDATA[
-
 This review explores the multiscale architectures and functional mechanisms of biopolymers and bioinspired materials, from hierarchical structures to AI‐powered methodologies. It covers sustainable configurations, multiscale modeling techniques, and AI applications for enhancing functionality, biodegradability, and design. The work concludes with a forward‐looking perspective on biopolymer advancements and potential for broad lifecycle impacts in advanced material manufacturing.
 
 
@@ -338,7 +306,6 @@ This review explores the multiscale architectures and functional mechanisms of b
 Abstract
 Biopolymers and bioinspired materials contribute to the construction of intricate hierarchical structures that exhibit advanced properties. The remarkable toughness and damage tolerance of such multilevel materials are conferred through the hierarchical assembly of their multiscale (i.e., atomistic to macroscale) components and architectures. Here, the functionality and mechanisms of biopolymers and bio‐inspired materials at multilength scales are explored and summarized, focusing on biopolymer nanofibril configurations, biocompatible synthetic biopolymers, and bio‐inspired composites. Their modeling methods with theoretical basis at multiple lengths and time scales are reviewed for biopolymer applications. Additionally, the exploration of artificial intelligence‐powered methodologies is emphasized to realize improvements in these biopolymers from functionality, biodegradability, and sustainability to their characterization, fabrication process, and superior designs. Ultimately, a promising future for these versatile materials in the manufacturing of advanced materials across wider applications and greater lifecycle impacts is foreseen.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:02:13 -0700</pubDate>
 <pubDate>2025-03-10T12:02:13-07:00</pubDate>
 </item>
 <item>
@@ -346,7 +313,6 @@ Biopolymers and bioinspired materials contribute to the construction of intricat
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420575?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420575?af=R</guid>
 <content:encoded><![CDATA[
-
 This work presents a synergistic strategy that utilizes bidentate chelating diethyldithiocarbamate as surface ligands for cadmium‐free quantum dots (QDs), which enhances the ligand binding on the QD surface and improves stress dissipation under bending. Consequently, the resulting flexible devices exhibit peak external quantum efficiencies above 15% and retain over 90% of their initial performance after 5000 bending cycles.
 
 
@@ -359,7 +325,6 @@ This work presents a synergistic strategy that utilizes bidentate chelating diet
 Abstract
 Flexible light‐emitting diodes utilizing environmentally friendly cadmium (Cd)‐free quantum dots (QDs) hold immense potential for next‐generation wearable integrated displays. However, their overall performance lags behind Cd‐based counterparts, and less research focuses on the suitability of QD layers in flexible devices. Herein, it is observed that the traditional surface oleate ligands on QDs readily detach under device operation after cycling bending, leading to increased surface defects and accumulated tensile stress in QDs layers, further diminishing their photoluminescence and electroluminescence performance. Based on these insights, a synergetic regulation strategy is developed employing a short‐chain bidentate chelating ligand, diethyldithiocarbamate (DDTC), to strengthen the binding of QDs with ligands, minimizing ligand detaching and consequently inhibiting the non‐radiative recombination of QDs; Meanwhile, the short‐chain DDTC also reduces the inter‐dot spatial distance and decreases the Young's modulus in QDs films, effectively dissipating stress localization and retaining the film morphology upon bending. Consequently, the resulting flexible devices based on blue ZnSeTe/ZnSe/ZnS QDs and green/red InP/ZnSe/ZnS QDs demonstrate the peak external quantum efficiencies of above 15% and maintain over 90% after 5000 bending cycles, rivaling state‐of‐the‐art Cd‐based flexible devices.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:01:26 -0700</pubDate>
 <pubDate>2025-03-10T12:01:26-07:00</pubDate>
 </item>
 <item>
@@ -367,7 +332,6 @@ Flexible light‐emitting diodes utilizing environmentally friendly cadmium (Cd)
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419013?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419013?af=R</guid>
 <content:encoded><![CDATA[
-
 A flexible ionic synaptic device is developed to replicate the brain's ion transport and ephaptic coupling mechanisms, enabling efficient energy consumption and complex connectivity. By using ions for signal transmission, the device achieves spatiotemporal signal integration, mimicking the computational capabilities of biological neural networks. This work advances the development of brain‐like AI systems with enhanced connectivity and processing efficiency.
 
 
@@ -380,7 +344,6 @@ A flexible ionic synaptic device is developed to replicate the brain's ion trans
 Abstract
 Neuromorphic devices are designed to replicate the energy‐efficient information processing advantages found in biological neural networks by emulating the working mechanisms of neurons and synapses. However, most existing neuromorphic devices focus primarily on functionally mimicking biological synapses, with insufficient emphasis on ion transport mechanisms. This limitation makes it challenging to achieve the complexity and connectivity inherent in biological systems, such as ephaptic coupling. Here, an ionic biomimetic synaptic device based on a flexible ion‐gel nanofiber network is proposed, which transmits information and enables ephaptic coupling through capacitance formation by ion transport with an extremely low energy consumption of just 6 femtojoules. The hysteretic ion transport behavior endows the device with synaptic‐like memory effects, significantly enhancing the performance of the reservoir computing system for classifying the MNIST handwritten digit dataset and demonstrating high efficiency in edge learning. More importantly, the devices in an array establish communication connections, exhibiting global oscillatory behaviors similar to ephaptic coupling in biological neural networks. This connectivity enables the array to perform working memory tasks, paving the way for developing brain‐like systems characterized by high complexity and vast connectivity.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:00:48 -0700</pubDate>
 <pubDate>2025-03-10T12:00:48-07:00</pubDate>
 </item>
 <item>
@@ -388,7 +351,6 @@ Neuromorphic devices are designed to replicate the energy‐efficient informati
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419076?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419076?af=R</guid>
 <content:encoded><![CDATA[
-
 A 570 meV emission shift is achieved through surface‐enhanced Landau damping during phase transitions. In crystalline Sb₂Te₃, localized surface plasmons facilitate hot‐electron injection, shifting the emission energy from 1.64 to 2.21 eV. This tunability is further enhanced by applying a DC voltage bias, making it suitable for integration with on‐chip quantum photonic systems.
 
 
@@ -401,7 +363,6 @@ A 570 meV emission shift is achieved through surface‐enhanced Landau damping d
 Abstract
 Tuning quantum emission to a specific wavelength at room temperature holds significant promise for enhancing secure quantum communication, particularly by aligning with the Fraunhofer lines in the solar spectrum. The integration of quantum emitters with phase‐change materials enables emission wavelength modulation, especially when strong field enhancement is present. Antimony telluride (Sb2Te3) exhibits the potential to facilitate this functionality through its support of interband plasmonics and phase‐change behavior. In this study, Sb₂Te₃ antennae are designed and fabricated to tune the emission energy of adjacent perovskite quantum dots (QDs) by over 570 meV. The underlying mechanism involves the localized surface plasmons (LSPs) on Sb₂Te₃ nanostructures, which exhibit a surface‐enhanced Landau damping process that facilitates the decay of LSPs into electron‐hole pairs. The generated hot electrons are then injected into perovskite QDs via the microscopic electron transport process, which can be triggered by the transition of Sb2Te3 from amorphous to a crystalline state, resulting in a significant emission energy shift from 1.64 to 2.21 eV. Furthermore, the emission energy of perovskite QDs on crystalline Sb₂Te₃ nanoantennae can be modulated through DC voltage bias, highlighting the potential for extensive wavelength tunability of quantum emitters integrated with electronic systems.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 00:00:00 -0700</pubDate>
 <pubDate>2025-03-10T12:00:00-07:00</pubDate>
 </item>
 <item>
@@ -409,7 +370,6 @@ Tuning quantum emission to a specific wavelength at room temperature holds signi
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500090?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500090?af=R</guid>
 <content:encoded><![CDATA[
-
 Three morphologies of spinel catalysts for the decomposition of polyethylene terephthalate (PET) are prepared by hydrothermal method. The optimization of morphology made a positive impact on PET conversion, yield of bis(2‐hydroxyethyl) terephthalate (BHET), and photocatalytic performance. Catalyst with octahedral morphology has an optimum content of oxygen vacancies, which can work as active sites to promote PET degradation.
 
 
@@ -422,7 +382,6 @@ Three morphologies of spinel catalysts for the decomposition of polyethylene ter
 Abstract
 Thermocatalytic recycling of plastics is typically constrained by high energy input requirements, resulting in poor economic efficiency and necessitating the utilization of light power. Indeed, photothermal catalysis offers several advantages over traditional photocatalysis and enables more efficient use of light energy. In this study, unique octahedral spinel‐structured cobalt manganese oxide (CoMn2O4) catalysts are prepared. CoMn2O4 acts as both a photothermal reagent and catalyst, demonstrating low light intensity requirements, high conversion rates, enhanced reactivity, and superior stability during polyethylene terephthalate (PET) glycolysis via photothermocatalysis. Oxygen vacancies created on CoMn2O4 facilitate PET glycolysis by providing reactive sites that promote nucleophilic addition and subsequent elimination reactions. The spinel structure of CoMn2O4 ensures high thermal stability, while the octahedral configuration enhances the optical absorption coefficient and photothermal conversion efficiency. Under identical conditions, the PET conversion efficiency of CoMn2O4 in photothermal catalysis is 3.1 times higher than under purely thermal conditions, while maintaining high selectivity for high‐value monomers. This study presents a new catalyst design approach for highly efficient upcycling of plastics, highlighting its substantial potential in this field.
 ]]></content:encoded>
-<pubDate>Sun, 09 Mar 2025 23:56:32 -0700</pubDate>
 <pubDate>2025-03-09T11:56:32-07:00</pubDate>
 </item>
 <item>
@@ -430,7 +389,6 @@ Thermocatalytic recycling of plastics is typically constrained by high energy in
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416755?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416755?af=R</guid>
 <content:encoded><![CDATA[
-
 An in situ polymerization strategy is rationally proposed to synthesize cross‐linked polymer solid‐state electrolyte and polymer‐encapsulated graphite cathode, which achieves intimate interface contact, dendrite free, flame retardancy, and confined volume expansion, enabling a solid‐state aluminum‐graphite battery with high‐areal‐capacity, high‐safety, and long‐lasting lifespan.
 
 
@@ -443,7 +401,6 @@ An in situ polymerization strategy is rationally proposed to synthesize cross‐
 Abstract
 Nonaqueous rechargeable aluminum batteries (RABs) attract intense interest due to their low‐cost, high‐capacity, and high‐safety using nonflammable chloroaluminate ionic liquid electrolytes (ILEs). However, Al dendrite growth, interface degradation, and corrosiveness remain challenges in these ILEs. Herein, an ultrastable solid‐state aluminum battery (SAB) based on a cross‐linked polymer solid‐state electrolyte (PSE) and a PSE‐encapsulated graphite (PG) cathode is constructed via an in situ polymerization strategy, which maintains battery safety and realizes a synergy of interface compatibility between PSE/PG and PSE/Al interfaces. The PSE has a high room temperature ionic conductivity of 4.15 × 10−3 S cm−1 and a low corrosiveness to Al anode, ensuring rapid and continuous transportation of chloroaluminate ions and homogeneous plating/stripping of metallic Al. In addition, the volume expansion of the PG cathode is almost negligible owing to the confinement effect of graphite within the cross‐linked polymer skeleton. As a consequence, the assembled SAB demonstrates high areal capacity (0.67 mAh cm−2 at 0.1 mA cm−2), good rate performance, and impressive cycling stability (no capacity attenuation after 10 000 cycles). Such in situ polymerization strategy shows a broader promise for the development of safe and stable RABs in energy storage applications.
 ]]></content:encoded>
-<pubDate>Sun, 09 Mar 2025 23:55:51 -0700</pubDate>
 <pubDate>2025-03-09T11:55:51-07:00</pubDate>
 </item>
 <item>
@@ -451,7 +408,6 @@ Nonaqueous rechargeable aluminum batteries (RABs) attract intense interest due t
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501833?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501833?af=R</guid>
 <content:encoded><![CDATA[
-
 The coupling strategies between multi‐physical fields and photoelectric effects in 2D material‐based photodetectors are systematically summarized in this review. It highlights the effects of their synergistic mechanisms on energy band structures, carrier dynamics, and device performance. The article concludes with future research directions, providing a roadmap for developing high‐performance intelligent optoelectronic devices.
 
 
@@ -464,7 +420,6 @@ The coupling strategies between multi‐physical fields and photoelectric effect
 Abstract
 2D materials possess exceptional carrier transport properties and mechanical stability despite their ultrathin nature. In this context, the coupling between polarization fields and photoelectric fields has been proposed to modulate the physical properties of 2D materials, including energy band structure, carrier mobility, as well as the dynamic processes of photoinduced carriers. These strategies have led to significant improvements in the performance, functionality, and integration density of 2D materials ‐based photodetectors. The present review introduces the coupling of photoelectric field with four fundamental polarization fields, delivered from dielectric, piezoelectric, pyroelectric, and ferroelectric effects, focusing on their synergistic coupling mechanisms, distinctive properties, and technological merits in advanced photodetection applications. More importantly, it sheds light on the new path of material synthesis and novel structure design to improve the efficiency of the coupling strategies in photodetectors. Then, research advances on the synergy of multi‐polarization effects and photoelectric effect in the domain of bionic photodetectors are highlighted. Finally, the review outlines the future research perspectives of coupling strategies in 2D materials‐based photodetectors and proposes potential solutions to address the challenges issues of this area. This comprehensive overview will guide futural fundamental and applied research that capitalizes on coupling strategies for sensitive and intelligent photodetection.
 ]]></content:encoded>
-<pubDate>Sun, 09 Mar 2025 23:50:52 -0700</pubDate>
 <pubDate>2025-03-09T11:50:52-07:00</pubDate>
 </item>
 <item>
@@ -472,7 +427,6 @@ Abstract
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414643?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414643?af=R</guid>
 <content:encoded><![CDATA[
-
 The ultraviolet laser irradiation is used to cut off the outer shell of double‐walled carbon nanotubes (DWCNTs). A velocity‐dependent intershell friction occurs between the outer and inner shells. This friction results from dynamic localized commensurate contacts. The friction‐induced intershell locking enhances the dynamic strength of DWCNTs to over 90 GPa, indicating that DWCNTs possess exceptional resistance to high‐velocity impacts.
 
 
@@ -485,7 +439,6 @@ The ultraviolet laser irradiation is used to cut off the outer shell of double�
 Abstract
 Low‐dimensional ultra‐strong nanomaterials have attracted great anticipation for applications under extreme dynamic conditions. A photocatalytic method is developed to selectively cut off the outer shell of double‐walled carbon nanotubes (DWCNTs), achieving non‐contact measurement of intershell friction with both high temporal and spatial resolutions at high sliding velocities under optical microscope. The intershell friction linearly increases with the sliding velocity, with a slope related to intershell distance and chirality of DWCNTs. The maximum measured friction reaches 194.1 ± 7.3 nN at a sliding velocity of 977 mm s−1, a value comparable to the tensile force (≈450 nN) for breaking the outer shell. Molecular dynamics simulations indicate that the velocity‐dependent intershell friction is related to dynamic localized commensurate contacts. The friction‐induced “intershell locking” enhances the effective dynamic strength of DWCNTs from 64.8 ± 3.4 GPa to 90.1 ± 4.0 GPa at a tensile strain rate of 3300 s−1. This study reveals anomalous friction mechanisms at nanoscale and demonstrates promising application of DWCNTs as ultra‐strong materials.
 ]]></content:encoded>
-<pubDate>Sun, 09 Mar 2025 23:50:18 -0700</pubDate>
 <pubDate>2025-03-09T11:50:18-07:00</pubDate>
 </item>
 <item>
@@ -493,7 +446,6 @@ Low‐dimensional ultra‐strong nanomaterials have attracted great anticipation
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419322?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419322?af=R</guid>
 <content:encoded><![CDATA[
-
 By proposing a single‐cell order‐decoupling method and simultaneously manipulating four‐dimensional optical parameters (Wavelength, Wavevector Direction, Polarization, and Diffraction Order), a meta‐optics storage system accomplishes multidimensional optical encryption. This system achieves up to sixteen‐channel multidimensional encrypted holographic images with high quality and exponentially raises the threshold of brute‐force decoding, and thus remarkably enhances information security in optical storage.
 
 
@@ -507,10 +459,8 @@ By proposing a single‐cell order‐decoupling method and simultaneously manipu
 Abstract
 Recent advancements in multidimensional multiplexing have paved the way for meta‐optics encryption to be a viable solution to next‐generation information storage and encryption security. However, challenges persist in increasing simultaneously modulated dimensions while minimizing structural complexity. Here, a novel single‐cell order‐decoupling method is proposed for the realization of a multidimensional encrypted meta‐optics storage system. By analyzing the mathematic relationships between the phases of different diffraction orders, the detour phase structure is optimized to achieve independent encoding freedom for multiple orders. The proposed multidimensional encrypted meta‐optics successfully realize the concurrent modulation of four optical dimensions: i) Wavelength, ii) Wavevector Direction, iii) Polarization, and iv) Diffraction Order. The system achieves up to sixteen‐channel meta‐holograms with low crosstalk and exponentially raises the threshold of brute‐force decoding and thus remarkably enhances the information security in optical storage. It envisioned that the on‐chip metasurface‐based multidimensional encrypted strategy for augmented reality display functionalities presents promising applications in optical encryption/storage, anti‐counterfeiting, and multifunctional photonics integrated circuits.
 ]]></content:encoded>
-<pubDate>Sun, 09 Mar 2025 23:44:23 -0700</pubDate>
 <pubDate>2025-03-09T11:44:23-07:00</pubDate>
 </item>
-
 <item>
 <title>Spontaneous Charging from Sliding Water Drops Determines the Interfacial Deposition of Charged Solutes</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420263?af=R</link>
@@ -18517,236 +18467,6 @@ In this study, B2O3 coating layer is used as a flux for Sb2Se3 recrystallization
 
 Abstract
 Crystallization process is critical for enhancing the crystallinity, regulating the crystal orientation of polycrystalline thin films, as well as repairing defects within the films. For quasi‐1D Sb2Se3 photovoltaic materials, the preparation of Sb2Se3 thin films still faces great challenges in adjusting orientation and defect properties, which limits the device performance. In this study, a novel post‐treatment strategy is developed that uses a low melting point B2O3 coating layer as a flux to drive the recrystallization of Sb2Se3, thereby regulating the micro‐orientation of thermal evaporation‐derived Sb2Se3 films and optimizing their electrical properties. Mechanistic investigations show that B2O3 exhibits stronger adsorption with (hk1) planes of Sb2Se3 to induce a vertical orientation growth of the film, while blocking the volatilization channels of Se and inhibiting Se vacancy defects by interacting with Sb2Se3. The Sb2Se3 film with [hk1] preferential orientation and suppressed deep‐level defects promotes the effective transport of charge carriers in solar cells. As a result, the B2O3‐treated device delivers a champion efficiency of 9.37% without MgF2 anti‐reflection coating, which is currently the highest efficiency in Sb2Se3 solar cells achieved by thermal evaporation method. This study provides a new method and mechanism for regulating optical and electrical properties of low‐dimensional inorganic thin films.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Laser‐Induced Regeneration of Spent LiMn2O4 Cathode Into High‐Performance Ni‐Doped LiMn2O4 Cathode</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416537?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416537?af=R</guid>
-<content:encoded><![CDATA[
-An efficient laser‐assisted regeneration process is developed to convert spent LiMn2O4 cathodes into performance‐enhanced, Ni‐doped cathodes. Surface Ni doping enhances interfacial processes and prevents capacity loss at lower temperatures by forming a new interface with a reduced charge transfer energy barrier. This innovative approach offers a sustainable solution for regenerating spent lithium‐ion battery cathodes.
-
-
-
-
-
-
-
-
-Abstract
-The rapid increase in lithium‐ion battery (LIB) production, fueled by the rise of electric vehicles, highlights significant challenges in managing end‐of‐life LIBs, particularly regarding environmental impact and waste management. Traditional recycling methods, such as pyrometallurgical and hydrometallurgical processes, are energy‐intensive and consume substantial reagents. In this study, a laser‐assisted regeneration method is introduced for LiMn2O4 (LMO) cathodes, enabling in situ Ni doping into spent LMO cathodes (r‐LMO‐Ni) to enhance electrochemical performance. Surface Ni‐doping improves interfacial processes and reduces capacity loss at lower temperatures by creating a new interface with a lower charge transfer energy barrier. The r‐LMO‐Ni cathode surpasses pristine LMO cathodes, achieving a specific capacity of 112.95 mA h g−1 at 1 C and retaining 95.1% of its capacity after 200 cycles at 0 °C. A techno‐economic analysis supports the feasibility of this laser‐assisted regeneration approach, offering an innovative pathway for upcycling spent cathodes and developing next‐generation Mn‐based cathodes.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Synthesis of Highly Anisotropic 2D Insulator CrOCl Nanosheets for Interfacial Symmetry Breaking in Isotropic 2D Semiconductors</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202405358?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202405358?af=R</guid>
-<content:encoded><![CDATA[
-Highly anisotropic 2D insulator CrOCl nanosheets are synthesized via space‐confined chemical vapor deposition growth. A MoS2/CrOCl heterostructure with single‐mirror symmetry stacking and ultrastrong interfacial coupling is built to realize interfacial symmetry breaking, which endows its device with polarization‐sensitive photodetection and bulk photovoltaic effect. This study opens new prospects for exploring CrOCl‐based physics and electronics via symmetry engineering.
-
-
-
-
-
-
-
-
-
-Abstract
-Chromium oxychloride (CrOCl), a van der Waals antiferromagnetic insulator, has attracted significant interest in 2D optoelectronic, ferromagnetic, and quantum devices. However, the bottom–up preparation of 2D CrOCl remains challenging, limiting its property exploration and device application. Herein, the controllable synthesis of 2D CrOCl crystals by chemical vapor deposition is demonstrated. The combination reaction of precursors together with the space‐confined growth strategy, providing stable and stoichiometric growth conditions, enable a robust synthesis of high‐crystallinity CrOCl nanosheets with regular rhombus‐like morphology and uniform thickness. By tuning the growth temperature from 675 to 800 °C, the thickness of CrOCl nanosheets can be continuously modulated from 10.2 to 30.8 nm, with the domain size increasing from 16.9 to 25.5 µm. The as‐grown CrOCl nanosheets exhibit significant structural/optical anisotropy, ultrahigh insulativity, and superior air stability. Furthermore, a MoS2/CrOCl heterostructure with single‐mirror symmetry stacking and ultrastrong interfacial coupling is built to realize interfacial symmetry breaking, a novel interface phenomenon that converts MoS2 from isotropy to anisotropy. Consequently, the MoS2/CrOCl heterostructure device achieves polarization‐sensitive photodetection and bulk photovoltaic effect, which are nonexistent in high‐symmetry 2D materials. This work paves the way for the future exploration of CrOCl‐based 2D physics and devices via symmetry engineering.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>A Neuronal Signal Sorting and Amplifying Nanosensor for EEG‐Concordant Imaging‐Guided Precision Epilepsy Ablation</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408864?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408864?af=R</guid>
-<content:encoded><![CDATA[
-A neuronal signal sorting and amplifying nanosensor integrates real‐time, dynamically reversible potassium ion (K⁺) fluorescence imaging (FI) with high‐resolution structural magnetic resonance imaging (MRI). This enables electroencephalogram‐concordant imaging of hidden epileptic foci and guides minimally invasive radiofrequency ablation on mice with drug‐resistant focal epilepsy, resulting in sustained seizure control and improved cognitive outcomes.
-
-
-
-
-
-
-
-
-
-Abstract
-Surgery remains an essential treatment for managing drug‐resistant focal epilepsy, but its accessibility and efficacy are limited in patients without distinct structural abnormalities on magnetic resonance imaging (MRI). Potassium ion (K+), a critical marker for seizure‐associated neuronal signaling, shows significant promise for designing sensors targeting hidden epileptic foci. However, existing sensors cannot cross the blood‐brain barrier and lack the ability to specifically enrich and amplify K+ signals in the brain with high temporal and spatial resolution. Here, an intravenously administered neuronal signal sorting and amplifying nanosensor (NSAN) is reported that combines real‐time dynamic reversible K+ fluorescence imaging with high‐resolution structural MRI, enabling electroencephalogram‐concordant imaging of MRI‐negative epileptic foci. Guided by NSANs, minimally invasive surgery is successfully performed in both intrahippocampal kainic acid (KA) epilepsy model with foci confined to the ipsilateral hippocampus, and intraperitoneal KA model where foci are randomly distributed, resulting in sustained seizure control and cognitive improvement. These findings highlight the NSAN as a transformative tool for visualizing hidden epileptic foci, thereby broadening eligibility for minimally invasive and precision surgical intervention.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Synergistic Multimodal Energy Dissipation Enhances Certified Efficiency of Flexible Organic Photovoltaics beyond 19%</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411989?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411989?af=R</guid>
-<content:encoded><![CDATA[
-By combining multimodal energy dissipation and phase modulation in active layer films, the mechanical and photovoltaic properties of flexible electronics are innovatively co‐developed to achieve a certified power conversion efficiency (PCE) of 19.07%, which is the highest PCE reported for flexible organic photovoltaic device to date.
-
-
-
-
-
-
-
-
-Abstract
-All‐polymer organic solar cells (OSCs) have shown unparalleled application potential in the field of flexible wearable electronics in recent years due to the excellent mechanical and photovoltaic properties. However, the small molecule acceptors after polymerization in still retain some mechanical and aggregation properties of the small molecule, falling short of the ductility requirements for flexible devices. Here, based on the multimodal energy dissipation theory, the mechanical and photovoltaic properties of flexible devices are co‐enhanced by adding the thermoplastic elastomer material (polyurethane, PU) to the PM6:PBQx‐TF:PY‐IT‐based active layer films. The construction of multi‐fiber network structure and the decrease of films’ residual stresses contribute to the enhancement of carrier transport properties and the decrease of defect state density. Eventually, the PCE (power conversion efficiency) of 19.40% is achieved on the flexible devices with an effective area of 0.102 cm2, and the third‐party certified PCE reaches 19.07%, which is the highest PCE for flexible OSCs currently available. To further validate the potential of this strategy for large‐area module applications, the 25‐cm2‐based flexible and super‐flexible modules are prepared with the PCEs of 15.48% and 14.61%, respectively, and demonstration applications are implemented.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>High Efficiency (>10%) AgBiS2 Colloidal Nanocrystal Solar Cells with Diketopyrrolopyrrole‐Based Polymer Hole Transport Layer</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413081?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413081?af=R</guid>
-<content:encoded><![CDATA[
-A new BD2FCT material is developed as an advanced HTL tailored for AgBiS2 CNC solar cells through precise molecular engineering. This new polymer effectively reduces charge recombination at the CNC/HTL interfaces, thereby leading to enhanced charge extraction. Incorporation of the IEICO‐4F into BD2FCT further improves charge funneling and absorption, resulting in a notable 10.1% PCE for AgBiS2 CNC solar cells.
-
-
-
-
-
-
-
-
-Abstract
-Silver bismuth disulfide (AgBiS2) colloidal nanocrystals (CNCs) have emerged as ecofriendly photoactive materials with excellent photoconductivity and high absorption coefficients, in compliance with the restriction of hazardous substances (RoHS) guidelines. To maximize the theoretical potential of AgBiS2 CNC solar cells, a new diketopyrrolopyrrole (DPP)‐based polymer, BD2FCT, optimized as a hole transport layer (HTL), is developed. This asymmetric thiophene‐rich polymer HTL effectively complements the optical absorption spectrum of CNCs and forms a homogeneous layer atop the CNCs, facilitating favorable vertical charge transfer through intrinsic molecular packing. Furthermore, the BD2FCT HTL aligns energetically with AgBiS2, significantly reducing charge recombination at the CNC/HTL interfaces and enhancing charge extraction and photocurrent generation across the entire optical absorption spectrum. These characteristics are further optimized through precise molecular engineering. Additionally, a low‐bandgap acceptor, IEICO‐4F, is structurally incorporated with the BD2FCT polymer to further improve charge funneling and complementary absorption. Transient absorption spectroscopy reveals enhanced hole transfer from CNC to BD2FCT‐29DPP:IEICO‐4F, resulting in reduced charge recombination and efficient charge extraction. Consequently, a BD2FCT‐based AgBiS2 CNC solar cell achieves a power conversion efficiency (PCE) of 10.1%, demonstrating significant improvements in short‐circuit current density (JSC) and fill factor (FF).
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Retroreflective Multichrome Microdome Arrays Created by Single‐Step Reflow</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413143?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413143?af=R</guid>
-<content:encoded><![CDATA[
-Arrays of microdomes with varying radii are formed by transforming micropillars made of the positive photoresist through a single‐step reflow process. These inverted microdomes exhibit radius‐dependent structural colors via total internal reflection and optical interference. By controlling the density and size of the microdomes, retroreflective multicolor graphics are achieved with exceptional color representation and resolution.
-
-
-
-
-
-
-
-
-Abstract
-Structural colors are known for their tunability, fade resistance, and eco‐friendliness. Recent advancements have shown that such colors can be efficiently produced using total internal reflection (TIR) on high‐refractive‐index convex microstructures without the need for periodic nanostructures. However, a reproducible, fast, and programmable production strategy for these microstructures is essential for commercial applications. Here, a single‐step method is reported for creating multicolor patterns by transforming photolithographically‐patterned micropillars into microdomes through thermal reflow. These micropillars, uniform in height but varying in diameter, are converted into microdomes that differ in diameter and height, which display a full spectrum of structural colors, creating a versatile color palette. This process enables the production of high‐resolution multicolor graphics using a rainbow color set, with high reproducibility. Additionally, by mixing distinct microdomes and adjusting their densities, a rich variety of color presentations can be achieved, enabling the recreation of arbitrary color images with microdome arrays. The variable heights of the microdomes also allow for dynamic discoloration or color changes through mechanical compression. The high reproducibility and scalability of this method hold significant commercial promise for various optical applications.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Self‐Healing Yet Strong Actuator Materials with Muscle‐Like Diastole and Contraction via Multilevel Relaxations</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413194?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413194?af=R</guid>
-<content:encoded><![CDATA[
-A mechanical robust and healable actuator material with muscle‐like diastole and contraction abilities is fabricated by orientational alignment of dendritic polyphenol‐modified nano‐assembles in eutectogels. The anisotropic hierarchical micro‐nanostructures assembled by supramolecular interaction endow obtained artificial muscle with high output actuation and robust mechanical properties, exceeding typical natural muscles, which pave the way for advancements in next‐generation intelligent robotics.
-
-
-
-
-
-
-
-
-Abstract
-Skeletal muscles represent a role model in soft robotics featuring agile locomotion and incredible mechanical robustness. However, existing actuators lack an optimal combination of actuation parameters (including actuation modes, work capacity, mechanical strength, and damage repair) to rival biological tissues. Here, a biomimetic structural design strategy via multilevel relaxations (α/β/γ/δ‐relaxation) modulation is proposed for mechanical robust and healable actuator materials with muscle‐like diastole and contraction abilities by orientational alignment of dendritic polyphenol‐modified nano‐assembles in eutectogels. The anisotropic hierarchical micro‐nanostructures assembled by supramolecular interaction mimic the relative slippage of actin filaments and myosin in muscles, ensuring bistable actuation through rapid thermal α‐relaxation and expansion. Furthermore, kinetically active secondary β/γ/δ‐relaxation at reconfigurable interfaces can conquer the limited self‐healing ability of fixed‐orientation polymeric chains. The obtained artificial muscle exhibits high output actuation, robust mechanical properties (tensile strength of 33.5 MPa), and desired functional, mechanical self‐healing efficiency (89.7%), exceeding typical natural muscles in living systems. The bionic micro‐nano design strategy achieves bottom‐up cooperative relaxation modulation to integrate all‐round performance of natural muscles, which paves the way for substantial advancements in next‐generation intelligent robotics.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Breaking the Trade‐Off Between Mobility and On–Off Ratio in Oxide Transistors</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413212?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413212?af=R</guid>
-<content:encoded><![CDATA[
-Mild CF4 plasma is introduced to resolve the trade‐off between mobility and the on‐current (Ion)/off‐current (Ioff) ratio  in degenerate oxide semiconductors without the need for thermal annealing. This technique effectively reduces carrier density, achieving a high Ion/Ioff ratio (10⁸) while preserving high mobility (104 cm2 V−1s−1) of thick In2O3 transistors, leading to enhanced switching performance and making it ideal for three‐dimensional integration in advanced electronic devices.
-
-
-
-
-
-
-
-
-Abstract
-Amorphous oxide semiconductors (AOS) are pivotal for next‐generation electronics due to their high electron mobility and excellent optical properties. However, In2O3, a key material in this family, encounters significant challenges in balancing high mobility and effective switching as its thickness is scaled down to nanometer dimensions. The high electron density in ultra‐thin In2O3 hinders its ability to turn off effectively, leading to a critical trade‐off between mobility and the on‐current (Ion)/off‐current (Ioff) ratio. This study introduces a mild CF4 plasma doping technique that effectively reduces electron density in 10 nm In2O3 at a low processing temperature of 70 °C, achieving a high mobility of 104 cm2 V⁻¹ s⁻¹ and an Ion/Ioff ratio exceeding 10⁸. A subsequent low‐temperature post‐annealing further improves the critical reliability and stability of CF4‐doped In2O3 without raising the thermal budget, making this technique suitable for monolithic three‐dimensional (3D) integration. Additionally, its application is demonstrated in In2O3 depletion‐load inverters, highlighting its potential for advanced logic circuits and broader electronic and optoelectronic applications.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Asymmetric Structural MXene/PBO Aerogels for High‐Performance Electromagnetic Interference Shielding with Ultra‐Low Reflection</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414085?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414085?af=R</guid>
-<content:encoded><![CDATA[
-By means of in situ growth method, heterostructure MXene@Ni electromagnetic functional fillers with good impedance matching performance are prepared by “electrostatic adsorption‐solvothermal reduction”. And the obtained asymmetric structural (MXene@Ni/PNF)‐(MXene/PNF) aerogels prepared by layer‐by‐layer freeze‐drying based on the layered modular design concept present high‐performance electromagnetic interference shielding with ultra‐low reflection and infrared camouflage.
-
-
-
-
-
-
-
-
-Abstract
-Electromagnetic interference (EMI) shielding materials with low electromagnetic (EM) waves reflection characteristics are ideal materials for blocking EM radiation and pollution. Materials with low reflectivity must be constructed using materials with excellent EM waves absorption properties. However, materials simultaneously possessing both low reflectivity and excellent EMI shielding performance remain scarce, consequently, multilayer structures need to be developed. Poly(p‐phenylene–2,6–benzobisoxazole) nanofibers (PNF) are prepared by deprotonation. PNF are combined with MXene and heterostructure MXene@Ni prepared by in‐situ growth; MXene@Ni/PNF acts as an EM absorption layer while MXene/PNF acts as an EM reflective layer. Finally, (MXene@Ni/PNF)–(MXene/PNF) aerogels are prepared by layer‐by‐layer freeze‐drying based on the layered modular design concept. Experimental characterizations revealed that (MXene@Ni/PNF)–(MXene/PNF) aerogels enable the efficient absorption‐reflection‐reabsorption of EM waves, effectively eliminating EMI. When the mass ratio of MXene to Ni in MXene@Ni is 1:6 and the mass fraction of MXene in the reflective layer is 80 wt.%, the (MXene@Ni/PNF)–(MXene/PNF) aerogels exhibit excellent EMI shielding performance (71 dB) and a very low reflection coefficient (R = 0.10). Finite element simulations verified that the developed asymmetric structural aerogels achieve high EMI shielding performance with low reflection characteristics. In addition, (MXene@Ni/PNF)–(MXene/PNF) aerogels display excellent infrared camouflage ability.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Structure‐Induced Energetic Coordination Compounds as Additives for Laser Initiation Primary Explosives</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414886?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414886?af=R</guid>
-<content:encoded><![CDATA[
-Energetic coordination compounds (ECCs) are first used as additives to lead azide (LA) to design laser ignition primary explosives. These laser‐sensitive mixed composites exhibit remarkable initiating ability, extremely low laser initiation threshold (Emin), fast response times (Tmin), and acceptable stabilities. The strategy can broaden new application scenarios and unveil new perspectives for coordination compounds as additives in advanced laser pyrotechnics for aerospace applications.
-
-
-
-
-
-
-
-
-Abstract
-Laser ignition of primary explosives presents more reliable alternative to traditional electrical initiation methods. However, the commercial initiator lead azide (LA) requires a high‐power density laser to detonate, with the minimum laser initiation energy (Emin) of 2402 mJ. Currently, the laser‐ignitable metal complex‐based igniters still suffer from weak detonation capabilities and high Emin values. Here, the approach is first proposed to design laser ignition primary explosives within the high energy azide and tetrazole‐based energetic coordination compounds (ECCs), [Co(N3)(2‐bmttz)(H2O)]2 1 and [Co(N3)(2‐bmttz)(MeOH)]2 2 as additives to LA. Material 1e with 4 wt.% of 1 in LA, exhibits ultra‐low laser initiation threshold (Emin = 1.6 mJ) and ultrafast corresponding time (Tmin = 0.2 ms). Specially, compared to LA, the threshold of 1e is as low as 1/1500 of that of LA. Moreover, 30 mg 1e successfully detonates RDX with a laser energy of 1.6 mJ. Theoretical calculations and experiment results reveal that 1 exhibits the superior additive effect compared to 2, attributed to its more enhanced ability to generate free radicals and higher photothermal conversion efficiency under laser conditions. This work represents a paradigm shift, with the potential to develop a laser‐driven micro‐detonator combining powerful detonation capabilities with exceptionally low laser initiation energy.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Hollow Mo/MoSVn Nanoreactors with Tunable Built‐in Electric Fields for Sustainable Hydrogen Production</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415269?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415269?af=R</guid>
-<content:encoded><![CDATA[
-The built‐in electric fields (BIEFs) in the hollow Mo/MoSVn nanoreactors can be gradiently modulated via tailoring the sulfur vacancies, and exhibit parabola‐shaped relationship with HER and UOR activities. Moderate BIEF evidently facilitates the hydrogen desorption in the HER and the breakage of N─H bond in the UOR, endowing the Mo/MoSV1 electrolyzer with superior activity and durability.
-
-
-
-
-
-
-
-
-Abstract
-Constructing built‐in electric field (BIEF) in heterojunction catalyst is an effective way to optimize adsorption/desorption of reaction intermediates, while its precise tailor to achieve efficient bifunctional electrocatalysis remains great challenge. Herein, the hollow Mo/MoSVn nanoreactors with tunable BIEFs are elaborately prepared to simultaneously promote hydrogen evolution reaction (HER) and urea oxidation reaction (UOR) for sustainable hydrogen production. The BIEF induced by sulfur vacancies can be modulated from 0.79 to 0.57 to 0.42 mV nm−1, and exhibits a parabola‐shaped relationship with HER and UOR activities, the Mo/MoSV1 nanoreactor with moderate BIEF presents the best bifunctional activity. Theoretical calculations reveal that the moderate BIEF can evidently facilitate the hydrogen adsorption/desorption in the HER and the breakage of N─H bond in the UOR. The electrolyzer assembled with Mo/MoSV1 delivers a cell voltage of 1.49 V at 100 mA cm−2, which is 437 mV lower than that of traditional water electrolysis, and also presents excellent durability at 200 mA cm−2 for 200 h. Life cycle assessment indicates the HER||UOR system possesses notable superiority across various environment impact and energy consumption. This work can provide theoretical and experimental direction on the rational design of advanced materials for energy‐saving and eco‐friendly hydrogen production.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>2D Conjugated Metal‐Organic Frameworks for New Generation Flexible Multicolor Electrochromic Devices</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413452?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413452?af=R</guid>
-<content:encoded><![CDATA[
-2D conductive conjugated MOFs (2D c‐MOFs) are introduced as a novel class of multicolor electrochromic materials with significant potential for the next‐generation flexible electrochromic devices (FMEDs). This perspective provides new insights into the coloring mechanisms and presents strategies for optimizing device performance, highlighting potential multidisciplinary applications in camera lenses, camouflage, displays, and wearable electronics.
-
-
-
-
-
-
-
-
-Abstract
-There has been considerable interest in 2D conductive conjugated MOFs (2D c‐MOFs) for their potential applications in sensors, opto‐electronics, catalysis, and energy storage, owing to their ultra‐high specific surface area, relatively high electrical conductivity, and tunable pore channel sizes for ion/charge diffusion/adsorption. The unique advantages brought by systematic tunings in the metal nodes and organic ligands enable the creation of highly accessible and remarkable structures with diverse chemical and physical behaviors. While the 2D c‐MOFs are being explored for the rapid widening spectrum of applications, in this work, the great potential of multicolor transitions and functional properties of these 2D c‐MOFs are examined for the new generation of flexible multicolor electrochromic devices (FMEDs). Despite the rather limited and yet steady progress that has been made so far, 2D c‐MOFs offer great opportunities in addressing the monotonous color switching, undesirable stability, as well as the sluggish kinetics of electron/ion transportation, which are typically encountered by the conventional electrochromic materials. Together with the main challenges that are being faced, this perspective provides a timely re‐visit to the expected transition in the near future from the proof‐of‐concept demonstration to the eventual industrial‐scale implementation of 2D c‐MOFs in the new generation FEMDs.
 ]]></content:encoded>
 <pubDate>2025-02-05T03:00:41-08:00</pubDate>
 </item>
