@@ -2044,3 +2044,14 @@ Existing_entries: 390
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-11 14:18:31.018435
+------------------------------------------------------
+Started: 2025-03-11 16:24:10.899448
+Existing_entries: 390
+Fetching from https://www.nature.com/nature.rss
+Append: [Complex water networks visualized by cryogenic electron microscopy of RNA](https://www.nature.com/articles/s41586-025-08855-w)
+Append: [Author Correction: Classification with a disordered dopant atom network in silicon](https://www.nature.com/articles/s41586-025-08803-8)
+Append: [An organ that stores red blood cells for emergencies](https://www.nature.com/articles/d41586-025-00732-w)
+Append: [NASA begins mass firings of scientists ahead of Trump team’s deadline](https://www.nature.com/articles/d41586-025-00756-2)
+Append: [Preprint sites bioRxiv and medRxiv launch new era of independence](https://www.nature.com/articles/d41586-025-00762-4)
+append_entries: 5
+Finish: 2025-03-11 16:24:11.246753
