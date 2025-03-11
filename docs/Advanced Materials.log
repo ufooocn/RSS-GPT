@@ -2680,3 +2680,14 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-11 06:26:01.574097
+------------------------------------------------------
+Started: 2025-03-11 10:20:10.315252
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Modulation of Near‐Infrared Afterglow Luminescence in Inorganic Nanomaterials for Biological Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419349?af=R)
+Append: [Skin‐Inspired and Self‐Regulated Hydrophobic Hydrogel for Diabetic Wound Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414989?af=R)
+Append: [Achieving Zero Leakage, Ultralong Lifespan, and Intrinsic Opening Sensing in Microvalves Through Structural Superlubrication and Triboelectric Nanogenerator Technologies](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416132?af=R)
+append_entries: 3
+Finish: 2025-03-11 10:20:12.253848
