@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Modulation of Near‐Infrared Afterglow Luminescence in Inorganic Nanomaterials for Biological Applications</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419349?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419349?af=R</guid>
 <content:encoded><![CDATA[
-
 Near‐infrared afterglow luminescent inorganic nanomaterials (NIR‐ALINs) are fascinating due to their optical property of continuing to emit near‐infrared luminescence after excitation ceases. This review highlights recent progress in the rational design, modulation strategies and biological applications of NIR‐ALINs. The challenges and opportunities in this field are discussed with the aim of stimulating further developments in biological applications using NIR‐ALINs.
 
 
@@ -22,7 +22,6 @@ Near‐infrared afterglow luminescent inorganic nanomaterials (NIR‐ALINs) are 
 Abstract
 Near‐infrared afterglow luminescent inorganic nanomaterials (NIR‐ALINs) possess the unique property of continuing to emit near‐infrared (NIR) luminescence after excitation ceases. They demonstrate excellent photostability, deep tissue penetration, and high imaging signal‐to‐noise ratio (SNR). Additionally, NIR‐ALINs can be re‐excited in vivo using visible (Vis), NIR light or X‐rays, which avoids the need for continuous in situ excitation, thus eliminating autofluorescence of biological tissues and reducing the tediousness of multiple injections. These features make NIR‐ALINs particularly attractive for biological applications. In recent years, a series of NIR‐ALINs with prolonged afterglow time and enhanced luminescence intensity have been discovered. However, the development of NIR‐ALINs still faces significant challenges, as their NIR afterglow performance is usually insufficient to satisfy practical biological applications. There is still a lack of systematic analysis of the strategies for the regulation of NIR afterglow luminescence in inorganic nanomaterials. This review highlights the rational design and modulation strategies of NIR‐ALINs, focusing on host substrate selection, trap engineering modulation and surface modification. Moreover, the biological applications of NIR‐ALINs in bioimaging, bio‐detection and disease therapy are summarized. Finally, the present challenges and perspectives in biological applications, such as insufficient afterglow properties and unclear biosafety, are also discussed.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 06:44:43 -0700</pubDate>
 <pubDate>2025-03-10T06:44:43-07:00</pubDate>
 </item>
 <item>
@@ -30,7 +29,6 @@ Near‐infrared afterglow luminescent inorganic nanomaterials (NIR‐ALINs) poss
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414989?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414989?af=R</guid>
 <content:encoded><![CDATA[
-
 A skin‐mimetic smart hydrophobic hydrogel is developed for efficient diabetic wound therapy. Thehydrophobic segments form dense “epidermis”, ensuring prolonged drug diffusion, long‐term water retention, and high water content. Meanwhile, the responsive segments generate glucose‐labile “sweat pores”, facilitating on‐demand drug release to remodel the hostile wound microenvironment.
 
 
@@ -43,7 +41,6 @@ A skin‐mimetic smart hydrophobic hydrogel is developed for efficient diabetic 
 Abstract
 Diabetic wounds are refractory and recurrent diseases that necessitate the development of multifunctional dressings. Inspired by the structure and function of the skin, we herein delicately design a novel swollen hydrophobic hydrogel (QL@MAB) composed of hydrophobic methyl acrylate (MA) and (3‐acrylamidophenyl)boronic acid (AAPBA) network and co‐loaded with antioxidant quercetin (Q) and antibiotic levofloxacin (L) for efficient diabetic wound therapy. The hydrophobic MA segments undergo phase separation to form a dense “epidermis”, ensuring prolonged drug diffusion, long‐term water retention, and high water content. Meanwhile, the AAPBA segments generate glucose‐labile “sweat pores” via borate ester bonds with the polyphenol drug Q. Upon encountering the hyperglycemic wound microenvironment, the “sweat pores” are dilated due to the cleavage of the borate ester bonds and exposure of the diffusion channel, facilitating drug release for accelerated wound healing. In the infected diabetic rats, QL@MAB achieves rapid wound debridement and re‐epithelization while promoting angiogenesis, hair follicle regeneration, and extracellular matrix remodeling. Taken together, this study not only represents a multipronged dressing for effective interventions of diabetic wounds but also contributes to the rational design of smart hydrogels tailored for biomedical applications.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 01:04:51 -0700</pubDate>
 <pubDate>2025-03-10T01:04:51-07:00</pubDate>
 </item>
 <item>
@@ -51,7 +48,6 @@ Diabetic wounds are refractory and recurrent diseases that necessitate the devel
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416132?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416132?af=R</guid>
 <content:encoded><![CDATA[
-
 Zero leakage, ultralong lifespan, and intrinsic opening sensing are achieved in microvalves, making it feasible to develop high‐performance fluid operation chips and integrated drive‐control systems, which promote the miniaturization, integration, and flexibility of pneumatic flexible robots and human‐machine interaction devices.
 
 
@@ -64,10 +60,8 @@ Zero leakage, ultralong lifespan, and intrinsic opening sensing are achieved in 
 Abstract
 Valves are critical components in advanced fluid control systems (AFCS) and play a vital role in applications such as soft robotics and medical devices. Traditional mechanical valves often suffer from issues such as leakage and wear, which compromise the efficiency and precision of air‐driven systems. Here, a superlubricity microvalve (SLMV) is developed with characteristics of zero leakage, ultralong lifespan, and self‐sensing capabilities. The SLMV demonstrates zero helium leakage at pressures exceeding 0.9 MPa, and remains defect‐free after one million collision tests and 5000 reciprocating sliding friction tests. Additionally, the valve features self‐powered sensing that can detect its own open status, and thus enhances the self‐feedback control. AFCS equipped with SLMVs may significantly improve the flexibility and functionality of pneumatic robots, facilitating the development of implantable drug delivery devices that are more durable, compact, safe, and reliable.
 ]]></content:encoded>
-<pubDate>Mon, 10 Mar 2025 01:01:39 -0700</pubDate>
 <pubDate>2025-03-10T01:01:39-07:00</pubDate>
 </item>
-
 <item>
 <title>Machine‐Learning‐Enhanced Trial‐and‐Error for Efficient Optimization of Rubber Composites</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202407763?af=R</link>
@@ -18473,63 +18467,6 @@ This study designes a gradient crown on the side facets of CdSe nanoplatelets to
 
 Abstract
 Anisotropic nanoplatelets (NPLs) possess strong in‐plane transition dipole moments and out‐of‐plane emission, which enable a maximum photon out‐coupling efficiency of 40% and a high gain coefficient, making them ideal candidates for light‐emitting diodes (LEDs) and lasers. However, the unbalanced surface energy between the side and top facets of NPLs results in poor thermal stability and high susceptibility to ripening at elevated temperatures, which complicates the growth of the shell. To address this issue, a gradient crown (CdSeS) around the CdSe NPLs is designed to stabilize the high energy side facets. Consequently, the gradient alloyed shell (CdZnS) is successfully grown, and the CdSe/CdSeS/CdZnS core/crown/shell NPLs exhibited near‐unity photoluminescence quantum yield. The CdSeS/CdZnS crown/shell structure suppressed non‐radiative Auger recombinations, achieving a record‐low amplification spontaneous emission threshold of 2.11 µJ cm−2 under femtosecond laser excitation. In addition, by selecting the carrier transport layers with matched energy levels, the NPL‐LEDs demonstrate a record‐high external quantum efficiency of 30.1% in the pure‐red range, driven by the 94% in‐plane transition dipole moment distribution of NPL film. The NPL‐LEDs also exhibited a long operational lifetime of T95 > 600 h at a luminance of 1000 cd m−2.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Synergizing Plasmonic Local Heating and 3D Nanostructures to Boost the Solar‐to‐Vapor Efficiency Beyond 100%</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415655?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415655?af=R</guid>
-<content:encoded><![CDATA[
-A self‐floating plasmonic sponge that harvests full‐solar‐spectrum light for highly efficient water purification.
-
-
-
-
-
-
-
-
-Abstract
-Solving the global challenge of freshwater scarcity is of great significance for over one billion people in the world. Solar water evaporation based on plasmonic nanostructures is one of the most promising technologies due to its high efficiency. However, the efficiency of this plasmonic nanostructure‐based technology can hardly achieve 100%. Therefore, it is highly desired to develop new solar converters utilizing plasmonic local heating and reasonable structure design to break the limit of solar‐to‐vapor efficiency for freshwater production. Here, a plasmonic sponge is developed as a solar evaporation converter with excellent full‐solar‐spectrum absorption, good heat localization performance, and fast evaporation kinetics through 3D nanostructures, achieving a 131% solar‐to‐vapor efficiency. Distinct from the traditional 2D localized heating‐based evaporation and nonmetallic 3D water evaporation, the 3D plasmonic sponge can simultaneously achieve highly efficient local heating and super large water–air interfaces for boosting solar‐to‐vapor efficiency. The 3D plasmonic sponge can be also used as a universal converter for purifying seawater, metal ion solutions, organic pollutant solutions, and strong acid and strong alkaline solutions. The full‐solar‐spectrum absorption, high efficiency, and universality in water purification suggest that the novel 3D plasmonic solar converter can bring a significant way to alleviate the crisis of freshwater resources.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Bias‐Switchable Photodetection and Photosynapse Dual‐Functional Devices Based on 2D Perovskite/Organic Heterojunction for Imaging‐to‐Recognition Conversion</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416033?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416033?af=R</guid>
-<content:encoded><![CDATA[
-Optoelectronic devices integrating visual imaging and recognition functions are achieved by employing 2D perovskite oxide/organic heterojunction. Through switching bias to modulate carrier and oxygen vacancy dynamics, the device exhibits photodetection property at zero bias and photosynaptic property at negative bias. This work provides a novel strategy to achieve low‐power consumption, easy‐switchable and functional integrated optoelectronic devices for artificial visual system.
-
-
-
-
-
-
-
-
-Abstract
-Optoelectronic devices with imaging and recognition capabilities are crucial for developing artificial visual system (AVS). Bias‐switchable photodetection and photosynaptic devices have been developed using 2D perovskite oxide/organic heterojunctions. This unique structure allows for modulated carrier dynamics under varied bias conditions, enabling the devices to function as photodetectors without bias and as photosynapses with bias. At zero bias, the device achieves high responsivity (≈0.36 A W−1 at 320 nm) and rapid response speed (0.57 s). Under a −0.5 V bias, it exhibits persistent photoconductivity (PPC), resulting in neuromorphic synaptic behaviors with a paired‐pulse facilitation (PPF) index exceeding 300%. Moreover, an 8 × 8 sensor array demonstrates image sensing and memory capabilities, showing in situ enhanced imaging when switching the bias from 0 to −0.5 V, and over 200 s of image memory. The image processing and recognition abilities are further explored by constructing an AVS using a 28 × 28 device array combined with an artificial neural network (ANN). The adjustable synaptic weight under different reverse biases allowed for optimized simulated recognition, achieving an accuracy of 92% after 160 training epochs. This work presents a novel method for creating dual‐functional photodetection and photosynaptic devices, paving the way for a more integrated and efficient AVS.
-]]></content:encoded>
-<pubDate>2025-02-05T03:00:41-08:00</pubDate>
-</item>
-<item>
-<title>Boron Trioxide‐Assisted Post‐Annealing Enables Vertical Oriented Recrystallization of Sb2Se3 Thin Film for High‐Efficiency Solar Cells</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416083?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416083?af=R</guid>
-<content:encoded><![CDATA[
-In this study, B2O3 coating layer is used as a flux for Sb2Se3 recrystallization, inducing a vertical orientation growth of the film while suppressing the defect of Se vacancies. The orientation control and passivation of defects enables efficient transport of carriers, resulting in the highest efficiency in Sb2Se3 solar cells fabricated by thermal evaporation method.
-
-
-
-
-
-
-
-
-Abstract
-Crystallization process is critical for enhancing the crystallinity, regulating the crystal orientation of polycrystalline thin films, as well as repairing defects within the films. For quasi‐1D Sb2Se3 photovoltaic materials, the preparation of Sb2Se3 thin films still faces great challenges in adjusting orientation and defect properties, which limits the device performance. In this study, a novel post‐treatment strategy is developed that uses a low melting point B2O3 coating layer as a flux to drive the recrystallization of Sb2Se3, thereby regulating the micro‐orientation of thermal evaporation‐derived Sb2Se3 films and optimizing their electrical properties. Mechanistic investigations show that B2O3 exhibits stronger adsorption with (hk1) planes of Sb2Se3 to induce a vertical orientation growth of the film, while blocking the volatilization channels of Se and inhibiting Se vacancy defects by interacting with Sb2Se3. The Sb2Se3 film with [hk1] preferential orientation and suppressed deep‐level defects promotes the effective transport of charge carriers in solar cells. As a result, the B2O3‐treated device delivers a champion efficiency of 9.37% without MgF2 anti‐reflection coating, which is currently the highest efficiency in Sb2Se3 solar cells achieved by thermal evaporation method. This study provides a new method and mechanism for regulating optical and electrical properties of low‐dimensional inorganic thin films.
 ]]></content:encoded>
 <pubDate>2025-02-05T03:00:41-08:00</pubDate>
 </item>
