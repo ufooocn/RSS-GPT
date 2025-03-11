@@ -2068,3 +2068,10 @@ Existing_entries: 396
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-11 20:19:42.669607
+------------------------------------------------------
+Started: 2025-03-11 22:16:39.986580
+Existing_entries: 396
+Fetching from https://www.nature.com/nature.rss
+Append: [Bad romance: male octopuses inject deadly venom into their mates](https://www.nature.com/articles/d41586-025-00708-w)
+append_entries: 1
+Finish: 2025-03-11 22:16:40.360700
