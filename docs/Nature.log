@@ -2055,3 +2055,10 @@ Append: [NASA begins mass firings of scientists ahead of Trump team’s deadline
 Append: [Preprint sites bioRxiv and medRxiv launch new era of independence](https://www.nature.com/articles/d41586-025-00762-4)
 append_entries: 5
 Finish: 2025-03-11 16:24:11.246753
+------------------------------------------------------
+Started: 2025-03-11 18:25:57.655379
+Existing_entries: 395
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Transforming a head direction signal into a goal-oriented steering command](https://www.nature.com/articles/s41586-024-08245-8)
+append_entries: 1
+Finish: 2025-03-11 18:25:58.047611
