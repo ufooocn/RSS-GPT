@@ -2182,3 +2182,10 @@ Append: [Fresh ‘quantum advantage’ claim made by computing firm D-Wave](http
 Append: [Daily briefing: NASA begins mass firings of scientists](https://www.nature.com/articles/d41586-025-00774-0)
 append_entries: 40
 Finish: 2025-03-12 18:25:55.656146
+------------------------------------------------------
+Started: 2025-03-12 20:19:49.370123
+Existing_entries: 444
+Fetching from https://www.nature.com/nature.rss
+Append: [How fast your brain ages is affected by these 64 genes](https://www.nature.com/articles/d41586-025-00766-0)
+append_entries: 1
+Finish: 2025-03-12 20:19:49.772168
