@@ -2189,3 +2189,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [How fast your brain ages is affected by these 64 genes](https://www.nature.com/articles/d41586-025-00766-0)
 append_entries: 1
 Finish: 2025-03-12 20:19:49.772168
+------------------------------------------------------
+Started: 2025-03-12 22:17:05.383693
+Existing_entries: 445
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-12 22:17:05.618788
