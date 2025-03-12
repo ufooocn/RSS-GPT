@@ -2128,3 +2128,11 @@ Append: [Robotic fingers can tell objects apart by touch](https://www.nature.com
 Append: [Medical records from the Center for the Study of Temporal Disorders, Pediatric Department](https://www.nature.com/articles/d41586-025-00626-x)
 append_entries: 3
 Finish: 2025-03-12 14:17:47.337437
+------------------------------------------------------
+Started: 2025-03-12 16:23:26.375336
+Existing_entries: 402
+Fetching from https://www.nature.com/nature.rss
+Append: [So you’ve made a lab website. What should go on it?](https://www.nature.com/articles/d41586-025-00287-w)
+Append: [Elisabeth Vrba obituary: palaeontologist who solved a problem that vexed Darwin](https://www.nature.com/articles/d41586-025-00778-w)
+append_entries: 2
+Finish: 2025-03-12 16:23:26.559414
