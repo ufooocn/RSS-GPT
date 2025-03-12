@@ -2909,3 +2909,22 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-12 08:24:27.938875
+------------------------------------------------------
+Started: 2025-03-12 10:19:32.654133
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Precise Control Over Crystallization Kinetics by Combining Nucleating Agents and Plasticizers for 20.1% Efficiency Organic Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500357?af=R)
+Append: [Unraveling Compressive Strain and Oxygen Vacancy Effect of Iridium Oxide for Proton‐Exchange Membrane Water Electrolyzers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501179?af=R)
+Append: [Geometric Design of Interface Structures and Electrolyte Solvation Chemistry for Fast Charging Lithium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418773?af=R)
+Append: [Monochromatic Responsive HOF Heterostructures via VIA‐Group‐Based Framework Hybridization for Fully‐Covert Photonic Barcode](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420486?af=R)
+Append: [Galvanic Cell Bipolar Microneedle Patches for Reversing Photoaging Wrinkles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500552?af=R)
+Append: [Tailoring Self‐Catalytic N─Co Bonds into Heterostructure Architectures: Deciphering Polytellurides Conversion Mechanism Toward Ultralong‐Lifespan Potassium Ion Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502894?af=R)
+Append: [Exploring Carbon Dots for Biological Lasers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418118?af=R)
+Append: [Mesoporous Nanogel Sprays as Universal Evaporation Interface Modifiers for Boosting Water‐Cluster Evaporation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419243?af=R)
+Append: [3D Soft Liquid Metal Electrodes for High‐Resolution and Long‐Term Electromyography in Muscle Trauma Assessment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419250?af=R)
+Append: [Co‐Delivery of Morphologically Switchable Au Nanowire and Hemoglobin‐Resveratrol Nanoparticles in the Microneedle for Diabetic Wound Healing Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419430?af=R)
+Append: [Scalable Van Der Waals Integration of III‐N Devices Over 2D Materials for CMOS‐Compatible Architectures](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420060?af=R)
+append_entries: 11
+Finish: 2025-03-12 10:19:34.531904

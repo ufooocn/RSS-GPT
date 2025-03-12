@@ -2,8 +2,240 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Wiley: Advanced Materials: Table of Contents</title>
-<link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
+<link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+<item>
+<title>Precise Control Over Crystallization Kinetics by Combining Nucleating Agents and Plasticizers for 20.1% Efficiency Organic Solar Cells</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500357?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500357?af=R</guid>
+<content:encoded><![CDATA[
+
+A crystallization‐kinetics modulation strategy has been developed to synergistically regulate the hierarchical morphology in a typical bulk heterojunction blend, via introducing a polymer donor and a small molecule acceptor as the nucleation agent and plasticizer, respectively. Consequently, a decent device efficiency of 20.1% is obtained.
+
+
+
+
+
+
+
+
+Abstract
+Obtaining controllable active layer morphology plays a significant role in boosting the device performance of organic solar cells (OSCs). Herein, a quaternary strategy, which incorporates polymer donor D18‐Cl and small molecule acceptor AITC into the host D18:N3, is employed to precisely modulate crystallization kinetics for favorable morphology evolution within the active layer. In situ spectroscopic measurements during film‐formation demonstrate that while D18‐Cl works as a nucleator to promote aggregation of D18 and foster donor/acceptor intermixing, AITC has exactly the opposite impact on aggregation of N3 and intermixing kinetics of donor and acceptor, working as a plasticizer. The mutually compensational effect of the dual‐guests, as a result, enables synergistic control over fibrillar networks, multi‐length scale morphology, and vertical phase distribution, leading to optimized 3D morphology for greatly enhanced exciton dissociation and charge transfer, suppressed charge recombination, and reduced energy loss. Consequently, the quaternary OSCs based on D18:D18‐Cl:N3:AITC achieved an excellent power conversion efficiency of 20.1%, which represents one of the highest efficiencies for single‐junction OSCs. This work presents an effective strategy to precisely regulate crystallization kinetics toward advanced morphology control for high‐performance OSCs.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:40:58 -0700</pubDate>
+<pubDate>2025-03-11T01:40:58-07:00</pubDate>
+</item>
+<item>
+<title>Unraveling Compressive Strain and Oxygen Vacancy Effect of Iridium Oxide for Proton‐Exchange Membrane Water Electrolyzers</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501179?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501179?af=R</guid>
+<content:encoded><![CDATA[
+
+An optimized nickel‐doped iridium (Ir) dioxide catalyst with optimized compressive strain and oxygen (O) vacancies, enhances Ir─O covalency, reduces the Ir─Ir distance, and accelerates water adsorption, breaking the linear scaling relationship of intermediates binding for efficient oxygen evolution.
+
+
+
+
+
+
+
+
+Abstract
+Iridium‐based electrocatalysts are commonly regarded as the sole stable operating acidic oxygen evolution reaction (OER) catalysts in proton‐exchange membrane water electrolysis (PEMWE), but the linear scaling relationship (LSR) of multiple reaction intermediates binding inhibits the enhancement of its activity. Herein, the compressive strain and oxygen vacancy effect exists in iridium dioxide (IrO2)‐based catalyst by a doping engineering strategy for efficient acidic OER activity. In situ synchrotron characterizations elucidate that compressive strain can enhance Ir─O covalency and reduce the Ir─Ir bond distance, and oxygen vacancy (Ov) as an electronic regulator causes rapid adsorption of water molecules on the Ir and adjacent Ov (Ir─Ov) pair site to be coupled directly into *O─O* intermediates. Importantly, hence, volcano‐shape curves are established between the compressive strain/oxygen vacancy and OER current using OER as the probe reaction. Theoretical calculation reveals Ni dopant can modulate Ir 5d‐ and O 2p‐band centers for increasing overlap of Ir 5d and O 2p orbits to trigger a continuous metal site‐oxygen vacancy synergistic mechanism (MS‐OVSM) pathway, successfully breaking the LSR of intermediates binding during OER. Therefore, the resultant proton‐exchange membrane water electrolysis (PEMWE) device fabricated using T‐0.24Ni/IrO2 delivers a current density of 500 mA cm−2 and operates stably for 500 h.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:40:39 -0700</pubDate>
+<pubDate>2025-03-11T01:40:39-07:00</pubDate>
+</item>
+<item>
+<title>Geometric Design of Interface Structures and Electrolyte Solvation Chemistry for Fast Charging Lithium‐Ion Batteries</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418773?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418773?af=R</guid>
+<content:encoded><![CDATA[
+
+A small‐grain‐rich solid electrolyte interphase (SEI) geometry can provide sufficient paths for excellent Li+ ion supply capacity, and a soft‐solvating electrolyte can enhance the desolvation kinetics of solvated Li+ ions under fast charging conditions. Isobutyronitrile‐based electrolytes provide high discharge capacity during fast charging cycles while mitigating lithium plating on the anode.
+
+
+
+
+
+
+
+
+Abstract
+The grain sizes of solid electrolyte interphase (SEI) and solvation structure of electrolytes can affect Li+ ion transport across SEI and control the desolvation kinetics of solvated Li+ ions during fast‐charging of Li‐ion batteries (LIBs). However, the impact of the geometric structure of SEI grains on the fast charging capability of LIBs is rarely examined. Here, the correlation between the SEI grain size and fast charging characteristics of cells is explored, and the desolvation kinetics is controlled by replacing the strongly binding ethylene carbonate (EC) solvent with a weakly binding nitrile‐based solvent under fast charging conditions. The evolution of small grains of SEI to provide sufficient paths for Li+ ion supply can be achieved by the modification of solvation structure in the electrolyte. Additionally, the less resistive SEI composition and low viscosity of isoBN‐containing electrolyte enable a more rapid charging of LiNi0.8Co0.1Mn0.1O2/graphite full cells by facilitating the SEI crossing of Li+ ions with less Li plating at a charging rate of 4 C at 25 °C. This work sheds light on solvation structure and interface engineering to enhance the fast charging cycle stability of LIBs for tailorable adoption in transportation sectors.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:39:20 -0700</pubDate>
+<pubDate>2025-03-11T01:39:20-07:00</pubDate>
+</item>
+<item>
+<title>Monochromatic Responsive HOF Heterostructures via VIA‐Group‐Based Framework Hybridization for Fully‐Covert Photonic Barcode</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420486?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420486?af=R</guid>
+<content:encoded><![CDATA[
+
+The monochromatic responsive hydrogen‐bonded organic framework (HOF) heterostructure is first achieved based on the VIA‐group‐based framework hybridization, which enables the concealment of intrinsic fingerprint character and the expression of multicolor responsive mode, further serving as fully‐covert photonic barcodes. These findings offer novel insight on exploitating smart‐responsive hetero‐HOFs for high‐security anti‐counterfeiting devices.
+
+
+
+
+
+
+
+
+Abstract
+Luminescent responsive heterostructures with region‐domained emission and integrated responsiveness exhibit great potential in information security, but always suffer from the direct exposure of fingerprint information at the initial state, making it easy to decode the hidden confidential information. Herein, the first monochromatic responsive hydrogen‐bonded organic framework (HOF) heterostructures are reported based on VIA‐group‐based framework hybridization toward fully‐covert photonic barcodes. Designed HOF blocks with different VIA‐group elements are integrated via a configuration‐assimilation‐based assembly method to generate the intrinsic monochromatic HOF heterostructures. Differentiated electronegativity of VIA‐group elements endows each HOF block with distinct bonding stability, which triggers different responsive actions to the same stimuli, finally forming the multicolor emission mode at a responsive state. These monochromatic responsive HOF heterostructures can effectively hide the intrinsic fingerprint information, which further demonstrates the fully‐covert photonic coding capability as high‐security anti‐counterfeiting labels. These findings offer novel insight on the exploitation of smart‐responsive hetero‐HOF systems for advanced information encryption and anticounterfeiting applications.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:35:25 -0700</pubDate>
+<pubDate>2025-03-11T01:35:25-07:00</pubDate>
+</item>
+<item>
+<title>Galvanic Cell Bipolar Microneedle Patches for Reversing Photoaging Wrinkles</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500552?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500552?af=R</guid>
+<content:encoded><![CDATA[
+
+Microneedles reverse photoaging wrinkles. In this study, a magnesium galvanic cell bipolar microneedle composed of redox reaction is introduced. Through playing the role of antioxidant, anti‐inflammatory, cell migration, angiogenesis and so on, it can combine action of hydrogen, magnesium ion and micro‐current to repair the damage caused by ultraviolet radiation and rejuvenate the skin.
+
+
+
+
+
+
+
+
+Abstract
+Excessive exposure to ultraviolet (UV) radiation is a major factor in the development of skin photoaging wrinkles. While current treatments can slow the progression of photoaging, it is very difficult to achieve complete reversal. This study introduces galvanic cell microneedle (GCMN) patches with magnesium‐containing bipolar electrodes. These patches operate through a galvanic cell mechanism, generating microcurrents and releasing hydrogen gas and magnesium ions via a redox reaction. The combination of hydrogen's antioxidant and anti‐inflammatory properties, microcurrent‐induced stimulation of cell migration, and magnesium's promotion of angiogenesis and macrophage M2 anti‐inflammatory polarization synergistically works to reverse photoaging wrinkles and rejuvenate the skin. Furthermore, this work examines how GCMNs may influence the transforming growth factor‐β/Smad (TGF‐β/Smad) pathway. This approach shows promise for advancing research and development in the field of medical cosmetology.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:29:41 -0700</pubDate>
+<pubDate>2025-03-11T01:29:41-07:00</pubDate>
+</item>
+<item>
+<title>Tailoring Self‐Catalytic N─Co Bonds into Heterostructure Architectures: Deciphering Polytellurides Conversion Mechanism Toward Ultralong‐Lifespan Potassium Ion Storage</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502894?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502894?af=R</guid>
+<content:encoded><![CDATA[
+
+N‐doped CoTe2 composites, incorporating 3D low‐tortuosity tunneling structure, self‐catalytic N─Co bonds, and heterojunction, have been successfully fabricated to accelerate the catalytic conversion of potassium polytellurides. Benefiting from the synergistic effects of unique architecture and superior conversion kinetics, the composites deliver an ultralong‐lifespan potassium storage performance over 25 000 cycles with an ultra‐low capacity decay rate of only 0.0019%.
+
+
+
+
+
+
+
+
+Abstract
+Transition metal tellurides (TMTes) are promising anodes for potassium‐ion batteries (PIBs) due to their high theoretical specific capacity and impressive electronic conductivity. Nevertheless, TMTes suffer from persistent capacity degradation due to the large volume expansion, high ion‐diffusion energy barriers, and the dissolution/shuttle of potassium polytellurides (KxTey). Herein, a heterostructured CoTe2 composite equipped with a self‐catalytic center (N‐CoTe2/LTTC) is developed, exploiting its low‐tortuosity tunneling, chemical tunability, and self‐catalytic properties to elevate cycling stability to new heights. Systematic experiments have verified that the elaborate N‐CoTe2/LTTC provides a short‐range and efficient electron/ion transport path, accelerates K+ diffusion kinetics, and suppresses huge volume distortion. Notably, the N─Co bonds self‐catalytic center can promote the adsorption capabilities and accelerate the conversion kinetics for KxTey under the synergistic effect of heterojunction. Consequently, the optimized N‐CoTe2/LTTC electrode delivers an ultralong‑lifespan cyclability (over 25 000 cycles at 2.0 A g−1, only 0.0019% capacity decay rate per cycle), outperforming those of reported Te‐based anodes. Finally, the N‐CoTe2/LTTC//PTCDA@450 full cell manifests impressive stability (over 4300 cycles at 2.0 A g−1). This work uncovers the impact of catalytic centers on the conversion of KxTey and provides valuable insights for rationally designing ultralong‐lifespan TMTes anodes for PIBs.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:29:01 -0700</pubDate>
+<pubDate>2025-03-11T01:29:01-07:00</pubDate>
+</item>
+<item>
+<title>Exploring Carbon Dots for Biological Lasers</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418118?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418118?af=R</guid>
+<content:encoded><![CDATA[
+
+This review provides a comprehensive overview of the latest advances in biological lasers and their applications, discusses the construction of gain materials for biological lasers, and compares carbon dots (CDs) in detail, highlighting the advantages of CDs, with the aim of enhancing understanding of CD lasers and contributing to injecting new vitality into the field of biological lasers.
+
+
+
+
+
+
+
+
+Abstract
+Biological lasers, representing innovative miniaturized laser technology, hold immense potential in the fields of biological imaging, detection, sensing, and medical treatment. However, the reported gain media for biological lasers encounter several challenges complex preparation procedures, high cost, toxicity concerns, limited biocompatibility, and stability issues along with poor processability and tunability. These drawbacks have impeded the sustainable development of biological lasers. Carbon dots (CDs), as a novel solution‐processable gain materials characterized by facile preparation, low cost, low toxicity, excellent biocompatibility, high stability, easy modification, and luminescence tuning capabilities along with outstanding luminescence performance. Consequently, they find extensive applications in diverse fields such as biology, sensing, photoelectricity, and lasers. Henceforth, they are particularly suitable for constructing biological lasers. This paper provides a comprehensive review on the classification and application of existing biological lasers while emphasizing the advantages of CDs compared to other gain media. Furthermore, it presents the latest progress made by utilizing CDs as gain media and forecasts both promising prospects and potential challenges for biological lasers based on CDs. This study aims to enhance understanding of CD lasers and foster advancements in the field of biological lasers.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:28:12 -0700</pubDate>
+<pubDate>2025-03-11T01:28:12-07:00</pubDate>
+</item>
+<item>
+<title>Mesoporous Nanogel Sprays as Universal Evaporation Interface Modifiers for Boosting Water‐Cluster Evaporation</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419243?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419243?af=R</guid>
+<content:encoded><![CDATA[
+
+A novel surface spraying technique enhances evaporation materials, boosting solar‐driven evaporation rates by 297% versus controls with broad substrate compatibility. Its nanogel spray featuring nanoconfined pores facilitates water‐cluster formation and diffusion, reducing evaporation enthalpy to advance seawater desalination technologies. 
+
+
+
+
+
+
+
+
+Abstract
+Accelerating water evaporation is vital for processes like photosynthesis, dehydration, and desalination. Optimizing the pore structure and interfacial properties of evaporative materials can reduce evaporation enthalpy and increase efficiency. However, integrating the evaporation interface with water transport channels poses significant design challenges and complicates low‐enthalpy evaporation analysis. To address these challenges, a hydrophilic nanovesicle gel is developed with a hydrophobic mesoporous structure as an ideal spray. This spray effectively upgrades their interface of universal substrates (including PVA hydrogels, balsa wood, nanofiltration membrane, cellulose paper, nylon fabrics, etc.), enabling the simple preparation of evaporation materials. The sprayed samples, at a low spraying dose of 40 mg cm−2, achieved evaporation rates of 1.58 and 3.26 kg m−2 h−1 under 0.5 and 1 sun irradiance, which are 297% and 268% higher than their respective substrates. These nanogels offer benefits like edibility, low cost, ease of use, and compatibility with various substrates, showing great potential in seawater desalination, dehydration technology, crop yield enhancement, and coating/paint drying. More importantly, this work highlights the need for researchers to focus on the surface structure of materials, rather than merely using bulk gels, in the development of high‐performance evaporative materials.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:27:25 -0700</pubDate>
+<pubDate>2025-03-11T01:27:25-07:00</pubDate>
+</item>
+<item>
+<title>3D Soft Liquid Metal Electrodes for High‐Resolution and Long‐Term Electromyography in Muscle Trauma Assessment</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419250?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419250?af=R</guid>
+<content:encoded><![CDATA[
+
+In this study, the development of soft, biocompatible liquid metal electrodes (LMe) for high‐resolution, long‐term electromyography recording is done. In human and in vivo animal trials, LMe captures continuous neuromuscular signals of the muscle, evaluating the efficacy of rehabilitative drugs for muscle trauma. This work enables improved diagnostics and drug modeling for muscle disorders using a soft device interface.
+
+
+
+
+
+
+
+
+Abstract
+Electromyography (EMG) is a widely used diagnostic technique for evaluating the electrical activity of muscles and their controlling nerves. However, conventional surface electrodes with planar structures often suffer from low spatial resolution and suboptimal signal quality. Here, 3D‐shaped, substrate‐free, soft, and biocompatible liquid metal electrodes (LMe) are presented as a wearable interface for neuromuscular signal recording. These electrodes enable the acquisition of high‐quality EMG signals while their intrinsic mechanical softness supports long‐term use in clinical settings. In a human pilot study, continuous, high‐spatial‐resolution EMG monitoring of musculoskeletal activity over 25 days is achieved. Furthermore, in vivo EMG monitoring in mouse models of ischemia and volumetric muscle loss demonstrated the therapeutic effects of extracellular muscle‐rehabilitative drugs. This work highlights the potential of LMe for advanced drug screening and long‐term clinical diagnostics.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:27:07 -0700</pubDate>
+<pubDate>2025-03-11T01:27:07-07:00</pubDate>
+</item>
+<item>
+<title>Co‐Delivery of Morphologically Switchable Au Nanowire and Hemoglobin‐Resveratrol Nanoparticles in the Microneedle for Diabetic Wound Healing Therapy</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419430?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419430?af=R</guid>
+<content:encoded><![CDATA[
+
+To achieve synergistic therapy of diabetic wounds, morphologically switchable Au nanowires (ANW) and resveratrol‐hemoglobin (HR) nanoparticles are co‐loaded into the microneedles. The morphologically adaptable ANW continuously consumes glucose, while HR improves hypoxia, scavenges reactive oxygen species, and inhibits the differentiation of M1‐type macrophages. This work thus realizes the long‐term management of glucose during synergistic diabetic wound healing therapy.
+
+
+
+
+
+
+
+
+Abstract
+Diabetic wounds are a common complication of diabetes and pose a significant threat to human health. High glucose concentration in the wound remains a major obstacle, necessitating effective strategies to achieve sustained glucose consumption for synergistic diabetic wound therapy. In this study, an Au‐based nanomaterial is developed that can adjust its morphology in different therapeutic processes. The prepared Au nanowire (ANW) can be converted into Au nanospheres (AS) under ultrasonic conditions by adjusting the amount of polyethylene glycol (PEG) on its surface for convenient delivery. Intriguingly, AS is depolymerized into ANW again in the wound area, prolonging the retention time, and ensuring continuous consumption of glucose. After constructing the morphologically switchable Au nanowire, a polyvinyl alcohol (PVA) is applied it to microneedle and co‐delivered it with hemoglobin (Hb)‐resveratrol (RES) nanoparticles for synergistic diabetic wound therapy. In a streptozotocin (STZ)‐induced diabetic mouse model, the microneedle degraded gradually, and the Hb‐RES nanoparticles synergistically ameliorated hypoxia, scavenged ROS, and inhibited macrophage differentiation into pro‐inflammatory M1 phenotypes. During this process, ANW continuously catalyzed glucose through its inherent glucose oxidase activity. Thus, this study provides novel insights into the long‐term management of glucose concentration during synergistic diabetic wound healing.
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:26:48 -0700</pubDate>
+<pubDate>2025-03-11T01:26:48-07:00</pubDate>
+</item>
+<item>
+<title>Scalable Van Der Waals Integration of III‐N Devices Over 2D Materials for CMOS‐Compatible Architectures</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420060?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420060?af=R</guid>
+<content:encoded><![CDATA[
+
+Herein, an innovative technology is presented that will transform current monolithic and heterogeneous integration by using BEOL‐compatible fluidic‐assisted self‐alignment transfer and integration process. Multi‐dimensional integration of III‐N optical and electronic devices over 2D materials on CMOS is demonstrated with no epitaxial constraints or different process thermal budgets.
+
+
+
+
+
+
+
+
+
+Abstract
+Advances in semiconductor technology have been primarily driven by exponentially reducing the size of silicon transistors and pushing the quantum limit. However, continued scaling becomes extremely difficult in accordance with Moore's law. Conversely, recent advances in monolithic and heterogeneous integration by exploring non‐group IV materials envision beyond CMOS scaling. This study entails the development of scalable van der Waals (vdW) integration technology by using all CMOS back‐end‐of‐line‐compatible processes: vertical 3D and lateral 2D integration of III‐N devices, 2D materials (graphene and molybdenum disulfide), and CMOS. Advanced fluidic‐assisted self‐alignment transfer (FAST) provides a process accuracy of ≈ 32.6 nm as analyzed on a 200 mm wafer scale. The freestanding III‐N chips are vdW integrated onto 2D materials, and the vdW interfaced multi‐layer graphene successfully functioned as a back‐gating interconnect line. Moreover, fidelity of the vdW interface is confirmed by conducting systematic yield, uniformity, and reliability analysis. The unique fourfold rotationally symmetric design of GaN transistors makes them compatible with massive and random FAST processing. GaN‐based radio‐frequency power and cascode GaN/Si transistors are integrated on silicon‐on‐insulator‐CMOS. The proposed approach affords a remarkable advantage by surpassing the physical limits and facilitating functional diversification, thus advancing the concept of “More than Moore.”
+]]></content:encoded>
+<pubDate>Tue, 11 Mar 2025 01:26:02 -0700</pubDate>
+<pubDate>2025-03-11T01:26:02-07:00</pubDate>
+</item>
 
 <item>
 <title>Precise Control Over Crystallization Kinetics by Combining Nucleating Agents and Plasticizers for 20.1% Efficiency Organic Solar Cells</title>
