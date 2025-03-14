@@ -2,8 +2,197 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Wiley: Advanced Materials: Table of Contents</title>
-<link>https://onlinelibrary.wiley.com/journal/15214095?af=R</link>
+<link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+<item>
+<title>Lithium Bond‐Mediated Molecular Cascade Hydrogel for Injury‐Free and Repositionable Adhesive Bioelectronic Interfaces</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419002?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419002?af=R</guid>
+<content:encoded><![CDATA[
+
+Flexible bioelectronic interfaces with adhesive properties are essential for advancing modern medicine and human‐machine interactions. Researchers designed a lithium bond‐mediated molecular cascade hydrogel for bioelectronic interfaces, which facilitates robust adhesion at the tissue level and permits atraumatic detachment for repositioning as required. This study presents new insights and potential for advancing bioelectronics and implantable interface technologies.
+
+
+
+
+
+
+
+
+Abstract
+Flexible bioelectronic interfaces with adhesive properties are essential for advancing modern medicine and human‐machine interactions. However, achieving both stable adhesion and non‐damaging detachment remains a significant challenge. In this study, a lithium bond‐mediated molecular cascade hydrogel (LMCH) for bioelectronic interfaces is designed, which facilitates robust adhesion at the tissue level and permits atraumatic detachment for repositioning as required. By integrating the adhesive properties of the molecular cascade structure with the elastic characteristics of the hydrogel interface, the LMCH interface not only achieved a high adhesion strength (197 J m−2) on the skin, but also significantly extended the cracking cycles on the tissue surface during the peeling process from 4 to 380, marking an enhancement of nearly two orders of magnitude. Furthermore, with Young's modulus similar to that of human tissue (25 kPa), exceptional stretchability (1080%), and high ionic conductivity (7.14 S m−1), the LMCH interface demonstrates outstanding tissue compatibility, biocompatibility, and stable detection capabilities for electrocardiogram (ECG) and electromyogram (EMG) signals. This study presents new insights and potential for advancing bioelectronics and implantable interface technologies.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:53:00 -0700</pubDate>
+<pubDate>2025-03-13T01:53:00-07:00</pubDate>
+</item>
+<item>
+<title>Controlled Modulation of Intrinsic Electron Response in C/CoxTy Nanoplates Toward Multispectral Excitation Devices</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501302?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501302?af=R</guid>
+<content:encoded><![CDATA[
+
+In this work, the C/CoxTy nanoplates with high‐efficiency and tunable electromagnetic properties are successfully prepared by customizing Co‐based nanoparticles. Relying on these C/CoxTy nanoplates, a series of multispectral electromagnetic functional devices are developed, opening up a new era of multispectral electromagnetic devices.
+
+
+
+
+
+
+
+
+Abstract
+Electromagnetic materials with adjustable dielectric and magnetic properties are constantly sought after in electronic and industrial fields. In this study, an innovative strategy that customizes anchored Co‐based nanoparticles to optimize the electronic behaviors is proposed for the first time, enabling a controllable and high‐efficiency evolution of the macroscopic electromagnetic response of Co‐based (C/CoxTy) nanoplates across the X‐ray, light in the solar band and gigahertz band. Specifically, in the gigahertz band, the C/Co and C/Co3Se4 nanoplates with high‐power loss capabilities can effectively attenuate and convert electromagnetic energy into heat energy, which not only prevents space electromagnetic radiation but also powers energy for various electromagnetic devices such as thermoelectric generators and microwave actuators. Moreover, multiband antennas and ultra‐wideband bandstop filters are successfully achieved and flexibly tuned. Meanwhile, C/CoxTy nanoplates photo‐ and X‐ray detectors are constructed successfully. Additionally, the C/CoTe nanoplate X‐ray detector, featuring remarkable stability, sensitivity and penetrability, is successfully utilized to construct the interaction system integrating communication and imaging. In summary, this work offers an effective way for flexible regulation of multispectral electromagnetic response, significantly advancing the development of multispectral electromagnetic functional devices.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:45:57 -0700</pubDate>
+<pubDate>2025-03-13T01:45:57-07:00</pubDate>
+</item>
+<item>
+<title>Residual Al Adatoms Driven Epitaxy of AlGaN QWs for High‐Performance UV LEDs</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501601?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501601?af=R</guid>
+<content:encoded><![CDATA[
+
+An innovative strategy is proposed for the atomic‐level controllable growth of composition‐engineered AlGaN quantum wells (QWs) with residual Al adatom‐assisted incorporation‐enhanced epitaxy (RAIE) strategy, enabling the achievement of high‐efficiency and long‐lifetime ultraviolet light‐emitting diodes (UV LEDs) with tunable wavelengths spanning the efficiency gap region from 276 to 329 nm in the UV band.
+
+
+
+
+
+
+
+
+Abstract
+AlGaN‐based ultraviolet (UV) light‐emitting diodes (LEDs) experience a notable reduction in efficiency within the 280–330 nm wavelength range, known as the “UVB gap”. Given the extensive applications of UV LEDs in this wavelength range, it is imperative to bridge this efficiency gap. In this study, a strategy facilitated by the presence of residual Al adatoms is introduced to simultaneously improve the integration of Ga‐adatoms and the migration of Al/Ga‐adatoms during the growth of low‐Al‐composition AlGaN quantum wells (QWs) even at high temperatures comparable to those used for high‐Al‐composition AlGaN quantum barriers. This growth strategy enables the epitaxy of high‐quality AlGaN QWs with a wide tunable emission wavelength range across the UVB gap. Utilizing this approach, high‐efficiency UV LEDs that effectively bridge the UVB gap are developed. Furthermore, benefiting from this QWs growth configuration, these UV LEDs exhibit an exceptionally long L70 lifetime, marking a significant step forward in the growth technology of AlGaN QWs and expanding the application possibilities of UV LEDs.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:43:57 -0700</pubDate>
+<pubDate>2025-03-13T01:43:57-07:00</pubDate>
+</item>
+<item>
+<title>Integration of Photodiagnosis and Therapy Guided by Micro/Nanorobots</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420359?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420359?af=R</guid>
+<content:encoded><![CDATA[
+
+This review comprehensively summarizes recent key developments in the field of micro/nanorobots (MNRs) integrated with phototherapy, highlights the critical roles of MNRs‐assisted phototherapy in clinical applications, and provides insights into future directions and the pathway toward large‐scale clinical implementation.
+
+
+
+
+
+
+
+
+Abstract
+Micro/Nanorobots(MNRs)integrated with phototherapy represent an emerging approach to cancer treatment and hold significant potential for addressing bacterial infections, neurological disorders, cardiovascular diseases, and related conditions. By leveraging micro/nanoscale motor systems in conjunction with phototherapy, these robots enable real‐time guidance and monitoring of therapeutic processes, improving drug delivery precision and efficiency. This integration not only enhances the effectiveness of phototherapy but also minimizes damage to surrounding healthy tissues. Nevertheless, clinical translation of MNRs‐assisted phototherapy still faces numerous challenges. In this review, recent key developments in the field are comprehensively summarized, the critical roles of MNRs‐assisted phototherapy in clinical applications are highlighted, and insights into future directions and the pathway toward large‐scale clinical implementation are provided.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:43:14 -0700</pubDate>
+<pubDate>2025-03-13T01:43:14-07:00</pubDate>
+</item>
+<item>
+<title>Flexible Patterned Fuel Cell Patches Stimulate Nerve and Myocardium Restoration</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416410?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416410?af=R</guid>
+<content:encoded><![CDATA[
+
+The research develops an encapsulation‐free, patterned flexible fuel cell patch (PFCP) with the capability to generate electrostimulation with precisely controlled pattern distributions by adjusting electrode configurations. The inherent adhesion and flexibility properties of the PFCP underpin its performance in vivo. The research introduces a novel and promising tool for accelerating tissue repair via the application of patterned electrostimulation.
+
+
+
+
+
+
+
+
+Abstract
+The distribution of electrical potentials and current in exogenous electrostimulation has significant impacts on its effectiveness in promoting tissue repair. However, there is still a lack of a flexible, implantable power source capable of generating customizable patterned electric fields for in situ electrostimulation(electrical stimulation). Herein, this study reports a fuel cell patch (FCP) that can provide in situ electrostimulation and a hypoxic microenvironment to promote tissue repair synergistically. Stable and highly efficient PtNi nanochains and PtNi nanocages electrocatalysts with anti‐interference properties catalyze glucose oxidation and oxygen reduction respectively in an encapsulation‐free fuel cell. The laser‐induced graphene (LIG) electrode loaded with PtNi electrocatalysts is transferred to the surface of a flexible chitosan hydrogel. The resulting flexible FCP can adapt to tissues with different morphologies, firmly adhere to prevent suturing, and provide potent electrostimulation (0.403 V, 51.55 µW cm−2). Additionally, it consumes oxygen in situ to create a hypoxic microenvironment, increasing the expression of hypoxia‐inducible factor‐1α (HIF‐1α). Based on the different pattern requirements of exogenous electrostimulation during the repair of various types of tissue, an axial FCP for peripheral nerves and a flower‐patterned FCP for myocardial tissue are constructed and transplanted into animals, showing significant tissue repair in both models.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:42:26 -0700</pubDate>
+<pubDate>2025-03-13T01:42:26-07:00</pubDate>
+</item>
+<item>
+<title>Challenges and Opportunities for Rechargeable Aqueous Sn Metal Batteries</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417757?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417757?af=R</guid>
+<content:encoded><![CDATA[
+
+Rechargeable aqueous batteries with metal anodes promise enhanced energy density, combining higher output voltage and capacity with high safety. This perspective highlights the emerging potential of the Sn metal anode, emphasizing its resistance to hydrogen evolution, high reversibility, and sustainability. Key challenges, including dead Sn formation and electrolyte evolution, as well as innovative design strategies for robust Sn‐based batteries are also discussed. The development of Sn metal batteries could contribute to a sustainable society.
+
+
+
+
+
+
+
+
+Abstract
+Rechargeable aqueous batteries based on metallic anodes hold tremendous potential of high energy density enabled by the combination of relatively low working potential and large capacity while retaining the intrinsic safety nature and economical value of aqueous systems; However, the realization of these promised advantages relies on the identification of an ideal metal anode chemistry with all these merits. In this review, the emerging Sn metal anode chemistry is examined as such an anode candidate in both acidic and alkaline media, where the inertness of Sn toward hydrogen evolution, flat low voltage profile, and low polarization make it a unique metal anode for aqueous batteries. From a panoramic viewpoint, the key challenges and detrimental issues of Sn metal batteries are discussed, including dead Sn formation, self‐discharge, and electrolyte degradation, as well as strategies for mitigating these issues by constructing robust Sn anodes. New design approaches for more durable and reliable Sn metal batteries are also discussed, with the aim of fully realizing the potential of Sn anode chemistry.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:37:00 -0700</pubDate>
+<pubDate>2025-03-13T01:37:00-07:00</pubDate>
+</item>
+<item>
+<title>Tuning Transition Metal 3d Spin state on Single‐atom Catalysts for Selective Electrochemical CO2 Reduction</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417034?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417034?af=R</guid>
+<content:encoded><![CDATA[
+
+The introduction of P into a single‐atom Fe catalyst is shown to induce a shift in its electronic configuration toward a high spin state. This is proposed to enhance electron back donation via the dxz/dyz‐π* bond, which improves *COOH adsorption and facilitates the electrochemical conversion of CO2 to CO.
+
+
+
+
+
+
+
+
+Abstract
+Tuning transition metal spin states potentially offers a powerful means to control electrocatalyst activity. However, implementing such a strategy in electrochemical CO2 reduction (CO2R) is challenging since rational design rules have yet to be elucidated. Here we show how the addition of P dopants to a ferromagnetic element (Fe, Co, and Ni) single‐atom catalyst (SAC) can shift its spin state. For instance, with Fe SAC, P dopants enable a switch from low spin state (dx2‐ y20, dz20, dxz2, dyz1, dxy2) in Fe‐N4 to high spin state (dx2‐y20, dxz1, dyz1, dz21, dxy2) in Fe‐N3‐P. This is studied using a suite of characterization efforts, including X‐ray absorption spectroscopy (XAS), electron spin resonance (ESR) spectroscopy, and superconducting quantum interference device (SQUID) measurements. When used for CO2R, the SAC with Fe‐N3‐P active sites yields > 90% Faradaic efficiency to CO over a wide potential window of ≈530 mV and a maximum CO partial current density of ≈600 mA cm−2. Density functional theory calculations reveal that high spin state Fe3+ exhibits enhanced electron back donation via the dxz/dyz‐π* bond, which enhances *COOH adsorption and promotes CO formation. Taken together, the results show how the SAC spin state can be intentionally tuned to boost CO2R performance.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:36:21 -0700</pubDate>
+<pubDate>2025-03-13T01:36:21-07:00</pubDate>
+</item>
+<item>
+<title>Recent Progress in Oxygen Reduction Reaction Toward Hydrogen Peroxide Electrosynthesis and Cooperative Coupling of Anodic Reactions</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420236?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420236?af=R</guid>
+<content:encoded><![CDATA[
+
+This review focuses on the recent advances and regulation strategies in the 2e⁻ ORR and is systematically structured into three main sections: 1) the latest progress of 2e− ORR in different reaction environments, especially in the acidic and neutral media; 2) microenvironmental modulation, and 3) the coupling system with cathodic 2e− ORR and other anodic reactions. This review aims to shed light on the exploration of efficient catalysts for 2e– ORR and systems for building a green energy roadmap.
+
+
+
+
+
+
+
+
+Abstract
+Electrosynthesis of hydrogen peroxide (H2O2) via two‐electron oxygen reduction reaction (2e− ORR) is a promising alternative to the anthraquinone oxidation process. To improve the overall energy efficiency and economic viability of this catalytic process, one pathway is to develop advanced catalysts to decrease the overpotential at the cathode, and the other is to couple 2e− ORR with certain anodic reactions to decrease the full cell voltage while producing valuable chemicals on both electrodes. The catalytic performance of a 2e− ORR catalyst depends not only on the material itself but also on the environmental factors. Developing promising electrocatalysts with high 2e− ORR selectivity and activity is a prerequisite for efficient H2O2 electrosynthesis, while coupling appropriate anodic reactions with 2e− ORR would further enhance the overall reaction efficiency. Considering this, here a comprehensive review is presented on the latest progress of the state‐of‐the‐art catalysts of 2e− ORR in different media, the microenvironmental modulation mechanisms beyond catalyst design, as well as electrocatalytic system coupling 2e− ORR with various anodic oxidation reactions. This review also presents new insights regarding the existing challenges and opportunities within this rapidly advancing field, along with viewpoints on the future development of H2O2 electrosynthesis and the construction of green energy roadmaps.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:35:46 -0700</pubDate>
+<pubDate>2025-03-13T01:35:46-07:00</pubDate>
+</item>
+<item>
+<title>Proximity‐Mediated Multi‐Ferroelectric Coupling in Highly Strained EuO‐Graphene Heterostructures</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417669?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417669?af=R</guid>
+<content:encoded><![CDATA[
+
+Magneto‐ferroelectric effects in van der Waals EuO/graphene heterostructures emerge via a topotactic method, inducing high compressive strain. This strain stabilizes a ferroelectric state up to room temperature, coexisting with the magnetic proximity effect in graphene. These intertwined magneto‐electric effects enable control of magnetization and polarization, offering the potential for next‐gen memory and neuromorphic devices.
+
+
+
+
+
+
+
+
+Abstract
+2D van der Waals materials and their heterostructures are a fantastic playground to explore emergent phenomena arising from electronic quantum hybridization effects. In the last decade, the spin‐dependant hybridization effect pushed this frontier further introducing the magnetic proximity effect as a promising tool for spintronic applications. Here the uncharted proximity‐controlled magnetoelectric effect in EuO/graphene heterostructure is unveiled. This is obtained while creating a new multiferroic hybrid heterostructure with multifunctional properties. Using a topotactic method magnetic insulating EuO thin films on graphene is grown under high compressive strain, which induces the appearance of an additional ferroelectric order, with an electric polarization that reaches up to 18 µC cm−2 at room temperature. This observation therefore quantitatively confirms the theoretical predictions made 15 years ago of a strain‐induced ferroelectric state in EuO. Moreover, the EuO induces a magnetic proximity state into the graphene layer by interfacial hybridization. This new ferroelectric state in the EuO/graphene heterostructure is stable up to room temperature where it coexists with the EuO/graphene magnetic state. Furthermore, intertwined magneto‐electric effects are shown in these strained heterostructures which can facilitate the manipulation of magnetization and electric polarization in future memory and neuromorphic devices.
+]]></content:encoded>
+<pubDate>Thu, 13 Mar 2025 01:33:46 -0700</pubDate>
+<pubDate>2025-03-13T01:33:46-07:00</pubDate>
+</item>
 
 <item>
 <title>Lithium Bond‐Mediated Molecular Cascade Hydrogel for Injury‐Free and Repositionable Adhesive Bioelectronic Interfaces</title>

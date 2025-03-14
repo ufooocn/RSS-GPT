@@ -3285,3 +3285,20 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-14 06:25:11.966425
+------------------------------------------------------
+Started: 2025-03-14 08:22:42.139645
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Lithium Bond‐Mediated Molecular Cascade Hydrogel for Injury‐Free and Repositionable Adhesive Bioelectronic Interfaces](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419002?af=R)
+Append: [Controlled Modulation of Intrinsic Electron Response in C/CoxTy Nanoplates Toward Multispectral Excitation Devices](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501302?af=R)
+Append: [Residual Al Adatoms Driven Epitaxy of AlGaN QWs for High‐Performance UV LEDs](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501601?af=R)
+Append: [Integration of Photodiagnosis and Therapy Guided by Micro/Nanorobots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420359?af=R)
+Append: [Flexible Patterned Fuel Cell Patches Stimulate Nerve and Myocardium Restoration](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416410?af=R)
+Append: [Challenges and Opportunities for Rechargeable Aqueous Sn Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417757?af=R)
+Append: [Tuning Transition Metal 3d Spin state on Single‐atom Catalysts for Selective Electrochemical CO2 Reduction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417034?af=R)
+Append: [Recent Progress in Oxygen Reduction Reaction Toward Hydrogen Peroxide Electrosynthesis and Cooperative Coupling of Anodic Reactions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420236?af=R)
+Append: [Proximity‐Mediated Multi‐Ferroelectric Coupling in Highly Strained EuO‐Graphene Heterostructures](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417669?af=R)
+append_entries: 9
+Finish: 2025-03-14 08:22:44.521883
