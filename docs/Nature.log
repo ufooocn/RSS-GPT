@@ -2311,3 +2311,11 @@ Existing_entries: 453
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-14 10:18:53.878167
+------------------------------------------------------
+Started: 2025-03-14 12:34:48.132300
+Existing_entries: 453
+Fetching from https://www.nature.com/nature.rss
+Append: [Your lab pollutes: here’s how to stop it](https://www.nature.com/articles/d41586-025-00500-w)
+Append: [Daily briefing: Should the Stanford Prison Experiment be retracted more than fifty years on?](https://www.nature.com/articles/d41586-025-00815-8)
+append_entries: 2
+Finish: 2025-03-14 12:34:48.279461

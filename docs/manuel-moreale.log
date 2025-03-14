@@ -9903,3 +9903,12 @@ Existing_entries: 623
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-14 10:19:31.048369
+------------------------------------------------------
+Started: 2025-03-14 12:35:01.501080
+Existing_entries: 623
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [P&B: Keenan](https://manuelmoreale.com/pb-keenan)
+append_entries: 1
+Finish: 2025-03-14 12:35:03.466660
