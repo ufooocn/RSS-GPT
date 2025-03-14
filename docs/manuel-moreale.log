@@ -9912,3 +9912,9 @@ error: Connection error.
 Append: [P&B: Keenan](https://manuelmoreale.com/pb-keenan)
 append_entries: 1
 Finish: 2025-03-14 12:35:03.466660
+------------------------------------------------------
+Started: 2025-03-14 14:17:14.339016
+Existing_entries: 624
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-14 14:17:15.493302

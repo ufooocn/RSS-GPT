@@ -2319,3 +2319,9 @@ Append: [Your lab pollutes: here’s how to stop it](https://www.nature.com/arti
 Append: [Daily briefing: Should the Stanford Prison Experiment be retracted more than fifty years on?](https://www.nature.com/articles/d41586-025-00815-8)
 append_entries: 2
 Finish: 2025-03-14 12:34:48.279461
+------------------------------------------------------
+Started: 2025-03-14 14:17:04.340318
+Existing_entries: 455
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-14 14:17:04.517899
