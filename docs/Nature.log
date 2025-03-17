@@ -2527,3 +2527,11 @@ Existing_entries: 459
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-17 08:24:54.750161
+------------------------------------------------------
+Started: 2025-03-17 10:20:26.317369
+Existing_entries: 459
+Fetching from https://www.nature.com/nature.rss
+Append: [I spent two years organizing an international conference. How do I get compensated for my work?](https://www.nature.com/articles/d41586-025-00452-1)
+Append: [Don’t wait out four hard years: speak truth to power](https://www.nature.com/articles/d41586-025-00791-z)
+append_entries: 2
+Finish: 2025-03-17 10:20:26.638427

@@ -3521,3 +3521,25 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-17 08:24:56.173657
+------------------------------------------------------
+Started: 2025-03-17 10:20:27.137617
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Ultra‐Flexible Pixelated Perovskite Photodetectors Enabled by Honeycomb Polymer Grids for High‐Resolution Imaging](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415068?af=R)
+Append: [Dual Oxidation Suppression in Lead‐Free Perovskites for Low‐Threshold and Long‐Lifespan Lasing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418931?af=R)
+Append: [High‐Entropy High‐Temperature High‐Piezoelectricity Ceramics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419134?af=R)
+Append: [Formulation and Characterization of Novel Ionizable and Cationic Lipid Nanoparticles for the Delivery of Splice‐Switching Oligonucleotides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419538?af=R)
+Append: [Triplet State Suppression for Energy Loss Reduction in 20% Nonhalogenated Solvent Processed Binary Organic Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500861?af=R)
+Append: [The Large‐Scale Manufacturing of Polymer Dielectric Capacitors: Advancements and Challenges](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419563?af=R)
+Append: [An Adaptive Solid‐State Synapse with Bi‐Directional Relaxation for Multimodal Recognition and Spatio‐Temporal Learning](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202412006?af=R)
+Append: [High‐Entropy Metal Sulfide Nanocrystal Libraries for Highly Reversible Sodium Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418890?af=R)
+Append: [In Situ Cross‐Linking and Interfacial Engineering via Multifunctional Diamine Additive for High‐Temperature Magnesium Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418761?af=R)
+Append: [Manipulating Molecular Stacking for Semitransparent Organic Photovoltaics Achieving Light Utilization Efficiency >6%](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420439?af=R)
+Append: [Smart Polydimethylsiloxane Materials: Versatility for Electrical and Electronic Devices Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500472?af=R)
+Append: [Core/Shell‐Structured Carbon Support Boosting Fuel Cell Durability](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414472?af=R)
+Append: [Gradient‐Metasurface‐Contact Photodetector for Visible‐to‐Near‐Infrared Spin Light](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418405?af=R)
+Append: [Rejuvenation of Tumor‐Specific T Cells via Ultrahigh DAR Antibody‐Polymeric Imidazoquinoline Complexes: Coordinated Targeting of PDL1 and Efficient TLR7/8 Activation in Intratumoral Dendritic Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202412974?af=R)
+append_entries: 14
+Finish: 2025-03-17 10:20:29.440353
