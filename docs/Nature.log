@@ -2576,3 +2576,10 @@ Existing_entries: 472
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-17 20:20:07.008214
+------------------------------------------------------
+Started: 2025-03-17 22:18:01.462754
+Existing_entries: 472
+Fetching from https://www.nature.com/nature.rss
+Append: [What’s in store for US science as funding bill averts government shutdown](https://www.nature.com/articles/d41586-025-00827-4)
+append_entries: 1
+Finish: 2025-03-17 22:18:01.650285
