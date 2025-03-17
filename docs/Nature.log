@@ -2560,3 +2560,13 @@ Existing_entries: 468
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-17 16:23:47.504478
+------------------------------------------------------
+Started: 2025-03-17 18:24:33.864030
+Existing_entries: 468
+Fetching from https://www.nature.com/nature.rss
+Append: [Fossilized dinosaur cells that defied the ravages of time — 20 years since a key discovery](https://www.nature.com/articles/d41586-025-00733-9)
+Append: [The early origins of bone-tool manufacturing traditions by hominins 1.5 million years ago](https://www.nature.com/articles/d41586-025-00545-x)
+Append: [Errors in the Huntington’s disease gene accumulate slowly and then all at once](https://www.nature.com/articles/d41586-025-00717-9)
+Append: [Strong, flexible ‘nylon’ made by engineered bacteria for the first time](https://www.nature.com/articles/d41586-025-00819-4)
+append_entries: 4
+Finish: 2025-03-17 18:24:34.191527
