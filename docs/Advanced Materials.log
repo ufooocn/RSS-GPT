@@ -3609,3 +3609,27 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-18 08:24:16.233883
+------------------------------------------------------
+Started: 2025-03-18 10:19:49.014365
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [A Perspective on Pathways Toward Commercial Sodium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420463?af=R)
+Append: [Muscle‐Inspired Self‐Growing Anisotropic Hydrogels with Mechanical Training‐Promoting Mechanical Properties](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416744?af=R)
+Append: [Exploring the Mechanisms of Charge Transfer and Identifying Active Sites in the Hydrogen Evolution Reaction Using Hollow C@MoS2‐Au@CdS Nanostructures as Photocatalysts](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501091?af=R)
+Append: [Blue Perovskite Light‐Emitting Diodes Using Multifunctional Small Molecule Dopants](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202409718?af=R)
+Append: [All‐Silicon Broadband Infrared Photodetectors With In‐Plane Photon Trapping Structures](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419382?af=R)
+Append: [In‐liquid Superspreading Space‐confined Epitaxy on Superamphiphilic Surfaces for Pt(II) Complex Crystalline Film Growth](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415811?af=R)
+Append: [Multi‐Objective Optimization of Ionic Polymer Electrolytes for High‐Voltage Fast‐Charging and Versatile Lithium Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500941?af=R)
+Append: [A Polymeric mRNA Vaccine Featuring Enhanced Site‐Specific mRNA Delivery and Inherent STING‐Stimulating Performance for Tumor Immunotherapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202410998?af=R)
+Append: [Orbital Angular Momentum Correlated Charge to Spin Conversion in Metallic Antiferromagnet](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418264?af=R)
+Append: [Integrating Strong Luminescence and High Mobility in Organic Single Crystals of Covalent Pyrene Dimers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419981?af=R)
+Append: [High Cell to Module Efficiency Remaining Ratio of ≈90% for the 100 cm2 Fully Roll‐to‐Roll Gravure Printed Flexible Organic Solar Cells From Non‐Halogenated Solvent](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500115?af=R)
+Append: [Translational Selenium Nanoparticles Promotes Clinical Non‐small‐cell Lung Cancer Chemotherapy via Activating Selenoprotein‐driven Immune Manipulation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415818?af=R)
+Append: [Metalloenzyme‐Inspired Cluster Fabrication within Mesoporous Channels Featuring Optimized Catalytic Microenvironments for Efficient Neutral pH H2O2 Electrosynthesis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503169?af=R)
+Append: [Constructing Biomimetic Nanochannels for High‐Capacity Capture of Uranyl Tricarbonate Complex Ions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500567?af=R)
+Append: [Electromagnetically Heating and Oscillating Liquid Metal for Catalyzing Polyester Depolymerization](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502011?af=R)
+Append: [Anion Vacancies Coupling with Heterostructures Enable Advanced Aerogel Cathode for Ultrafast Aqueous Zinc‐Ion Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419582?af=R)
+append_entries: 16
+Finish: 2025-03-18 10:19:51.352947
