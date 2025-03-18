@@ -2649,3 +2649,11 @@ Append: [An experiment in mass education using satellite TV](https://www.nature.
 Append: [Daily briefing: Jurassic mammals had dark fur](https://www.nature.com/articles/d41586-025-00825-6)
 append_entries: 2
 Finish: 2025-03-18 16:24:09.261638
+------------------------------------------------------
+Started: 2025-03-18 18:25:59.349975
+Existing_entries: 485
+Fetching from https://www.nature.com/nature.rss
+Append: [Structures and mechanism of human mitochondrial pyruvate carrier](https://www.nature.com/articles/s41586-025-08873-8)
+Append: [Vaccines save lives. Leaders must champion them](https://www.nature.com/articles/d41586-025-00789-7)
+append_entries: 2
+Finish: 2025-03-18 18:25:59.603752
