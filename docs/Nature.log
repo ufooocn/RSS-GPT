@@ -2619,3 +2619,15 @@ Existing_entries: 473
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-18 10:19:48.501519
+------------------------------------------------------
+Started: 2025-03-18 12:36:46.679744
+Existing_entries: 473
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Endocytosis in the axon initial segment maintains neuronal polarity](https://www.nature.com/articles/s41586-025-08837-y)
+Append: [US disruptions to science could transform global research landscape](https://www.nature.com/articles/d41586-025-00824-7)
+Append: [Global cooperation is crucial for DeepSeek and broader AI research](https://www.nature.com/articles/d41586-025-00822-9)
+Append: [AI demands a different approach to education](https://www.nature.com/articles/d41586-025-00823-8)
+Append: [Japan needs a fresh approach to innovation](https://www.nature.com/articles/d41586-025-00821-w)
+Append: [Space debris is falling from the skies. We need to tackle this growing danger](https://www.nature.com/articles/d41586-025-00797-7)
+append_entries: 6
+Finish: 2025-03-18 12:36:47.003414

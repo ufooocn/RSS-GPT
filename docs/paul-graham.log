@@ -39792,3 +39792,11 @@ Existing_entries: 35
 Fetching from https://rsshub.app/paulgraham/articles
 append_entries: 0
 Finish: 2025-03-18 10:20:05.544406
+------------------------------------------------------
+Started: 2025-03-18 12:36:49.693204
+Existing_entries: 35
+Fetching from https://rsshub.app/paulgraham/articles
+Fetch error: 503
+Fetch failed from https://rsshub.app/paulgraham/articles
+append_entries: 0
+error when rendering xml, skip docs/paul-graham
