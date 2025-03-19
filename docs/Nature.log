@@ -2678,3 +2678,10 @@ Existing_entries: 490
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-19 01:23:44.776503
+------------------------------------------------------
+Started: 2025-03-19 02:56:56.152317
+Existing_entries: 490
+Fetching from https://www.nature.com/nature.rss
+Append: [Light pollution threatens fleet of world-class telescopes in Atacama Desert](https://www.nature.com/articles/d41586-025-00397-5)
+append_entries: 1
+Finish: 2025-03-19 02:56:56.380175
