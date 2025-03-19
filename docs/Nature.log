@@ -2709,3 +2709,11 @@ Existing_entries: 491
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-19 10:20:04.772728
+------------------------------------------------------
+Started: 2025-03-19 12:36:42.953899
+Existing_entries: 491
+Fetching from https://www.nature.com/nature.rss
+Append: [The biggest machine in science: inside the fight to build the next giant particle collider](https://www.nature.com/articles/d41586-025-00793-x)
+Append: [Daily briefing: Iguanas from the Americas might have rafted to Fiji](https://www.nature.com/articles/d41586-025-00843-4)
+append_entries: 2
+Finish: 2025-03-19 12:36:43.245859
