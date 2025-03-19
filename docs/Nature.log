@@ -2717,3 +2717,10 @@ Append: [The biggest machine in science: inside the fight to build the next gian
 Append: [Daily briefing: Iguanas from the Americas might have rafted to Fiji](https://www.nature.com/articles/d41586-025-00843-4)
 append_entries: 2
 Finish: 2025-03-19 12:36:43.245859
+------------------------------------------------------
+Started: 2025-03-19 14:17:50.240670
+Existing_entries: 493
+Fetching from https://www.nature.com/nature.rss
+Append: [Disconnections](https://www.nature.com/articles/d41586-025-00628-9)
+append_entries: 1
+Finish: 2025-03-19 14:17:50.434166
