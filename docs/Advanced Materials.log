@@ -3693,3 +3693,25 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-19 06:26:01.808081
+------------------------------------------------------
+Started: 2025-03-19 08:24:53.055674
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Enhanced Reversibility of Iron Metal Anode with a Solid Electrolyte Interphase in Concentrated Chloride Electrolytes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419664?af=R)
+Append: [Localized and Controllable Mineral Salts Crystallization Enabled by Dye Modified Gold Nanorods with Enhanced Photothermal Conversion](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417138?af=R)
+Append: [Manipulating Interfacial Water Via Metallic Pt1Co6 Sites on Self‐Adaptive Metal Phosphides to Enhance Water Electrolysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419644?af=R)
+Append: [Oriented Assembly of 2D Metal‐Pyridylporphyrinic Framework to Regulate the Redox Kinetics in Li−S Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501869?af=R)
+Append: [Highly Ordered Conductive Metal‐Organic Frameworks with Chemically Confined Polyoxometalate Clusters: A Dual‐Functional Electrocatalyst for Efficient H2O2 Synthesis and Biomass Valorization](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500399?af=R)
+Append: [Twist‐Angle Controllable Transfer of 2D Materials via Water Vapor Intercalation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417052?af=R)
+Append: [p‐π Conjugated Covalent Organic Frameworks Expedite Molecular Triplet Excitons for H2O2 Production Coupled with Biomass Upgrading](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502220?af=R)
+Append: [Preventing Benzoquinone‐Based Catalyst Aggregation Enables the One‐Step Synthesis of Highly Conductive Poly(benzodifurandione) without Post‐Reaction Purification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502426?af=R)
+Append: [A 2D/3D Heterostructure Perovskite Solar Cell with a Phase‐Pure and Pristine 2D Layer](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416672?af=R)
+Append: [Organic Photoelectrochemical Multisensory Integration](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503030?af=R)
+Append: [Giant Non‐Saturating Exchange Striction in a Noncollinear Antiferromagnet](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500829?af=R)
+Append: [Efficient H2O2 Electrosynthesis in Acidic media via Multiscale Catalyst Optimization](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418489?af=R)
+Append: [Charge‐Directed Nanocellulose Assembly for Interfacial Phase‐Transfer Catalysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418325?af=R)
+Append: [Functional Groups‐Regulated Organic Semiconductors for Efficient Artificial Photosynthesis of Hydrogen Peroxide](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501494?af=R)
+append_entries: 14
+Finish: 2025-03-19 08:24:55.319317
