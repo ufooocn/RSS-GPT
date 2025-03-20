@@ -2831,3 +2831,11 @@ Existing_entries: 547
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-20 08:24:13.948881
+------------------------------------------------------
+Started: 2025-03-20 10:19:45.806621
+Existing_entries: 547
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Observation of an ultra-high-energy cosmic neutrino with KM3NeT](https://www.nature.com/articles/s41586-025-08836-z)
+Append: [How ‘animal methods bias’ is affecting research careers](https://www.nature.com/articles/d41586-025-00593-3)
+append_entries: 2
+Finish: 2025-03-20 10:19:45.972254
