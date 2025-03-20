@@ -2846,3 +2846,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Daily briefing: About 1% of children have genetic paternity other than that recorded by history](https://www.nature.com/articles/d41586-025-00851-4)
 append_entries: 1
 Finish: 2025-03-20 12:35:07.862797
+------------------------------------------------------
+Started: 2025-03-20 14:18:13.393722
+Existing_entries: 550
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-20 14:18:13.586823
