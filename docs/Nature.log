@@ -2926,3 +2926,11 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Daily briefing: The mysterious force pushing galaxies apart might be getting weaker](https://www.nature.com/articles/d41586-025-00857-y)
 append_entries: 1
 Finish: 2025-03-21 12:35:47.136144
+------------------------------------------------------
+Started: 2025-03-21 14:17:16.453068
+Existing_entries: 558
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Heritable polygenic editing: the next frontier in genomic medicine?](https://www.nature.com/articles/s41586-025-08904-4)
+Append: [Author Correction: AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-025-08905-3)
+append_entries: 2
+Finish: 2025-03-21 14:17:16.704974

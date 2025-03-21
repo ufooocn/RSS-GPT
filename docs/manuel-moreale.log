@@ -10422,3 +10422,9 @@ error: Connection error.
 Append: [P&B: Ben Borgers](https://manuelmoreale.com/pb-ben-borgers)
 append_entries: 1
 Finish: 2025-03-21 12:35:58.075392
+------------------------------------------------------
+Started: 2025-03-21 14:17:24.854149
+Existing_entries: 626
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-21 14:17:25.642209
