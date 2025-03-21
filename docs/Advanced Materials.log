@@ -3933,3 +3933,22 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-21 06:27:36.960587
+------------------------------------------------------
+Started: 2025-03-21 08:23:09.641692
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Correction to “Toward Fast‐Charging and Dendritic‐Free Li Growth on Natural Graphite Through Intercalation/Conversion on MoS2 Nanosheets”](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504362?af=R)
+Append: [Photochromic Control in Hybrid Perovskite Photovoltaics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420143?af=R)
+Append: [Regulating Electron Distribution in Regioisomeric Covalent Organic Frameworks for Efficient Solar‐Driven Hydrogen Peroxide Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500913?af=R)
+Append: [Enhanced Hydrogen Evolution Reaction in Alkaline Media via Ruthenium–Chromium Atomic Pairs Modified Ruthenium Nanoparticles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419360?af=R)
+Append: [Operando Magnetism on Oxygen Redox Process in Li‐Rich Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420453?af=R)
+Append: [Efficient and Super‐Stable 990 Nm Light‑Emitting Diodes Based on Quantum Cutting Emission of Trivalent Ytterbium in Pure‐Br Quasi‑2D Perovskites](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503076?af=R)
+Append: [Magneto‐Ionic Engineering of Antiferromagnetically RKKY‐Coupled Multilayers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415393?af=R)
+Append: [Multicolor Rare‐Earth Film with Ultra‐Long Afterglow for Diverse Energy‐Saving Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417420?af=R)
+Append: [Binary Electrolyte Additive‐Reinforced Interfacial Molecule Adsorption Layer for Ultra‐Stable Zinc Metal Anodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420079?af=R)
+Append: [CNT‐Supported RuNi Composites Enable High Round‐Trip Efficiency in Regenerative Fuel Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500416?af=R)
+Append: [Achieving a Record Photoluminescence Quantum Yield in Green Light‐Emitting Carbon‐Centered Radicals with Nanosecond Emission Lifetimes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418324?af=R)
+append_entries: 11
+Finish: 2025-03-21 08:23:11.878166
