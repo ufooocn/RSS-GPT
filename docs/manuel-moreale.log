@@ -10413,3 +10413,12 @@ Existing_entries: 625
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-21 10:19:57.755670
+------------------------------------------------------
+Started: 2025-03-21 12:35:55.697721
+Existing_entries: 625
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [P&B: Ben Borgers](https://manuelmoreale.com/pb-ben-borgers)
+append_entries: 1
+Finish: 2025-03-21 12:35:58.075392
