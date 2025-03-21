@@ -2955,3 +2955,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Publisher Correction: A metagenomic ‘dark matter’ enzyme catalyses oxidative cellulose conversion](https://www.nature.com/articles/s41586-025-08872-9)
 append_entries: 1
 Finish: 2025-03-21 20:19:46.829826
+------------------------------------------------------
+Started: 2025-03-21 22:17:09.290231
+Existing_entries: 563
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-21 22:17:09.519719
