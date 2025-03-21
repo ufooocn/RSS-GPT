@@ -2880,3 +2880,10 @@ Existing_entries: 554
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-20 22:17:02.150275
+------------------------------------------------------
+Started: 2025-03-21 01:24:29.734906
+Existing_entries: 554
+Fetching from https://www.nature.com/nature.rss
+Append: [Trump team ‘survey’ sent to overseas researchers prompts foreign interference fears](https://www.nature.com/articles/d41586-025-00850-5)
+append_entries: 1
+Finish: 2025-03-21 01:24:29.949565
