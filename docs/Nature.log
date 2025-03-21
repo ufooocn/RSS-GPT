@@ -2942,3 +2942,9 @@ Append: [‘Boggles the mind’: US defence department slashes research on emerg
 Append: [NIH has cut one mRNA-vaccine grant. Will more follow?](https://www.nature.com/articles/d41586-025-00828-3)
 append_entries: 2
 Finish: 2025-03-21 16:23:03.450284
+------------------------------------------------------
+Started: 2025-03-21 18:25:20.433737
+Existing_entries: 562
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-21 18:25:20.605933
