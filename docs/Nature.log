@@ -2934,3 +2934,11 @@ Append: [Author Correction: Heritable polygenic editing: the next frontier in ge
 Append: [Author Correction: AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-025-08905-3)
 append_entries: 2
 Finish: 2025-03-21 14:17:16.704974
+------------------------------------------------------
+Started: 2025-03-21 16:23:03.277513
+Existing_entries: 560
+Fetching from https://www.nature.com/nature.rss
+Append: [‘Boggles the mind’: US defence department slashes research on emerging threats](https://www.nature.com/articles/d41586-025-00840-7)
+Append: [NIH has cut one mRNA-vaccine grant. Will more follow?](https://www.nature.com/articles/d41586-025-00828-3)
+append_entries: 2
+Finish: 2025-03-21 16:23:03.450284
