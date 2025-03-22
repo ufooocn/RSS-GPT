@@ -4018,3 +4018,21 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-22 06:23:47.732403
+------------------------------------------------------
+Started: 2025-03-22 08:21:06.876604
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Synergetic Oxidized Mg and Mo Sites on Amorphous Ru Metallene Boost Hydrogen Evolution Electrocatalysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501230?af=R)
+Append: [Ultrafast Superradiant Scintillation from Isolated Weakly Confined Perovskite Nanocrystals](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500846?af=R)
+Append: [Pressure‐Assisted Ni 3d–S 3p Hybridization within Targeted In–S Layer for Enhanced Photocatalytic Hydrogen Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504135?af=R)
+Append: [3D Bioprinting Models for Glioblastoma: From Scaffold Design to Therapeutic Application](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501994?af=R)
+Append: [Stable and Efficient Indoor Photovoltaics Through Novel Dual‐Phase 2D Perovskite Heterostructures](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419573?af=R)
+Append: [Discovery of a New Cu‐Based Chalcogenide with High zT Near Room Temperature: Low‐Cost Alternative for the Bi2Te3‐Based Thermoelectrics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420556?af=R)
+Append: [Anisotropic Microcarriers: Fabrication Strategies and Biomedical Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416862?af=R)
+Append: [Field‐Free Perpendicular Magnetization Switching Through Topological Surface State in Type‐II Dirac Semimetal Pt3Sn](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418663?af=R)
+Append: [Unlocking Multimodal Nonlinear Microscopy for Deep‐Tissue Imaging under Continuous‐Wave Excitation with Tunable Upconverting Nanoparticles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502739?af=R)
+Append: [Multimodal Finger‐Shaped Tactile Sensor for Multi‐Directional Force and Material Identification](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414096?af=R)
+append_entries: 10
+Finish: 2025-03-22 08:21:09.190422
