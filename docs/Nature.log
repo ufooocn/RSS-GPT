@@ -3179,3 +3179,10 @@ Append: [What CERN does next matters for science and for international cooperati
 Append: [Live-cell super-resolution microscopy reveals how molecules enter and exit the nucleus](https://www.nature.com/articles/d41586-025-00804-x)
 append_entries: 5
 Finish: 2025-03-24 18:26:43.011219
+------------------------------------------------------
+Started: 2025-03-24 20:18:34.660189
+Existing_entries: 577
+Fetching from https://www.nature.com/nature.rss
+Append: [‘Anxiety is palpable’: detention of researchers at US border spurs travel worries](https://www.nature.com/articles/d41586-025-00859-w)
+append_entries: 1
+Finish: 2025-03-24 20:18:34.883804
