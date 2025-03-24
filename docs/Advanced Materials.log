@@ -4174,3 +4174,30 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-24 06:27:19.954035
+------------------------------------------------------
+Started: 2025-03-24 08:24:58.580739
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [An n‐Doped Organic Cross‐Linked Electron Transport Layer with High Electrical Conductivity for High‐Efficiency Tandem Organic Photovoltaics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501653?af=R)
+Append: [Regulating Interfacial H2O Activity and H2 Bubbles by Core/Shell Nanoarrays for 800 h Stable Alkaline Seawater Electrolysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416658?af=R)
+Append: [Non‐Invasive Diagnosis of Early Colorectal Cancerization via Amplified Sensing of MicroRNA‐21 in NIR‐II Window](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501378?af=R)
+Append: [Van der Waals Ferroelectric CuCrP2S6‐Enabled Hysteresis‐Free Negative Capacitance Field‐Effect Transistors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419125?af=R)
+Append: [Tracking Dynamics of Supported Indium Oxide Catalysts in CO2 Hydrogenation to Methanol by In Situ TEM](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419859?af=R)
+Append: [Chiral Pseudogap Metal Emerging from a Disordered Van der Waals Mott Insulator 1T‐TaS2 − xSex](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500287?af=R)
+Append: [High‐Resolution Manifold Acoustic Holography Based on High‐Pixel‐Array Binary Metasurfaces](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420229?af=R)
+Append: [Autonomous Bioelectronic Devices Based on Silk Fibroin](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500073?af=R)
+Append: [Creating Vacancy Strong Interaction to Enable Homogeneous High‐Throughput Ion Transport for Efficient Solid‐State Lithium Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419271?af=R)
+Append: [Engineering High‐Density Grain Boundaries in Ru0.8Ir0.2Ox Solid‐Solution Nanosheets for Efficient and Durable OER Electrocatalysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501607?af=R)
+Append: [Emergent Multiple Spin States From Baromagnetic Effect in Strongly Correlated Magnet Mn₃GaC](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420502?af=R)
+Append: [Visible Periodic Piezoelectric Domains in Silk Fibroin for Neurite‐Orientated Extension](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415053?af=R)
+Append: [Dynamic GelMA/DNA Dual‐Network Hydrogels Promote Woven Bone Organoid Formation and Enhance Bone Regeneration](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501254?af=R)
+Append: [Grains > 2 µm with Regulating Grain Boundaries for Efficient Wide‐Bandgap Perovskite and All‐Perovskite Tandem Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502770?af=R)
+Append: [Hetero‐Trimetallic Atom Catalysts Enable Targeted ROS Generation and Redox Signaling for Intensive Apoptosis and Ferroptosis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417198?af=R)
+Append: [Suspension Electrolytes with Catalytically Self‐Expediating Desolvation Kinetics for Low‐Temperature Zinc Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501079?af=R)
+Append: [Eye‐Drop Nano‐Formulation of Catalase Self‐Assembled with Thiolated Chitosan for Effective Treatment of Dry Eye Disease](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415353?af=R)
+Append: [Improved Facet and Edge Passivation in Near‐Infrared III‐V Colloidal Quantum Dot Photodetectors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419020?af=R)
+Append: [Ir/Mn Co‐Mixing and Oxide‐Support Interaction Modulation Through Plasma Promoted Asymmetric Oxygen Coupling for Stable Acidic Oxygen Evolution](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420159?af=R)
+append_entries: 19
+Finish: 2025-03-24 08:25:01.060070
