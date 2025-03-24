@@ -3135,3 +3135,11 @@ Existing_entries: 563
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-24 08:24:58.076349
+------------------------------------------------------
+Started: 2025-03-24 10:20:13.314096
+Existing_entries: 563
+Fetching from https://www.nature.com/nature.rss
+Append: [Why Africans should be telling the story of human origins](https://www.nature.com/articles/d41586-025-00695-y)
+Append: [How to know whether a conference is right for you](https://www.nature.com/articles/d41586-025-00903-9)
+append_entries: 2
+Finish: 2025-03-24 10:20:13.500700
