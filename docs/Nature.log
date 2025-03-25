@@ -3250,3 +3250,10 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Why is my cello howling?](https://www.nature.com/articles/d41586-025-00914-6)
 append_entries: 1
 Finish: 2025-03-25 14:18:56.713934
+------------------------------------------------------
+Started: 2025-03-25 16:22:03.181212
+Existing_entries: 588
+Fetching from https://www.nature.com/nature.rss
+Append: [MFSD6 is an entry receptor for enterovirus D68](https://www.nature.com/articles/s41586-025-08908-0)
+append_entries: 1
+Finish: 2025-03-25 16:22:03.388527
