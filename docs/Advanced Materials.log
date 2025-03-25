@@ -4267,3 +4267,16 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-25 06:26:49.340711
+------------------------------------------------------
+Started: 2025-03-25 08:24:14.170102
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Universally Applicable and Ultra‐Long Life Cyclic Power Generation Induced by Interfacial Ion‐Oscillation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420129?af=R)
+Append: [Bottom‐Up Selective Growth of Ultralong Organic Phosphorescence Nanocrystals with Optimized Crystal Forms for In Vivo Optical Imaging](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418795?af=R)
+Append: [Spontaneous Twist of Ferroelectric Smectic Blocks in Polar Fluids](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501946?af=R)
+Append: [Molecular Stitching in Polysaccharide Precursor for Fabricating Hard Carbon with Ultra‐High Plateau Capacity of Sodium Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420251?af=R)
+Append: [Resolving Dynamic Behavior of Electrocatalysts via Advances of Operando X‐Ray Absorption Spectroscopies: Potential Artifacts and Practical Guidelines](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418797?af=R)
+append_entries: 5
+Finish: 2025-03-25 08:24:16.793967
