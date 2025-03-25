@@ -3222,3 +3222,14 @@ Existing_entries: 578
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-25 08:24:13.656374
+------------------------------------------------------
+Started: 2025-03-25 10:20:18.417553
+Existing_entries: 578
+Fetching from https://www.nature.com/nature.rss
+Append: [Lessons from Portugal on effects of cutting research funding](https://www.nature.com/articles/d41586-025-00928-0)
+Append: [Give grants to female scientists in war zones](https://www.nature.com/articles/d41586-025-00926-2)
+Append: [Lesotho matters](https://www.nature.com/articles/d41586-025-00927-1)
+Append: [How to get more women into mining](https://www.nature.com/articles/d41586-025-00925-3)
+Append: [Microbes can capture carbon and degrade plastic — why aren’t we using them more?](https://www.nature.com/articles/d41586-025-00875-w)
+append_entries: 5
+Finish: 2025-03-25 10:20:18.785478
