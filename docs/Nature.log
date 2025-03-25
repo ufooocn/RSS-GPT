@@ -3257,3 +3257,11 @@ Fetching from https://www.nature.com/nature.rss
 Append: [MFSD6 is an entry receptor for enterovirus D68](https://www.nature.com/articles/s41586-025-08908-0)
 append_entries: 1
 Finish: 2025-03-25 16:22:03.388527
+------------------------------------------------------
+Started: 2025-03-25 18:25:55.297978
+Existing_entries: 589
+Fetching from https://www.nature.com/nature.rss
+Append: [Ancient shackles testify to brutality of Egypt’s gold mines](https://www.nature.com/articles/d41586-025-00878-7)
+Append: [Meet ‘qudits’: more complex cousins of qubits boost quantum computing](https://www.nature.com/articles/d41586-025-00939-x)
+append_entries: 2
+Finish: 2025-03-25 18:25:55.475771
