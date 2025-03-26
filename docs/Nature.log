@@ -3390,3 +3390,10 @@ Append: [A superbug rose to the top after gaining a chemical weapon](https://www
 Append: [Gigantic birth study paints most detailed picture of pregnancy’s toll on body](https://www.nature.com/articles/d41586-025-00959-7)
 append_entries: 2
 Finish: 2025-03-26 18:26:16.383546
+------------------------------------------------------
+Started: 2025-03-26 20:20:28.941012
+Existing_entries: 644
+Fetching from https://www.nature.com/nature.rss
+Append: [Synaptic and neural behaviours in a standard silicon transistor](https://www.nature.com/articles/s41586-025-08742-4)
+append_entries: 1
+Finish: 2025-03-26 20:20:29.224948
