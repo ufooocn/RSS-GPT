@@ -3328,3 +3328,10 @@ Append: [Why is there more matter than antimatter? CERN result offers tantalizin
 Append: [Daily briefing: Why women are far more likely to develop Alzheimer’s than men](https://www.nature.com/articles/d41586-025-00956-w)
 append_entries: 3
 Finish: 2025-03-26 12:36:57.974289
+------------------------------------------------------
+Started: 2025-03-26 14:18:17.110674
+Existing_entries: 600
+Fetching from https://www.nature.com/nature.rss
+Append: [Some assembly required](https://www.nature.com/articles/d41586-025-00922-6)
+append_entries: 1
+Finish: 2025-03-26 14:18:17.391448
