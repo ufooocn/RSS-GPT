@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Strategic Development of Memristors for Neuromorphic Systems: Low‐Power and Reconfigurable Operation</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413916?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413916?af=R</guid>
 <content:encoded><![CDATA[
-
 This review investigates technological trends in brain‐inspired artificial reconfigurable memristors, as well as individual non‐volatile and volatile devices, according to their operating principles and fabrication methods. It examines case studies of artificial neural network system implementations based on these devices, providing the latest comprehensive design guidelines from fundamentals to advanced systems.
 
 
@@ -22,7 +22,6 @@ This review investigates technological trends in brain‐inspired artificial rec
 Abstract
 The ongoing global energy crisis has heightened the demand for low‐power electronic devices, driving interest in neuromorphic computing inspired by the parallel processing of human brains and energy efficiency. Reconfigurable memristors, which integrate both volatile and non‐volatile behaviors within a single unit, offer a powerful solution for in‐memory computing, addressing the von Neumann bottleneck that limits conventional computing architectures. These versatile devices combine the high density, low power consumption, and adaptability of memristors, positioning them as superior alternatives to traditional complementary metal‐oxide‐semiconductor (CMOS) technology for emulating brain‐like functions. Despite their potential, studies on reconfigurable memristors remain sparse and are often limited to specific materials such as Mott insulators without fully addressing their unique reconfigurability. This review specifically focuses on reconfigurable memristors, examining their dual‐mode operation, diverse physical mechanisms, structural designs, material properties, switching behaviors, and neuromorphic applications. It highlights the recent advancements in low‐power‐consumption solutions within memristor‐based neural networks and critically evaluates the challenges in deploying reconfigurable memristors as standalone devices or within artificial neural systems. The review provides in‐depth technical insights and quantitative benchmarks to guide the future development and implementation of reconfigurable memristors in low‐power neuromorphic computing.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:25:54 -0700</pubDate>
 <pubDate>2025-03-25T05:25:54-07:00</pubDate>
 </item>
 <item>
@@ -30,7 +29,6 @@ The ongoing global energy crisis has heightened the demand for low‐power elect
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418767?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418767?af=R</guid>
 <content:encoded><![CDATA[
-
 A Co‐rich high‐entropy oxide (HEO) catalyst enables efficient electrochemical methane‐to‐ethanol conversion at room temperature. By leveraging elemental enrichment, the catalyst achieves high selectivity and stability, outperforming conventional systems. Process modeling further highlights its economic viability and significant potential for reducing carbon emissions.
 
 
@@ -43,7 +41,6 @@ A Co‐rich high‐entropy oxide (HEO) catalyst enables efficient electrochemica
 Abstract
 The electrochemical conversion of methane offers a sustainable alternative to traditional thermochemical syngas pathways; however, the rational design of catalysts that ensure high productivity remains a significant challenge. In this study, a high‐entropy oxide (HEO) catalyst composed of Co, Cr, Fe, Mn, and Ni is explored, with a targeted element enriched, and identify that a Co‐rich HEO demonstrates high efficiency in room‐temperature electrochemical methane conversion. This analysis of the projected density of states (PDOS) reveals that Co sites in the HEO catalyst possess an optimally positioned p‐band center for methane activation. The Co‐rich HEO catalyst achieves an ethanol production rate of 12315 µmol/gcat/hr at 1.6 VRHE, with a Faradaic efficiency of 63.5%; a flow cell electrolyzer equipped with this catalyst achieves continuous methane‐to‐ethanol conversion at a rate of 26533 µmol/gcat/hr over 100 h. Process modeling evaluates the economic and environmental implications, demonstrating that a commercially viable process can be realized through economies of scale while significantly reducing CO₂ emissions.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:19:33 -0700</pubDate>
 <pubDate>2025-03-25T05:19:33-07:00</pubDate>
 </item>
 <item>
@@ -51,7 +48,6 @@ The electrochemical conversion of methane offers a sustainable alternative to tr
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503843?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503843?af=R</guid>
 <content:encoded><![CDATA[
-
 A microsized perovskite oxide Ce0.266W0.1Nb0.9O3 is engineered as an anode material for high‐rate, long‐life Li+ storage, demonstrating impressive performance by maintaining both high areal capacity and high rate capability, even at high mass loadings. This outstanding electrochemical behavior is primarily attributed to the nanoscale circuitry formed by an atomic‐scale short‐range order structure.
 
 
@@ -64,7 +60,6 @@ A microsized perovskite oxide Ce0.266W0.1Nb0.9O3 is engineered as an anode mater
 Abstract
 High‐rate materials necessitate the rapid transportation of both electrons and ions, a requirement that becomes especially challenging at practical mass loadings (>10 mg cm2). To address this challenge, a material is designed with an architecture having atomic‐scale short‐range order. This design establishes internal nanoscale circuitry at the particle level, which facilitates rapid electronic and ionic transport within micrometer‐sized niobium tungsten oxides. The architecture features alternating cerium‐depleted and cerium‐enriched regions. The continuous cerium‐enriched regions with enhanced conductivity provide multilane highways for electron mobility by functioning as electron‐conducting wires that significantly boost the overall conductivity. The cerium‐depleted regions effectively mitigate electrostatic repulsion and promote rapid ion transport through ion‐conducting channels. These structural characteristics provide a continuous network that supports both electrical migration and chemical diffusion to amplify the areal capacity and rate capability even at high mass loadings. These findings not only expand the fundamental understanding of the design of optimal host lattices for advanced energy storage systems but also of the practical application of microsized high‐rate electrode materials.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:13:07 -0700</pubDate>
 <pubDate>2025-03-25T05:13:07-07:00</pubDate>
 </item>
 <item>
@@ -72,7 +67,6 @@ High‐rate materials necessitate the rapid transportation of both electrons and
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500446?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500446?af=R</guid>
 <content:encoded><![CDATA[
-
 A van der Waals FePS2.66Li0.87 superionic conductor (SIC) with enhanced mixed electronic/ionic conductivity is applied for solar‐driven nitrate conversion to ammonia. The migration of mobile lithium ions between layers significantly promotes the electronic conductivity of FePS2.66Li0.87 SIC, which achieves a remarkable ammonia synthesis yield (134.18 µmol cm−2 h−1) under low bias voltage.
 
 
@@ -85,7 +79,6 @@ A van der Waals FePS2.66Li0.87 superionic conductor (SIC) with enhanced mixed el
 Abstract
 Photoelectrochemical (PEC) nitrate reduction shows substantial potential for solar‐to‐ammonia (NH3) conversion. However, low electron density and disordered electron conduction of conventional catalysts result in limited performance and low Faraday efficiency. Herein, a FePS2.66Li0.87 superionic conductor (SIC) is developed by introducing lithium ions into van der Waals immobile layered of FePS3 catalyst. This layered crystal framework facilitates high‐concentration lithium ions confinement and long‐range diffusion at room temperature, transitioning the conduction mechanism from electronic to mixed ionic/electronic. The typical nanofluidic ion transport leads to a high ionic conductivity of 16.4 mS cm−1 at room temperature and enhanced electronic conductivity of 5 × 10−6 S cm−1. Furthermore, mobile lithium ions within interlayers enhance the interaction between the low‐lying 3dyz orbitals of Fe interacting with 2a2 empty antibonding orbitals of NO3−. An excellent PEC ammonia production of 134.18 µmol cm−2 h−1 with 96.95% Faradaic efficiency is achieved, and the corresponding solar‐to‐NH3 efficiency of 57.13% offers a promising pathway toward sustainable ammonia production.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:11:59 -0700</pubDate>
 <pubDate>2025-03-25T05:11:59-07:00</pubDate>
 </item>
 <item>
@@ -93,7 +86,6 @@ Photoelectrochemical (PEC) nitrate reduction shows substantial potential for sol
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419674?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419674?af=R</guid>
 <content:encoded><![CDATA[
-
 Ultrafast broadband photoluminescence spectroscopy provides insights into the lasing dynamics, energy transfer, and singlet‐triplet annihilation in mixed‐layer quasi‐2D perovskites. Rapid energy funnelling to the sites of amplified spontaneous emission occurs within sub‐picosecond timescales. However, the accumulation of triplet excitons effectively quenches incoming singlet excitons, creating a bottleneck in the energy cascade and hindering the development of population inversion.
 
 
@@ -107,7 +99,6 @@ Ultrafast broadband photoluminescence spectroscopy provides insights into the la
 Abstract
 Quasi‐2D (Q2D) perovskite possess considerable potential for light emission and amplification technologies. Recently, mixed films containing Q2D perovskite grains with varying layer thicknesses have shown great promise as carrier concentrators, effectively mitigating trap‐mediated recombination. In this strategy, photo‐excitations are rapidly funnelled down an energy gradient to the thickest grains, leading to amplified spontaneous emission (ASE). However, the quantum‐confined Q2D slabs also stabilize the formation of unwanted triplet excitons, resulting in parasitic quenching of emissive singlet states. Here, a novel ultrafast photoluminescence spectroscopy is used to study photoexcitation dynamics in mixed‐layer Q2D perovskites. By analysing spectra with high temporal and energy resolution, this is found that sub‐picosecond energy transfer to ASE sites is accompanied by excitation losses due to triplet formation on grains with small and intermediate thicknesses. Further accumulation of triplets creates a bottleneck in the energy cascade, effectively quenching incoming singlet excitons. This ultrafast annihilation within 200 femtosecond outpaces energy transfer to ASE sites, preventing the build‐up of population inversion. This study highlights the significance of investigating photoexcitation dynamics on ultrafast timescales, encompassing lasing dynamics, energy transfer, and singlet‐triplet annihilation, to gain crucial insights into the photophysics of the optical gain process in Q2D perovskites.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:11:39 -0700</pubDate>
 <pubDate>2025-03-25T05:11:39-07:00</pubDate>
 </item>
 <item>
@@ -115,7 +106,6 @@ Quasi‐2D (Q2D) perovskite possess considerable potential for light emission an
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501092?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501092?af=R</guid>
 <content:encoded><![CDATA[
-
 A novel amphiphilic polymer Torlon‐based membrane with switchable superwettability is developed using a simple one‐step phase separation method. Its hierarchical porous structure and surface reorganization enable exceptional oil‐water separation with ultrahigh permeance and efficiency. The membrane exhibits excellent antifouling, self‐cleaning, and durability, offering a scalable solution for advanced oily wastewater treatment and beyond.
 
 
@@ -128,7 +118,6 @@ A novel amphiphilic polymer Torlon‐based membrane with switchable superwettabi
 Abstract
 The development of advanced membranes with switchable superwettability has attracted considerable attention for the efficient treatment of oily wastewater. However, challenges persist in designing and fabricating such membranes through straightforward methods. In this study, a novel strategy is presented to design switchable superwettable membranes based on micro/nano‐structured porous surfaces and surface chemical composition reorganization. A commercial amphiphilic polymer, polyamide‐imide (Torlon), is fabricated into a porous symmetric membrane with a hierarchical surface structure using a one‐step non‐solvent‐induced phase separation method. By leveraging the surface reorganization capability of amphiphilic polymers and the hierarchically porous structure, the resulting membranes demonstrate exceptional superamphiphilicity in air, underwater superoleophobicity, and underoil superhydrophobicity. These properties enable ultrahigh permeance and separation efficiency for oil‐in‐water, water‐in‐oil, and crude oil/water emulsions through a gravity‐driven process, eliminating the need for external energy. Furthermore, the membranes exhibit excellent antifouling and self‐cleaning performance, maintaining stable operation over multiple cycles. This work provides an innovative and scalable approach to next‐generation switchable superwettable membranes with broad potential applications in oily wastewater treatment and beyond.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:10:53 -0700</pubDate>
 <pubDate>2025-03-25T05:10:53-07:00</pubDate>
 </item>
 <item>
@@ -136,7 +125,6 @@ The development of advanced membranes with switchable superwettability has attra
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419052?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419052?af=R</guid>
 <content:encoded><![CDATA[
-
 This review article explores the advancement of smart dust networks for high‐resolution spatial and temporal chemical mapping. Comprising miniature, wireless sensors, and communication devices, smart dust autonomously collects, processes, and transmits data via swarm‐based communication. With applications in environmental monitoring, healthcare, agriculture, and industry, it emphasizes energy efficiency, sustainability, and large‐scale deployment to revolutionize chemical analysis in complex environments.
 
 
@@ -149,7 +137,6 @@ This review article explores the advancement of smart dust networks for high‐r
 Abstract
 This review article explores the transformative potential of smart dust systems by examining how existing chemical sensing technologies can be adapted and advanced to realize their full capabilities. Smart dust, characterized by submillimeter‐scale autonomous sensing platforms, offers unparalleled opportunities for real‐time, spatiotemporal chemical mapping across diverse environments. This article introduces the technological advancements underpinning these systems, critically evaluates current limitations, and outlines new avenues for development. Key challenges, including multi‐compound detection, system control, environmental impact, and cost, are discussed alongside potential solutions. By leveraging innovations in miniaturization, wireless communication, AI‐driven data analysis, and sustainable materials, this review highlights the promise of smart dust to address critical challenges in environmental monitoring, healthcare, agriculture, and defense sectors. Through this lens, the article provides a strategic roadmap for advancing smart dust from concept to practical application, emphasizing its role in transforming the understanding and management of complex chemical systems.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:10:22 -0700</pubDate>
 <pubDate>2025-03-25T05:10:22-07:00</pubDate>
 </item>
 <item>
@@ -157,7 +144,6 @@ This review article explores the transformative potential of smart dust systems 
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419702?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419702?af=R</guid>
 <content:encoded><![CDATA[
-
 By introducing abundant polar groups as Zn2+ absorption sites and hydrogen bond arrays, a protein structure‐derived binder for ZP anode and iodine cathode is proposed. This design can regulate the Zn2+ flux, benefit the formation of free‐standing electrode, inhibit the side reactions, suppress the shuttle effect of polyiodides, and enable the large‐scale potentials.
 
 
@@ -170,7 +156,6 @@ By introducing abundant polar groups as Zn2+ absorption sites and hydrogen bond 
 Abstract
 Compared with commonly used Zn foil anodes, Zn powder (ZP) anodes offer superior versatility and processability. However, in aqueous electrolytes, dendrite growth and side reactions, such as corrosion and hydrogen evolution, become more severe in ZP anodes than those in Zn foil anodes because of the rough surfaces and high surface areas of ZP, leading to poor reversibility and limitations in high‐loading mass cathodes. In this study, a diisocyanate‐polytetrahydrofuran‐dihydrazide polymer (DDP) binder is developed, inspired by protein structures. The strong Zn2+ adsorption capability of the binder effectively regulates Zn2+ flux, while its unique hydrogen‐bond arrays facilitate the formation of a free‐standing ZP anode and inhibit side reactions. The binder exhibits superior mechanical performance, providing ZP electrodes with excellent resistance to various mechanical stresses, including tensile, nanoindentation, scratch, and dynamic bending tests. ZP symmetric cells achieve stable cycling at capacities of 2 and 5 mAh cm−2. In addition, DDP functions as an iodine cathode, effectively mitigating the polyiodide shuttle effect. The fabricated ZP/DDP||I2/DDP full cells demonstrate an excellent rate capability and cycling stability, even under a high‐loading conditions. This study presents a novel approach for preparing stable ZP anodes and iodine cathodes, offering a promising strategy for large‐scale applications.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:09:51 -0700</pubDate>
 <pubDate>2025-03-25T05:09:51-07:00</pubDate>
 </item>
 <item>
@@ -178,7 +163,6 @@ Compared with commonly used Zn foil anodes, Zn powder (ZP) anodes offer superior
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502192?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502192?af=R</guid>
 <content:encoded><![CDATA[
-
 Rhodium‐carbon coordination‐based 2D metal‐organic frameworks are rationally synthesized and exhibit ultra‐narrow bandgaps (0.10–0.28 eV) and intrinsic charge mobilities up to 560 ± 46 cm2 V−1 s−1 via time‐resolved terahertz spectroscopy.
 
 
@@ -191,10 +175,8 @@ Rhodium‐carbon coordination‐based 2D metal‐organic frameworks are rational
 Abstract
 2D metal‐organic frameworks (2D MOFs) are emerging organic van der Waals materials with great potential in various applications owing to their structural diversity, and tunable optoelectronic properties. So far, most reported 2D MOFs rely on metal‐heteroatom coordination (e.g., metal–nitrogen, metal–oxygen, and metal–sulfur); synthesis of metal‐carbon coordination based 2D MOFs remains a formidable challenge. This study reports the rhodium–carbon (Rh–C) coordination‐based 2D MOFs, using isocyanide as the ligand and Rh(I) as metal node. The synthesized MOFs show excellent crystallinity with quasi‐square lattice networks. These MOFs show ultra‐narrow bandgaps (0.1–0.28 eV) resulting from the interaction between Rh(I) and isocyano groups. Terahertz spectroscopy demonstrates exceptional short‐range charge mobilities up to 560 ± 46 cm2 V−1 s−1 in the as‐synthesized MOFs. Moreover, these MOFs are used as electrocatalysts for nitrogen reduction reaction and show an excellent NH3 yield rate of 56.0 ± 1.5 µg h−1 mgcat−1 and a record Faradaic efficiency of 87.1 ± 1.8%. In situ experiments reveal dual pathways involving Rh(I) during the catalytic process. This work represents a pioneering step toward 2D MOFs based on metal–carbon coordination and paves the way for novel reticular materials with ultra‐high carrier mobility and for versatile optoelectronic devices.
 ]]></content:encoded>
-<pubDate>Tue, 25 Mar 2025 05:09:24 -0700</pubDate>
 <pubDate>2025-03-25T05:09:24-07:00</pubDate>
 </item>
-
 <item>
 <title>Universally Applicable and Ultra‐Long Life Cyclic Power Generation Induced by Interfacial Ion‐Oscillation</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420129?af=R</link>
@@ -18498,177 +18480,6 @@ Poly(2‐aminoazulene), featured with a substantial dipole moment and abundant L
 
 Abstract
 The electrochemical conversion of carbon dioxide (CO2) into hydrocarbon products emerges as a pivotal sustainable strategy for carbon utilization. Cu‐based catalysts are currently prioritized as the most effective means for this process, yet it remains a long‐term goal to achieve high product selectivity at elevated current densities. This study delved into exploring the influence of a topological poly(2‐aminoazulene) with a substantial dipole moment on modulating the Cu surface dipole field to augment the catalytic activity involved in CO2 reduction. The resulting Cu/poly(2‐aminoazulene) heterojunction showcases a remarkable ethylene Faradaic efficiency of 68.9% even at a substantial current density of 1 A cm−2. Through in situ Raman and in situ Fourier‐transform infrared spectroscopy, poly(2‐aminoazulene)‐modified Cu electrode exhibits a heightened concentration of intermediates as compared to the bare Cu, proving advantageous for C−C dimerization. Theoretical calculations demonstrate the reduced energy barrier for C−C dimerization, and meanwhile impeding hydrogen evolution reaction on Cu/poly(2‐aminoazulene) heterojunction, which are beneficial to CO2 reduction. The catalyst design in this study, incorporating dipole moment considerations, not only investigates the influence of dipole moment on electrochemical carbon dioxide reduction but also pioneers an innovative strategy to augment catalytic activity by elevating the micro‐concentration of reactants on catalyst surfaces.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Triplet Exciton Sensitization of Silicon Mediated by Defect States in Hafnium Oxynitride</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415110?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415110?af=R</guid>
-<content:encoded><![CDATA[
-This work investigates the influence of hafnium oxynitride interlayer composition on triplet exciton sensitization of singlet fission solar cells. Nitrogen content in hafnium oxynitride layers is correlated with enhanced sensitization. Calculation results reveal that defects in hafnium oxynitride interlayers with higher nitrogen content introduce states close to the band‐edge of silicon, which can mediate the triplet exciton transfer process.
-
-
-
-
-
-
-
-
-Abstract
-Singlet exciton fission has the potential to increase the efficiency of crystalline silicon solar cells beyond the conventional single junction limit. Perhaps the largest obstacle to achieving this enhancement is uncertainty about energy coupling mechanisms at the interfaces between silicon and exciton fission materials such as tetracene. Here, the previously reported silicon‐hafnium oxynitride‐tetracene structure is studied and a combination of magnetic‐field‐dependent silicon photoluminescence measurements and density functional theory calculations is used to probe the influence of the interlayer composition on the triplet transfer process across the hafnium oxynitride interlayer. It is found that hafnium oxide interlayers do not show triplet exciton sensitization of silicon, and that nitrogen content in hafnium oxynitride layers is correlated with enhanced sensitization. Calculation results reveal that defects in hafnium oxynitride interlayers with higher nitrogen content introduce states close to the band‐edge of silicon, which can mediate the triplet exciton transfer process. Some defects introduce additional deleterious mid‐gap states, which may explain observed silicon photoluminescence quenching. These results show that band‐edge states can mediate the triplet exciton transfer process, potentially through a sequential charge transfer mechanism.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>3D‐Printed Electrohydrodynamic Pump and Development of Anti‐Swelling Organohydrogel for Soft Robotics</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415210?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415210?af=R</guid>
-<content:encoded><![CDATA[
-This study advances electrohydrodynamic (EHD) pumps by introducing a 3D‐printable anti‐swelling organohydrogel for soft robotics. Using digital light processing (DLP) technology, precise components are fabricated, resulting in a pump with 90.2 kPa pressure and 800 mL min−1 flow rate. A novel organohydrogel with low swelling and excellent mechanical properties enhances pump performance, supporting diverse soft robotics applications.
-
-
-
-
-
-
-
-
-Abstract
-This study introduces advancements in electrohydrodynamic (EHD) pumps and the development of a 3D‐printable anti‐swelling organohydrogel for soft robotics. Using digital light processing (DLP)technology, precise components with less than 1% size variation are fabricated, enabling a unique manifold pump array. This design achieves an output pressure of 90.2 kPa—18 times higher than traditional configurations—and a flow rate of 800 mL min−1, surpassing previous EHD pumps. To address swelling issues in dielectric liquids, a novel organohydrogel is developed with Young's modulus of 0.33 MPa, 300% stretchability, and a swelling ratio under 10%. Its low swelling is attributed to the shield effect and edge length confinement effect. This durable material ensures consistent pump performance under mechanical stresses like bending and twisting, crucial for dynamic soft robotic environments. These innovations significantly improve EHD pump efficiency and reliability, expanding their potential applications in soft robotics, bioengineering, and vertical farming.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Structure‐Dependent Nonlinear Optical Effects in Spiral WS2 Nanosheets</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415214?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415214?af=R</guid>
-<content:encoded><![CDATA[
-The nonlinear response of spiral 2D transition‐metal dichalcogenides can be tailored on‐demand through novel structural designs (such as aligned‐ and twisted‐triangular spiral nanosheets) with scalable and reproducible method, which is beneficial to the integrated photonics and lab‐on‐a‐chip quantum devices.
-
-
-
-
-
-
-
-
-Abstract
-Spiral transition‐metal dichalcogenides with broken crystal inversion symmetry and significant second‐order nonlinear responses have shown great promise for further nonlinear optical applications. However, various spiral structures will be formed during their synthesis process, their second harmonic generation (SHG) varying with the layer thickness and which of them manifesting the most promising SHG response are still unresolved. Here, the layer‐dependent SHG response is investigated for four representative spiral WS2 with different screw and twist angles, including aligned‐ and twisted‐triangular spiral structures, aligned‐ and twisted‐hexagonal spiral structures, respectively. Experimental results demonstrate that both aligned‐ and twisted‐hexagonal spiral WS2 present weak SHG response. In contrast, the SHG signal of the aligned‐triangular spiral WS2 almost quadratically increases with the lift of their thickness, which is two orders of magnitude stronger than hexagonal structures. Moreover, an oscillating layer‐dependence SHG response for twisted‐triangular spiral WS2 has been attributed to the restored inversion symmetry. The underlying mechanism has been explored by the evolution of their crystal symmetry. The results not only disclose that the nonlinear response of the spiral WS2 can be tailored on‐demand through the novel structural designs, but also pave the way to scalable integrated photonics and lab‐on‐a‐chip quantum devices based on spiral layered materials.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Solvent‐Tuned Plasticity for Various Binder‐Free Applications of a New Lead‐Free Manganese Halide</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415247?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415247?af=R</guid>
-<content:encoded><![CDATA[
-The lead‐free metal halide CPTP2MnBr4 exhibits solvent‐tuned plasticity, enabling the formation of binder‐free thin films without requiring heat treatment. This unique property allows versatile processing into luminescent clay, direct ink writing patterns, and uniform thin layers, overcoming the limitations of conventional binder systems. These characteristics highlight its potential for applications in WLEDs, scintillators, and next‐generation μ‐LED displays.
-
-
-
-
-
-
-
-
-Abstract
-The development of efficient color conversion layers for μ‐LED technology faces significant challenges owing to the limitations of materials that require binders. Binders are typically used to ensure uniform film formation in color‐conversion layers, but they often cause optical losses, increase layer thickness, and introduce long‐term stability issues. To address the limitations of materials requiring binders, cyclopropyltriphenylphosphonium manganese tetrabromide (CPTP2MnBr4) is synthesized, a novel lead‐free metal halide. CPTP2MnBr4 exhibits unique solvent‐based plasticity, which enables the formation of uniform films thinner than those formed with binders without the need for either heat treatment or binders. This approach eliminates the performance degradation typically associated with conventional binder systems such as optical losses and stability issues. Structural and optical analyses confirm its high luminescence efficiency and stability, supporting its potential applications in luminescent clays, direct ink writing, pattern printing, and ink drawing. Moreover, its successful application in white light‐emitting diodes (WLEDs) and scintillators demonstrates that CPTP2MnBr4 can replace traditional binder systems, offering a solution to overcome the technical challenges in next‐generation displays, lighting, and scintillator technologies.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Performance Enhancement of Carbon Nanotube Network Transistors via SbI3 Inner‐Doping in Selected Regions</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415442?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415442?af=R</guid>
-<content:encoded><![CDATA[
-A new structural device is constructed through contact engineering, where carbon nanotubes in the electrode area are filled with SbI3 molecular chains, resulting in low contact resistance, high carrier mobility, and an extremely low subthreshold swing.
-
-
-
-
-
-
-
-
-Abstract
-Semiconducting single‐wall carbon nanotubes (s‐SWCNTs) represent one of the most promising materials for surpassing Moore's Law and developing the next generation of electronic devices. Despite numerous developed approaches, reducing the contact resistance of s‐SWCNTs networks remains a significant challenge in achieving further enhancements in electronic performance. In this study, antimony triiodide (SbI3) is efficiently encapsulated within high‐purity s‐SWCNTs films at low temperatures, forming 1D SbI3@s‐SWCNTs vdW heterostructures. The semiconductor–metal transition of individual SbI3@s‐SWCNTs is characterized via sensitive dielectric force microscopy, with the results confirmed through electrical device tests. The electrical behavior transition is attributed to an interlayer charge transfer, as demonstrated by Kelvin probe force microscopy. Moreover, the electrical performance of s‐SWCNTs thin‐film transistors improves significantly with SbI3@s‐SWCNTs networks as contact electrodes. This process reduces the contact resistance between the s‐SWCNTs channel and the electrodes, enhancing electrical performance. Specifically, the contact resistance decreases to one‐third of the original, the carrier mobility increases by ≈10 times, the on‐off ratio exceeds 106, and the subthreshold swing reduces significantly to ≈65 mV dec−1. These results demonstrate the effectiveness of inner‐doping‐induced metallization of s‐SWCNTs in the contact region, essential for advancing carbon nanotube electronic devices and circuits.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Hydrolysis of 2D Nanosheets Reverses Rheumatoid Arthritis Through Anti‐Inflammation and Osteogenesis</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415543?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415543?af=R</guid>
-<content:encoded><![CDATA[
-The hydrolysis of the fabricated calcium disilicide nanoparticles (CSNs) produces anti‐oxidative H2, alkaline Ca(OH)2, and silica. These moieties play significant roles in anti‐oxidation, anti‐inflammatory, and pro‐osteogenesis resulting in considerably outperformed RA therapeutics. The multifunctional performances of CSNs are further confirmed in arthritic mouse and rabbit models, providing an advanced therapeutic strategy against RA with high biocompatibility.
-
-
-
-
-
-
-
-
-Abstract
-Rheumatoid arthritis (RA) is a kind of inflammation homeostasis disorder that dysfunctions the joints. Clinically, medications against RA focus simply on mitigating the focal inflammation, without considering pro‐osteogenesis re‐modeling of the bone microenvironment. In the present work, 2D layered calcium disilicide nanoparticles (CSNs) are fabricated by facile aqueous exfoliation. The hydrolysis of CSNs produces anti‐oxidative H2, alkaline Ca(OH)2, and silica. These moieties play significant roles in anti‐oxidation, anti‐inflammation, and pro‐osteogenesis resulting in considerably better RA therapeutic consequences than anti‐inflammation alone. Hydrogen gas is validated to eliminate excessive hydroxyl radicals and regulate macrophage re‐polarization; the generated Ca(OH)2 can neutralize the acidic microenvironment and inhibit the osteoclast activity; and, the dissolved Ca2+ can effectively complex with phosphates to mineralize Ca3(PO4)2, promoting the osteogenesis of the focal joint. The multifunctional performances of CSNs are further confirmed in arthritic mouse and rabbit models, providing an advanced and robust therapeutic strategy against RA with high biocompatibility and clinical transformable promises.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>In Situ Reconstructed Hydroxyl‐Rich Atomic‐Thin Bi2O2CO3 Enables Ampere‐Scale Synthesis of Formate from CO2 with Activated Water Dissociation</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415639?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415639?af=R</guid>
-<content:encoded><![CDATA[
-The hydroxyl‐functionalized atomic‐thin bismuth subcarbonate in situ transformed from bismuth hydroxide nanotubes enables highly efficient and durable carbon dioxide electroreduction into formate. The unique OH‐decoration facilitates active hydrogen supply in near‐neutral electrolytes by enhanced water dissociation and strengthened the adsorption of the critical oxygenated intermediate with highly localized surface electron configuration.
-
-
-
-
-
-
-
-
-Abstract
-Renewable electricity‐driven CO2 electroreduction provides a promising route toward carbon neutrality and sustainable chemical production. Nevertheless, the viability of this route faces constraints of catalytic efficiency and durability in near‐neutral electrolytes at industrial‐scale current densities, mechanistically originating from unfavorable accommodation of *H species from water dissociation. Herein, a new strategy is reported to accelerate water dissociation by the rich surface hydroxyl on bismuth subcarbonate nanosheets in situ electrochemical transformed from bismuth hydroxide nanotube precursors. This catalyst enables the electrosynthesis of formate at current densities up to 1000 mA cm−2 with >96% faradaic efficiencies in flow cells, and a 200 h durable membrane electrode assembly in a dilute near‐neutral environment. Combined kinetic studies, in situ characterizations, and theoretical calculations reveal that the atomic thickness strengthens the hydroxyl adsorption, and with a highly localized electron configuration, the hydroxyl‐functionalized surface is more affinitive to oxygenated species, thus lowering the barrier for water dissociation and the crucial hydrogenation step in the proton‐coupled electron transfer from *OCHO to *HCOOH.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Renal Clearable Chiral Manganese Oxide Supraparticles for In Vivo Detection of Metalloproteinase‐9 in Early Cancer Diagnosis</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415656?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415656?af=R</guid>
-<content:encoded><![CDATA[
-Chiral MnO2 supraparticles as renal‐clearance biosensors for dual‐mode in vivo detection of metalloproteinase‐9 in early cancer diagnosis via circular dichroism (CD) and magnetic resonance imaging (MRI).
-
-
-
-
-
-
-
-
-Abstract
-In this study, polypeptide TGGGPLGVARGKGGC‐induced chiral manganese dioxide supraparticles (MnO2 SPs) are prepared for sensitive quantification of matrix metalloproteinase‐9 (MMP‐9) in vitro and in vivo. The results show that L‐type manganese dioxide supraparticles (L‐MnO2 SPs) exhibited twice the affinity for the cancer cell membrane receptor CD47 (cluster of differentiation, integrin‐associated protein) than D‐type manganese dioxide supraparticles (D‐MnO2 SPs) to accumulate at the tumor site after surface modification of the internalizing arginine‐glycine‐aspartic acid (iRGD) ligand, specifically reacting with the MMP‐9, disassembling into ultrasmall nanoparticles (NPs), and efficiently underwent renal clearance. Furthermore, L‐MnO2 facilitates the quantification of MMP‐9 in mouse tumor xenografts, as demonstrated by circular dichroism (CD) and magnetic resonance imaging (MRI) within 2 h. A strong linear relationship is observed between MMP‐9 concentration and both CD and MRI intensity, ranging from 0.01 to 10 ng mL−1. The corresponding limits of detection (LOD) are 0.0054 ng mL−1 for CD and 0.0062 ng mL−1 for MRI, respectively. hese SPs provide a new approach for exploring chiral advanced biosensors for early diagnosis of cancer.
-]]></content:encoded>
-<pubDate>2025-02-19T06:34:05-08:00</pubDate>
-</item>
-<item>
-<title>Time‐Reversal Symmetry Breaking Superconductivity in HfRhGe: A Noncentrosymmetric Weyl Semimetal</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415721?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415721?af=R</guid>
-<content:encoded><![CDATA[
-HfRhGe, a promising noncentrosymmetric material for topological superconductivity, exhibits time‐reversal symmetry (TRS)‐protected Weyl topology in its normal state, featuring disconnected Fermi sheets and multiple surface Fermi arcs. It enters a superconducting phase at low temperatures with a TRS‐breaking ground state, evidenced by muon‐spin rotation and relaxation (µSR) measurements, detecting a spontaneous magnetic field offering potential applications in quantum electronics.
-
-
-
-
-
-
-
-
-Abstract
-Weyl semimetals are a novel class of topological materials with unique electronic structures and distinct properties. HfRhGe stands out as a noncentrosymmetric Weyl semimetal with unconventional superconducting characteristics. Using muon‐spin rotation and relaxation (µSR) spectroscopy and thermodynamic measurements, a fully gapped superconducting state is identified in HfRhGe that breaks time‐reversal symmetry at the superconducting transition. This breaking can trigger a topological phase transition, as time‐reversal symmetry protects the normal‐state Weyl topology characterized by comprehensive first‐principles calculations. Ginzburg‐Landau analysis suggests an unconventional loop supercurrent superconducting state realized in HfRhGe. The presence of multiple Weyl points near the Fermi level and surface Fermi arcs dispersing across the Fermi level further support HfRhGe as a promising platform for topological superconductivity. Additionally, its noncentrosymmetric nature with time‐reversal symmetry breaking superconducting state suggests that it can exhibit an intrinsic superconducting diode effect, offering novel optical and transport properties, with potential applications in dissipationless quantum electronics.
 ]]></content:encoded>
 <pubDate>2025-02-19T06:34:05-08:00</pubDate>
 </item>

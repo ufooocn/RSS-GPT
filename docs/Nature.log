@@ -3311,3 +3311,11 @@ Existing_entries: 595
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-26 08:24:45.781161
+------------------------------------------------------
+Started: 2025-03-26 10:19:49.148459
+Existing_entries: 595
+Fetching from https://www.nature.com/nature.rss
+Append: [Empower families to lead the design of their ageing loved ones’ health care](https://www.nature.com/articles/d41586-025-00893-8)
+Append: [AI is transforming peer review — and many scientists are worried](https://www.nature.com/articles/d41586-025-00894-7)
+append_entries: 2
+Finish: 2025-03-26 10:19:49.357802

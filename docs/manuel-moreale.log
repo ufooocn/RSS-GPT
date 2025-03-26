@@ -10770,3 +10770,12 @@ Existing_entries: 626
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-26 08:25:23.220073
+------------------------------------------------------
+Started: 2025-03-26 10:19:58.232612
+Existing_entries: 626
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [The cost of getting too big](https://manuelmoreale.com/the-cost-of-getting-too-big)
+append_entries: 1
+Finish: 2025-03-26 10:20:00.425763
