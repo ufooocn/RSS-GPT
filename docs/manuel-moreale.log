@@ -10779,3 +10779,9 @@ error: Connection error.
 Append: [The cost of getting too big](https://manuelmoreale.com/the-cost-of-getting-too-big)
 append_entries: 1
 Finish: 2025-03-26 10:20:00.425763
+------------------------------------------------------
+Started: 2025-03-26 12:37:07.149015
+Existing_entries: 627
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-26 12:37:08.393688
