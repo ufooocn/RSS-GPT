@@ -3292,3 +3292,10 @@ Existing_entries: 594
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-26 02:57:44.888560
+------------------------------------------------------
+Started: 2025-03-26 04:21:46.668648
+Existing_entries: 594
+Fetching from https://www.nature.com/nature.rss
+Append: [Exclusive: NIH to cut grants for COVID research, documents reveal](https://www.nature.com/articles/d41586-025-00954-y)
+append_entries: 1
+Finish: 2025-03-26 04:21:46.898925
