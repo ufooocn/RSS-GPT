@@ -4346,3 +4346,20 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-26 06:26:15.766273
+------------------------------------------------------
+Started: 2025-03-26 08:24:46.297986
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Strategic Development of Memristors for Neuromorphic Systems: Low‐Power and Reconfigurable Operation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413916?af=R)
+Append: [Co‐Enriched High Entropy Oxides for Efficient Continuous Electrochemical Methane Conversion: Catalytic Performance and Sustainability Insights](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418767?af=R)
+Append: [Establishing Nanoscale Circuitry by Designing a Structure with Atomic Short‐range Order for High‐Rate Energy Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503843?af=R)
+Append: [Efficient Photoelectrocatalytic Synthesis of Ammonia by Superionic Conductor with Mixed Ion/Electron Conduction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500446?af=R)
+Append: [Critical Roles of Ultrafast Energy Funnelling and Ultrafast Singlet‐Triplet Annihilation in Quasi‐2D Perovskite Optical Gain Mechanisms](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419674?af=R)
+Append: [Hierarchically Structured Porous Polyamide‐Imide Membrane for Switchable Emulsion Separation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501092?af=R)
+Append: [Smart Dust for Chemical Mapping](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419052?af=R)
+Append: [A Multifunctional Binder for Current‐Collector‐Free Zn Powder Anodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419702?af=R)
+Append: [2D Rhodium‐Isocyanide Frameworks](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502192?af=R)
+append_entries: 9
+Finish: 2025-03-26 08:24:48.639831

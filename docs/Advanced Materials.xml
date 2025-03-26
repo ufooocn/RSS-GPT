@@ -4,6 +4,196 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+<item>
+<title>Strategic Development of Memristors for Neuromorphic Systems: Low‐Power and Reconfigurable Operation</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413916?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413916?af=R</guid>
+<content:encoded><![CDATA[
+
+This review investigates technological trends in brain‐inspired artificial reconfigurable memristors, as well as individual non‐volatile and volatile devices, according to their operating principles and fabrication methods. It examines case studies of artificial neural network system implementations based on these devices, providing the latest comprehensive design guidelines from fundamentals to advanced systems.
+
+
+
+
+
+
+
+
+Abstract
+The ongoing global energy crisis has heightened the demand for low‐power electronic devices, driving interest in neuromorphic computing inspired by the parallel processing of human brains and energy efficiency. Reconfigurable memristors, which integrate both volatile and non‐volatile behaviors within a single unit, offer a powerful solution for in‐memory computing, addressing the von Neumann bottleneck that limits conventional computing architectures. These versatile devices combine the high density, low power consumption, and adaptability of memristors, positioning them as superior alternatives to traditional complementary metal‐oxide‐semiconductor (CMOS) technology for emulating brain‐like functions. Despite their potential, studies on reconfigurable memristors remain sparse and are often limited to specific materials such as Mott insulators without fully addressing their unique reconfigurability. This review specifically focuses on reconfigurable memristors, examining their dual‐mode operation, diverse physical mechanisms, structural designs, material properties, switching behaviors, and neuromorphic applications. It highlights the recent advancements in low‐power‐consumption solutions within memristor‐based neural networks and critically evaluates the challenges in deploying reconfigurable memristors as standalone devices or within artificial neural systems. The review provides in‐depth technical insights and quantitative benchmarks to guide the future development and implementation of reconfigurable memristors in low‐power neuromorphic computing.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:25:54 -0700</pubDate>
+<pubDate>2025-03-25T05:25:54-07:00</pubDate>
+</item>
+<item>
+<title>Co‐Enriched High Entropy Oxides for Efficient Continuous Electrochemical Methane Conversion: Catalytic Performance and Sustainability Insights</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418767?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418767?af=R</guid>
+<content:encoded><![CDATA[
+
+A Co‐rich high‐entropy oxide (HEO) catalyst enables efficient electrochemical methane‐to‐ethanol conversion at room temperature. By leveraging elemental enrichment, the catalyst achieves high selectivity and stability, outperforming conventional systems. Process modeling further highlights its economic viability and significant potential for reducing carbon emissions.
+
+
+
+
+
+
+
+
+Abstract
+The electrochemical conversion of methane offers a sustainable alternative to traditional thermochemical syngas pathways; however, the rational design of catalysts that ensure high productivity remains a significant challenge. In this study, a high‐entropy oxide (HEO) catalyst composed of Co, Cr, Fe, Mn, and Ni is explored, with a targeted element enriched, and identify that a Co‐rich HEO demonstrates high efficiency in room‐temperature electrochemical methane conversion. This analysis of the projected density of states (PDOS) reveals that Co sites in the HEO catalyst possess an optimally positioned p‐band center for methane activation. The Co‐rich HEO catalyst achieves an ethanol production rate of 12315 µmol/gcat/hr at 1.6 VRHE, with a Faradaic efficiency of 63.5%; a flow cell electrolyzer equipped with this catalyst achieves continuous methane‐to‐ethanol conversion at a rate of 26533 µmol/gcat/hr over 100 h. Process modeling evaluates the economic and environmental implications, demonstrating that a commercially viable process can be realized through economies of scale while significantly reducing CO₂ emissions.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:19:33 -0700</pubDate>
+<pubDate>2025-03-25T05:19:33-07:00</pubDate>
+</item>
+<item>
+<title>Establishing Nanoscale Circuitry by Designing a Structure with Atomic Short‐range Order for High‐Rate Energy Storage</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503843?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503843?af=R</guid>
+<content:encoded><![CDATA[
+
+A microsized perovskite oxide Ce0.266W0.1Nb0.9O3 is engineered as an anode material for high‐rate, long‐life Li+ storage, demonstrating impressive performance by maintaining both high areal capacity and high rate capability, even at high mass loadings. This outstanding electrochemical behavior is primarily attributed to the nanoscale circuitry formed by an atomic‐scale short‐range order structure.
+
+
+
+
+
+
+
+
+Abstract
+High‐rate materials necessitate the rapid transportation of both electrons and ions, a requirement that becomes especially challenging at practical mass loadings (>10 mg cm2). To address this challenge, a material is designed with an architecture having atomic‐scale short‐range order. This design establishes internal nanoscale circuitry at the particle level, which facilitates rapid electronic and ionic transport within micrometer‐sized niobium tungsten oxides. The architecture features alternating cerium‐depleted and cerium‐enriched regions. The continuous cerium‐enriched regions with enhanced conductivity provide multilane highways for electron mobility by functioning as electron‐conducting wires that significantly boost the overall conductivity. The cerium‐depleted regions effectively mitigate electrostatic repulsion and promote rapid ion transport through ion‐conducting channels. These structural characteristics provide a continuous network that supports both electrical migration and chemical diffusion to amplify the areal capacity and rate capability even at high mass loadings. These findings not only expand the fundamental understanding of the design of optimal host lattices for advanced energy storage systems but also of the practical application of microsized high‐rate electrode materials.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:13:07 -0700</pubDate>
+<pubDate>2025-03-25T05:13:07-07:00</pubDate>
+</item>
+<item>
+<title>Efficient Photoelectrocatalytic Synthesis of Ammonia by Superionic Conductor with Mixed Ion/Electron Conduction</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500446?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500446?af=R</guid>
+<content:encoded><![CDATA[
+
+A van der Waals FePS2.66Li0.87 superionic conductor (SIC) with enhanced mixed electronic/ionic conductivity is applied for solar‐driven nitrate conversion to ammonia. The migration of mobile lithium ions between layers significantly promotes the electronic conductivity of FePS2.66Li0.87 SIC, which achieves a remarkable ammonia synthesis yield (134.18 µmol cm−2 h−1) under low bias voltage.
+
+
+
+
+
+
+
+
+Abstract
+Photoelectrochemical (PEC) nitrate reduction shows substantial potential for solar‐to‐ammonia (NH3) conversion. However, low electron density and disordered electron conduction of conventional catalysts result in limited performance and low Faraday efficiency. Herein, a FePS2.66Li0.87 superionic conductor (SIC) is developed by introducing lithium ions into van der Waals immobile layered of FePS3 catalyst. This layered crystal framework facilitates high‐concentration lithium ions confinement and long‐range diffusion at room temperature, transitioning the conduction mechanism from electronic to mixed ionic/electronic. The typical nanofluidic ion transport leads to a high ionic conductivity of 16.4 mS cm−1 at room temperature and enhanced electronic conductivity of 5 × 10−6 S cm−1. Furthermore, mobile lithium ions within interlayers enhance the interaction between the low‐lying 3dyz orbitals of Fe interacting with 2a2 empty antibonding orbitals of NO3−. An excellent PEC ammonia production of 134.18 µmol cm−2 h−1 with 96.95% Faradaic efficiency is achieved, and the corresponding solar‐to‐NH3 efficiency of 57.13% offers a promising pathway toward sustainable ammonia production.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:11:59 -0700</pubDate>
+<pubDate>2025-03-25T05:11:59-07:00</pubDate>
+</item>
+<item>
+<title>Critical Roles of Ultrafast Energy Funnelling and Ultrafast Singlet‐Triplet Annihilation in Quasi‐2D Perovskite Optical Gain Mechanisms</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419674?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419674?af=R</guid>
+<content:encoded><![CDATA[
+
+Ultrafast broadband photoluminescence spectroscopy provides insights into the lasing dynamics, energy transfer, and singlet‐triplet annihilation in mixed‐layer quasi‐2D perovskites. Rapid energy funnelling to the sites of amplified spontaneous emission occurs within sub‐picosecond timescales. However, the accumulation of triplet excitons effectively quenches incoming singlet excitons, creating a bottleneck in the energy cascade and hindering the development of population inversion.
+
+
+
+
+
+
+
+
+
+Abstract
+Quasi‐2D (Q2D) perovskite possess considerable potential for light emission and amplification technologies. Recently, mixed films containing Q2D perovskite grains with varying layer thicknesses have shown great promise as carrier concentrators, effectively mitigating trap‐mediated recombination. In this strategy, photo‐excitations are rapidly funnelled down an energy gradient to the thickest grains, leading to amplified spontaneous emission (ASE). However, the quantum‐confined Q2D slabs also stabilize the formation of unwanted triplet excitons, resulting in parasitic quenching of emissive singlet states. Here, a novel ultrafast photoluminescence spectroscopy is used to study photoexcitation dynamics in mixed‐layer Q2D perovskites. By analysing spectra with high temporal and energy resolution, this is found that sub‐picosecond energy transfer to ASE sites is accompanied by excitation losses due to triplet formation on grains with small and intermediate thicknesses. Further accumulation of triplets creates a bottleneck in the energy cascade, effectively quenching incoming singlet excitons. This ultrafast annihilation within 200 femtosecond outpaces energy transfer to ASE sites, preventing the build‐up of population inversion. This study highlights the significance of investigating photoexcitation dynamics on ultrafast timescales, encompassing lasing dynamics, energy transfer, and singlet‐triplet annihilation, to gain crucial insights into the photophysics of the optical gain process in Q2D perovskites.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:11:39 -0700</pubDate>
+<pubDate>2025-03-25T05:11:39-07:00</pubDate>
+</item>
+<item>
+<title>Hierarchically Structured Porous Polyamide‐Imide Membrane for Switchable Emulsion Separation</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501092?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501092?af=R</guid>
+<content:encoded><![CDATA[
+
+A novel amphiphilic polymer Torlon‐based membrane with switchable superwettability is developed using a simple one‐step phase separation method. Its hierarchical porous structure and surface reorganization enable exceptional oil‐water separation with ultrahigh permeance and efficiency. The membrane exhibits excellent antifouling, self‐cleaning, and durability, offering a scalable solution for advanced oily wastewater treatment and beyond.
+
+
+
+
+
+
+
+
+Abstract
+The development of advanced membranes with switchable superwettability has attracted considerable attention for the efficient treatment of oily wastewater. However, challenges persist in designing and fabricating such membranes through straightforward methods. In this study, a novel strategy is presented to design switchable superwettable membranes based on micro/nano‐structured porous surfaces and surface chemical composition reorganization. A commercial amphiphilic polymer, polyamide‐imide (Torlon), is fabricated into a porous symmetric membrane with a hierarchical surface structure using a one‐step non‐solvent‐induced phase separation method. By leveraging the surface reorganization capability of amphiphilic polymers and the hierarchically porous structure, the resulting membranes demonstrate exceptional superamphiphilicity in air, underwater superoleophobicity, and underoil superhydrophobicity. These properties enable ultrahigh permeance and separation efficiency for oil‐in‐water, water‐in‐oil, and crude oil/water emulsions through a gravity‐driven process, eliminating the need for external energy. Furthermore, the membranes exhibit excellent antifouling and self‐cleaning performance, maintaining stable operation over multiple cycles. This work provides an innovative and scalable approach to next‐generation switchable superwettable membranes with broad potential applications in oily wastewater treatment and beyond.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:10:53 -0700</pubDate>
+<pubDate>2025-03-25T05:10:53-07:00</pubDate>
+</item>
+<item>
+<title>Smart Dust for Chemical Mapping</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419052?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419052?af=R</guid>
+<content:encoded><![CDATA[
+
+This review article explores the advancement of smart dust networks for high‐resolution spatial and temporal chemical mapping. Comprising miniature, wireless sensors, and communication devices, smart dust autonomously collects, processes, and transmits data via swarm‐based communication. With applications in environmental monitoring, healthcare, agriculture, and industry, it emphasizes energy efficiency, sustainability, and large‐scale deployment to revolutionize chemical analysis in complex environments.
+
+
+
+
+
+
+
+
+Abstract
+This review article explores the transformative potential of smart dust systems by examining how existing chemical sensing technologies can be adapted and advanced to realize their full capabilities. Smart dust, characterized by submillimeter‐scale autonomous sensing platforms, offers unparalleled opportunities for real‐time, spatiotemporal chemical mapping across diverse environments. This article introduces the technological advancements underpinning these systems, critically evaluates current limitations, and outlines new avenues for development. Key challenges, including multi‐compound detection, system control, environmental impact, and cost, are discussed alongside potential solutions. By leveraging innovations in miniaturization, wireless communication, AI‐driven data analysis, and sustainable materials, this review highlights the promise of smart dust to address critical challenges in environmental monitoring, healthcare, agriculture, and defense sectors. Through this lens, the article provides a strategic roadmap for advancing smart dust from concept to practical application, emphasizing its role in transforming the understanding and management of complex chemical systems.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:10:22 -0700</pubDate>
+<pubDate>2025-03-25T05:10:22-07:00</pubDate>
+</item>
+<item>
+<title>A Multifunctional Binder for Current‐Collector‐Free Zn Powder Anodes</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419702?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419702?af=R</guid>
+<content:encoded><![CDATA[
+
+By introducing abundant polar groups as Zn2+ absorption sites and hydrogen bond arrays, a protein structure‐derived binder for ZP anode and iodine cathode is proposed. This design can regulate the Zn2+ flux, benefit the formation of free‐standing electrode, inhibit the side reactions, suppress the shuttle effect of polyiodides, and enable the large‐scale potentials.
+
+
+
+
+
+
+
+
+Abstract
+Compared with commonly used Zn foil anodes, Zn powder (ZP) anodes offer superior versatility and processability. However, in aqueous electrolytes, dendrite growth and side reactions, such as corrosion and hydrogen evolution, become more severe in ZP anodes than those in Zn foil anodes because of the rough surfaces and high surface areas of ZP, leading to poor reversibility and limitations in high‐loading mass cathodes. In this study, a diisocyanate‐polytetrahydrofuran‐dihydrazide polymer (DDP) binder is developed, inspired by protein structures. The strong Zn2+ adsorption capability of the binder effectively regulates Zn2+ flux, while its unique hydrogen‐bond arrays facilitate the formation of a free‐standing ZP anode and inhibit side reactions. The binder exhibits superior mechanical performance, providing ZP electrodes with excellent resistance to various mechanical stresses, including tensile, nanoindentation, scratch, and dynamic bending tests. ZP symmetric cells achieve stable cycling at capacities of 2 and 5 mAh cm−2. In addition, DDP functions as an iodine cathode, effectively mitigating the polyiodide shuttle effect. The fabricated ZP/DDP||I2/DDP full cells demonstrate an excellent rate capability and cycling stability, even under a high‐loading conditions. This study presents a novel approach for preparing stable ZP anodes and iodine cathodes, offering a promising strategy for large‐scale applications.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:09:51 -0700</pubDate>
+<pubDate>2025-03-25T05:09:51-07:00</pubDate>
+</item>
+<item>
+<title>2D Rhodium‐Isocyanide Frameworks</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502192?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502192?af=R</guid>
+<content:encoded><![CDATA[
+
+Rhodium‐carbon coordination‐based 2D metal‐organic frameworks are rationally synthesized and exhibit ultra‐narrow bandgaps (0.10–0.28 eV) and intrinsic charge mobilities up to 560 ± 46 cm2 V−1 s−1 via time‐resolved terahertz spectroscopy.
+
+
+
+
+
+
+
+
+Abstract
+2D metal‐organic frameworks (2D MOFs) are emerging organic van der Waals materials with great potential in various applications owing to their structural diversity, and tunable optoelectronic properties. So far, most reported 2D MOFs rely on metal‐heteroatom coordination (e.g., metal–nitrogen, metal–oxygen, and metal–sulfur); synthesis of metal‐carbon coordination based 2D MOFs remains a formidable challenge. This study reports the rhodium–carbon (Rh–C) coordination‐based 2D MOFs, using isocyanide as the ligand and Rh(I) as metal node. The synthesized MOFs show excellent crystallinity with quasi‐square lattice networks. These MOFs show ultra‐narrow bandgaps (0.1–0.28 eV) resulting from the interaction between Rh(I) and isocyano groups. Terahertz spectroscopy demonstrates exceptional short‐range charge mobilities up to 560 ± 46 cm2 V−1 s−1 in the as‐synthesized MOFs. Moreover, these MOFs are used as electrocatalysts for nitrogen reduction reaction and show an excellent NH3 yield rate of 56.0 ± 1.5 µg h−1 mgcat−1 and a record Faradaic efficiency of 87.1 ± 1.8%. In situ experiments reveal dual pathways involving Rh(I) during the catalytic process. This work represents a pioneering step toward 2D MOFs based on metal–carbon coordination and paves the way for novel reticular materials with ultra‐high carrier mobility and for versatile optoelectronic devices.
+]]></content:encoded>
+<pubDate>Tue, 25 Mar 2025 05:09:24 -0700</pubDate>
+<pubDate>2025-03-25T05:09:24-07:00</pubDate>
+</item>
 
 <item>
 <title>Universally Applicable and Ultra‐Long Life Cyclic Power Generation Induced by Interfacial Ion‐Oscillation</title>
