@@ -3446,3 +3446,10 @@ Fetching from https://www.nature.com/nature.rss
 Append: [AlphaFold is running out of data — so drug firms are building their own version](https://www.nature.com/articles/d41586-025-00868-9)
 append_entries: 1
 Finish: 2025-03-27 12:37:17.996747
+------------------------------------------------------
+Started: 2025-03-27 14:18:00.494968
+Existing_entries: 646
+Fetching from https://www.nature.com/nature.rss
+Append: [75% of US scientists who answered <i>Nature</i> poll consider leaving](https://www.nature.com/articles/d41586-025-00938-y)
+append_entries: 1
+Finish: 2025-03-27 14:18:00.700819

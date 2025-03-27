@@ -10860,3 +10860,9 @@ error: Connection error.
 Append: [Ko-Fi Wishlist](https://manuelmoreale.com/ko-fi-wishlist)
 append_entries: 1
 Finish: 2025-03-27 12:37:29.458316
+------------------------------------------------------
+Started: 2025-03-27 14:18:09.863166
+Existing_entries: 628
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-27 14:18:10.734226

@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>High‐Security Plastic with Integrated Holographic and Phosphorescent Images</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414894?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414894?af=R</guid>
 <content:encoded><![CDATA[
-
 The first case of orthogonal integration of holographic and phosphorescent images is demonstrated, providing a novel paradigm for high‐security level information encryption and advanced anticounterfeiting.
 
 
@@ -22,7 +22,6 @@ The first case of orthogonal integration of holographic and phosphorescent image
 Abstract
 Organic room temperature phosphorescence (ORTP) polymer materials have sparked considerable research interests in recent years, but their optical function is still limited for multi‐mode optical imaging. Herein, a feasible and universal approach is proposed to endow ORTP polymer materials with periodic refractive index modulation functions by holographic patterning. The key to this approach is to design a two‐stage stepwise crosslinking. Stage‐1, with low crosslinking density (≤0.75 mol L−1), is phosphorescence‐silent but can provide greater free volume for monomer diffusion and thus facilitate the patterning of refractive index modulated holograms via photopolymerization‐induced phase separation. The dense crosslinking at stage‐2 can turn on phosphorescence with the intensity rising by 144% when the crosslinking density increases from 3.77 to 4.12 mol L−1. The enhanced phosphorescence is primarily ascribed to the increase of conformational distortion and spin‐orbit coupling of organic phosphors based on theoretical calculations. Eventually, the first example is demonstrated of holographic plastic with the unique capability of independently displaying holographic andphosphorescent images. This work not only provides a novel paradigm to impart added optical functions to ORTP polymer materials but also paves the way for the development of high‐security optical materials to combat counterfeiting.
 ]]></content:encoded>
-<pubDate>Wed, 26 Mar 2025 01:20:57 -0700</pubDate>
 <pubDate>2025-03-26T01:20:57-07:00</pubDate>
 </item>
 <item>
@@ -30,7 +29,6 @@ Organic room temperature phosphorescence (ORTP) polymer materials have sparked c
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418482?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418482?af=R</guid>
 <content:encoded><![CDATA[
-
 Herein, an effective strategy is proposed to efficiently harvest waste heat by Zn‐ion battery under thermally regenerative electrochemical cycles. A record high temperature coefficient of 2.944 mV K−1 is obtained, leading to the high relative Carnot efficiency of 26.08% and energy efficiency of 104.11% when the battery is charged at 50 °C and discharged at 5 °C.
 
 
@@ -43,7 +41,6 @@ Herein, an effective strategy is proposed to efficiently harvest waste heat by Z
 Abstract
 Typical technologies that can convert waste heat into electricity include thermoelectrics, thermionic capacitors, thermo‐cells, thermal charge cells, and thermally regenerative electrochemical cycles. They have small thermal‐to‐electrical conversion efficiency or poor stability, severely hindering the efficient recovery of waste heat. Herein, a thermally regenerative electrochemical Zn‐ion battery to work under Carnot‐like mode to efficiently harvest waste heat into electricity is successfully developed. Through introducing Layered Double Hydroxides to modify the battery's anode reaction, a record absolute high temperature coefficient of 2.944 mV K−1 is achieved in NiHCF/Zn battery, leading to a high thermal‐to‐electrical conversion efficiency of 26.08% of the Carnot efficiency and an extraordinary energy efficiency of 104.11% when the battery is charged at 50 °C and discharged at 5 °C. This work demonstrates that thermally regenerative electrochemical batteries can effectively harvest waste heat to provide a powerful energy conversion technology.
 ]]></content:encoded>
-<pubDate>Wed, 26 Mar 2025 01:20:57 -0700</pubDate>
 <pubDate>2025-03-26T01:20:57-07:00</pubDate>
 </item>
 <item>
@@ -51,7 +48,6 @@ Typical technologies that can convert waste heat into electricity include thermo
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418844?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418844?af=R</guid>
 <content:encoded><![CDATA[
-
 This study presents an innovative solid additive approach to enhance J‐aggregation and exciton delocalization in NIR‐OPDs, improving their sensitivity and specific detectivity across 695–860 nm, advancing self‐powered organic photodetection applications.
 
 
@@ -64,10 +60,8 @@ This study presents an innovative solid additive approach to enhance J‐aggrega
 Abstract
 Near‐infrared organic photodetectors (NIR‐OPDs) have emerged as increasingly significant in optoelectronics, offering unparalleled advantages for applications in health monitoring and night vision. The development of self‐powered devices with low dark currents and enhanced NIR sensitivity involves complex engineering that requires careful material selection, defect state density control, and environmental consideration. In this study, an innovative approach is introduced that utilizes solid additive (DIB) to induce improvements in the J‐aggregation morphology and exciton delocalization in acceptor molecules. The goal is to broaden the response spectrum of the device and augment its detection capabilities. The key findings revealed that solid additive exhibit an electrostatic affinity for acceptors, which facilitates their orderly face‐to‐face stacking and controls the π–π stacking distance. These enhanced intermolecular interactions lead to the delocalization of electron–hole pairs, reduced exciton recombination, and increased charge separation efficiency. Consequently, the modified devices exhibited exceptional specific detectivity, exceeding 1014 Jones across the wavelength range of 695–860 nm, thereby establishing a new standard for NIR response in organic photodetection. Overall, this study successfully addressed the compatibility challenges associated with self‐powered NIR‐OPDs, thereby expanding their potential applications in various settings.
 ]]></content:encoded>
-<pubDate>Wed, 26 Mar 2025 01:20:57 -0700</pubDate>
 <pubDate>2025-03-26T01:20:57-07:00</pubDate>
 </item>
-
 <item>
 <title>Revealing the Coordination and Mediation Mechanism of Arylboronic Acids Toward Energy‐Dense Li‐S Batteries</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502210?af=R</link>
@@ -18500,64 +18494,6 @@ Abstract
 Covalent organic frameworks (COFs) are porous crystals of high potential in biomedical applications. The chemical bonds within COF structures are critical for the overall therapeutic performance. Here, the design and synthesis of radioactive COF are reported by introducing labile diselenide bonds into the structure backbone. This diselenide bonded COF, PorSe‐CuPt, constructed from Cu and Pt ion porphyrin units, is capable of bond cleavage upon irradiation, thus releasing the drug molecule, CBL0137, carried in the pores. Concerted with the promotion of X‐ray absorption by Pt2⁺ and the enrichment of oxygen by Cu2⁺, robust PANoptosis is achieved as well as improved immunosuppressive tumor microenvironment, thereby drastically enhancing the overall effectiveness of radiotherapy. The integration of diselenide bonds into the COF backbone demonstrates the possible application of clip‐off chemistry in the search for highly responsible and compatible biomaterials.
 ]]></content:encoded>
 <pubDate>2025-02-23T10:14:23-08:00</pubDate>
-</item>
-<item>
-<title>Directly Printed 3D Soft Microwave Plasmonic Enhanced‐Q Resonators by Decoupling from Lossy Media</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418182?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418182?af=R</guid>
-<content:encoded><![CDATA[
-Traditional 2D plasmonic resonators are limited to be employed onto soft electronic platforms owing to the attenuation caused by lossy media. To overcome this, directly printed 3D plasmonic resonator configurations are developed with highly conductive elastomeric composites. These 3D soft resonators demonstrate wireless, multidirectional strain‐sensing capabilities with higher quality factor resonances than their 2D counterparts, enabling advanced sensing applications.
-
-
-
-
-
-
-
-
-
-Abstract
-Soft electronic components are essential building blocks for realizing form‐factor‐free applications; however, most designs are confined to 2D or 2.5D structures due to challenges in maintaining 3D structural integrity. This limitation is particularly critical for electromagnetic devices, such as resonators, where dielectric losses from elastomeric substrates severely hinder high‐performance functionality. Here, directly printed 3D electromagnetic soft plasmonic enhanced‐quality(Q) factor resonators are proposed, using highly conductive composites. By incorporating an immiscible solvent into an elastomer matrix, emulsion phases are formed that significantly enhance the storage modulus, enabling the fabrication of 3D‐printed structures while improving their electrical conductivity. 3D microwave plasmonic resonators with a high degree of design freedom, such as pillars and hooks are demonstrated. These structures exhibit improved resistance to dielectric interference by leveraging the resonance in lossless air. Moreover, integrating a coplanar ground plane further decouples the resonators from lossy substrates, resulting in a 3.4‐fold enhancement in the Q‐factor (octupole mode) compared to 2D resonators. This improvement enables stable operation on high‐permittivity surfaces, such as human skin. Additionally, a single 3D resonator demonstrates wireless deformation‐sensing capabilities, facilitating the simultaneous detection of strain amplitude and orientation. This result can pave the way for advanced sensing applications in soft electronics.
-]]></content:encoded>
-<pubDate>2025-02-23T10:13:26-08:00</pubDate>
-</item>
-<item>
-<title>A Universal Solution for Direct Regeneration of Spent Lithium Iron Phosphate</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420238?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420238?af=R</guid>
-<content:encoded><![CDATA[
-Design criteria for a lithiation solution that enables spontaneous lithiation under ambient conditions for the direct regeneration of spent LiFePO4 are proposed. Using machine learning (ML), the redox potentials of various solution systems are identified and revealed a critical relationship: the lower the redox potential, the more effective the lithiation of degraded LiFePO4 materials.
-
-
-
-
-
-
-
-
-Abstract
-Lithiation reactions driven by chemical potential offer a promising avenue for directly regenerating degraded lithium iron phosphate (LFP). However, the choice of solution system significantly influences the lithium supplementation where improper selection may result in poor lithium recovery or extremely slow kinetics. Herein, it is identified that the most critical factor affecting solution repair effectiveness is the redox potential of the anions in the solution, which determines whether spent LFP (SLFP) can undergo spontaneous lithiation under ambient conditions. Then, machine learning (ML) is used for prediction and screening of huge potential solution systems, and finally a general strategy is proposed: creating a low redox potential solution system that incorporates anions with either low redox potential or moderate redox potential at high concentrations. As a demonstration, the regenerated LFP by ascorbic acid and LiOH solution systems exhibits a high discharge capacity of 144 mAh g−1 at 1 C, retaining 96% of its capacity after 500 cycles at 5 C. This work establishes an important criteria for designing solution systems to restore degraded LFP, marking a significant advancement in the direct regeneration of cathode materials from spent lithium‐ion batteries (LIBs).
-]]></content:encoded>
-<pubDate>2025-02-23T10:12:49-08:00</pubDate>
-</item>
-<item>
-<title>Exploring Structure Diversity in Atomic Resolution Microscopy With Graph</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417478?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417478?af=R</guid>
-<content:encoded><![CDATA[
-This work describes a few‐shot learning framework based on an equivariant graph neural network to automatically analyze a library of atomic structures (vacancies, grain boundaries, stacking configurations, etc.) represented by graphs. This framework significantly promotes robustness, reduces computing parameters by three orders of magnitude compared to the image‐driven learning framework, and facilitates new structure and knowledge discovery.
-
-
-
-
-
-
-
-
-Abstract
-The emergence of deep learning (DL) has provided great opportunities for the high‐throughput analysis of atomic‐resolution micrographs. However, the DL models trained by image patches in fixed size generally lack efficiency and flexibility when processing micrographs containing diversified atomic configurations. Herein, inspired by the similarity between the atomic structures and graphs, a few‐shot learning framework based on an equivariant graph neural network (EGNN) to analyze a library of atomic structures (e.g., vacancies, phases, grain boundaries, doping, etc.) is described, showing significantly promoted robustness and three orders of magnitude reduced computing parameters compared to the image‐driven DL models, which is especially evident for those aggregated vacancy lines with flexible lattice distortion. Besides, the intuitiveness of graphs enables quantitative and straightforward extraction of the atomic‐scale structural features in batches, thus statistically unveiling the self‐assembly dynamics of vacancy lines under electron beam irradiation. A versatile model toolkit is established by integrating EGNN sub‐models for single structure recognition to process images involving varied configurations in the form of a task chain, leading to the discovery of novel doping configurations with superior electrocatalytic properties for hydrogen evolution reactions. This work provides a powerful tool to explore structure diversity in a fast, accurate, and intelligent manner.
-]]></content:encoded>
-<pubDate>2025-02-23T10:12:25-08:00</pubDate>
 </item>
 </channel>
 </rss>
