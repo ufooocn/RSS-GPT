@@ -4523,3 +4523,14 @@ Append: [Lignin‐Based Separators for Lithium‐Ion Batteries via a Dry Fibrill
 Append: [Implanted Magnetoelectric Bionic Cartilage Hydrogel](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415417?af=R)
 append_entries: 80
 Finish: 2025-03-27 10:19:53.309022
+------------------------------------------------------
+Started: 2025-03-27 12:37:18.543745
+Existing_entries: 1080
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [High‐Security Plastic with Integrated Holographic and Phosphorescent Images](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414894?af=R)
+Append: [Efficient Harvesting Waste Heat by Zn‐Ion Battery Under Thermally Regenerative Electrochemical Cycles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418482?af=R)
+Append: [Enhanced Exciton Delocalization in Organic Near‐Infrared Photodetectors via Solid Additive‐Mediated J‐Aggregation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418844?af=R)
+append_entries: 3
+Finish: 2025-03-27 12:37:21.218071

@@ -10851,3 +10851,12 @@ Existing_entries: 627
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-27 10:20:19.598617
+------------------------------------------------------
+Started: 2025-03-27 12:37:27.494616
+Existing_entries: 627
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [Ko-Fi Wishlist](https://manuelmoreale.com/ko-fi-wishlist)
+append_entries: 1
+Finish: 2025-03-27 12:37:29.458316
