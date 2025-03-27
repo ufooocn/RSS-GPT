@@ -3453,3 +3453,11 @@ Fetching from https://www.nature.com/nature.rss
 Append: [75% of US scientists who answered <i>Nature</i> poll consider leaving](https://www.nature.com/articles/d41586-025-00938-y)
 append_entries: 1
 Finish: 2025-03-27 14:18:00.700819
+------------------------------------------------------
+Started: 2025-03-27 16:24:11.774929
+Existing_entries: 647
+Fetching from https://www.nature.com/nature.rss
+Append: [‘Open source’ AI isn’t truly open — here’s how researchers can reclaim the term](https://www.nature.com/articles/d41586-025-00930-6)
+Append: [How Trump is following Project 2025’s radical roadmap to defund science](https://www.nature.com/articles/d41586-025-00780-2)
+append_entries: 2
+Finish: 2025-03-27 16:24:11.945607
