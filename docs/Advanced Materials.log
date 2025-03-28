@@ -4594,3 +4594,33 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-28 08:24:12.278164
+------------------------------------------------------
+Started: 2025-03-28 10:19:24.542620
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Alcogel‐Based Interfacial Evaporation for Vertical Thermal Diode‐Structured Smart Walls with Radiant Cooling](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500548?af=R)
+Append: [Modulating the Spatio‐Temporal Sequence of Lithium Plating and Stripping via a 3D Host for Solid State Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418720?af=R)
+Append: [Heterogeneous Nanopore Arrays – Selective Modification of Nanopores Embedded in a Membrane](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418987?af=R)
+Append: [Surface Engineering of PtSe2 Crystal for Highly Efficient Electrocatalytic Ethanol Oxidation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502047?af=R)
+Append: [Modulating Active Center Microenvironment in Phthalocyanine‐Based Covalent Organic Frameworks for Enhanced Electrocatalytic CO2 to CH3OH](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502644?af=R)
+Append: [Tunable Vacancy Order and Emergent Functionalities in Half‐Heusler Crystals](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418520?af=R)
+Append: [Narrowband Emissive Solution‐Processed Polymer Organic Light‐Emitting Diodes with External Quantum Efficiency Above 30%](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502180?af=R)
+Append: [Noninvasively Real‐Time Monitoring In‐Vivo Immune Cell and Tumor Cell Interaction by NIR‐II Nanosensor](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420329?af=R)
+Append: [Dielectric‐Tailored Space Charge Layer and Ion Coordination Structure for High‐Voltage Polymer All‐Solid‐State Lithium Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415411?af=R)
+Append: [A Lithium Dendrite Inhibitor in Graphite Anodes Enabling Fast‐Charging and Low‐Temperature Lithium‐Ion Pouch Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501448?af=R)
+Append: [Regulating Carrier Transport Behavior for Capacitive Energy Storage of Polymer Dielectrics in Harsh Environments](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417181?af=R)
+Append: [Degradable Additive Couple Enable Pure and Stable Alpha‐Phase FAPbI3 for Perovskite Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418008?af=R)
+Append: [Omni‐Directional Assembly of 2D Single‐Crystalline Metal Nanosheets](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501632?af=R)
+Append: [Solid Polymer Electrolyte with Compatible Cathode‐Electrolyte Interfacial Design Enabling Lithium Metal Batteries Operation at 4.8 V with Long Cycle Life](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501659?af=R)
+Append: [Intertwined Topological Phases in TaAs2 Nanowires with Giant Magnetoresistance and Quantum Coherent Surface Transport](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418279?af=R)
+Append: [Self‐Regulating the Local Conjugation of Tertiary Aniline toward Highly Stable Polymer Li Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500876?af=R)
+Append: [Nose‐to‐Brain Delivery of Circular RNA SCMH1‐Loaded Lipid Nanoparticles for Ischemic Stroke Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500598?af=R)
+Append: [A Natural Lignification Inspired Super‐Hard Wood‐Based Composites with Extreme Resilience](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502266?af=R)
+Append: [Hot‐Exciton‐Involved Dual‐Channel Stepwise Energy Transfer Enabling Efficient and Stable Blue OLEDs with Narrow Emission and High Luminance](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419217?af=R)
+Append: [LiC6@Li as a Promising Substitution of Li Metal Counter Electrode for Low‐Temperature Battery Evaluation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419041?af=R)
+Append: [Cartilage‐Adaptive Hydrogels via the Synergy Strategy of Protein Templating and Mechanical Training](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414081?af=R)
+Append: [Durable Proton Exchange Membrane Based on Polymers of Intrinsic Microporosity for Fuel Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419534?af=R)
+append_entries: 22
+Finish: 2025-03-28 10:19:27.161543

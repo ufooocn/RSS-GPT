@@ -3511,3 +3511,10 @@ Existing_entries: 651
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-28 08:24:10.463682
+------------------------------------------------------
+Started: 2025-03-28 10:19:23.808599
+Existing_entries: 651
+Fetching from https://www.nature.com/nature.rss
+Append: [Can trauma from violence be genetically inherited? Scientists debate Syria refugee study](https://www.nature.com/articles/d41586-025-00937-z)
+append_entries: 1
+Finish: 2025-03-28 10:19:24.043314
