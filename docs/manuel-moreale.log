@@ -10926,3 +10926,12 @@ Existing_entries: 628
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-03-28 10:19:58.406304
+------------------------------------------------------
+Started: 2025-03-28 12:36:27.505967
+Existing_entries: 628
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [P&B: Maya](https://manuelmoreale.com/pb-maya)
+append_entries: 1
+Finish: 2025-03-28 12:36:30.130319
