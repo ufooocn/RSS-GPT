@@ -10935,3 +10935,9 @@ error: Connection error.
 Append: [P&B: Maya](https://manuelmoreale.com/pb-maya)
 append_entries: 1
 Finish: 2025-03-28 12:36:30.130319
+------------------------------------------------------
+Started: 2025-03-28 14:17:58.790141
+Existing_entries: 629
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-03-28 14:17:59.661567

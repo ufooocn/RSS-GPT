@@ -3527,3 +3527,9 @@ Append: [Daily briefing: Pregnancy’s true toll on the body](https://www.nature
 Append: [Daily briefing: Why RNA hasn’t yet had its ‘AlphaFold’ moment](https://www.nature.com/articles/d41586-025-00974-8)
 append_entries: 3
 Finish: 2025-03-28 12:36:18.803285
+------------------------------------------------------
+Started: 2025-03-28 14:17:23.063954
+Existing_entries: 655
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-28 14:17:23.242763
