@@ -3533,3 +3533,10 @@ Existing_entries: 655
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-28 14:17:23.242763
+------------------------------------------------------
+Started: 2025-03-28 16:22:53.719375
+Existing_entries: 655
+Fetching from https://www.nature.com/nature.rss
+Append: [Publishers trial paying peer reviewers — what did they find?](https://www.nature.com/articles/d41586-025-00968-6)
+append_entries: 1
+Finish: 2025-03-28 16:22:53.923429
