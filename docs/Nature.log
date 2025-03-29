@@ -3559,3 +3559,10 @@ Existing_entries: 657
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-28 22:18:01.497898
+------------------------------------------------------
+Started: 2025-03-29 01:23:28.983984
+Existing_entries: 657
+Fetching from https://www.nature.com/nature.rss
+Append: [These US labs risk imminent closure after Trump cuts](https://www.nature.com/articles/d41586-025-00924-4)
+append_entries: 1
+Finish: 2025-03-29 01:23:29.238200
