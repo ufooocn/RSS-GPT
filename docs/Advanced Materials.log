@@ -4756,3 +4756,12 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-30 06:24:29.608616
+------------------------------------------------------
+Started: 2025-03-30 08:21:26.974495
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Synergetic Multiple Charge‐Transfer Excited States for Anti‐Quenching and Rapid Spin‐Flip Multi‐Resonance Thermally Activated Delayed Fluorescence Emitter](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500269?af=R)
+append_entries: 1
+Finish: 2025-03-30 08:21:29.892639
