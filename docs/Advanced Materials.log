@@ -4837,3 +4837,45 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-03-31 08:26:21.051105
+------------------------------------------------------
+Started: 2025-03-31 10:20:34.817951
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [In Situ Construction of a 3D Superionic Skeleton in Sodium Anode for Solid‐State Sodium Batteries with a 15 000‐Cycle Lifespan at 3C](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419190?af=R)
+Append: [Wettability Sequence Optimization and Interface Strain Buffering in Triple Mesoporous Layer‐Based Printable Perovskite Solar Cells for Enhanced Performance](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413151?af=R)
+Append: [Optothermal‐Stimulated Persistent Luminescence Imaging and Therapy (OSPLIT)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500769?af=R)
+Append: [Utilizing Electron‐Sink‐Enhanced Nanoshells for Amplified Nanoplasmonic SERS‐Based In Situ Detection of Cancer Cells, Linking Signal Enhancement with Cellular Damage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417950?af=R)
+Append: [Rational Synthesis of Isomeric Graphdiyne Frameworks toward Single‐Ruthenium Catalysts and High‐Performance Nitrogen Reduction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502980?af=R)
+Append: [Electro‐ and Magneto‐Active Biomaterials for Diabetic Tissue Repair: Advantages and Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501817?af=R)
+Append: [Glycated ECM Derived Carbon Dots Inhibit Tumor Vasculogenic Mimicry by Disrupting RAGE Nuclear Translocation and Its Interaction With HMGB1](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419540?af=R)
+Append: [Mechanical Robust Nacre‐Mimetic Composites with Designable Cryptic Coloration and Electromagnetic Wave‐Transparent Performance](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416535?af=R)
+Append: [Synthesis of Intrinsic Magnetic Topological Insulator MnBi2nTe3n+1 Family by Chemical Vapor Transport Method with Feedback Regulation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202405686?af=R)
+Append: [Modulating Trapping in Low‐Dimensional Lead–Tin Halides for Energy‐Efficient Neuromorphic Electronics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414430?af=R)
+Append: [Shortwave Infrared Light Detection and Ranging Using Silver Telluride Quantum Dots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500977?af=R)
+Append: [Proton Reservoir in Covalent Organic Framework Compensating Oxygen Reduction Reaction Enhances Hydrogen Peroxide Photosynthesis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502990?af=R)
+Append: [Boosting Leaching of Spent Ternary Cathode via Strong Van Der Waals Force Beyond Hydrogen Bonding](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418565?af=R)
+Append: [Enhanced Lithium‐Ion Battery Electrodes with Metal–Organic Framework Additives Featuring Undercoordinated Zr4+ Sites](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500909?af=R)
+Append: [Facet Engineering of Metal‐Organic Frameworks for Triboelectric Nanogenerators‐Based Self‐Powered Water Splitting](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415616?af=R)
+Append: [Template‐Catalyzed Mass Production of Size‐Tunable h‐BN Nanosheet Powders](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501155?af=R)
+Append: [Porous CuBi2O4 Photocathode with Intrinsic Cu+/Cu2+ Redox Improves Solar C(sp3)‐H Bond Conversion Efficiency by an Order of Magnitude](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502321?af=R)
+Append: [Molecular Design of Electron‐Rich Polyoxometalates Based Clusters Enabling Intelligent Energy Storage](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500114?af=R)
+Append: [Salt‐Segregated Solid Polymer Electrolytes for High‐Rate Solid‐State Lithium Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504419?af=R)
+Append: [Dual Modification of Metal–Organic Frameworks for Exceptional High Piezo‐Photocatalytic Hydrogen Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419023?af=R)
+Append: [Robust and Antioxidative Quasi‐Solid‐State Polymer Electrolytes for Long‐Cycling 4.6 V Lithium Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500142?af=R)
+Append: [Enhanced Heat Transfer for Thermomagnetic Generation in Low‐grade Waste Heat Harvesting](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500544?af=R)
+Append: [AI‐Guided Design of Antimicrobial Peptide Hydrogels for Precise Treatment of Drug‐resistant Bacterial Infections](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500043?af=R)
+Append: [High‐Entropy Doped P'2 Mn‐Based Layered Oxide with Superior Stability and High Capacity for Sodium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417008?af=R)
+Append: [Creating Sodium Ion Channels via De Novo Encapsulation of Ionophores for Enhanced Water Energy Harvesting](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420636?af=R)
+Append: [A Durable Metalgel Maintaining 3×106 S∙M‒1 Conductivity under 1 000 000 Stretching Cycles](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420628?af=R)
+Append: [Mechanically‐Tunable and Full‐Color Circularly Polarized Long‐Lived Phosphorescence in Chiral Superstructure Elastomers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419640?af=R)
+Append: [Visual Engineering Achieved with Electronegative Carbon Dots for Highly Efficient Ion Flux Regulation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500873?af=R)
+Append: [A Highly Stable Organic–Inorganic Hybrid Electron Transport Layer for Ultraflexible Organic Photodiodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501951?af=R)
+Append: [Improving Conversion Kinetics of Sodium Polysulfides through Electron Spillover Effect with V/Co Dual‐Atomic Site Anchoring on N‐Doped MXene](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501371?af=R)
+Append: [Molecular Engineering Enables Bright Carbon Dots for Super‐Resolution Fluorescence Imaging and In Vivo Optogenetics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202410786?af=R)
+Append: [Regulating the Local Reaction Microenvironment at Chromium Metal–Organic Frameworks for Efficient H2O2 Electrosynthesis in Neutral Electrolytes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500274?af=R)
+Append: [Interfacial Thermal Transport and Energy Dissipation in Multilayer PdSe2 Field Effect Transistors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503264?af=R)
+Append: [Pre‐Established Ion Transport Pathways Through Electrolyte Initiator for High‐Efficiency Polymer Interface Enabling Ultra‐Stable Aqueous Zinc‐Metal Anodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418741?af=R)
+append_entries: 34
+Finish: 2025-03-31 10:20:37.490871
