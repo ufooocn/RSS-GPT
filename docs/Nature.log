@@ -3749,3 +3749,9 @@ Append: [Deep dive: How I use robots to survey coral reefs](https://www.nature.c
 Append: [Style over substance? What birds’ mating behaviours reveal about sexual selection](https://www.nature.com/articles/d41586-025-00934-2)
 append_entries: 2
 Finish: 2025-03-31 12:37:29.284651
+------------------------------------------------------
+Started: 2025-03-31 14:18:36.172129
+Existing_entries: 661
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-03-31 14:18:36.519279
