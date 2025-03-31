@@ -3755,3 +3755,11 @@ Existing_entries: 661
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-03-31 14:18:36.519279
+------------------------------------------------------
+Started: 2025-03-31 16:23:46.924891
+Existing_entries: 661
+Fetching from https://www.nature.com/nature.rss
+Append: [Brain implant translates thoughts to speech in an instant](https://www.nature.com/articles/d41586-025-01001-6)
+Append: [23andMe plans to sell its huge genetic database: could science benefit?](https://www.nature.com/articles/d41586-025-01004-3)
+append_entries: 2
+Finish: 2025-03-31 16:23:47.280843
