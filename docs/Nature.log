@@ -3813,3 +3813,13 @@ Existing_entries: 665
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-01 08:25:22.466882
+------------------------------------------------------
+Started: 2025-04-01 10:20:16.233030
+Existing_entries: 665
+Fetching from https://www.nature.com/nature.rss
+Append: [Minerals will shape future geopolitical order](https://www.nature.com/articles/d41586-025-01006-1)
+Append: [China has already taken steps to reduce retractions of papers from its hospitals](https://www.nature.com/articles/d41586-025-01007-0)
+Append: [The global scientific community must keep studying LGBT+ health](https://www.nature.com/articles/d41586-025-00985-5)
+Append: [Action needed to mitigate effects of slashing USAID](https://www.nature.com/articles/d41586-025-01005-2)
+append_entries: 4
+Finish: 2025-04-01 10:20:16.450320
