@@ -3840,3 +3840,11 @@ Append: [Daily briefing: What happens when you pay peer reviewers?](https://www.
 Append: [Daily briefing: Women’s work is missing from the scientific literature](https://www.nature.com/articles/d41586-025-01000-7)
 append_entries: 3
 Finish: 2025-04-01 14:18:54.965345
+------------------------------------------------------
+Started: 2025-04-01 16:22:52.714026
+Existing_entries: 674
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Controlled patterning of crystalline domains by frontal polymerization](https://www.nature.com/articles/s41586-025-08934-y)
+Append: [A brain drain would impoverish the United States and diminish world science](https://www.nature.com/articles/d41586-025-00992-6)
+append_entries: 2
+Finish: 2025-04-01 16:22:52.891865
