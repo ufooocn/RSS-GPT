@@ -3865,3 +3865,10 @@ Existing_entries: 681
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-01 20:20:43.163501
+------------------------------------------------------
+Started: 2025-04-01 22:17:46.420899
+Existing_entries: 681
+Fetching from https://www.nature.com/nature.rss
+Append: [El Niños that linger are becoming less of a rarity](https://www.nature.com/articles/d41586-025-00972-w)
+append_entries: 1
+Finish: 2025-04-01 22:17:46.599996
