@@ -3911,3 +3911,10 @@ Append: [Are screens harming teens? What scientists can do to find answers](http
 Append: [Do smartphones and social media really harm teens’ mental health?](https://www.nature.com/articles/d41586-025-00933-3)
 append_entries: 2
 Finish: 2025-04-02 10:20:11.381076
+------------------------------------------------------
+Started: 2025-04-02 12:37:55.039052
+Existing_entries: 685
+Fetching from https://www.nature.com/nature.rss
+Append: [A toolkit for seeing how the fly brain’s visual system works](https://www.nature.com/articles/d41586-025-00885-8)
+append_entries: 1
+Finish: 2025-04-02 12:37:55.231966
