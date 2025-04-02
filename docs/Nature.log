@@ -3963,3 +3963,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [From bench to bread: how science can enhance your hobbies](https://www.nature.com/articles/d41586-025-00560-y)
 append_entries: 1
 Finish: 2025-04-02 18:26:35.307723
+------------------------------------------------------
+Started: 2025-04-02 20:20:36.060933
+Existing_entries: 713
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-04-02 20:20:36.402826
