@@ -5017,3 +5017,28 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-02 08:25:35.818001
+------------------------------------------------------
+Started: 2025-04-02 10:20:11.894002
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Doping Mo Triggers Charge Distribution Optimization and P Vacancy of Ni2P@Ni12P5 Heterojunction for Industrial Electrocatalytic Production of Adipic Acid and H2](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502523?af=R)
+Append: [Nanosized Multistate Configurations of Relaxor‐Like Antiferroelectric Revealed by Atomic‐Scale In Situ Electron Microscopy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503339?af=R)
+Append: [A Bioinspired Micro‐Grooved Structure for Low Snow Adhesion and Effective Snow‐Shedding](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500839?af=R)
+Append: [Transforming Healthcare: Intelligent Wearable Sensors Empowered by Smart Materials and Artificial Intelligence](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500412?af=R)
+Append: [Highly Branched Poly(β‐amino ester)s for Efficient mRNA Delivery and Nebulization Treatment of Silicosis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414991?af=R)
+Append: [Enabling Multicolor Circularly Polarized Organic Long Persistent Luminescence through Chiral Exciplex](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500841?af=R)
+Append: [Recent Advances in Wide‐Bandgap Perovskite Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418622?af=R)
+Append: [Efficient White Electroluminescence from Cu‐based Perovskite Achieved by High Hole Injection Core/Shell Structures](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417678?af=R)
+Append: [Direct Observation of Unidirectional Exciton Polaritons in Layered van der Waals Semiconductors](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501669?af=R)
+Append: [Synchronous Sterilization and Immunoreaction Termination for Corneal Transparency Protection in Treating Pseudomonas aeruginosa Induced Bacterial Keratitis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419209?af=R)
+Append: [High‐Performance Hybrid Organic‐Inorganic Lanthanide Halide Glass Scintillators Enabled by Dehydration for Efficient X‐Ray Imaging](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500925?af=R)
+Append: [Cell‐Sheet Shape Transformation by Internally‐Driven, Oriented Forces](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416624?af=R)
+Append: [From Molecule to Aggregate: Designing AIE Nanocrystals for Low‐Power Backward Third‐Harmonic Generation Angiography](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414419?af=R)
+Append: [Charge Polarization Tunable Interfaces for Perovskite Solar Cells and Modules](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502865?af=R)
+Append: [Correction to “Photoactivatable Silencing Extracellular Vesicle (PASEV) Sensitizes Cancer Immunotherapy”](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202505455?af=R)
+Append: [Conductive Polymer Coatings Control Reaction Selectivity in All‐Iron Redox Flow Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414596?af=R)
+Append: [Metal‐polyphenol Multistage Competitive Coordination System for Colorimetric Monitoring Meat Freshness](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503246?af=R)
+append_entries: 17
+Finish: 2025-04-02 10:20:14.660327
