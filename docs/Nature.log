@@ -3879,3 +3879,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [What if human blood were toxic to mosquitoes? A drug can make it so](https://www.nature.com/articles/d41586-025-00973-9)
 append_entries: 1
 Finish: 2025-04-02 01:26:01.509196
+------------------------------------------------------
+Started: 2025-04-02 03:00:16.841575
+Existing_entries: 683
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-04-02 03:00:17.125554
