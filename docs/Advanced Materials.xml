@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Multi‐material Volumetric Bioprinting and Plug‐and‐play Suspension Bath Biofabrication via Bioresin Molecular Weight Tuning and via Multiwavelength Alignment Optics</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202409355?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202409355?af=R</guid>
 <content:encoded><![CDATA[
-
 Multimaterial volumetric and embedded extrusion bioprinting of complex cell‐laden architectures is enabled by unravelling the interplay between molecular weight and degree of functionalization in gelatin‐based bioresins. Tomographic light‐responsive support baths for suspended printing can be easily generated from single component materials. Molecular weight tuning produces a library of printable hydrogels matching the viscoleasticity properties of native tissues, influencing cell self‐organization.
 
 
@@ -22,10 +22,8 @@ Multimaterial volumetric and embedded extrusion bioprinting of complex cell‐la
 Abstract
 Volumetric Bioprinting (VBP), enables to rapidly build complex, cell‐laden hydrogel constructs for tissue engineering and regenerative medicine. Light‐based tomographic manufacturing enables spatial‐selective polymerization of a bioresin, resulting in higher throughput and resolution than what is achieved using traditional techniques. However, methods for multi‐material printing are needed for broad VBP adoption and applicability. Although converging VBP with extrusion bioprinting in support baths offers a novel, promising solution, further knowledge on the engineering of hydrogels as light‐responsive, volumetrically printable baths is needed. Therefore, this study investigates the tuning of gelatin macromers, in particular leveraging the effect of molecular weight and degree of modification, to overcome these challenges, creating a library of materials for VBP and Embedded extrusion Volumetric Printing (EmVP). Bioresins with tunable printability and mechanical properties are produced, and a novel subset of gelatins and GelMA exhibiting stable shear‐yielding behavior offers a new, single‐component, ready‐to‐use suspension medium for in‐bath printing, which is stable over multiple hours without needing temperature control. As a proof‐of‐concept biological application, bioprinted gels are tested with insulin‐producing pancreatic cell lines for 21 days of culture. Leveraging a multi‐color printer, complex multi‐material and multi‐cellular geometries are produced, enhancing the accessibility of volumetric printing for advanced tissue models.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
-
 <item>
 <title>Simultaneously Tailoring Hydrostability and Photoelectroactivity in Heterocluster Metal–Organic Frameworks for Efficient Photocatalytic Hydrogen Production</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503756?af=R</link>
@@ -18498,25 +18496,6 @@ Abstract
 Harnessing instabilities in architected lattices and metamaterials allows for controlled nonlinear deformations, enabling desired mechanical functions like shape morphing and energy absorption. By precisely tailoring instabilities such as buckling into the structure, deformations become a powerful instrument rather than a failure mode, offering new possibilities for predictable responses to mechanical loads. Inspired by the bulk‐boundary correspondence in condensed matter physics, an analogous relationship is explored in metamaterials, where the underlying topology dictates whether the structure under load buckles or barrels. The underlying mechanism that originates from a polarization conversion in the elementary beam network is discussed. Moreover, these predictions, which can be extended to more complex topologies and higher dimensions, showcase that a mode inversion process governs both global deformations and the orientation of localized shear strains within the bulk. It is anticipated that the buckle‐barrel correspondence can be extended to non‐Hookean materials, paving the way for predicting the onset and evolution of true failure.
 ]]></content:encoded>
 <pubDate>2025-02-26T11:51:13-08:00</pubDate>
-</item>
-<item>
-<title>17.68% Efficiency Nonhalogenated Solvent‐Processed Organic Solar Cell Modules Driven by Seed Crystal Strategy</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420308?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420308?af=R</guid>
-<content:encoded><![CDATA[
-The TOC illustration depicts asymmetric BDTF‐CA2O seed crystals (left) harnessing low nucleation barrier and strong crystallinity to facilitate PM6 crystallization. The module's J–V curve (right) highlights the transition from small‐area cells to industrial‐scale modules, emphasizing the seed crystal strategy's role in achieving uniform morphology and record efficiencies.
-
-
-
-
-
-
-
-
-Abstract
-Organic solar cells now surpass 20% efficiency in small‐area devices, but the use of chloroform as a solvent poses industrial scalability challenges because of its limited ability of uniform film formation and toxicity. High‐boiling, non‐halogenated solvents are being studied as alternatives, but their low solubility and slow evaporation complicate crystallization process. Here, the study introduces a seed crystal strategy by incorporating oligo (ethylene glycol)‐modified small‐molecule donors to optimize the nucleation and crystallization. The asymmetric BDTF‐CA2O molecule, which combines the strong crystallinity of rodanine group and the low nucleation barrier of oligo (ethylene glycol) chain, significantly promotes the crystallization of the polymer donor PM6. Moreover, BDTF‐CA2O effectively suppresses excessive phase separation, and optimizes vertical distribution, resulting in enhanced exciton extraction, balanced carrier transport, and reduced recombination losses. Small‐area toluene‐processed devices achieve a power conversion efficiency of 19.67%. In the realm of large‐area organic solar cell modules, this strategy leads to a record active area efficiency of 17.68% and aperture area efficiency of 16.80% (certified at 16.26%), which is the highest reported for organic solar cell modules >10 cm2 to date. These achievements highlight the potential of the seed crystal strategy for large‐scale production of efficient, large‐area organic solar cell modules.
-]]></content:encoded>
-<pubDate>2025-02-26T11:16:54-08:00</pubDate>
 </item>
 </channel>
 </rss>

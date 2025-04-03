@@ -4024,3 +4024,13 @@ Existing_entries: 714
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-03 14:17:56.692202
+------------------------------------------------------
+Started: 2025-04-03 16:22:47.331419
+Existing_entries: 714
+Fetching from https://www.nature.com/nature.rss
+Append: [Strategic atom replacement enables regiocontrol in pyrazole alkylation](https://www.nature.com/articles/s41586-025-08951-x)
+Append: [Hidden states and dynamics of fractional fillings in twisted MoTe<sub>2</sub> bilayers](https://www.nature.com/articles/s41586-025-08954-8)
+Append: [Solar cells made of Moon dust could power up a lunar base](https://www.nature.com/articles/d41586-025-00971-x)
+Append: [Journal targeted by paper mill still grappling with the aftermath years later](https://www.nature.com/articles/d41586-025-01010-5)
+append_entries: 4
+Finish: 2025-04-03 16:22:47.621237
