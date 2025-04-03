@@ -11379,3 +11379,12 @@ Existing_entries: 629
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-04-03 16:23:06.460838
+------------------------------------------------------
+Started: 2025-04-03 18:25:57.573201
+Existing_entries: 629
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [Online counterculture](https://manuelmoreale.com/online-counterculture)
+append_entries: 1
+Finish: 2025-04-03 18:26:00.266783

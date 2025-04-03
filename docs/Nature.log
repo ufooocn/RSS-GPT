@@ -4034,3 +4034,10 @@ Append: [Solar cells made of Moon dust could power up a lunar base](https://www.
 Append: [Journal targeted by paper mill still grappling with the aftermath years later](https://www.nature.com/articles/d41586-025-01010-5)
 append_entries: 4
 Finish: 2025-04-03 16:22:47.621237
+------------------------------------------------------
+Started: 2025-04-03 18:25:43.708124
+Existing_entries: 718
+Fetching from https://www.nature.com/nature.rss
+Append: [Take <i>Nature’</i>s poll: How will Trump’s policies affect US science?](https://www.nature.com/articles/d41586-025-01031-0)
+append_entries: 1
+Finish: 2025-04-03 18:25:44.045589
