@@ -11388,3 +11388,9 @@ error: Connection error.
 Append: [Online counterculture](https://manuelmoreale.com/online-counterculture)
 append_entries: 1
 Finish: 2025-04-03 18:26:00.266783
+------------------------------------------------------
+Started: 2025-04-03 20:20:35.191257
+Existing_entries: 630
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-04-03 20:20:35.995262

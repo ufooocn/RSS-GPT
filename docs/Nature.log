@@ -4041,3 +4041,10 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Take <i>Nature’</i>s poll: How will Trump’s policies affect US science?](https://www.nature.com/articles/d41586-025-01031-0)
 append_entries: 1
 Finish: 2025-04-03 18:25:44.045589
+------------------------------------------------------
+Started: 2025-04-03 20:20:27.128993
+Existing_entries: 719
+Fetching from https://www.nature.com/nature.rss
+Append: [How does the brain control consciousness? This deep-brain structure](https://www.nature.com/articles/d41586-025-01021-2)
+append_entries: 1
+Finish: 2025-04-03 20:20:27.339095
