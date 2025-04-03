@@ -5185,3 +5185,12 @@ Append: [Toward High‐Performance, Flexible, Photo‐Assisted All‐Solid‐Sta
 Append: [Acoustic Valley Filter, Valve, and Diverter](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500757?af=R)
 append_entries: 63
 Finish: 2025-04-03 12:37:23.792846
+------------------------------------------------------
+Started: 2025-04-03 14:17:57.236861
+Existing_entries: 1063
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Multi‐material Volumetric Bioprinting and Plug‐and‐play Suspension Bath Biofabrication via Bioresin Molecular Weight Tuning and via Multiwavelength Alignment Optics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202409355?af=R)
+append_entries: 1
+Finish: 2025-04-03 14:17:59.090463
