@@ -5265,3 +5265,16 @@ Append: [Decoupling Strategy of Metasurface to Realize Independent Sensing and W
 Append: [Nonlinear Optical Properties of 0D Chiral Hybrid Bismuth Iodides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501022?af=R)
 append_entries: 9
 Finish: 2025-04-04 10:20:33.798196
+------------------------------------------------------
+Started: 2025-04-04 12:36:49.146680
+Existing_entries: 1009
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Advanced 3D Food Printing with Simultaneous Cooking and Generative AI Design](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408282?af=R)
+Append: [Printing Multi‐Layered Functional Devices Using One Stamp with Programmable Surface Energy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413819?af=R)
+Append: [Nanoporous Ag Microparticles with Tailorable and Noncontaminated Nanopores for SERS Sensing Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414962?af=R)
+Append: [Plasma Membrane Targeted Photodynamic Nanoagonist to Potentiate Immune Checkpoint Blockade Therapy by Initiating Tumor Cell Pyroptosis and Depleting Infiltrating B Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415078?af=R)
+Append: [2D Metastable‐Phase Hafnium Oxide Triggers Hydrogen Spillover for Boosting Hydrogen Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415978?af=R)
+append_entries: 5
+Finish: 2025-04-04 12:36:50.958179
