@@ -5248,3 +5248,20 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-04 08:24:20.370876
+------------------------------------------------------
+Started: 2025-04-04 10:20:31.904351
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [One‐Step Symbiosis of Bimetallic Peroxides Nanoparticles to Induce Ferroptosis/Cuproptosis and Activate cGAS‐STING Pathway for Enhanced Tumor Immunotherapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500337?af=R)
+Append: [Low‐Temperature Pyrolysis: A Universal Route to High‐Loading Single‐Atom Catalysts for Fuel Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501707?af=R)
+Append: [Carbon Dot‐Linked Hydrogel for TAMs Transform: Spatiotemporal Manipulation to Reshape Tumor Microenvironment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420068?af=R)
+Append: [High‐Performance Carbon Capture with Fluorine‐Tailored Carbon Molecular Sieve Membranes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420477?af=R)
+Append: [Interlayer Expanded MXene Film Cathodes with Rich Defects for Flexible 2‐Electron Oxalate‐Based Li–CO2 Batteries: A New Path to Enhanced Energy Efficiency and Durability](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500064?af=R)
+Append: [Advanced Air Electrodes for Reversible Protonic Ceramic Electrochemical Cells: A Comprehensive Review](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418620?af=R)
+Append: [Suppression of Charge Recombination Induced by Solid Additive Assisting Organic Solar Cells with Efficiency over 20%](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504396?af=R)
+Append: [Decoupling Strategy of Metasurface to Realize Independent Sensing and Wave Manipulations at the Same Time](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500266?af=R)
+Append: [Nonlinear Optical Properties of 0D Chiral Hybrid Bismuth Iodides](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501022?af=R)
+append_entries: 9
+Finish: 2025-04-04 10:20:33.798196
