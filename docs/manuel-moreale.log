@@ -11445,3 +11445,9 @@ error: Connection error.
 Append: [P&B: Matt Webb](https://manuelmoreale.com/pb-matt-webb)
 append_entries: 1
 Finish: 2025-04-04 12:37:27.230092
+------------------------------------------------------
+Started: 2025-04-04 14:18:21.497452
+Existing_entries: 631
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-04-04 14:18:22.772637

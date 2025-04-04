@@ -5278,3 +5278,14 @@ Append: [Plasma Membrane Targeted Photodynamic Nanoagonist to Potentiate Immune 
 Append: [2D Metastable‐Phase Hafnium Oxide Triggers Hydrogen Spillover for Boosting Hydrogen Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415978?af=R)
 append_entries: 5
 Finish: 2025-04-04 12:36:50.958179
+------------------------------------------------------
+Started: 2025-04-04 14:17:46.365802
+Existing_entries: 1005
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Development of Bioorthogonally Degradable Tough Hydrogels Using Enamine N‐Oxide Based Crosslinkers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414692?af=R)
+Append: [Lipoic Acid/Choline Ionic Liquid Enhanced Intratumoral Heat/Mass Transfer for Suppressing Thermo‐Mediated Tumor Relapse and Metastasis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415157?af=R)
+Append: [Friction Memory Ionogels With Hysteretic Sticky‐Slippery Transition via Thermolocking the Metastable state](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416250?af=R)
+append_entries: 3
+Finish: 2025-04-04 14:17:48.004257
