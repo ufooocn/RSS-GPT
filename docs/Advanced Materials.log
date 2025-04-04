@@ -5289,3 +5289,12 @@ Append: [Lipoic Acid/Choline Ionic Liquid Enhanced Intratumoral Heat/Mass Transf
 Append: [Friction Memory Ionogels With Hysteretic Sticky‐Slippery Transition via Thermolocking the Metastable state](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416250?af=R)
 append_entries: 3
 Finish: 2025-04-04 14:17:48.004257
+------------------------------------------------------
+Started: 2025-04-04 16:22:40.302228
+Existing_entries: 1003
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Engineered MSCs Break Endothelial‐Myofibroblast Crosstalk in Pulmonary Fibrosis: Reconstructing the Vascular Niche](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414601?af=R)
+append_entries: 1
+Finish: 2025-04-04 16:22:42.215123

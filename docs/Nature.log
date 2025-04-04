@@ -4109,3 +4109,9 @@ Append: [Daily briefing: Drug makes people’s blood poisonous to mosquitoes](ht
 Append: [Daily briefing: Mass layoffs across US health agencies](https://www.nature.com/articles/d41586-025-01024-z)
 append_entries: 5
 Finish: 2025-04-04 14:17:45.860790
+------------------------------------------------------
+Started: 2025-04-04 16:22:39.381220
+Existing_entries: 727
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-04-04 16:22:39.791993
