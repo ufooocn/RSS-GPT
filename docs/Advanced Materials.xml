@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Engineered MSCs Break Endothelial‐Myofibroblast Crosstalk in Pulmonary Fibrosis: Reconstructing the Vascular Niche</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414601?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414601?af=R</guid>
 <content:encoded><![CDATA[
-
 The engineered MSCs (MSC‐MM@LPHN) prepared based on surface‐anchoring nanoparticle technology can trigger the matrix metalloproteinase (MMP‐2) response to release drug‐loaded nanoparticles (MM@LPHN) and break the malignant regulatory network between myofibroblasts and vascular endothelial cells in the fibroblastic foci. Combined with the pro‐angiogenic effect of MSCs achieve the reconstruction of the vascular niche, the engineered MSCs promote lung tissue regeneration and treat pulmonary fibrosis.
 
 
@@ -22,10 +22,8 @@ The engineered MSCs (MSC‐MM@LPHN) prepared based on surface‐anchoring nanopa
 Abstract
 In the progress of pulmonary fibrosis (PF), the normal vascular niche plays a crucial role in alveolar regeneration by secreting angiocrine factors. However, the malignant interaction between myofibroblasts and vascular endothelial cells results in significant loss of pulmonary capillaries in fibroblast foci, which promotes continuous deterioration of fibrosis. Herein, an engineered mesenchymal stem cell (MSC) therapeutic named MSC‐MM@LPHN is developed for reconstructing the vascular niche, which is formed by modifying the surface of MSC with ROS‐responsive lipid polymeric hybrid nanoparticles encapsulating the metformin and macitentan. Due to the homing ability of MSC, the MSC‐MM@LPHN can effectively target lung tissue, then induce myofibroblast dedifferentiation to reduce the secretion of cytokines that cause endothelial cell damage and preventing endothelial cells from turning into a fibrotic phenotype, leading to recovery of the vascular endothelial cells function. Combined with the role of MSC‐secreted growth factors promoting angiogenesis, the MSC‐MM@LPHN ultimately constructs normal vascular structure in the fibroblast area and reverses bleomycin‐induced PF. The findings suggest targeting the cell network in the vascular niche can effectively treat PF, which provides a novel therapeutic strategy for fibrosis‐related diseases.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
-
 <item>
 <title>Development of Bioorthogonally Degradable Tough Hydrogels Using Enamine N‐Oxide Based Crosslinkers</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414692?af=R</link>
@@ -18497,25 +18495,6 @@ Abstract
 Two‐photon polymerization (2PP) 3D printing enables top–down biomaterial synthesis with nanoscale spatial resolution for de novo design of monodisperse injectable drug delivery systems. Spatiotemporal Controlled Release Inks of Biocompatible polyEsters (SCRIBE) is a novel poly(lactic‐co‐glycolic acid)‐triacrylate resin family with sub‐micron resolution and tuneable hydrolysis that addresses the limitations of current 2PP resins. SCRIBE enables the direct printing of hollow microparticles with tuneable chemistry and complex geometries inaccessible to molding techniques, which are used to engineer controlled protein release in vitro and in vivo. SCRIBE microparticles are used to modulate antibody titers and class switching as a function of antigen release rate and extend these findings to enable a single‐injection vaccine formulation with extended antibody induction kinetics. Demonstrating how the chemistry and computer‐aided design of 2PP‐printed microparticles can be used to tune responses to biomacromolecule release in vivo opens significant opportunities for a new generation of drug delivery vehicles.
 ]]></content:encoded>
 <pubDate>2025-02-28T02:43:41-08:00</pubDate>
-</item>
-<item>
-<title>20.6% Efficiency Organic Solar Cells Enabled by Incorporating a Lower Bandgap Guest Nonfullerene Acceptor Without Open‐Circuit Voltage Loss</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500282?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500282?af=R</guid>
-<content:encoded><![CDATA[
-Expanding the sunlight harvesting spectrum while concurrently minimizing energy loss is crucial for high‐performance OSCs. Herein, eC9, a nonfullerene acceptor with a narrower bandgap is introduced, as the guest component into the D18:AQx‐2F binary system. This ternary strategy resulted in a broadened absorption window, enhanced crystallization, and reduced nonradiative loss, leading to a record efficiency of 20.6% with simultaneous enhancement in VOC, JSC, and FF.
-
-
-
-
-
-
-
-
-Abstract
-Simultaneously mitigating both photovoltage and photocurrent losses is crucial for organic solar cells (OSCs) to approach the Shockley–Queisser limit of ideal efficiency. Incorporating a narrower bandgap nonfullerene acceptor (NFA) as a guest component into the host donor:NFA system broadens the absorption spectrum. However, this can also increase the nonradiative decay rate according to the energy‐gap law. In this work, ternary OSCs are constructed by combining a narrow bandgap AQx‐2F (as host NFA) with a lower bandgap eC9 (as guest NFA), significantly enhancing photocurrent generation without compromising photovoltage. The addition of eC9 acts as a crystallization inducer, extending the crystallization period and increasing the ordered packing distance. This leads to suppressed trap states, elevated dielectric constant, prolonged exciton lifetime, balanced hole/electron transport, and reduced recombination loss. Consequently, the optimized D18:AQx‐2F:eC9 ternary OSCs achieve a champion power conversion efficiency (PCE) of 20.6% with a high open‐circuit voltage of 0.937 V, a short‐circuit current density of 27.2 mA cm−2 and a fill factor of 80.8%, as validated by an independently certified PCE of 20.0%, establishing a new benchmark for bulk heterojunction OSCs. This work demonstrates an effective method to simultaneously mitigate photovoltage and photocurrent losses, paving the way for high‐performance OSCs.
-]]></content:encoded>
-<pubDate>2025-02-28T02:38:08-08:00</pubDate>
 </item>
 </channel>
 </rss>

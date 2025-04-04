@@ -4115,3 +4115,11 @@ Existing_entries: 727
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-04 16:22:39.791993
+------------------------------------------------------
+Started: 2025-04-04 18:25:30.808165
+Existing_entries: 727
+Fetching from https://www.nature.com/nature.rss
+Append: [Neck deep in overdiagnosis: Books in brief](https://www.nature.com/articles/d41586-025-01073-4)
+Append: [Trump team removes senior NIH chiefs in shock move](https://www.nature.com/articles/d41586-025-01071-6)
+append_entries: 2
+Finish: 2025-04-04 18:25:30.987431
