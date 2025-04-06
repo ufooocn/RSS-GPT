@@ -4208,3 +4208,10 @@ Existing_entries: 730
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-05 22:16:27.434637
+------------------------------------------------------
+Started: 2025-04-06 01:37:06.542414
+Existing_entries: 730
+Fetching from https://www.nature.com/nature.rss
+Append: [Obesity-drug pioneers and 13,508 physicists win US$3-million Breakthrough Prizes](https://www.nature.com/articles/d41586-025-01038-7)
+append_entries: 1
+Finish: 2025-04-06 01:37:06.751103
