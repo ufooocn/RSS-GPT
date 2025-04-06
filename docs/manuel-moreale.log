@@ -11598,3 +11598,9 @@ error: Connection error.
 Append: [A moment with long shadows](https://manuelmoreale.com/a-moment-with-long-shadows)
 append_entries: 1
 Finish: 2025-04-06 14:16:16.351465
+------------------------------------------------------
+Started: 2025-04-06 16:20:31.632113
+Existing_entries: 632
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-04-06 16:20:32.703929
