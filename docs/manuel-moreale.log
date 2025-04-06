@@ -11589,3 +11589,12 @@ Existing_entries: 631
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-04-06 12:34:02.457866
+------------------------------------------------------
+Started: 2025-04-06 14:16:14.238583
+Existing_entries: 631
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [A moment with long shadows](https://manuelmoreale.com/a-moment-with-long-shadows)
+append_entries: 1
+Finish: 2025-04-06 14:16:16.351465
