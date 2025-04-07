@@ -5484,3 +5484,24 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-07 06:27:55.115728
+------------------------------------------------------
+Started: 2025-04-07 08:25:45.903380
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Unlocking the Sodium Storage Potential in Fluorophosphate Cathodes: Electrostatic Interaction Lowering Versus Structural Disordering](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202400229?af=R)
+Append: [Gallium‐Magnesium Layered Double Hydroxide for Elevated Tumor Immunotherapy Through Multi‐Network Synergistic Regulation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501256?af=R)
+Append: [A Colorful Electrochromic Infrared Emissivity Regulator for All‐Season Intelligent Thermal Management in Buildings](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420578?af=R)
+Append: [Ferroelectric Polarization Effects of Single‐Atom Catalysts on Water Oxidation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500285?af=R)
+Append: [Memristive InAs‐Based Semiconductors with Anisotropic Ion Transport](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500056?af=R)
+Append: [Expanded Nanofibrous Cellulose Electrode Binder: Declustering Lithium Polysulfides for Lean‐Electrolyte Li‒S Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414335?af=R)
+Append: [Improving the Stability of Wide Bandgap Perovskites: Mechanisms, Strategies, and Applications in Tandem Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418500?af=R)
+Append: [“Mix‐and‐Match”: Self‐Sorting Assembly Governed Supramolecular Polymeric Nanomedicine for Boosting Combined Chemo/Phototherapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502416?af=R)
+Append: [Current Control of Spin Helicity and Nonreciprocal Charge Transport in a Multiferroic Conductor](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420614?af=R)
+Append: [2D Piezo‐Ferro‐Opto‐Electronic Artificial Synapse for Bio‐Inspired Multimodal Sensory Integration](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500049?af=R)
+Append: [Crystal Transformation Strategy in Hydrogen‐Bonded Organic Framework Solid‐State Electrolyte for Stable Zinc‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500721?af=R)
+Append: [High‐Performance Solution Processable Red TADF‐OLED with External Quantum Efficiency Exceeding 28% Using a Multi‐Resonance Emitter Host](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500690?af=R)
+Append: [Unlocking the Potential of Oxide‐Based Catalysts for CO2 Photo‐Hydrogenation: Oxygen Vacancies Promoted C─O Bond Cleavage in Key Intermediates](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408906?af=R)
+append_entries: 13
+Finish: 2025-04-07 08:25:47.772124
