@@ -4343,3 +4343,12 @@ Existing_entries: 739
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-07 16:22:19.491726
+------------------------------------------------------
+Started: 2025-04-07 18:26:20.430368
+Existing_entries: 739
+Fetching from https://www.nature.com/nature.rss
+Append: [Creating an ‘all comers’ research group in quantitative history](https://www.nature.com/articles/d41586-025-00860-3)
+Append: [Long COVID activists fought Trump team’s research cuts and won ― for now](https://www.nature.com/articles/d41586-025-00995-3)
+Append: [Daily briefing: This brain structure filters which thoughts we become aware of](https://www.nature.com/articles/d41586-025-01082-3)
+append_entries: 3
+Finish: 2025-04-07 18:26:20.634293
