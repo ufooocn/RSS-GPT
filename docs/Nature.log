@@ -4311,3 +4311,10 @@ Existing_entries: 731
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-07 08:25:45.391317
+------------------------------------------------------
+Started: 2025-04-07 10:21:28.295166
+Existing_entries: 731
+Fetching from https://www.nature.com/nature.rss
+Append: [Why an overreliance on AI-driven modelling is bad for science](https://www.nature.com/articles/d41586-025-01067-2)
+append_entries: 1
+Finish: 2025-04-07 10:21:28.475933

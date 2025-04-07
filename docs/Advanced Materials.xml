@@ -5,11 +5,53 @@
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
 <item>
+<title>Bioinspired Nanoscale 3D Printing of Calcium Phosphates Using Bone Prenucleation Clusters</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</guid>
+<content:encoded><![CDATA[
+
+This study develops a bone‐bioinspired photoresin containing PNCs of calcium phosphates, enabling nanoscale precision via 2pp. This novel approach allows for 2D patterning and 3D nanostructuring of CaPs with intricate geometries. The technique offers unparalleled control over scaffold design and porosity, paving the way for advanced applications in bone tissue engineering and regenerative medicine.
+
+
+
+
+
+
+
+
+Abstract
+Calcium phosphates (CaPs) are ubiquitous in biological structures, such as vertebrate bones and teeth, and have been widely used in biomedical applications. However, fabricating CaPs at the nanoscale in 3D has remained a significant challenge, particularly due to limitations in current nanofabrication techniques, such as two‐photon polymerization (2pp), which are not applicable for creating CaP nanostructures. In this study, a novel approach is presented to 3D print CaP structures with unprecedented resolution of ≈300 nm precision, achieving a level of detail three orders of magnitude finer than any existing additive manufacturing techniques for CaPs. This advancement is achieved by leveraging bioinspired chemistry, utilizing bone prenucleation nanoclusters (PNCs, average size of 5 nm), within a photosensitive resin. These nanoclusters form a highly transparent photoresist, overcoming the light‐scattering typically associated with larger calcium phosphate‐based nanoparticles. This method not only allows for nanopatterning of CaPs on diverse substrates, but also enables the precise control of microstructure down to the level of submicron grains. The method paves the way for the developing of bioinspired metamaterials, lightweight damage‐tolerant materials, cell‐modulating interfaces, and precision‐engineered coatings.
+]]></content:encoded>
+<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
+<pubDate>2025-04-02T01:17:51-07:00</pubDate>
+</item>
+<item>
+<title>Adhesives with Debonding‐On‐Demand Capability: Leveraging Responsive Microcapsules for Mechanically‐Induced Debonding</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R</guid>
+<content:encoded><![CDATA[
+
+Debondable adhesives hold promise for advancing sustainable bonding solutions, yet their adoption is often constrained by synthetic challenges that limit practicality and scalability. This study demonstrates how encapsulated plasticizers can impart mechanically triggered debonding‐on‐demand functionality to commercial adhesives. By offering a straightforward, adaptable approach, it advances the development of more sustainable, versatile adhesives with enhanced debonding capabilities.
+
+
+
+
+
+
+
+
+Abstract
+Temporary adhesives capable of forming strong yet easily reversible bonds are garnering significant interest as sustainable materials that facilitate the recycling and recovery of high‐value components. Herein is presented a comprehensive design and parameterization framework for developing effective temporary adhesives with mechanically induced debonding‐on‐demand capabilities. This framework is achieved by incorporating hexyl acetate‐filled microcapsules into commercial polyvinyl acetate adhesives, creating a responsive adhesive composite. Under controlled compression, these microcapsules rupture precisely, releasing their contents to induce sufficient adhesive plasticization to enable effortless debonding. Our results indicate that while the inclusion of microcapsules affects adhesion strength and toughness, the overall mechanical performance remains stable across different concentrations. Thermal tests highlight a 50 wt.% microcapsule concentration as optimal for enhanced plasticization, while compression tests show that an applied force of 5 kN achieves maximum capsule rupture without compromising substrate integrity. Ultimately, specimens bonded with the responsive composite under compression exhibit a striking 1200% increase in creep rates compared to those bonded with the neat adhesive, allowing for effective debonding‐on‐demand—an outcome unattainable with the neat adhesive. This simple and highly versatile approach lays the groundwork for advancing the development of more sustainable and functional adhesive materials.
+]]></content:encoded>
+<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
+<pubDate>2025-04-02T01:17:51-07:00</pubDate>
+</item>
+
+<item>
 <title>Unlocking the Sodium Storage Potential in Fluorophosphate Cathodes: Electrostatic Interaction Lowering Versus Structural Disordering</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202400229?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202400229?af=R</guid>
 <content:encoded><![CDATA[
-
 Na+‐density and degree of order in Na3V2(PO4)2O2F cathode are regulated via divalent cation doping to compare the importance of electrostatic interaction and Na+‐ordering on the Na+ diffusivity and storage property. A higher Mg2+‐doping concentration at both Na‐ and V‐site, though incorporating extra Na+ and higher repulsive forces, contributes to a higher structural disorder, which reveals a higher throughout Na+ diffusivity with a superior energy/power density.
 
 
@@ -22,7 +64,6 @@ Na+‐density and degree of order in Na3V2(PO4)2O2F cathode are regulated via di
 Abstract
 Electrostatic interaction and Na+‐ordering are identified as two possible kinetic constraints in determining the Na+ diffusivity in Na3V2(PO4)2O2F (NVPOF), a representative polyanionic‐based cathode material for sodium‐ion batteries. As both factors are compositionally related and intertwined, isolating individual factors to pinpoint the dominant one is essential yet challenging for achieving the full electrochemical potential of NVPOF. Herein, NVPOF doped with Zn2+ or Mg2+ is developed to study the relative influence of the electrostatic interaction and structural disordering on the Na+ diffusivity and thus Na+ storage performance. The crystal structural analysis and theoretical modeling reveal that a limited amount (0.6 at% of Na) of Zn2+ doped at the Na‐site with Na‐vacancies created, while a ten‐fold higher Mg2+ doped at both the Na‐ and V‐site, which introduces additional Na+ for charge compensation. As a result, compared to the Zn2+ doped counterpart, the Mg2+ doped NVPOF cathode shows a Na+ diffusivity up to 3 times higher even encountering larger repulsive forces, and a much enhanced Na+ storage property. This work demonstrates the superiority of regulating the degree of order in the framework to address the defect formation energy of NVPOF, which is realized via doping and can be extendable to other polyanionic‐based cathode materials.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:45:16 -0700</pubDate>
 <pubDate>2025-04-07T12:45:16-07:00</pubDate>
 </item>
 <item>
@@ -30,7 +71,6 @@ Electrostatic interaction and Na+‐ordering are identified as two possible kine
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501256?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501256?af=R</guid>
 <content:encoded><![CDATA[
-
 A multi‐network synergistic treatment strategy is designed to form a powerful therapeutic network to improve tumor immunotherapy by coordinating multiple immune activation mechanisms such as autophagy blocking, ferroptosis, pyroptosis, immunogenic cell death, and STING activation, which improves the immunogenicity, reverses the immunosuppressive TME, breaks the immune barrier, and promotes immune cell proliferation and infiltration.
 
 
@@ -43,7 +83,6 @@ A multi‐network synergistic treatment strategy is designed to form a powerful 
 Abstract
 Immunotherapeutic efficacy is often limited by poor immunogenicity, immunosuppressive tumor microenvironment (TME), and cytoprotective mechanisms, leading to low immune activation. To this end, here, L‐amino acid oxidase (LAAO) loaded gallium‐magnesium layered double hydroxide (MG‐LAAO) is prepared for significantly enhanced tumor immunotherapy through multi‐network synergistic regulation. First, MG‐LAAO induces tumor cell pyroptosis by initiating caspase‐1/GSDMD and caspase‐3/GSDME pathways, further triggering immunogenic cell death (ICD). Then the released Ga3+ induces mitochondrial iron overload, resulting in ferroptosis. In addition, MG‐LAAO also hinders autophagy of tumor cells, and reshapes the immunosuppressive tumor microenvironment (TME) by neutralizing H+ and inhibiting lactic acid accumulation, thus destroying the cytoprotective mechanism and avoiding immune escape. Furthermore, this multi‐network synergy further activates the cGAS‐STING signaling pathway, generating powerful antitumor immunotherapy. This work highlights the critical role of synergies between autophagy block, pyroptosis, ferroptosis, and ICD in tumor immunotherapy, demonstrating the important role of this multi‐network synergy in effectively overcoming immunosuppressive TME and enhancing immunogenicity. In particular, the mechanism of gallium‐induced pyroptosis is revealed for the first time, providing theoretical support for the design of new materials for tumor immunotherapy in the future.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:43:27 -0700</pubDate>
 <pubDate>2025-04-07T12:43:27-07:00</pubDate>
 </item>
 <item>
@@ -51,7 +90,6 @@ Immunotherapeutic efficacy is often limited by poor immunogenicity, immunosuppre
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420578?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420578?af=R</guid>
 <content:encoded><![CDATA[
-
 A spectrally selective colorful electrochromic infrared emissivity regulator (CECIER) is presented for all‐season building thermal management. It enables multi‐modal dynamic infrared emissivity regulation in the atmospheric window while reducing parasitic heat through high reflectance in the non‐atmospheric window. The regulator achieves ≈2°C (night) and 3°C (day) temperature adjustments and 3.46 MJ m−2 annual building energy savings.
 
 
@@ -64,7 +102,6 @@ A spectrally selective colorful electrochromic infrared emissivity regulator (CE
 Abstract
 Radiative cooling is a technology that utilizes the high emissivity of materials in the atmospheric window to achieve cooling, showing great application prospects in building energy‐saving. However, traditional static passive radiative cooling materials with broad‐spectrum high emissivity can lead to increased heating energy consumption in winter due to overcooling and a weakened cooling effect in summer due to the urban heat island effect. In this study, a colorful, intelligent infrared emissivity regulator is well designed based on a multi film ultrathin electrochromic device for all‐season thermal management in buildings. The infrared emissivity of the regulator can vary in real time in response to seasonal or temperature variations, allowing for the switching between radiative cooling and insulation. Guided by nano‐photonics theory for multilayer optical films, the regulator achieves multi‐modal dynamic infrared emissivity regulation in the atmospheric window Δε¯$\Delta \ \bar{\varepsilon }$Δε¯$\Delta \ \bar{\varepsilon }$, and the high reflectance in the non‐atmospheric window inhibits heat gains from the external environment. The regulator demonstrates excellent environmental adaptivity with an acceptable response time, a long cycle life, and good bending resistance. The regulator can achieve ≈2 °C/3 °C (nighttime/daytime) temperature adjustment. The simulation results indicate that the regulator can achieve an annual building energy saving of 3.46 MJ m−2.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:43:27 -0700</pubDate>
 <pubDate>2025-04-07T12:43:27-07:00</pubDate>
 </item>
 <item>
@@ -72,7 +109,6 @@ Radiative cooling is a technology that utilizes the high emissivity of materials
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500285?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500285?af=R</guid>
 <content:encoded><![CDATA[
-
 Ferroelectric substrates offer a dynamic platform to enhance the catalytic performance of single‐atom catalysts (SACs) for the oxygen evolution reaction (OER). By integrating high‐throughput computations and machine learning, this study reveals how to take advantage of ferroelectric polarization effect to fine‐tune the OER pathways on SACs. It advances the rational design of high‐efficiency SACs for sustainable energy conversion.
 
 
@@ -85,7 +121,6 @@ Ferroelectric substrates offer a dynamic platform to enhance the catalytic perfo
 Abstract
 The oxygen evolution reaction (OER) performance of single‐atom catalysts (SACs) heavily depends on their substrates. However, heterojunctions with traditional substrate materials often fail to provide the desired dynamic interface effects. Here, through a systematic study of the ferroelectric heterostructure In2Se3/C‐N‐M, the feasibility of using ferroelectric materials to achieve dynamic optimization of the OER activity on SACs is demonstrated. The ferroelectric In2Se3 is confirmed to be an effective substrate for improving the stability of various SACs, supported by theoretical results of their negative formation energy and positive dissolution potential. Activity analysis indicates that among these In2Se3/C‐N‐M systems, the In2Se3/C‐N‐Ir can achieve near‐ideal catalytic activities through polarization switching. It can unprecedentedly catalyze OER via a hybrid pathway of adsorbate evolution mechanism and O‐O coupling mechanism under different pH conditions (from pH = 1 to pH = 13). Machine learning models have been developed to conduct feature analysis and make ultrafast predictions of OER activity, which identify that the interfacial charge transfer triggered by ferroelectric polarization is the key to fine‐tuning the OER performance of SACs. This work provides a theoretical framework that utilizes ferroelectric polarization as a powerful approach to navigate the design of efficient SACs.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:41:59 -0700</pubDate>
 <pubDate>2025-04-07T12:41:59-07:00</pubDate>
 </item>
 <item>
@@ -93,7 +128,6 @@ The oxygen evolution reaction (OER) performance of single‐atom catalysts (SACs
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500056?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500056?af=R</guid>
 <content:encoded><![CDATA[
-
 Memristive semiconductor HxNa2‐xIn2As3 exhibits memristive switching and maintains semiconductor properties through ion migration in its vdW gaps. Low ion migration energy enables a low set voltage, while its low‐symmetry structure produces anisotropic ion transport, offering insights into directional dependence. These findings can guide the development of energy‐efficient memtransistors.
 
 
@@ -106,7 +140,6 @@ Memristive semiconductor HxNa2‐xIn2As3 exhibits memristive switching and maint
 Abstract
 The use of the van der Waals (vdW) gap as an ion migration path, similar to cathode materials in lithium‐ion batteries, enables improved ion migration. If these materials also possess semiconductor properties, they can simultaneously control electron or hole transport. Such materials can be used in memtransistors, which combine memory and semiconductor characteristics. However, the existing materials rely on defects such as grain boundaries as migration paths, resulting in high ion migration energy barriers and switching voltages. Herein, memtransistors are demonstrated using HxNa2‐xIn2As3, which utilizes the vdW gap for ion migration, resulting in lower ion migration energy barriers. It is confirmed that ion migration occurs more readily in the [010] direction in a low‐symmetry crystal structure owing to a lower migration energy barrier, whereas migration does not occur in the [100] direction, demonstrating directional dependence. This finding provides crucial guidelines for identifying ion migration in semiconductor materials, which can otherwise be overlooked. The use of the vdW gap as the migration path, variation in migration energy barriers with the ion movement direction, and their impact on low power consumption are critical factors that will guide the future development of memtransistor materials.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:37:39 -0700</pubDate>
 <pubDate>2025-04-07T12:37:39-07:00</pubDate>
 </item>
 <item>
@@ -114,7 +147,6 @@ The use of the van der Waals (vdW) gap as an ion migration path, similar to cath
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414335?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414335?af=R</guid>
 <content:encoded><![CDATA[
-
 2,2,6,6‐Tetramethylpiperidin‐1‐oxyl radical (TEMPO)‐oxidized cellulose nanofiber (TOCN) is presented as a class of expanded nanofibrous electrode binders for lean‐electrolyte lithium–sulfur (Li–S) batteries. Owing to the increased active sites for intermolecular interaction with Li polysulfides (LiPS), the TOCN binder promotes the declustering of LiPS, thereby achieving a high cell‐level energy density of 503 Wh kg−1 at a low electrolyte‐to‐sulfur ratio of 2.0 µL mgsulfur−1.
 
 
@@ -127,7 +159,6 @@ The use of the van der Waals (vdW) gap as an ion migration path, similar to cath
 Abstract
 Despite their potential as an alternative to commercial lithium (Li)‒ion batteries, Li–sulfur (Li–S) batteries face challenges related to energy density limitations caused by the considerable amount of electrolyte required. Lean electrolytes have proven effective in mitigating this issue. However, they tend to exacerbate Li polysulfides (LiPS) clustering, resulting in incomplete S utilization and sluggish conversion kinetics. Here, 2,2,6,6‐tetramethylpiperidin‐1‐oxyl radical (TEMPO)‐oxidized cellulose nanofiber (TOCN) is presented as an expanded nanofibrous electrode binder for lean‐electrolyte Li‒S batteries. Owing to its 1D fibrous structure and expanded inter‐glucose chain distance, the TOCN binder offers more accessible active sites for intermolecular interactions with LiPS. Consequently, LiPS cluster formation is effectively suppressed even at a low TOCN binder content of 1 wt%, while a high S loading of 72 wt% is achieved. The resulting S cathode with the TOCN binder enables Li‒S cells to exhibit a remarkable specific capacity of 1221 mAh gsulfur−1 under constrained electrolyte conditions (low electrolyte‐to‐sulfur ratio of 2.0 µL mgsulfur−1 and low density of 0.927 g mL−1), yielding a high cell‐level energy density of 503 Wh kg−1 that surpasses those of previously reported S cathodes based on conventional synthetic polymer binders.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:36:20 -0700</pubDate>
 <pubDate>2025-04-07T12:36:20-07:00</pubDate>
 </item>
 <item>
@@ -135,7 +166,6 @@ Despite their potential as an alternative to commercial lithium (Li)‒ion batte
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418500?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418500?af=R</guid>
 <content:encoded><![CDATA[
-
 The stability of wide‐bandgap perovskite solar cells is reviewed, including its stabilization mechanism, stabilization methods, and application in tandem solar cells. The current challenges and future perspectives for research in this promising field are also presented.
 
 
@@ -148,7 +178,6 @@ The stability of wide‐bandgap perovskite solar cells is reviewed, including it
 Abstract
 Tandem solar cells (TSCs) based on wide bandgap (WBG) perovskites have gained significant attention for their higher power conversion efficiency (PCE) compared to single‐junction cells. The role of WBG perovskite solar cells (PSCs) as the sub‐cell in tandem cells consists of absorbing high‐energy photons and producing higher open‐circuit voltages (VOC). However, WBG PSCs face serious phase separation issues, resulting in poor long‐term stability and substantial VOC loss in TSCs. In response, researchers have developed a range of strategies to mitigate these challenges, showing promising progress, and a comprehensive review of these strategies is expected. In this review, we discuss the stability mechanism in organic–inorganic hybrids and all‐inorganic WBG perovskites. Additionally, we conduct an in‐depth investigation of various strategies to enhance stability, including component engineering, additive engineering, interface engineering, dimension control, solvent engineering, and encapsulation. Furthermore, the application of the WBG sub‐cell in various TSCs is summarized in detail. Finally, perspectives are provided to offer guidance for the development of efficient and stable WBG sub‐cell in the field of TSCs.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:33:20 -0700</pubDate>
 <pubDate>2025-04-07T12:33:20-07:00</pubDate>
 </item>
 <item>
@@ -156,7 +185,6 @@ Tandem solar cells (TSCs) based on wide bandgap (WBG) perovskites have gained si
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502416?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502416?af=R</guid>
 <content:encoded><![CDATA[
-
 Self‐sorting assembly mediated supramolecular nanoformulations are reported, featured by molecularly defined medicines and enhanced therapeutics. Specific ‘hydrogen‐bonding molecular instructions’ encoded in the structure of DAP/FU and HW/Ba pairs enables self‐sorting phenomena and selective association of multiple prodrugs. Moreover, distinct association constant of DAP/FU (≈102 M−1) and HW/Ba (≈104‐5 M−1) pairs endow programmable dissociation and specific chemo‐prodrug release through pH/thermal‐stimuli.
 
 
@@ -169,7 +197,6 @@ Self‐sorting assembly mediated supramolecular nanoformulations are reported, f
 Abstract
 Precise cancer nanomedicine requires rational molecular instructions of therapeutic agents. Harnessing the structure‐property‐function relationships represents a practical strategy toward smart and effective nanomedicine. A structurally novel hydrogen‐bonded (H‐bonded) supramolecular nanoformulation generated by orthogonal self‐sorting assembly of chemo‐prodrug (FPtF) and phototherapeutics (BPeB) is here reported, to reach an autonomous nanomedicine with improved anti‐tumor efficacy by combining chemo/phototherapy (CT/PT). The high‐fidelity of H‐bonding modularity from privileged heterocomplementary diaminopyridine/5‐fluorouracil (DAP/FU) and Hamilton wedge/barbiturate (HW/Ba) pairs, respectively enable the precise spatial control of binding interactions toward FPtF and BPeB, in turn allowing the self‐sorting process and specific “mix‐and‐match” capability. To directly stimulate phototherapy from BPeB via near‐infrared (NIR) light, spectral matched upconversion nanoparticles (UCNPs, β‐NaYF4:Yb,Er) are encapsulated simultaneously. As a result, supramolecular polymeric nanomicelles, i.e., F/B/U@PHDO, are readily fabricated. Moreover, distinct H‐bonding association constant (Ka) of DAP/FU (≈102 M−1) and HW/Ba (≈104‐5 M−1) pairs reflect different strengths and stabilities of H‐bonds, thus endowing the programmable H‐bonding dissociation, accompanied with the chemo‐prodrug release through pH/thermal‐stimuli. Therapeutic regime with appreciated anti‐tumor outcomes is ultimately accomplished via combined CT/PT. The privileged opportunities offered by self‐sorting design are anticipated to point to new paradigm toward precise nanomedicine for cancer therapy.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:30:51 -0700</pubDate>
 <pubDate>2025-04-07T12:30:51-07:00</pubDate>
 </item>
 <item>
@@ -177,7 +204,6 @@ Precise cancer nanomedicine requires rational molecular instructions of therapeu
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420614?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420614?af=R</guid>
 <content:encoded><![CDATA[
-
 A conducting multiferroic state of spin origin with both electronic polarity (P) and magnetization (M) can be controlled and detected by electric current in a high‐temperature helimagnet YMn6Sn6. The underlying concept is the coupling of the electric current with the toroidal moment T∼P×M$\bm{T}\sim \bm{P}\ensuremath{\times{}}\bm{M}$. The controllability of state variables like P and T in conductors enhances the potential of spin‐helicity‐based spintronics.
 
 
@@ -191,7 +217,6 @@ A conducting multiferroic state of spin origin with both electronic polarity (P)
 Abstract
 A multiferroic state with both electronic polarity (P) and magnetization (M) shows the inherently strong P‐M coupling when P is induced by cycloidal (Néel‐wall like) spin modulation. The sign of P is determined by the clockwise or counterclockwise rotation of spin, termed the spin helicity. Such a multiferroic state is not limited to magnetic insulators but can be broadly observed in conductors. Here, the current control of the multiferroics is reported in a helimagnetic metal YMn6Sn6 and its detection through nonreciprocal resistivity (NRR). The underlying concept is the coupling of the current with the toroidal moment T∼P×M∼(q̂×χv)×M$\bm{T}\sim \bm{P}\ensuremath{\times{}}\bm{M}\sim (\widehat{\bm{q}}\ensuremath{\times{}}{\bm{\chi}}_{v})\ensuremath{\times{}}\bm{M}$ as well as with the magneto‐chirality χv · M, whereq̂$\hspace*{0.28em}\widehat{\bm{q}}$ and χv are the unit modulation wave vector and the vector spin chirality, respectively. An enhancement of NRR is furthermore observed by the spin‐cluster scattering via χv and its fluctuation. These findings may pave the way to an exploration of multiferroic conductors and the application of the spin‐helicity degree of freedom as a state variable.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:27:57 -0700</pubDate>
 <pubDate>2025-04-07T12:27:57-07:00</pubDate>
 </item>
 <item>
@@ -199,7 +224,6 @@ A multiferroic state with both electronic polarity (P) and magnetization (M) sho
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500049?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500049?af=R</guid>
 <content:encoded><![CDATA[
-
 A novel PFOE Artificial Synapse integrating multimodal fusion perception in one device with a single functional material is presented, enabled by combined ferroelectricity (for synaptic behaviors), piezoelectricity (for tactile modulation), and optoelectronic responsiveness (for visual detection) of NbOI2. Under the synergistic modulation of strain and light, visual‐tactile fusion perception has been fully demonstrated, advancing multifunctional sensing devices for neuromorphic computing.
 
 
@@ -212,7 +236,6 @@ A novel PFOE Artificial Synapse integrating multimodal fusion perception in one 
 Abstract
 Multimodal sensory integration is vital for the evolution of artificial intelligence, yet current approaches often rely on physically connecting distinct sensing units (such as visual and tactile devices) through external circuits, leading to data transmission delays and information loss. Here, a groundbreaking paradigm is demonstrated for integrating visual‐tactile fusion perception in one device with a single functional material. This is achieved by developing an unprecedented 2D Piezo‐Ferro‐Opto‐Electronic (PFOE) Artificial Synapse, which combines the comprehensive ferroelectricity (for synaptic behaviors), piezoelectricity (for tactile modulation), and optoelectronic responsiveness (for visual detection) of strained 2D NbOI2. Under the synergistic influence of light and strain, the device exhibits remarkable persistent photoconductivity (PPC), a notable increase in paired‐pulse facilitation (PPF) index (from 116% to 180%), and a reduction in the power exponent of the sublinear power‐law fitting photocurrent curve (from 0.797 to 0.376). These features enhance the clarity and recognition of fingerprint images that integrate visual and tactile information. The work provides a robust foundation for integrating multisensory capabilities into advanced human‐machine interfaces and artificial intelligence systems, marking a significant leap forward in the development of multifunctional neuromorphic devices.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:15:33 -0700</pubDate>
 <pubDate>2025-04-07T12:15:33-07:00</pubDate>
 </item>
 <item>
@@ -220,7 +243,6 @@ Multimodal sensory integration is vital for the evolution of artificial intellig
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500721?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500721?af=R</guid>
 <content:encoded><![CDATA[
-
 Hydrogen‐bonded organic framework solid‐state electrolytes are developed for stable and efficient solid‐state zinc‐ion batteries. The short‐distance Zn2+ conduction pathways and abundant hydrogen bonds network achieved the rapid Zn2+ conduction, the Zn dendrite growth, and hydrogen evolution reaction inhibition, displaying long‐term Zn stripping/plating stability, as well as endowing the solid‐state battery with high capacity and long‐term cycling stability.
 
 
@@ -233,7 +255,6 @@ Hydrogen‐bonded organic framework solid‐state electrolytes are developed for
 Abstract
 Solid‐state zinc ion batteries (ZIBs) hold great potential for sustainable and high‐safety reserves. However, the advancement of solid‐state ZIBs is constrained by the shortage of reasonable solid‐state electrolytes (SSE) with abundant hopping sites, effective hydrogen evolution reaction (HER) inhibition, and favorable interfacial compatibility. Herein, the hydrogen‐bonded organic framework (HOF) CAM‐Ag with Zn2+ hopping sites is developed as SSE for ZIBs. Taking advantage of the short‐distance Zn2+ conduction pathways by crystal transformation through incorporating the Ag−N coordinate bonds, CAM‐Ag SSE achieves a significant ionic conductivity of 1.14 × 10−4 S cm−1 at room temperature and superior Zn2+ transference number of 0.72. An abundant hydrogen bonds network effectively inhibits the initiation of HER and the subsequent generation of by‐products. Moreover, the rapid Zn2+ conduction kinetics facilitated the inhibition of dendrite growth, promoting the uniform Zn2+ distribution. CAM‐Ag SSE displays an extensive electrochemical stability range of 0–2.66 V and remarkable electrochemical compatibility, enabling stable Zn2+ plating/stripping for ≈1000 h at 1 mA cm−2. Consequently, CAM‐Ag SSE‐based solid‐state ZIBs achieve a specific capacity of 315 mAh g−1 with only 1.5% decrease in capacitance after 24 h. The proposed HOF‐based SSE displays a potential pathway for advancing stable and high‐performance solid‐state ZIBs.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:06:37 -0700</pubDate>
 <pubDate>2025-04-07T12:06:37-07:00</pubDate>
 </item>
 <item>
@@ -241,7 +262,6 @@ Solid‐state zinc ion batteries (ZIBs) hold great potential for sustainable and
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500690?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500690?af=R</guid>
 <content:encoded><![CDATA[
-
 A red thermally activated delayed fluorescent emitter, named PBCNT, exhibits intense red emission at 664 nm in a toluene solution and a solution‐processed organic light‐emitting diode based on PBCNT achieved a record‐high maximum external quantum efficiency of 28.5% with a red emission peak at 608 nm using a multi‐resonance type thermally activated delayed fluorescence emitter.
 
 
@@ -254,7 +274,6 @@ A red thermally activated delayed fluorescent emitter, named PBCNT, exhibits int
 Abstract
 Achieving high‐efficiency soluble red thermally activated delayed fluorescence (TADF) emitters remains a substantial challenge owing to the constraints imposed by the energy‐gap law. In this study, an asymmetric pyrene‐azaacene derivative, named PBCNT, is prepared and characterized, featuring a strong electron‐donating tert‐butyl diphenylamine moiety and an electron‐withdrawing cyano group. PBCNT exhibits intense red emission with a peak wavelength of 664 nm in a toluene solution. It demonstrates an evident TADF character in the solid state, attributed to a small energy difference of 0.04 eV between its lowest singlet and triplet states. By employing a multi resonance‐type TADF molecule as the host matrix, a solution‐processed organic light‐emitting diode (OLED) based on PBCNT achieved a record‐high maximum external quantum efficiency (EQE) of 28.5%, with a red emission peak at 608 nm, facilitated by effective Förster energy transfer, good horizontal emitting dipole orientation and managed intermolecular interactions between the host and dopant. This represents one of the highest EQE values reported among solution‐processed red TADF OLEDs emitting electroluminescence at wavelengths greater than 600 nm. This paper introduces a promising pathway for developing efficient red TADF emitters that overcome the limitations of the energy‐gap law.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:06:33 -0700</pubDate>
 <pubDate>2025-04-07T12:06:33-07:00</pubDate>
 </item>
 <item>
@@ -262,7 +281,6 @@ Achieving high‐efficiency soluble red thermally activated delayed fluorescence
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408906?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202408906?af=R</guid>
 <content:encoded><![CDATA[
-
 Structure‐tailored Co3O4 is employed to investigate how oxygen vacancies perform during CO2 (photo‐)methanation, revealing that oxygen vacancies boost the C─O bond scission, facilitating conversion of various oxygen‐containing intermediates. Notably, the C─O bond cleavage in key intermediate formate, identified as the rate‐limiting step, is accelerated on oxygen vacancy‐rich M‐Co3O4, leading to a high activity and selectivity in CH4 production.
 
 
@@ -275,10 +293,8 @@ Structure‐tailored Co3O4 is employed to investigate how oxygen vacancies perfo
 Abstract
 Oxygen vacancies are generally recognized to play significant roles in CO2 adsorption and activation during CO2 hydrogenation. However, by revisiting its structural/electronic affinity for a range of oxygen‐containing intermediates in CO2 hydrogenation processes, the additional roles of oxygen vacancies can be long overlooked and underestimated. Herein, using CO2 (photo‐)methanation as a model reaction, Co3O4 with abundant oxygen vacancies is employed to investigate the relationship between oxygen vacancies and the formation/conversion of oxygen‐containing intermediates. Combined analyses of in situ diffuse reflectance infrared Fourier transform spectroscopy and theoretical calculations reveal that the key intermediate is formate, whose C─O bond cleavage is inferred to be the rate‐limiting step during CO2 methanation on Co3O4. Remarkably, leveraging the oxygen vacancy‐mediated C─O bond scission to accelerate the conversion of formate, the CH4 production activity (1108.1 mmol g−1 h−1) and selectivity (93%) are improved significantly. This comprehensive study provides valuable insights into the multifaceted roles of oxygen vacancies in CO2 hydrogenation reactions, establishing a solid foundation toward the design and development of high‐performance oxide‐containing/‐based catalysts for the conversion of CO2 into various valuable chemicals.
 ]]></content:encoded>
-<pubDate>Mon, 07 Apr 2025 00:04:13 -0700</pubDate>
 <pubDate>2025-04-07T12:04:13-07:00</pubDate>
 </item>
-
 <item>
 <title>Engineered MSCs Break Endothelial‐Myofibroblast Crosstalk in Pulmonary Fibrosis: Reconstructing the Vascular Niche</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414601?af=R</link>
@@ -18521,254 +18537,6 @@ Abstract
 The upcycling of polyethylene terephthalate (PET)‐derived ethylene glycol (EG) to glycolic acid (GA, a biodegradable polymer monomer) via electrocatalysis not only produces valuable chemicals but also mitigates plastic pollution. However, the current reports for electrooxidation of EG‐to‐GA usually operate at reaction potentials of >1.0 V vs reversible hydrogen electrode (RHE), much higher than the theoretical potential (0.065 V vs RHE), resulting in substantial energy wastage. Herein, body‐centered cubic RhIn intermetallic compounds (IMCs) anchored on carbon support (denoted as RhIn/C) are synthesized, which shows excellent performance for the EG‐to‐GA with an onset potential of only 0.35 V vs RHE, lower than the values reported in current literature. The catalyst also possesses satisfactory GA selectivity (85% at 0.65 V vs RHE). Experimental results combined with density functional theory calculations demonstrate that RhIn IMCs enhance the adsorption of EG and OH−, facilitating the generation of reactive oxygen species and thereby improving catalytic performance. RhIn/C also exhibits excellent electrocatalytic performance for hydrogen evolution reaction, ensuring that it can be used as a bifunctional catalyst in the two‐electrode system for EG electrooxidation coupled with hydrogen production. This work opens new avenues for reducing the energy consumption of electrocatalytic upcycling of PET‐derived EG and clean energy production.
 ]]></content:encoded>
 <pubDate>2025-03-03T12:12:32-08:00</pubDate>
-</item>
-<item>
-<title>Kinetically Dormant Ni‐Rich Layered Cathode During High‐Voltage Operation</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419253?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419253?af=R</guid>
-<content:encoded><![CDATA[
-Ni‐rich layered cathode remains thermodynamically reversible but undergoes dramatic kinetic degradation at high voltage, leading to the commonly observed capacity loss that in fact can be recovered under kinetic‐free conditions. Such kinetic dormant behavior highly synchronizes with the lattice strain evolution stemming from layered/rock‐salt structural heterogeneity during charge.
-
-
-
-
-
-
-
-
-Abstract
-The degradation of Ni‐rich cathodes during long‐term operation at high voltage has garnered significant attention from both academia and industry. Despite many post‐mortem qualitative structural analyses, precise quantification of their individual and coupling contributions to the overall capacity degradation remains challenging. Here, by leveraging multiscale synchrotron X‐ray probes, electron microscopy, and post‐galvanostatic intermittent titration technique, the thermodynamically irreversible and kinetically reversible capacity loss is successfully deconvoluted in a polycrystalline LiNi0.83Mn0.1Co0.07O2 cathode during long‐term charge/discharge cycling in full cell configuration. Contradicting the dramatic capacity loss, the layered structure remains highly alive even after 1000 cycles at 4.6 V while undergoing a three‐order of magnitude reduction in the mass transfer kinetics, leading to almost fully recoverable capacity under kinetic‐free conditions. Such kinetic dormant behavior after cycling is not simply ascribed to poor chemical diffusion by reconstructed cathode surface but highly synchronizes with the lattice strain evolution stemming from the structural heterogeneity between deeply delithiated layered and degraded rock‐salt phases at high voltage. These findings deepen the degradation mechanism of high‐voltage cathodes to achieve long‐cycling and fast‐charging performance.
-]]></content:encoded>
-<pubDate>2025-03-03T12:12:03-08:00</pubDate>
-</item>
-<item>
-<title>Adhesives with Debonding‐On‐Demand Capability: Leveraging Responsive Microcapsules for Mechanically‐Induced Debonding</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R</guid>
-<content:encoded><![CDATA[
-Debondable adhesives hold promise for advancing sustainable bonding solutions, yet their adoption is often constrained by synthetic challenges that limit practicality and scalability. This study demonstrates how encapsulated plasticizers can impart mechanically triggered debonding‐on‐demand functionality to commercial adhesives. By offering a straightforward, adaptable approach, it advances the development of more sustainable, versatile adhesives with enhanced debonding capabilities.
-
-
-
-
-
-
-
-
-Abstract
-Temporary adhesives capable of forming strong yet easily reversible bonds are garnering significant interest as sustainable materials that facilitate the recycling and recovery of high‐value components. Herein is presented a comprehensive design and parameterization framework for developing effective temporary adhesives with mechanically induced debonding‐on‐demand capabilities. This framework is achieved by incorporating hexyl acetate‐filled microcapsules into commercial polyvinyl acetate adhesives, creating a responsive adhesive composite. Under controlled compression, these microcapsules rupture precisely, releasing their contents to induce sufficient adhesive plasticization to enable effortless debonding. Our results indicate that while the inclusion of microcapsules affects adhesion strength and toughness, the overall mechanical performance remains stable across different concentrations. Thermal tests highlight a 50 wt.% microcapsule concentration as optimal for enhanced plasticization, while compression tests show that an applied force of 5 kN achieves maximum capsule rupture without compromising substrate integrity. Ultimately, specimens bonded with the responsive composite under compression exhibit a striking 1200% increase in creep rates compared to those bonded with the neat adhesive, allowing for effective debonding‐on‐demand—an outcome unattainable with the neat adhesive. This simple and highly versatile approach lays the groundwork for advancing the development of more sustainable and functional adhesive materials.
-]]></content:encoded>
-<pubDate>2025-03-03T12:11:17-08:00</pubDate>
-</item>
-<item>
-<title>Pillared Laminar Vermiculite Membranes with Tunable Monovalent and Multivalent Ion Selectivity</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417994?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417994?af=R</guid>
-<content:encoded><![CDATA[
-Alumina pillared vermiculite membrane is fabricated with a laminar structure. Enhanced water stability is observed due to the strengthened interlamellar binding. Through cation doping, the surface charge and pore size of the pillared laminar membrane are tuned, demonstrating highly selective and tunable ion sieving performance promising for water treatment and resource recovery applications.
-
-
-
-
-
-
-
-
-Abstract
-Effective membrane separation of Li+ from Na+ and Mg2+ is crucial for lithium extraction from water yet challenging for conventional polymeric membranes. Two dimensional (2D) membranes with ordered laminar structures and tunable physicochemical properties offer distinctive ion‐sieving capabilities promising for lithium extraction. Recently, phyllosilicates are introduced as abundant and cost‐effective source materials for such membranes. However, their water instability and low inherent ion transport selectivity hinder practical applications. Herein, a new class of laminar membranes with excellent stability and tunable ion sieving is reported by incorporating inorganic alumina pillars into vermiculite interlayers. Crosslinking vermiculite flakes with alumina pillars significantly strengthens interlamellar interactions, resulting in robust water stability. Doping of Na+ before the pillaring process reverses the membrane's surface charge, substantially boosting Li+ separation from multivalent cations via electrostatic interactions. Lithium extraction is often complicated by the presence of co‐existing monovalent cations (e.g., Na+) at higher concentrations. Here, by introducing excess Na+ into the membrane after the pillaring process, the separation of Li+ from monovalent cations is enhanced through steric effects. This work realizes both monovalent/multivalent and monovalent/monovalent selective ion sieving with the same membrane platform. A separation mechanism is proposed based on Donnan exclusion and size exclusion, providing new insights for membrane design for resource recovery applications.
-]]></content:encoded>
-<pubDate>2025-03-03T12:10:50-08:00</pubDate>
-</item>
-<item>
-<title>3D Molecular‐Reconstructed Disordered Precursor Toward Highly Stable Porous Ramie Carbon</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418997?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418997?af=R</guid>
-<content:encoded><![CDATA[
-3D disordered ramie precursors (DRPs) with high mechanical strength and high density are achieved via the molecular reconstruction method. As a demonstration, this highly stable porous ramie carbon‐based supercapacitor delivers a prominent energy density of 28.11 Wh kg−1 and a high‐power density of 47.94 kW kg−1 simultaneously, evidently higher than commercial YP‐50F (12.67 Wh kg−1 and 40.86 kW kg−1).
-
-
-
-
-
-
-
-
-Abstract
-Biomass porous carbon possesses broad application prospects in the field of energy storage. However, soft biomass materials with high cellulose content and orders structure usually represent low mechanical strength, which leads to unstable pore structure of prepared porous carbon and even prone to collapse, thus reducing the quality and stability of carbon. Herein, a simple molecular reconstruction method is proposed to effectively re‐construct 3D disordered ramie precursors (DRPs) by regulating the chemical interaction of hydrogen bonds. Benefiting from high mechanical strength and high density of DRPs, the highly stable porous ramie carbon (PRC) can display a higher specific surface area of 2404.36 m2 g−1 than that of ordinary ramie carbon (2142.25 m2 g−1). Moreover, this PRC‐based supercapacitor delivers a high specific capacitance of 39.35 F g−1 at 1 A g−1 and an excellent capacity retention rate of 89.5% at 40 A g−1 in 1 M Et4NBF4/AN. Attractively, the evolution process of ion adsorption during the charge–discharge process has been uncovered by using in situ electrochemical infrared spectroscopy, confirming the excellent structural stability of PRC. This work provides new insights into preparing biomass precursors with high strength derived from soft biomass materials, greatly promoting the application of soft biomass materials in commercial activated carbon.
-]]></content:encoded>
-<pubDate>2025-03-03T12:08:59-08:00</pubDate>
-</item>
-<item>
-<title>An Opto‐Iontronic Cholesteric Liquid Crystalline Retina for Multimodal Circularly Polarized Neuromorphic Vision</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419747?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419747?af=R</guid>
-<content:encoded><![CDATA[
-An opto‐iontronic cholesteric liquid crystalline (i‐CLC) film is developed that is both electrically and photonically active, serving as the dielectric in phototransistors. The well‐defined cholesteric structure and broadly tunable pitches of the i‐CLC film enable it to detect CPL across a broad spectrum, with an unprecedentedly high dissymmetry factor (gph = 1.33) at low operating voltages (< 5 V).
-
-
-
-
-
-
-
-
-Abstract
-Circularly polarized light (CPL) is fundamental to phase‐controlled imaging, quantum optics, and optical computing. Conventional CPL detection, relying on polarizers and quarter‐wave plates, complicates device design and reduces sensitivity. Among emerging CPL detectors, organic field‐effect transistors (OFET) with helical organic semiconductors are highly promising due to their compact structures but suffer tedious synthesis, low dissymmetric factors (gph < 0.1), and high operating voltages (> 50 V). To address these issues, an opto‐iontronic cholesteric liquid crystalline (i‐CLC) film is developed that is both electrically and photonically active, serving as the dielectric in phototransistors. The well‐defined cholesteric structure and broadly tunable pitches of the i‐CLC film enable it to detect CPL with an excellent “handedness” selectivity across a broad spectrum. Moreover, its ionic nature provides a high capacitance (up to 580 nF cm−2 @20 Hz). The resulting flexible CPL detectors achieve an unprecedentedly high dissymmetry factor (gph = 1.33) at low operating voltages (< 5 V), showcasing significant potential in optical communication and data encryption. Furthermore, leveraging high gph, they can perform in‐sensor computing for highly accurate semantic segmentation using fused multimodal visual inputs (e.g., circularly polarized and ordinary light), achieving an accuracy of 75.73% and a mean intersection over the union of 0.3982, surpassing the performance of non‐CPL photodetectors. Additionally, it optimizes power consumption by a factor of 102 compared to most conventional visual processing systems, offering a groundbreaking hardware solution for high‐performance neuromorphic CPL vision.
-]]></content:encoded>
-<pubDate>2025-03-03T12:07:25-08:00</pubDate>
-</item>
-<item>
-<title>Minimizing Buried Interface Energy Losses with Post‐Assembled Chelating Molecular Bridges for High‐Performance and Stable Inverted Perovskite Solar Cells</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500708?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500708?af=R</guid>
-<content:encoded><![CDATA[
-The chelating molecule (CB‐PA) serves as both a top‐interface molecular bridge and a void‐filler to improve the buried interface quality and promote carrier extraction, leading to a high efficiency of 25.27% and superior stability for inverted MA‐free perovskite solar cells.
-
-
-
-
-
-
-
-
-Abstract
-Self‐assembled monolayers (SAMs) as hole‐collecting materials have made remarkable progress in inverted perovskite solar cells (PSCs). However, the incomplete coverage of SAMs and the non‐intimate interface contact between perovskite/SAMs usually cause inferior interface characteristics and significant energy losses at the heterojunction interface. Herein, a post‐assembled chelating molecular bridge strategy using 5‐(9H‐carbazol‐9‐yl)isophthalicacid (CB‐PA) is developed to modify the perovskite/SAMs buried interface. It is found that CB‐PA can be chemically coupled with MeO‐2PACz through π–π stacking between carbazole groups, and chelate with perovskite by forming double C═O···Pb bonds, thus constructing a bridge‐connected interface to promote carrier extraction. Simultaneously, the post‐assembled CB‐PA can fill the voids of MeO‐2PACz to form dense hybrid SAMs, resulting in uniform surface potential and improved interface contact. Moreover, CB‐PA treatment also tends to induce the oriented crystallization of perovskite films, passivate interface defects, and release lattice stress at the buried interface. Consequently, the CB‐PA‐based inverted PSCs achieve a champion efficiency of 25.27% with superior operational stability, retaining ≈94% of their initial efficiency after maximum power point (MPP) tracking (65 °C) for 1000 h with ISOS‐L‐2I protocol. This work provides an innovative strategy to address the buried interface challenges for high‐performance inverted PSCs.
-]]></content:encoded>
-<pubDate>2025-03-03T12:07:00-08:00</pubDate>
-</item>
-<item>
-<title>Fully Recyclable Pluripotent Networks for 3D Printing Enabled by Dissociative Dynamic Bonds</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417355?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417355?af=R</guid>
-<content:encoded><![CDATA[
-Pluripotent materials, i.e., materials that can attain different properties from a single stock, where applied to 3D printing. Their accessibility is expanded using a monomer that is CO2‐derived and is prepared at the 100‐gram scale. Exploiting pluripotency, spatially patterned 3D objects are produced showcasing new direction for the additive manufacturing community.
-
-
-
-
-
-
-
-
-Abstract
-Additive manufacturing (AM) has risen in popularity due to its ability to produce complex shapes in a material‐efficient way. However, to produce objects with advanced properties, complex multimaterial strategies are often employed. This one‐polymer‐one‐property paradigm significantly slows down the application of AM, and in particular of fused deposition modeling (FDM), for manufacturing of functional objects. In this study advantage of pluripotency in materials is taken, i.e., the ability to attain different properties from a single stock, to afford mechanically tunable 3D printed dynamic thermosets (moduli from 2 MPa – 3 GPa, 1500× increase, Stress at break from 2 to 70 MPa, 35× increase). To do so, FDM‐compatible CO2‐derived dissociative polymer networks are designed that undergo a dynamic reaction‐induced phase‐separation (DRIPS). This strategy enables the control of the size of the rigid phase with a simple post‐printing thermal treatment, cascading in spatially patterned mechanical properties. This study showcases new directions for the 3D printing communities, with deep implications in soft robotics and compliant mechanics.
-]]></content:encoded>
-<pubDate>2025-03-02T11:58:58-08:00</pubDate>
-</item>
-<item>
-<title>A Supramolecular Nanoengine Generates Nanomechanical Force on Demand for Precise Cytosolic Delivery of Anti‐miRNAs and Synergistic TNBC Therapy</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419651?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419651?af=R</guid>
-<content:encoded><![CDATA[
-A carrier‐free supramolecular nanoengine (AMGA) is developed, which significantly enhances the cytosolic delivery of anti‐miRNAs without requiring light irradiation for precise targeting and synergistic chemo‐gene therapy of triple‐negative breast cancer both in vitro and in vivo. AMGA can specifically generate nanomechanical force to promote the endo/lysosome escape of anti‐miRNAs, simultaneously downregulating miRNA‐21 and miRNA‐10b, and release the chemotherapeutic drug gemcitabine.
-
-
-
-
-
-
-
-
-Abstract
-Although anti‐microRNA (miRNA) is capable of silencing target miRNA and regulating multiple mRNAs in diverse signaling pathways, RNA medicines still encounter numerous challenges, especially in terms of poor delivery, inefficient endo/lysosomal escape, and suboptimal treatment. Herein, we have developed a carrier‐free supramolecular nanoengine, AMGA (anti‐miRNA/GEM2‐Azo), which significantly enhances the cytosolic delivery of anti‐miRNA without requiring light irradiation, thereby facilitating precise targeting and synergistic chemo‐gene therapy for triple‐negative breast cancer (TNBC). AMGA can be rapidly internalized by cancer cells and specifically generate nanomechanical force to promote the efficient escape of anti‐miRNAs from the endo/lysosome to the cytoplasm, simultaneously downregulating miR‐21 and miR‐10b. In comparison to Lipofectamine 2000, AMGA demonstrated superior efficacy in inhibiting the proliferation, migration, and invasion of cancer cells. Significantly, AMGA exhibited profound antitumor and gene silencing effects in an orthotopic human TNBC mouse model. This novel supramolecular nanoengine presents a promising strategy for cytosolic delivery of anti‐miRNAs.
-]]></content:encoded>
-<pubDate>2025-03-02T11:50:20-08:00</pubDate>
-</item>
-<item>
-<title>An Implantable and Degradable Silk Sericin Protein Film Energy Harvester for Next‐Generation Cardiovascular Electronic Devices</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413610?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413610?af=R</guid>
-<content:encoded><![CDATA[
-A piezoelectric film is created using structural engineered silk sericin, presenting satisfactory output performance, biocompatibility, and biodegradability. This piezoelectric film‐based energy‐harvester can illuminate LED or operate a portable electronic device through converting mechanical energy into electrical energy. It holds promise as a power source for delivering effective electrical stimulation to restore cardiac activity in asystole or normalize an AV block.
-
-
-
-
-
-
-
-
-Abstract
-Current cardiovascular implantable electronic devices (CIEDs) face a pressing clinical need for the development of battery‐free, biodegradable, and biocompatible devices to mitigate the risk of adverse in vivo responses. To address this demand, it is proposed utilizing a natural biomaterial, silk sericin (SS), which exhibits valuable biological activities and contains abundant asymmetric amino acids with adjustable structures, to create an implantable self‐powered system based on the piezoelectric principle. The functionalized SS‐based (F‐SS‐based) piezoelectric film demonstrates a high longitudinal piezoelectric tensor (d33) of 12 pC N−1. An energy‐generating device (EG device) utilizing this piezoelectric film can generate electric energy under mechanical force both in vitro and in vivo. By manually tapping the EG‐device for a few minutes, the accumulated electricity in a commercial capacitor (1.1 µF) could illuminate LEDs or operate a timer. Furthermore, the instantaneous energy power density (218.5 µW m−2) achieved by manual pressing the EG device is sufficient to deliver effective pacing to restart a non‐beating heart or normalize an atrioventricular block in a preclinical model. Owing to its high biocompatibility and biodegradability in physiological environments, the F‐SS‐based EG device holds significant promise for the advancement of self‐powered power systems for next‐generation CIEDs and other implantable and degradable electronic devices.
-]]></content:encoded>
-<pubDate>2025-03-02T09:37:35-08:00</pubDate>
-</item>
-<item>
-<title>Photopolymer Resins from Sulfenyl Chloride Commodity Chemicals for Plastic Optics, Photopatterning and 3D‐Printing</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418149?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418149?af=R</guid>
-<content:encoded><![CDATA[
-From oil refining to high refractive index photopolymers for bulk plastic optics. The synthesis of a new photopolymer resin derived from inexpensive sulfur petrochemicals is reported affording a high‐quality optical glass that is amenable to a wide range of photopolymerization‐based fabricated methods, including 3D Printing, for precision plastic optics and micropatterned arrays.
-
-
-
-
-
-
-
-
-Abstract
-The development of a low‐cost photopolymer resin to fabricate optical glass of high refractive index for plastic optics is reported. This new free radically polymerizable photopolymer resin, termed, disulfide methacrylate resin (DSMR) is synthesized by the direct addition of allyl methacrylate to a commodity sulfur petrochemical, sulfur monochloride (S2Cl2). The rapid rates of free radical photopolymerization confer significant advantages in preparing high‐quality, bulk optical glass. The low‐cost, optical glass produced from this photopolymer possesses a desirable combination of high refractive index (n ≈ 1.57–1.59), low birefringence (Δn < 10−4), high glass transition values (Tg ≈ 100 °C), along with optical transparency rivaling, or exceeding that of poly(methyl methacrylate) (PMMA) as indicated by very low optical absorption coefficients (α < 0.05 cm−1 at 1310 nm) measured for thick glass DSMR photopolymer samples (diameter (D) = 25 mm; thickness = 1–30 mm). The versatile manufacturability of DSMR photopolymers for both molding and diamond turn machining methods is demonstrated to prepare precision optics and nano‐micropatterned arrays. Finally, large‐scale 3D printing vat photopolymerization of DSMR using high‐area rapid printing digital light processing additive manufacturing is demonstrated.
-]]></content:encoded>
-<pubDate>2025-03-02T09:36:26-08:00</pubDate>
-</item>
-<item>
-<title>Electrolyte Chemistry Modulation Toward High‐Performance and Ultralow‐Temperature Silicon Anode</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417981?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417981?af=R</guid>
-<content:encoded><![CDATA[
-A strategic electrolyte design principle is reported to enhance the electrochemical performance of Si anode at subzero temperature (e.g., ≤ −20 °C). The combination of cyclopentylmethyl ether and tetrahydrofuran solvents simultaneously enables enhanced electrode reaction kinetics and interfacial stability, including high cation conductivity, low Li‐ion desolvation barrier, and formation of robust LiF‐rich solid‐electrolyte interphase with polymer outer layer.
-
-
-
-
-
-
-
-
-Abstract
-The high‐capacity silicon (Si) anode usually suffers from rapid capacity decay and low Coulombic efficiency in carbonate electrolytes resulting from large volume expansion and unstable solid electrolyte interphase (SEI). In addition, the sluggish electrode kinetics in routine electrolytes at subzero temperatures severely hampers the operational capabilities of Si‐based batteries. Herein, a rational electrolyte design strategy is reported to tune the solvation chemistry and interfacial behavior of the electrolyte for high‐performance Si anode. The interfacial stability and electrochemical reaction kinetics can be enhanced simultaneously at both room temperature and ultralow temperature by combining two kinds of ether‐based solvents (cyclopentylmethyl ether and tetrahydrofuran), which enables high cation conductivity, low Li‐ion desolvation barrier, and formation of a robust LiF‐elastic polymer SEI. Consequently, the optimized electrolyte extends the cyclability of the Si anode, maintaining more than 80% capacity retention over 200 cycles at −20 and −35 °C. Even at −40 °C, the Si electrode still delivers a high reversible capacity of 2157.0 mAh g−1, showing the highest capacity retention of 68.5% up to date relative to its room‐temperature capacity. Moreover, the assembled full cells Si||LiFePO4 and Si||LiNi0.8Co0.1Mn0.1O2 demonstrate excellent electrochemical performance with no capacity degradation over 180 and 120 cycles, respectively, at −20 °C.
-]]></content:encoded>
-<pubDate>2025-03-02T09:35:57-08:00</pubDate>
-</item>
-<item>
-<title>Bioinspired Nanoscale 3D Printing of Calcium Phosphates Using Bone Prenucleation Clusters</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</guid>
-<content:encoded><![CDATA[
-This study develops a bone‐bioinspired photoresin containing PNCs of calcium phosphates, enabling nanoscale precision via 2pp. This novel approach allows for 2D patterning and 3D nanostructuring of CaPs with intricate geometries. The technique offers unparalleled control over scaffold design and porosity, paving the way for advanced applications in bone tissue engineering and regenerative medicine.
-
-
-
-
-
-
-
-
-Abstract
-Calcium phosphates (CaPs) are ubiquitous in biological structures, such as vertebrate bones and teeth, and have been widely used in biomedical applications. However, fabricating CaPs at the nanoscale in 3D has remained a significant challenge, particularly due to limitations in current nanofabrication techniques, such as two‐photon polymerization (2pp), which are not applicable for creating CaP nanostructures. In this study, a novel approach is presented to 3D print CaP structures with unprecedented resolution of ≈300 nm precision, achieving a level of detail three orders of magnitude finer than any existing additive manufacturing techniques for CaPs. This advancement is achieved by leveraging bioinspired chemistry, utilizing bone prenucleation nanoclusters (PNCs, average size of 5 nm), within a photosensitive resin. These nanoclusters form a highly transparent photoresist, overcoming the light‐scattering typically associated with larger calcium phosphate‐based nanoparticles. This method not only allows for nanopatterning of CaPs on diverse substrates, but also enables the precise control of microstructure down to the level of submicron grains. The method paves the way for the developing of bioinspired metamaterials, lightweight damage‐tolerant materials, cell‐modulating interfaces, and precision‐engineered coatings.
-]]></content:encoded>
-<pubDate>2025-02-28T02:44:21-08:00</pubDate>
-</item>
-<item>
-<title>Nanoscale Biodegradable Printing for Designed Tuneability of Vaccine Delivery Kinetics</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417290?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417290?af=R</guid>
-<content:encoded><![CDATA[
-Spatiotemporal Controlled Release Inks of Biocompatible polyEsters (SCRIBE) is a novel 2PP resin family with sub‐micron resolution and tuneable hydrolysis. SCRIBE enables direct printing of hollow microparticles with complex chemistries and geometries inaccessible to molding techniques, which are used to modulate antibody titers and class switching as a function of antigen release rate in vivo.
-
-
-
-
-
-
-
-
-
-Abstract
-Two‐photon polymerization (2PP) 3D printing enables top–down biomaterial synthesis with nanoscale spatial resolution for de novo design of monodisperse injectable drug delivery systems. Spatiotemporal Controlled Release Inks of Biocompatible polyEsters (SCRIBE) is a novel poly(lactic‐co‐glycolic acid)‐triacrylate resin family with sub‐micron resolution and tuneable hydrolysis that addresses the limitations of current 2PP resins. SCRIBE enables the direct printing of hollow microparticles with tuneable chemistry and complex geometries inaccessible to molding techniques, which are used to engineer controlled protein release in vitro and in vivo. SCRIBE microparticles are used to modulate antibody titers and class switching as a function of antigen release rate and extend these findings to enable a single‐injection vaccine formulation with extended antibody induction kinetics. Demonstrating how the chemistry and computer‐aided design of 2PP‐printed microparticles can be used to tune responses to biomacromolecule release in vivo opens significant opportunities for a new generation of drug delivery vehicles.
-]]></content:encoded>
-<pubDate>2025-02-28T02:43:41-08:00</pubDate>
 </item>
 </channel>
 </rss>
