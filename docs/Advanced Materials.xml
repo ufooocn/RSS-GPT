@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Thermal Processing Creates Water‐Stable PEDOT:PSS Films for Bioelectronics</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R</guid>
 <content:encoded><![CDATA[
-
 Instead of using chemical cross–linkers, it is shown that PEDOT:PSS thin films for bioelectronics become water‐stable after a simple heat treatment. The heat treatment is compatible with a range of rigid and elastomeric substrates and films are stable in vivo for >20 days. 2D and 3D PEDOT:PSS structures can be patterned by delivering heat with a focused femtosecond laser.
 
 
@@ -23,10 +23,8 @@ Instead of using chemical cross–linkers, it is shown that PEDOT:PSS thin films
 Abstract
 Organic mixed ionic‐electronic conductors have emerged as a key material for the development of bioelectronic devices due to their soft mechanical properties, biocompatibility, and high volumetric capacitance. In particular, PEDOT:PSS has become a choice material because it is highly conductive, easily processible, and commercially available. However, PEDOT:PSS is dispersible in water, leading to delamination of films when exposed to biological environments. For this reason, chemical cross–linking agents such as (3‐glycidyloxypropyl)trimethoxysilane (GOPS) are used to stabilize PEDOT:PSS films in water, but at the cost of decreased electrical performance. Here, it is shown that PEDOT:PSS thin films become water‐stable by simply baking at high temperatures (>150 °C) for a short time (≈ 2 min). It is shown that heat‐treated PEDOT:PSS films are as stable as their chemically‐cross–linked counterparts, with their performance maintained for >20 days both in vitro and in vivo. The heat‐treated films eliminate electrically insulating cross–linkers, resulting in a 3× increase in volumetric capacitance. Applying thermal energy using a focused femtosecond laser enables direct patterning of 3D PEDOT:PSS microstructures. The thermal treatment method is compatible with a wide range of substrates and is readily substituted into existing workflows for manufacturing devices, enabling its rapid adoption in the field of bioelectronics.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
-
 <item>
 <title>Bioinspired Nanoscale 3D Printing of Calcium Phosphates Using Bone Prenucleation Clusters</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</link>
@@ -18497,25 +18495,6 @@ Abstract
 Constructing mixed‐dimensional heterojunctions through ion exchange between functional organic ammonium halides and the already‐deposited bulk 3D perovskite films is a widely adopted strategy to effectively passivate and stabilize perovskite solar cells (PSCs). Such process poses challenges in precisely controlling the composition and distribution of the heterojunctions across the film, in particular for large‐area applications. Here, a soft 2D perovskite based on tetrapheptyl‐ammonium iodide (TPAI), noted as TPA2PbI4 is reported. It is the first‐reported nonpolar readily soluble 2D perovskite, leading to highly compact and oriented perovskite layers. In addition, this nonpolar soluble TPA2PbI4 is beneficial to universally construct thickness‐controllable mixed‐dimensional perovskite heterojunctions to suppress the non‐radiative recombination and promote charge‐carrier transfer on all the FA‐, MA‐ and CsPbI3 PSCs. Such a unique strategy is also suitable for upscaling fabrication, demonstrated by 30 cm × 30 cm FAPbI3 perovskite submodules with a certified efficiency of 22.06%.
 ]]></content:encoded>
 <pubDate>2025-03-03T12:14:34-08:00</pubDate>
-</item>
-<item>
-<title>Molecular Design of Dimeric Acceptor Enables Binary Organic Solar Cells with 19.78% Efficiency and Enhanced Stability</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501671?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501671?af=R</guid>
-<content:encoded><![CDATA[
-By optimizing building blocks and linking modes, a dimeric acceptor, named DY‐FL, is innovatively designed and synthesized. Benefiting from the efficient molecular design strategy, DY‐FL‐based binary OSCs rendered an efficiency of 19.78%. Importantly, DY‐FL‐based devices showcased significantly enhanced photo/thermal stability in comparison to small molecule acceptor‐based OSCs.
-
-
-
-
-
-
-
-
-Abstract
-The development of organic solar cells (OSCs) with high efficiency and stability is highly desirable to facilitate its commercial applications. Although dimeric acceptors with distinctive advantages have been widely studied, high‐performance binary OSCs based on such molecules have rarely been achieved. In this work, a new dimeric acceptor (DY‐FL) is constructed by simultaneously optimizing the linking sites and units, as well as the building blocks. Thanks to the effective molecular design, DY‐FL provides improved molecular stacking for fibrous morphology with favorable exciton/charge dynamics. Consequently, DY‐FL‐based binary OSCs render a superior power conversion efficiency (PCE) of 19.78%, representing a record‐breaking efficiency for binary OSCs based on dimeric acceptors. Importantly, DY‐FL‐based devices display significantly enhanced operational stability under external stimuli such as light and heat, in comparison to their small molecule acceptor (Y‐F)‐based counterpart. These findings highlight the significance of building blocks and linking modes, providing insight into the effective molecular design strategy of dimeric acceptors for state‐of‐the‐art OSCs.
-]]></content:encoded>
-<pubDate>2025-03-03T12:13:03-08:00</pubDate>
 </item>
 </channel>
 </rss>

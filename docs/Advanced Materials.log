@@ -5524,3 +5524,9 @@ error: Connection error.
 Append: [Thermal Processing Creates Water‐Stable PEDOT:PSS Films for Bioelectronics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R)
 append_entries: 1
 Finish: 2025-04-07 12:38:21.898537
+------------------------------------------------------
+Started: 2025-04-07 14:18:45.637385
+Existing_entries: 1001
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+append_entries: 0
+Finish: 2025-04-07 14:18:46.104551
