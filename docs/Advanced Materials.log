@@ -5515,3 +5515,12 @@ Append: [Bioinspired Nanoscale 3D Printing of Calcium Phosphates Using Bone Pren
 Append: [Adhesives with Debonding‐On‐Demand Capability: Leveraging Responsive Microcapsules for Mechanically‐Induced Debonding](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R)
 append_entries: 2
 Finish: 2025-04-07 10:21:30.700782
+------------------------------------------------------
+Started: 2025-04-07 12:38:19.873525
+Existing_entries: 1002
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Thermal Processing Creates Water‐Stable PEDOT:PSS Films for Bioelectronics](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R)
+append_entries: 1
+Finish: 2025-04-07 12:38:21.898537

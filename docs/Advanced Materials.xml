@@ -5,11 +5,33 @@
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
 <item>
+<title>Thermal Processing Creates Water‐Stable PEDOT:PSS Films for Bioelectronics</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R</guid>
+<content:encoded><![CDATA[
+
+Instead of using chemical cross–linkers, it is shown that PEDOT:PSS thin films for bioelectronics become water‐stable after a simple heat treatment. The heat treatment is compatible with a range of rigid and elastomeric substrates and films are stable in vivo for >20 days. 2D and 3D PEDOT:PSS structures can be patterned by delivering heat with a focused femtosecond laser.
+
+
+
+
+
+
+
+
+
+Abstract
+Organic mixed ionic‐electronic conductors have emerged as a key material for the development of bioelectronic devices due to their soft mechanical properties, biocompatibility, and high volumetric capacitance. In particular, PEDOT:PSS has become a choice material because it is highly conductive, easily processible, and commercially available. However, PEDOT:PSS is dispersible in water, leading to delamination of films when exposed to biological environments. For this reason, chemical cross–linking agents such as (3‐glycidyloxypropyl)trimethoxysilane (GOPS) are used to stabilize PEDOT:PSS films in water, but at the cost of decreased electrical performance. Here, it is shown that PEDOT:PSS thin films become water‐stable by simply baking at high temperatures (>150 °C) for a short time (≈ 2 min). It is shown that heat‐treated PEDOT:PSS films are as stable as their chemically‐cross–linked counterparts, with their performance maintained for >20 days both in vitro and in vivo. The heat‐treated films eliminate electrically insulating cross–linkers, resulting in a 3× increase in volumetric capacitance. Applying thermal energy using a focused femtosecond laser enables direct patterning of 3D PEDOT:PSS microstructures. The thermal treatment method is compatible with a wide range of substrates and is readily substituted into existing workflows for manufacturing devices, enabling its rapid adoption in the field of bioelectronics.
+]]></content:encoded>
+<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
+<pubDate>2025-04-02T01:17:51-07:00</pubDate>
+</item>
+
+<item>
 <title>Bioinspired Nanoscale 3D Printing of Calcium Phosphates Using Bone Prenucleation Clusters</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413626?af=R</guid>
 <content:encoded><![CDATA[
-
 This study develops a bone‐bioinspired photoresin containing PNCs of calcium phosphates, enabling nanoscale precision via 2pp. This novel approach allows for 2D patterning and 3D nanostructuring of CaPs with intricate geometries. The technique offers unparalleled control over scaffold design and porosity, paving the way for advanced applications in bone tissue engineering and regenerative medicine.
 
 
@@ -22,7 +44,6 @@ This study develops a bone‐bioinspired photoresin containing PNCs of calcium p
 Abstract
 Calcium phosphates (CaPs) are ubiquitous in biological structures, such as vertebrate bones and teeth, and have been widely used in biomedical applications. However, fabricating CaPs at the nanoscale in 3D has remained a significant challenge, particularly due to limitations in current nanofabrication techniques, such as two‐photon polymerization (2pp), which are not applicable for creating CaP nanostructures. In this study, a novel approach is presented to 3D print CaP structures with unprecedented resolution of ≈300 nm precision, achieving a level of detail three orders of magnitude finer than any existing additive manufacturing techniques for CaPs. This advancement is achieved by leveraging bioinspired chemistry, utilizing bone prenucleation nanoclusters (PNCs, average size of 5 nm), within a photosensitive resin. These nanoclusters form a highly transparent photoresist, overcoming the light‐scattering typically associated with larger calcium phosphate‐based nanoparticles. This method not only allows for nanopatterning of CaPs on diverse substrates, but also enables the precise control of microstructure down to the level of submicron grains. The method paves the way for the developing of bioinspired metamaterials, lightweight damage‐tolerant materials, cell‐modulating interfaces, and precision‐engineered coatings.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
 <item>
@@ -30,7 +51,6 @@ Calcium phosphates (CaPs) are ubiquitous in biological structures, such as verte
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414308?af=R</guid>
 <content:encoded><![CDATA[
-
 Debondable adhesives hold promise for advancing sustainable bonding solutions, yet their adoption is often constrained by synthetic challenges that limit practicality and scalability. This study demonstrates how encapsulated plasticizers can impart mechanically triggered debonding‐on‐demand functionality to commercial adhesives. By offering a straightforward, adaptable approach, it advances the development of more sustainable, versatile adhesives with enhanced debonding capabilities.
 
 
@@ -43,10 +63,8 @@ Debondable adhesives hold promise for advancing sustainable bonding solutions, y
 Abstract
 Temporary adhesives capable of forming strong yet easily reversible bonds are garnering significant interest as sustainable materials that facilitate the recycling and recovery of high‐value components. Herein is presented a comprehensive design and parameterization framework for developing effective temporary adhesives with mechanically induced debonding‐on‐demand capabilities. This framework is achieved by incorporating hexyl acetate‐filled microcapsules into commercial polyvinyl acetate adhesives, creating a responsive adhesive composite. Under controlled compression, these microcapsules rupture precisely, releasing their contents to induce sufficient adhesive plasticization to enable effortless debonding. Our results indicate that while the inclusion of microcapsules affects adhesion strength and toughness, the overall mechanical performance remains stable across different concentrations. Thermal tests highlight a 50 wt.% microcapsule concentration as optimal for enhanced plasticization, while compression tests show that an applied force of 5 kN achieves maximum capsule rupture without compromising substrate integrity. Ultimately, specimens bonded with the responsive composite under compression exhibit a striking 1200% increase in creep rates compared to those bonded with the neat adhesive, allowing for effective debonding‐on‐demand—an outcome unattainable with the neat adhesive. This simple and highly versatile approach lays the groundwork for advancing the development of more sustainable and functional adhesive materials.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
-
 <item>
 <title>Unlocking the Sodium Storage Potential in Fluorophosphate Cathodes: Electrostatic Interaction Lowering Versus Structural Disordering</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202400229?af=R</link>
@@ -18498,45 +18516,6 @@ Abstract
 The development of organic solar cells (OSCs) with high efficiency and stability is highly desirable to facilitate its commercial applications. Although dimeric acceptors with distinctive advantages have been widely studied, high‐performance binary OSCs based on such molecules have rarely been achieved. In this work, a new dimeric acceptor (DY‐FL) is constructed by simultaneously optimizing the linking sites and units, as well as the building blocks. Thanks to the effective molecular design, DY‐FL provides improved molecular stacking for fibrous morphology with favorable exciton/charge dynamics. Consequently, DY‐FL‐based binary OSCs render a superior power conversion efficiency (PCE) of 19.78%, representing a record‐breaking efficiency for binary OSCs based on dimeric acceptors. Importantly, DY‐FL‐based devices display significantly enhanced operational stability under external stimuli such as light and heat, in comparison to their small molecule acceptor (Y‐F)‐based counterpart. These findings highlight the significance of building blocks and linking modes, providing insight into the effective molecular design strategy of dimeric acceptors for state‐of‐the‐art OSCs.
 ]]></content:encoded>
 <pubDate>2025-03-03T12:13:03-08:00</pubDate>
-</item>
-<item>
-<title>Thermal Processing Creates Water‐Stable PEDOT:PSS Films for Bioelectronics</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415827?af=R</guid>
-<content:encoded><![CDATA[
-Instead of using chemical cross–linkers, it is shown that PEDOT:PSS thin films for bioelectronics become water‐stable after a simple heat treatment. The heat treatment is compatible with a range of rigid and elastomeric substrates and films are stable in vivo for >20 days. 2D and 3D PEDOT:PSS structures can be patterned by delivering heat with a focused femtosecond laser.
-
-
-
-
-
-
-
-
-
-Abstract
-Organic mixed ionic‐electronic conductors have emerged as a key material for the development of bioelectronic devices due to their soft mechanical properties, biocompatibility, and high volumetric capacitance. In particular, PEDOT:PSS has become a choice material because it is highly conductive, easily processible, and commercially available. However, PEDOT:PSS is dispersible in water, leading to delamination of films when exposed to biological environments. For this reason, chemical cross–linking agents such as (3‐glycidyloxypropyl)trimethoxysilane (GOPS) are used to stabilize PEDOT:PSS films in water, but at the cost of decreased electrical performance. Here, it is shown that PEDOT:PSS thin films become water‐stable by simply baking at high temperatures (>150 °C) for a short time (≈ 2 min). It is shown that heat‐treated PEDOT:PSS films are as stable as their chemically‐cross–linked counterparts, with their performance maintained for >20 days both in vitro and in vivo. The heat‐treated films eliminate electrically insulating cross–linkers, resulting in a 3× increase in volumetric capacitance. Applying thermal energy using a focused femtosecond laser enables direct patterning of 3D PEDOT:PSS microstructures. The thermal treatment method is compatible with a wide range of substrates and is readily substituted into existing workflows for manufacturing devices, enabling its rapid adoption in the field of bioelectronics.
-]]></content:encoded>
-<pubDate>2025-03-03T12:13:02-08:00</pubDate>
-</item>
-<item>
-<title>Incorporating Ordered Indium Sites into Rhodium for Ultra‐Low Potential Electrocatalytic Conversion of Ethylene Glycol to Glycolic Acid</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418959?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418959?af=R</guid>
-<content:encoded><![CDATA[
-Incorporating ordered oxyphilic In sites into Rh to form RhIn intermetallic compounds (IMCs) facilitates the ultra‐low‐potential electrooxidation of ethylene glycol into the high‐value chemical, glycolic acid. The synthesized RhIn IMCs also exhibit outstanding electrocatalytic performance for the hydrogen evolution reaction. Using RhIn IMCs as bifunctional catalysts, a two‐electrode system is established for ethylene glycol electrooxidation coupled with hydrogen production.
-
-
-
-
-
-
-
-
-Abstract
-The upcycling of polyethylene terephthalate (PET)‐derived ethylene glycol (EG) to glycolic acid (GA, a biodegradable polymer monomer) via electrocatalysis not only produces valuable chemicals but also mitigates plastic pollution. However, the current reports for electrooxidation of EG‐to‐GA usually operate at reaction potentials of >1.0 V vs reversible hydrogen electrode (RHE), much higher than the theoretical potential (0.065 V vs RHE), resulting in substantial energy wastage. Herein, body‐centered cubic RhIn intermetallic compounds (IMCs) anchored on carbon support (denoted as RhIn/C) are synthesized, which shows excellent performance for the EG‐to‐GA with an onset potential of only 0.35 V vs RHE, lower than the values reported in current literature. The catalyst also possesses satisfactory GA selectivity (85% at 0.65 V vs RHE). Experimental results combined with density functional theory calculations demonstrate that RhIn IMCs enhance the adsorption of EG and OH−, facilitating the generation of reactive oxygen species and thereby improving catalytic performance. RhIn/C also exhibits excellent electrocatalytic performance for hydrogen evolution reaction, ensuring that it can be used as a bifunctional catalyst in the two‐electrode system for EG electrooxidation coupled with hydrogen production. This work opens new avenues for reducing the energy consumption of electrocatalytic upcycling of PET‐derived EG and clean energy production.
-]]></content:encoded>
-<pubDate>2025-03-03T12:12:32-08:00</pubDate>
 </item>
 </channel>
 </rss>
