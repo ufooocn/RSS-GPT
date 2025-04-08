@@ -5620,3 +5620,15 @@ Append: [Enthalpy‐Driven Molecular Engineering Enables High‐Performance Quas
 Append: [Next‐Generation Flexible Embolic Systems: Targeted Transarterial Chemoembolization Strategies for Hepatocellular Carcinoma](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503971?af=R)
 append_entries: 28
 Finish: 2025-04-08 10:20:28.900852
+------------------------------------------------------
+Started: 2025-04-08 12:38:15.334794
+Existing_entries: 1028
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Self‐Oxygenating PROTAC Microneedle for Spatiotemporally‐Confined Protein Degradation and Enhanced Glioblastoma Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411869?af=R)
+Append: [Photo‐Responsive H2S Composite System Regulates the Nerve Regeneration Microenvironment Through Multiple Pathways](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413992?af=R)
+Append: [Red, Green and Blue Liquid‐Film Lasers Based on Colloidal Quantum‐Dots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414953?af=R)
+Append: [Möbius Solvation Structure for Zinc‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415373?af=R)
+append_entries: 4
+Finish: 2025-04-08 12:38:17.197148
