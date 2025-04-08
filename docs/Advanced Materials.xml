@@ -4,12 +4,12 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+
 <item>
 <title>Self‐Oxygenating PROTAC Microneedle for Spatiotemporally‐Confined Protein Degradation and Enhanced Glioblastoma Therapy</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411869?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202411869?af=R</guid>
 <content:encoded><![CDATA[
-
 Self‐oxygenating PROTAC microneedle (MN) is engineered to circumvent the blood‐brain‐barrier (BBB) and achieve spatiotemporally‐confined bromodomain and extraterminal protein 4 (BRD4) protein degradation. PPT7 NPs are swiftly released for rapid cellular uptake, confining the region of photodynamic therapy (PDT) and ARV771 production upon 671 nm laser irradiation. BM NPs are continuously released for generating oxygen (O2) to alleviate tumor hypoxia. This PROTAC‐delivered MN significantly inhibits tumor growth in both subcutaneous and orthotopic GBM tumor models.
 
 
@@ -23,7 +23,6 @@ Self‐oxygenating PROTAC microneedle (MN) is engineered to circumvent the bloo
 Abstract
 Glioblastoma (GBM) is the most aggressive subtype of primary brain tumors, which marginally respond to standard chemotherapy due to the blood‐brain barrier (BBB) and the low tumor specificity of the therapeutics. Herein, a double‐layered microneedle (MN) patch is rationally engineered by integrating acid and light dual‐activatable PROteolysis TArgeting Chimera (PROTAC) nanoparticles and self‐oxygenating BSA‐MnO2 (BM) nanoparticles for GBM treatment. The MN is administrated at the tumor site to locally deliver the PROTAC prodrug and BM nanoparticles. The PROTAC nanoparticles are rapidly released from the outer layer of the MN and specifically activated in the acidic intracellular environment of tumor cells. Subsequently, near‐infrared light activates the photosensitizer to produce singlet oxygen (1O2) through photodynamic therapy (PDT), thereby triggering spatiotemporally‐tunable degradation of bromodomain and extraterminal protein 4 (BRD4). The BM nanoparticles, in the inner layer of the MN, serve as an oxygen supply station, and counteracts tumor hypoxia by converting hydrogen peroxide (H2O2) into oxygen (O2), thus promoting PDT and PROTAC activation. This PROTAC prodrug‐integrated MN significantly inhibits tumor growth in both subcutaneous and orthotopic GBM tumor models. This study describes the first spatiotemporally‐tunable protein degradation strategy for highly efficient GBM therapy, potentially advancing precise therapy of other kinds of refractory brain tumors.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
 <item>
@@ -31,7 +30,6 @@ Glioblastoma (GBM) is the most aggressive subtype of primary brain tumors, which
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413992?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413992?af=R</guid>
 <content:encoded><![CDATA[
-
 This article designs and prepares a photo‐responsive H2S composite nerve transplantation conduit using electrospinning technology and drug delivery system, combining aligned structure, RGD peptide, H2S, and Zn‐CA MOFs. This system can not only achieve artificially controlled H2S release, but also slowly release Zn2+, achieving the joint regulation of Zn2+ and H2S in the nerve regeneration microenvironment.
 
 
@@ -44,7 +42,6 @@ This article designs and prepares a photo‐responsive H2S composite nerve trans
 Abstract
 After injury, the imbalance of the regeneration microenvironment caused by inflammation, oxidative stress, insufficient neurovascularization, and inadequate energy supply affects nerve regeneration. Drug‐delivery nerve conduits play a role in repairing the regenerative microenvironment. However, traditional drugs often fail to cross the blood‐nerve barrier and lack multifunctionality, limiting the effectiveness of conduit therapy. Therefore, it is necessary to construct a multifunctional conduit that regulate the regeneration microenvironment timely and effectively. Herein, a photo‐responsive hydrogen sulfide (H2S) composite nerve conduit, artificially controlled H2S release, is developed. A new structure of zinc‐citric acid organic metal framework (Zn‐CA MOFs) is utilized to improve its drug loading rate, achieving the joint regulation of the nerve regeneration microenvironment by H2S and Zn2+. In addition, RGD modification of polyester amide (P(CL‐MMD‐MAC)‐RGD)) combined with aligned structure is used to improve the performance of the conduit. Relevant results demonstrate that H2S and Zn2+ can regulate inflammatory response and oxidative stress and promote mitochondrial function recovery and angiogenesis. Furthermore, the aligned structure can promote cell adhesion and guide cell directed migration. Overall, this study provides a method of combining gas neurotransmitters with ions to improve the nerve regeneration microenvironment, accelerate nerve regeneration, and restore motor function.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
 <item>
@@ -52,7 +49,6 @@ After injury, the imbalance of the regeneration microenvironment caused by infla
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414953?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202414953?af=R</guid>
 <content:encoded><![CDATA[
-
 Colloidal quantum dots (QDs) in liquid films achieve breakthrough vertical‐cavity surface‐emitting lasers across red, green, and blue spectra. By leveraging entropic ligands for ultrahigh solubility and integrating microfluidic cooling, this work overcomes thermal quenching, enabling stable lasing at MHz repetition rates. The platform unlocks customizable, solution‐processed lasers for tunable wavelengths and diverse applications.
 
 
@@ -65,7 +61,6 @@ Colloidal quantum dots (QDs) in liquid films achieve breakthrough vertical‐cav
 Abstract
 Colloidal quantum dots (cQD) are heralded for their tunable bandgaps, solution‐processibility, and cost‐effectiveness, making them ideal candidates for lasing applications. However, previous cQD lasing demonstrations have largely depended on close‐packed solid‐state films, which are deemed essential to counteract the rapid decay of material gain. In this study, a novel approach is introduced utilizing “entropic ligands and solvent” to enhance the solubility of cQDs in solution. By achieving the necessary critical volume fraction for lasing, this strategy leads to the groundbreaking development of the first liquid‐state vertical‐cavity surface‐emitting lasers (VCSELs) based on cQDs across the blue and green spectrum, encompassing diverse material systems such as CdSe‐based and InP‐based cQDs. Furthermore, by integrating the liquid‐state VCSEL with a microfluidic channel, it is demonstrated that heat dissipation during intense excitation is pivotal for cQD lasing likely across various excitation modes—whether pulsed or continuous‐wave, optically or electrically‐pumped—and different media, including liquid and solid states. The research will lay the foundation for a new era of liquid‐state cQD lasers for specific occasions, distinguished by their customizable and largely‐variable wavelengths, compact form factors, diverse materials basis, and dependable performance.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
 <item>
@@ -73,7 +68,6 @@ Colloidal quantum dots (cQD) are heralded for their tunable bandgaps, solution�
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415373?af=R</link>
 <guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415373?af=R</guid>
 <content:encoded><![CDATA[
-
 Herein, in a bold departure from convention, the Ouzo effect is pioneeringly utilized to design surfactant‐free microemulsion electrolyte (SFMEE), creating the first application of water‐in‐oil type Möbius polarity topological solvation in zinc‐ion batteries. This approach enables dual regulation of both the solvent environment and the solvation structure, thereby enhancing battery performance.
 
 
@@ -86,10 +80,8 @@ Herein, in a bold departure from convention, the Ouzo effect is pioneeringly uti
 Abstract
 Zinc‐ion batteries (ZIBs) have promising prospects in energy storage field, but the water molecules in aqueous electrolytes significantly compromise the stability of the anode and cathode interfaces and hinder the low‐temperature performance. Herein, water‐in‐oil type Möbius polarity topological solvation composed of oil, water, and amphiphilic salt are first‐ever pioneered, forming the surfactant‐free microemulsion electrolyte (SFMEE). This water‐in‐oil type Möbius solvation structure, characterized by its distinct inner and outer layers and a polarity inversion feature, successfully connects the non‐polar phase with the polar phase, eliminating the need for surfactants to reduce costs and system complexity. The amphiphilic anion of salt creates a polarity singularity and stabilizes the polarity‐reversed encapsulation. The outer oil layer disrupts the cohesive polarity network of water and constructs a polarity‐reversed cage to restrict water. A series of SFMEE combinations are investigated and then directly applied to ZIBs, confirming excellent universality and durability of this design. The Zn||NVO (NaV₃O₈·1.5H₂O) cells using SFMEE can stably cycle for 4000 cycles with a capacity of 125 mAh g−1 and 86.8% capacity retention. This discovery of Möbius solvation structure unlock unprecedented levels of electrolyte design and illuminate the development of next‐generation high‐performance energy storage systems.
 ]]></content:encoded>
-<pubDate>Wed, 02 Apr 2025 01:17:51 -0700</pubDate>
 <pubDate>2025-04-02T01:17:51-07:00</pubDate>
 </item>
-
 <item>
 <title>Proton‐Mediated Topological Interlayer Shift in 2D Covalent Organic Frameworks for Efficient Photocatalysis</title>
 <link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500468?af=R</link>
@@ -18514,83 +18506,6 @@ Abstract
 Apart from the blood‐brain barrier (BBB), the efficacy of immunotherapy for glioblastoma (GBM) is limited by the presence of intrinsic and adaptive immune resistance, implying that co‐delivery of various immunotherapeutic agents or simultaneous regulation of different cells is urgently needed. Bacterial outer membrane vesicles (OMVs) offer a unique advantage in the treatment of GBM, owing to their multifunctional properties as carriers and immune adjuvants and their ability to cross the BBB. However, traditional OMVs can lead to toxic side effects and disruption of tight junctions in the BBB. Therefore, to enhance the in vivo safety and targeting capability of OMVs, we introduced engineered OMVs to reduce toxicity and further constructed a modularly assembled nanoplatform by performing simple peptide modifications. This nanoplatform demonstrates satisfactory biosafety and is able to continuously cross the BBB and target GBM with the assistance of Angiopep‐2. Subsequently, immunogenic substances on OMVs, along with carried small‐interfering RNA (siRNA) and doxorubicin, can promote and enhance the reprogramming and phagocytic abilities of macrophages and microglia, respectively, and increase the immunogenicity of GBM, ultimately overcoming GBM immune resistance to enhance the efficacy of immunotherapy. This OMVs‐based nanoplatform provides a new paradigm and insights into the development of immunotherapy for GBM.
 ]]></content:encoded>
 <pubDate>2025-03-04T05:49:42-08:00</pubDate>
-</item>
-<item>
-<title>Proton Exchange Membrane Water Splitting: Advances in Electrode Structure and Mass‐Charge Transport Optimization</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416012?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416012?af=R</guid>
-<content:encoded><![CDATA[
-This review probes recent advancements in PEMWEs for green hydrogen production from the perspective of acidic OER, identifies challenges related to corrosive environments and oxidative conditions, and proposes strategies to enhance the long‐term stability of PEMWEs by addressing both catalyst and membrane electrode assembly deactivation.
-
-
-
-
-
-
-
-
-Abstract
-Proton exchange membrane water electrolysis (PEMWE) represents a promising technology for renewable hydrogen production. However, the large‐scale commercialization of PEMWE faces challenges due to the need for acid oxygen evolution reaction (OER) catalysts with long‐term stability and corrosion‐resistant membrane electrode assemblies (MEA). This review thoroughly examines the deactivation mechanisms of acidic OER and crucial factors affecting assembly instability in complex reaction environments, including catalyst degradation, dynamic behavior at the MEA triple‐phase boundary, and equipment failures. Targeted solutions are proposed, including catalyst improvements, optimized MEA designs, and operational strategies. Finally, the review highlights perspectives on strict activity/stability evaluation standards, in situ/operando characteristics, and practical electrolyzer optimization. These insights emphasize the interrelationship between catalysts, MEAs, activity, and stability, offering new guidance for accelerating the commercialization of PEMWE catalysts and systems.
-]]></content:encoded>
-<pubDate>2025-03-04T02:27:05-08:00</pubDate>
-</item>
-<item>
-<title>Covalent Anchoring of Mechanical Polymer for Highly Stable Zinc Metal Batteries</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500596?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500596?af=R</guid>
-<content:encoded><![CDATA[
-A sustainable Zn interfacial architecture is established, where a robust polyimide nanofilm is covalently anchored to the Zn substrate through electronegative F atoms. The strong covalent interactions provide excellent interfacial adhesion during repeated Zn/Zn2+ cycling. The remarkable resilience, modulus, and low creep of FPI film effectively resist the impact stress from electroplated Zn while maintaining structural integrity.
-
-
-
-
-
-
-
-
-Abstract
-Artificial interfacial protective coatings (IPCs) on Zn anodes provide a viable solution for suppressing dendritic growth by spatially confining and homogenizing the Zn2+ flux. However, repeated Zn deformation during electroplating/stripping cycles can lead to the rupture or exfoliation of IPCs, as well as the formation of detrimental interfacial gaps. Herein, a highly durable IPC is developed on a Zn substrate using a mechanically robust fluorinated polyimide nanofilm (FPI). This unique FPI interphase forms strong covalent bonds with Zn through electronegative fluorine atoms, facilitating Zn plating/stripping while maintaining interfacial adhesion. The superior resilience, modulus, and low creep of the FPI film resist the impact stresses from electroplated Zn, ensuring structural integrity. With this FPI coating, the FPI‐Cu||Zn half cells demonstrate high reversibility in Zn2+ electroplating/stripping over 4000 h, maintaining Coulombic efficiency above 99.33%. When coupled with a MnO2 cathode, the MnO2||FPI‐Zn full cells exhibit a long lifespan, surpassing 5000 cycles, with a high specific capacity retention of 75.21%. This study highlights the importance of achieving a balance between the customized compatibility and mechanical properties of IPCs to modulate zinc interfacial chemistries.
-]]></content:encoded>
-<pubDate>2025-03-04T01:38:46-08:00</pubDate>
-</item>
-<item>
-<title>Infrared In‐Sensor Computing Based on Flexible Photothermoelectric Tellurium Nanomesh Arrays</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419653?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419653?af=R</guid>
-<content:encoded><![CDATA[
-An infrared‐sensitive image sensor based on self‐welded tellurium (Te) nanomesh is proposed, demonstrating advancements in flexible integration and scalable fabrication. By leveraging the unique photothermolelectric (PTE) operation, thermal‐coupled bi‐directional photoresponse is explored to illustrate the proof‐of‐principle in‐sensor convolutional network for edge computing.
-
-
-
-
-
-
-
-
-Abstract
-The inherent limitations of traditional von Neumann architectures hinder the rapid development of internet of things technologies. Beyond conventional, complementary metal‐oxide‐semiconductor technologies, imaging sensors integrated with near‐ or in‐sensor computing architectures emerge as a promising solution. In this study, the multi‐scale van der Waals (vdWs) interactions in 1D tellurium (Te) atomic chains are explored, leading to the deposition of a photothermoelectric (PTE) Te nanomesh on a polymeric polyimide substrate. The self‐welding process enables the lateral vapor growth of a well‐connected Te nanomesh with robust electrical and mechanical properties, including a PTE responsivity of ≈120 V W−1 in the infrared light regime. Leveraging the PTE operation, the thermal‐coupled bi‐directional photoresponse is investigated to demonstrate a proof‐of‐principle in‐sensor convolutional network for edge computing. This work presents a scalable approach for assembling functional vdWs Te nanomesh and highlights its potential applications in PTE image sensing and convolutional processing.
-]]></content:encoded>
-<pubDate>2025-03-04T01:38:02-08:00</pubDate>
-</item>
-<item>
-<title>Advancing Beyond 800 Nm: Highly Stable Near‐Infrared Thermally Activated Delayed Lasing Triggered by Excited‐State Intramolecular Proton Transfer Process</title>
-<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502129?af=R</link>
-<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502129?af=R</guid>
-<content:encoded><![CDATA[
-A D–A–D type TADF molecule, TPA‐DHAQ, is designed and synthesized by introducing an ESIPT‐active molecule DHAQ as the acceptor unit, based on which the NIR TADF laser with a low threshold and high stability is successfully realized. In addition, a single‐mode NIR TADF laser can be realized by adjusting the size of the resonator. This work provides a novel molecular design strategy to overcome the problem of poor stability of conventional NIR organic lasers.
-
-
-
-
-
-
-
-
-
-Abstract
-Near‐infrared (NIR) organic lasers have undergone rapid development in recent years, but still facing challenges in lowering the threshold and improving the stability. Herein, to overcome these challenges, a “two in one” strategy involving the integration of thermally activated delayed fluorescence (TADF) and excited‐state intramolecular proton transfer (ESIPT) activity in a single molecule is proposed. Specifically, a donor–acceptor–donor type TADF material 2,6‐bis[4‐(diphenylamino)phenyl]‐1,5‐dihydroxyanthraquinone (TPA‐DHAQ) with an ESIPT‐active moiety as the acceptor, is designed and synthesized, based on which, a NIR organic laser at 820 nm with an exceptionally low threshold of 6.3 µJ cm−2 can be realized. Benefiting from the synergistic effect of the TADF property and the ESIPT process, the resulting organic laser showed excellent stability by maintaining the laser intensity at ≈80% of the initial value after 580 min of continuous excitation. Finally, by modulating the size of the resonator, a single‐mode NIR laser is successfully realized. This work provides a novel molecular design strategy for the development of new TADF gain materials to overcome the problem of high threshold and poor stability of conventional NIR organic lasers, and shed light on the future development of NIR organic lasers.
-]]></content:encoded>
-<pubDate>2025-03-04T12:38:10-08:00</pubDate>
 </item>
 </channel>
 </rss>
