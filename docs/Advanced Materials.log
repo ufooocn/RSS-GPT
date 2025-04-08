@@ -5584,3 +5584,39 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-08 08:25:34.367866
+------------------------------------------------------
+Started: 2025-04-08 10:20:26.929145
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Proton‐Mediated Topological Interlayer Shift in 2D Covalent Organic Frameworks for Efficient Photocatalysis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500468?af=R)
+Append: [A Salidroside‐Based Radiosensitizer Regulates the Nrf2/ROS Pathway for X‐Ray Activated Synergistic Cancer Precise Therapy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413226?af=R)
+Append: [Hyper‐Crosslinking to Customize Ultrathin‐Wall Closed Pores in Pitch‐Derived Carbon for Sodium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419528?af=R)
+Append: [Integrating Ethereal Molecular Backbones into the Ester Solvent with High Solubility of Nitrate for High‐Voltage Li Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501654?af=R)
+Append: [Polymer Microarray with Tailored Morphologies through Condensed Droplet Polymerization for High‐Resolution Optical Imaging Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419893?af=R)
+Append: [Customized Multifunctional Additive Regulates 1.67 eV‐Wide‐Bandgap Perovskite Crystallization for Four‐Terminal Perovskite/Silicon Tandem Solar Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503269?af=R)
+Append: [Asymmetric Self‐Assembly of Colloidal Superstructures in Nested Transient Emulsion Aerosols](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420269?af=R)
+Append: [Ultralow Voltage Operation of p‐ and n‐FETs Enabled by Self‐Formed Gate Dielectric and Metal Contacts on 2D Tellurium](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418142?af=R)
+Append: [Mesoporous Silica Nanotraps for Mitigating Bleeding Risk From ‘Irreversible’ Antiplatelet Drugs](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501576?af=R)
+Append: [A Neuransistor with Excitatory and Inhibitory Neuronal Behaviors for Liquid State Machine](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419122?af=R)
+Append: [Research Progress and Prospect of Perovskite and Anti‐Perovskite Solid Electrolytes for Sodium Solid‐State Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500031?af=R)
+Append: [Biomimetic Intrafibrillar Mineralization of Hierarchically Structured Amyloid‐Like Fibrils](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202416824?af=R)
+Append: [NASICON‐NaV0.25Al0.25Nb1.5(PO4)3/C: A High‐Rate and Robust Anode for Fast Charging and Long‐Life Sodium‐Ion Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419417?af=R)
+Append: [High Entropy Alloy Formation Derived from High Entropy Oxide: Unlocking the Active Sites for Green Methanol Production from CO2](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504180?af=R)
+Append: [Dual‐Functional Photonic Battery Enabling Dynamic Radiative Thermal Management and Power Supply](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202412328?af=R)
+Append: [High‐Efficiency Sn‐Pb Perovskite Solar Cells via Nucleation and Crystallization Control](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418766?af=R)
+Append: [Acceptor Crystallinity Engineering Enables >20% Efficiency Binary Organic Solar Cells with 83.0% Fill Factor](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501243?af=R)
+Append: [Engineering Lattice Distortion in Ruthenium Oxide Enables Robust Acidic Water Oxidation via Direct O–O Coupling](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500449?af=R)
+Append: [Enhancing Oxygen Evolution Electrocatalysis in Heazlewoodite: Unveiling the Critical Role of Entropy Levels and Surface Reconstruction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501186?af=R)
+Append: [TOP‐Zn Steric Hindrance Effect Enables Ultra‐Uniform CsPbX3 Quantum Dots for Wide‐Color Gamut Displays](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202409308?af=R)
+Append: [Na‐Hybridized LiNbO3 Nanocrystal‐Glass Composites for Ultra‐Short Optical Pulse Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501131?af=R)
+Append: [Molecular Domino Toppling for Directed Self‐Erasing Information Transfer](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419195?af=R)
+Append: [Chiroferromagnetic Quantum Dots for Chiroptical Synapse (ChiropS)](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415366?af=R)
+Append: [Electrospinning and Nanofiber Technology: Fundamentals, Innovations, and Applications](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500162?af=R)
+Append: [Light‐Driven Metal Exsolution‐Redissolution of High‐Entropy Oxide Enabling High‐Performance Dry Reforming of Methane](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500928?af=R)
+Append: [Friction Behavior and Microscopic Mechanism of Hydrogels in an Open‐Air Environment](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417177?af=R)
+Append: [Enthalpy‐Driven Molecular Engineering Enables High‐Performance Quasi‐Solid‐State Electrolytes for Long Life Lithium Metal Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419335?af=R)
+Append: [Next‐Generation Flexible Embolic Systems: Targeted Transarterial Chemoembolization Strategies for Hepatocellular Carcinoma](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503971?af=R)
+append_entries: 28
+Finish: 2025-04-08 10:20:28.900852
