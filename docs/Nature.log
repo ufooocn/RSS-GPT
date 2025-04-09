@@ -4548,3 +4548,11 @@ Append: [Skin wound healing measured remotely through molecular flux](https://ww
 Append: [What makes us human? Milestone ape genomes promise clues](https://www.nature.com/articles/d41586-025-01079-y)
 append_entries: 54
 Finish: 2025-04-09 16:25:02.269278
+------------------------------------------------------
+Started: 2025-04-09 18:26:30.049598
+Existing_entries: 824
+Fetching from https://www.nature.com/nature.rss
+Append: [DNA-guided transcription factor interactions extend human gene regulatory code](https://www.nature.com/articles/s41586-025-08844-z)
+Append: [Biggest brain map ever details huge number of neurons and their activity](https://www.nature.com/articles/d41586-025-01088-x)
+append_entries: 2
+Finish: 2025-04-09 18:26:30.375978
