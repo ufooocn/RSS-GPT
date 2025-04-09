@@ -4,6 +4,279 @@
 <title>Wiley: Advanced Materials: Table of Contents</title>
 <link>https://advanced.onlinelibrary.wiley.com/journal/15214095?af=R</link>
 
+<item>
+<title>Phototunable Rayleigh 3D Soft Self‐Oscillator Enabling Versatile Biomimetic Tubular Peristaltic Pumping</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502434?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502434?af=R</guid>
+<content:encoded><![CDATA[
+
+Leveraging biomechanical strategy based on two direction‐and‐dimension‐tubular instabilities: postbuckling and snapping, it has created a phototunable Rayleigh 3D soft self‐oscillator with direction/dimension/symmetry tunable self‐oscillating deformations, which allow for controllable manipulation of spatiotemporal 3D motions of local tubular walls to achieve high‐DOF, multimodal, autonomous biomimetic tubular peristaltic pumping that can adapt to transporting a variety of matter.
+
+
+
+
+
+
+
+
+Abstract
+Living tubular organs can spatiotemporally and cyclically deform their muscular walls to implement adaptable and sustainable peristaltic pumping applicable to broad matter, achieved via asymmetric and non‐equilibrium self‐oscillating deformations of muscular walls. However, man‐made tubular soft actuators have been limited to pumping a few simple matters, because of their reciprocal and monotonic wall motions that cannot break time‐reversal symmetry and system equilibrium to gain adaptable and sustainable pumping. Here, a phototunable Rayleigh 3D soft self‐oscillator (PR3DSSO) capable of multimodal, nonreciprocal, self‐sustainable wall deformations is presented. PR3DSSO's design leverages two direction‐and‐dimension‐phototunable tubular instabilities: snapping and postbuckling. The post‐buckling instability can generate local‐wall origami which cannot only fold local walls into multimodal shape‐mode waves, but also break wall‐motion symmetry; snapping instabilities help break equilibrium in wall motions to initiate autonomous wall motions. These phototunable‐instabilities‐driven wall deformations unprecedentedly create Rayleigh‐like 3D wall motions, which allow for versatile biomimetic tubular peristaltic pumping adapt to broad matter. Our PR3DSSO would spur creative life‐like active‐material designs and novel pumping functions.
+]]></content:encoded>
+<pubDate>Wed, 09 Apr 2025 00:09:20 -0700</pubDate>
+<pubDate>2025-04-09T12:09:20-07:00</pubDate>
+</item>
+<item>
+<title>Buried Interface Regulation with a Supramolecular Assembled Template Enables High‐Performance Perovskite Solar Cells for Minimizing the VOC Deficit</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418011?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418011?af=R</guid>
+<content:encoded><![CDATA[
+
+Self‐assembled amphiphilic phosphonate‐based supramolecule functions as a perovskite crystallization‐driven template at SnO2/perovskite buried interface, which induces a highly preferred (100) orientation toward out‐of‐plane direction, facilitates carrier extraction and transfer, passivates the intrinsic defects, and achieves a promising efficiency of 25.34%, with a maximum VOC of 1.23 V, corresponding to the lowest reported 0.306 V deficit.
+
+
+
+
+
+
+
+
+Abstract
+Despite the rapid development of perovskite solar cells (PSCs) in the past decade, the open‐circuit voltage (VOC) of PSCs still lags behind the theoretical Shockley–Queisser limit. Energy‐level mismatch and unwanted nonradiative recombination at key interfaces are the main factors detrimental to VOC. Herein, a perovskite crystallization‐driven template is constructed at the SnO2/perovskite buried interface through a self‐assembled amphiphilic phosphonate derivative. The highly oriented supramolecular template grows from an evolutionary selection growth via solid–solid phase transition. This strategy induces perovskite crystallization into a highly preferred (100) orientation toward out‐of‐plane direction and facilitated carrier extraction and transfer due to the elimination of energy barrier. This self‐assembly process positively passivates the intrinsic surface defects at the SnO2/perovskite interface through the functionalized moieties, a marked contrast to the passive effect achieved via incidental contacts in conventional passivation methods. As a result, PSCs with buried interface modification exhibit a promising PCE of 25.34%, with a maximum VOC of 1.23 V, corresponding to a mere 0.306 V deficit (for perovskite bandgap of 1.536 eV), reaching 97.2% of the theoretical VOC limit. This strategy spontaneously improves the long‐term operational stability of PSCs under thermal and moisture stress (ISOS‐L‐3: MPP, 65 °C, 50% RH, T92 lifetime exceeding 1200 h).
+]]></content:encoded>
+<pubDate>Wed, 09 Apr 2025 00:07:19 -0700</pubDate>
+<pubDate>2025-04-09T12:07:19-07:00</pubDate>
+</item>
+<item>
+<title>Optical Synaptic Devices with Multiple Encryption Features Based on SERS‐Revealed Charge‐Transfer Mechanism</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503146?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503146?af=R</guid>
+<content:encoded><![CDATA[
+
+A hybrid R6G/InSe structure is designed, and the charge transfer mechanism within this structure is validated using SERS. This structure effectively emulates biological synapses, comprising a presynaptic membrane (R6G photosensitive layer), synaptic cleft (R6G/InSe interface), and postsynaptic membrane (InSe sensing layer). The charge transfer process in this structure closely mirrors the neurotransmitter transfer across the synaptic cleft. Surface treatment techniques are employed to regulate the charge transfer process, enabling multiple on‐chip encryption anti‐counterfeiting applications to be developed.
+
+
+
+
+
+
+
+
+Abstract
+2D optical synaptic devices with atomic‐scale thickness show potential for building highly integrated tunable artificial visual neural networks. However, their atomic‐scale thickness also leads to weak light absorption, limiting device photoresponse. Here, a high‐performance optical synaptic device based on a Rhodamine 6G (R6G)/InSe hybrid structure is proposed, achieving a remarkable 328.9% enhancement in photoresponse compared to InSe devices. Using surface‐enhanced Raman spectroscopy (SERS) as a nondestructive probing technique, it is demonstrated that light‐induced charge transfer between R6G and InSe is the key mechanism enabling the device's high performance. Furthermore, introducing a self‐limited oxide layer on the InSe surface provides additional evidence for the charge transfer process. This charge‐transfer‐based device effectively mimics the neurotransmitter transmission process in biological synapses, showing unique potential in applications such as image preprocessing and decoding within artificial neural networks. In addition, through surface treatment techniques, precise control over the charge transfer process is achieved, enabling the design of a multiple encryption‐based anti‐counterfeiting array and highlighting their value in on‐chip anti‐counterfeiting. By employing a spectrally noninvasive method to probe charge transfer, this study elucidates the critical role of charge transfer in optical synaptic devices and opens novel application pathways.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:52:39 -0700</pubDate>
+<pubDate>2025-04-08T11:52:39-07:00</pubDate>
+</item>
+<item>
+<title>Manipulating the Assembly and Architecture of Fibrillar Silk</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501096?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501096?af=R</guid>
+<content:encoded><![CDATA[
+
+In this study, advanced in situ AFM, PiFM, and Cryo‐EM are leveraged to realize in situ observations of nucleation, growth, and degradation of silk nanofibrils. A clear picture of the assembly and structural evolution of regenerated silk nanofibrils is defined and demonstrates a novel strategy for manipulating their structure and properties, which emerges from the understanding of their structure and assembly.
+
+
+
+
+
+
+
+
+Abstract
+Silk is a unique and exceptionally strong biological material. However, no synthetic method has yet come close to replicating the properties of natural silk. This shortfall is attributed to an insufficient understanding of both silk nanofibril structure and the mechanism of formation. Here in situ atomic force microscopy (AFM) and photo‐induced force microscopy (PiFM) is utilized to investigate the formation process and define the basic structural paradigm of individual silk nanofibrils. By visualizing the multistage process of silk nanofibril formation, the importance of conformational transformations along the assembly pathway is revealed. Unfolded silk structures initially accumulate into amorphous clusters, which then evolve into crystal nuclei via conformational transformation into β‐crystallites. Nanofibril elongation then occurs through the attachment of silk molecules at a single end of the nanofibril tip; this is facilitated through the formation of a new amorphous cluster that then repeats the aforementioned conformational transformation. However, enzymatic digestion of the amorphous regions leads to direct, rapid elongation of β‐crystalline fibers. These findings imply that the energy landscape is characterized by shallow minima associated with intermediate states, which can be eliminated by introducing β‐crystallites, and motivate research into the directed modification of the silk assembly pathway to select for features beneficial to specific applications.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:49:00 -0700</pubDate>
+<pubDate>2025-04-08T11:49:00-07:00</pubDate>
+</item>
+<item>
+<title>Fast Encapsulation of Microbes into Dissolvable Hydrogel Beads Enables High‐Throughput Microbial Single‐Cell RNA Sequencing of Clinical Microbiome Samples</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500481?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500481?af=R</guid>
+<content:encoded><![CDATA[
+
+This work develops smGel‐seq, a high‐throughput microbial single‐cell RNA sequencing method characterized by low microbial input, minimal loss, reduced bias, and high sample compatibility using dissolvable hydrogel beads. smGel‐seq achieves the first microbial single‐cell RNA sequencing in a clinical sputum microbiome sample and found different subpopulations, one of which may be critical for antibiotic resistance and virulence.
+
+
+
+
+
+
+
+
+Abstract
+Microbial single‐cell RNA‐seq (mscRNA‐seq) can achieve resolution at the cellular level, enhancing the understanding of microbial communities. However, current high‐throughput mscRNA‐seq methods are limited by multiple centrifugation steps, which can lead to microbial loss and bias. smGel‐seq is reported, a high‐throughput single‐microbe RNA sequencing method for clinical microbiome samples that employs hydrogel beads to encapsulate individual microbes to reduce microbial loss and input requirements. In this method, a novel microchannel array device is implemented for encapsulating single microbe in dissolvable hydrogel beads (smDHBs), along with an optimized automated microfluidic platform to co‐encapsulate barcoded beads and smDHBs, enabling high‐throughput barcoding of individual microbes. smGel‐seq significantly increases the microbial recovery rate in a gut microbiome sample from 8.8% to 91.8%. Furthermore, this method successfully processes clinical microbiome samples with microbial inputs 20 times lower than those required by previous methods. Notably, smGel‐seq enables the first mscRNA‐seq in a clinical sputum microbiome sample, revealing a specific microbial subpopulation that may play a key role in environmental adaptability, antibiotic resistance, and pathogenicity. These results highlight the compatibility of smGel‐seq with clinical microbiome samples and demonstrate its potential for widespread application in diverse clinical and research settings.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:32:52 -0700</pubDate>
+<pubDate>2025-04-08T11:32:52-07:00</pubDate>
+</item>
+<item>
+<title>Stimulus‐Responsive Emission via Dynamic Triplet Energy Transfer in Organic Room‐Temperature Phosphorescence Glass</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418778?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418778?af=R</guid>
+<content:encoded><![CDATA[
+
+A facile strategy is proposed based on host‐guest doping to achieve stimulus‐responsive, color‐tunable, and time‐dependent organic afterglow glasses by dynamic triplet energy transfer processes. Impressively, the phosphorescence resonance energy tranfer and Dexter‐type triplet‐to‐triplet energy transfer mechanisms are revealed by fs‐TA spectra. The potential applications of these organic glasses in advanced anti‐counterfeiting, dynamic data encryption, as well as large‐area and flexible afterglow display are demonstrated.
+
+
+
+
+
+
+
+
+Abstract
+Dynamic organic room‐temperature phosphorescence (RTP) glasses with color tunability offer significant potential for practical applications due to their high transparency and excellent machinability. In this study, organic glasses with efficient and dynamic RTP properties are used as triplet donors, combined with commercially available chromophores as singlet/triplet acceptors, to successfully fabricate a series of host‐guest doping glasses with color‐tunable organic afterglow and dynamic responses to external stimuli. The energy transfer mechanisms, including triplet‐to‐singlet phosphorescence resonance energy transfer and Dexter‐type triplet‐to‐triplet energy transfer, are confirmed using state‐of‐the‐art femtosecond time‐resolved transient absorption spectroscopy. These organic glasses demonstrate excellent transparency, good machinability, and dynamic responsiveness to external stimuli. The study highlights their potential applications in large‐area afterglow glass fabrication, dynamic data encryption, and flexible afterglow displays. This work not only provides a simple design principle for developing novel organic glass materials with color tunability and dynamic responses but also promotes the potential applications of organic RTP materials in dynamic information encryption and flexible optoelectronics.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:25:29 -0700</pubDate>
+<pubDate>2025-04-08T11:25:29-07:00</pubDate>
+</item>
+<item>
+<title>Polymer‐Halogen Pockets Steering *CO Adsorption Configurations for Highly Selective CO2 Electroreduction</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504292?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504292?af=R</guid>
+<content:encoded><![CDATA[
+
+The design and synthesis of copper nanoparticles encaged in polymer‐halogen pockets for selective CO2 reduction are presented. As a direct outcome, the strategy achieves selective conversion of ethylene and ethanol, ≈48.3 ± 1.3% selectivity for ethanol, and 60.3 ± 2.1% for ethylene.
+
+
+
+
+
+
+
+
+Abstract
+The selective CO2 electroreduction (CO2R) toward specific C2 products represents a critical challenge for practical applicability, requiring precise control over *CO intermediates. Herein, a “polymer‐halogen” pocketed Cu catalyst is proposed, wherein the adjustable concentration of Iodide ion (I−) within the pocket enables continuous modulation of *CO adsorption configurations on the Cu, thereby enabling tailored CO2R toward ethylene or ethanol production. A perfluorosulfonic acid (PFSA)‐modified CuI catalyst is constructed, where I− is in situ leaching from CuI and subsequently confined by PFSA as an anion shielding layer to form polymer‐halogen pockets. By tuning the thickness of PFSA shell, the amount of I− in the pocket can be controlled. The surface‐enhanced in situ Raman spectroscopy demonstrates that the coverage of *CO intermediates on Cu surface increases and tends to adsorb at low coordination Cu sites in catalyst granule for dimerization reaction as the I− concentration in the pocket increases. Furthermore, the coordination environment exhibits distinct product selectivity. *CO at medium‐coordinated sites favor ethanol production, while those at low‐coordinated sites are conducive to ethylene formation. This strategy enables wide modulation of ethylene‐to‐ethanol ratios from 0.65 to 3.96, achieving peak Faradaic efficiencies (FE) of 60.3 ± 2.1% for ethylene and 48.3 ± 1.3% for ethanol.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:15:24 -0700</pubDate>
+<pubDate>2025-04-08T11:15:24-07:00</pubDate>
+</item>
+<item>
+<title>Modulating Coalescence Timing of Liquid Marbles via Wettability Adaptation</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420342?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420342?af=R</guid>
+<content:encoded><![CDATA[
+
+The design of nanoparticles embedded with wettability adaptation allows the modulation of coalescence timing of liquid marbles on solid surfaces with ≈1 min resolutions without requiring external interventions. It enables droplet‐based cascade chemical reaction and Janus liquid/gas marble formation. Overall, it opens new possibilities in droplet/bubble science.
+
+
+
+
+
+
+
+
+Abstract
+Droplet coalescence is ubiquitous in nature, and its regulation is significant in industrial processes and biomedical applications. While bare droplets suddenly coalesce in contact, the droplets covered with liquid‐repellent particles to form “liquid marbles (LMs)” are not. Previously, the external stimuli‐responsive breakage of the particle layer enables the regulation of the coalescence timing. However, preprogramming the coalescence timing of droplets without stimuli is challenging. In this work, LMs that break the particle layer in preprogrammed time are reported. The particles have a core wettable site and are tethered with a low‐wettability flexible molecular chain, which gradually increases wettability with time. The time‐dependent wettability variation is observed because of the differences in the adaptation of the molecular chain; thus, it is repeatedly available, and its speed is controllable by chain length. The formed LMs expose bare droplet surfaces in preprogrammed timing, which enables the modulation of coalescence timing from 2 to 45 min without relying on external stimuli. Moreover, the additivity of the particles enables the fine‐tuning of the coalescence time with ≈1 min resolutions. Further, the contact of several LMs with different adaptation times enables cascade droplet coalescence, opening a new route for droplet manipulation.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:13:17 -0700</pubDate>
+<pubDate>2025-04-08T11:13:17-07:00</pubDate>
+</item>
+<item>
+<title>Mechanically Enhanced, Environmentally Stable, and Bioinspired Charge‐Gradient Hydrogel Membranes for Efficient Ion Gradient Power Generation and Linear Self‐Powered Sensing</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417944?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417944?af=R</guid>
+<content:encoded><![CDATA[
+
+In the presence of an ion gradient, the constructed charge gradients in the ultrathin ion‐selective hydrogel membranes of hydrogel solid‐state electric organ accelerate ion transport while mitigating ion concentration polarization, achieving high electrical output performance. More interestingly, the prepared device can still be applied as a linear self‐powered pressure sensor after the ion gradient is completely dissipated.
+
+
+
+
+
+
+
+
+Abstract
+The soft hydrogel power source is an interesting example of generating electricity from clean energy. However, ion‐selective hydrogel membranes in the systems are often limited by low ion selectivity, high membrane resistance, insufficient mass transfer, and ion concentration polarization, resulting in a generally low power output. Inspired by the unique structure of the electric ray's electric organ, a vertically stacked hydrogel artificial electric organ is proposed, aiming to increase the output current to a greater extent. By constructing the charge gradient in ultrathin ion‐selective hydrogel membranes, ion transport is accelerated while mitigating the ion concentration polarization. A single hydrogel artificial electric organ achieves high outputs of ≈290 mV and ≈1.46 mA cm−2 with rechargeability, surpassing similar devices. Density functional theory further reveals that the energy barrier of ion transport in charge‐gradient membranes is lower than that in nongradient membranes. More impressively, the device can still be applied as a linear self‐powered pressure sensor for monitoring human activities after the ion gradient is completely dissipated. This study elucidates the key role of the structure and design of ion‐selective membranes in the artificial gel power generation system, providing new insights into the further development and multifunctional application of flexible gel power source.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:13:07 -0700</pubDate>
+<pubDate>2025-04-08T11:13:07-07:00</pubDate>
+</item>
+<item>
+<title>Pressure Induced Molecular‐Arrangement and Charge‐Density Perturbance in Doped Polymer for Intelligent Motion and Vocal Recognitions</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500077?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500077?af=R</guid>
+<content:encoded><![CDATA[
+
+The sidechain doped polymer is investigated to have great potential for pressure detection due to the advantages including molecular rearrangement and charge‐density perturbance induced by micro‐mechanical deformation. This sensor displayed low‐pressure detection limit of 0.7 Pa as well as a rapid response time of 18.8 ms, enabling multi‐mode motion analysis and intelligent vocal recognitions.
+
+
+
+
+
+
+
+
+Abstract
+Conjugated polymers (CPs) show great potential for pressure detection due to the amorphous polymer packing, but a lack of clarity regarding sensing mechanisms hampers the development of further applications. Herein, a sacrificial template‐full solution method with both rough surface and high conductivity is described that can be applied to sandwich‐structured resistive pressure sensors. Transient absorption measurements demonstrate the significant increase of carrier lifetime (from 1.44 to 2.54 ns) induced by pressure, which directly evidenced the superior sensing mechanism of sidechain doped conjugated polymer. This sensor displayed low‐pressure detection limit of 0.7 Pa as well as a rapid response time of 18.8 ms, enabling multi‐mode motion analysis including wrist pulse, swallowing, finger bending, grabbing, and typing. Additionally, an intelligent vocal recognition system with convolutional neural networks is used which can achieve >96% classification accuracy across diverse vocal profiles. This general approach is anticipated and enables a new direction for the development of pressure sensors.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 23:08:24 -0700</pubDate>
+<pubDate>2025-04-08T11:08:24-07:00</pubDate>
+</item>
+<item>
+<title>Electric‐Field Regulation of Adhesion/De‐Adhesion/Release Capacity of Transparent and Electrochromic Adhesive</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500648?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500648?af=R</guid>
+<content:encoded><![CDATA[
+
+A conductive hydrogel with surface adhesion and electric field‐triggered de‐adhesion and release is fabricated from thioctic acid and L‐arginine. The non‐covalent intermolecular attractions not only endow the hydrogel with useful bulk‐state properties and strong adhesion but also generate electric responsiveness for on‐demand de‐adhesion and release.
+
+
+
+
+
+
+
+
+Abstract
+Removing adhesive nondestructively and intact from the adhered surface is a difficult challenge for advanced adhesive materials. Compared with the commonly used thermal or chemical release, the controlled adhesive release via electric‐field offers practical application advantages. However, a noninvasive release mode such as this has not been available for the de‐bonding of supramolecular adhesives that originate from small organic molecules. Herein, a conductive hydrogel with surface adhesion and electric field‐triggered de‐adhesion and release is fabricated from thioctic acid (TA) and L‐arginine (LA). The non‐covalent intermolecular attractions of poly[TA‐LA], especially its electrostatic interactions, not only endow it with useful bulk‐state properties and strong adhesion (up to 363.3 kPa) but also generate electric responsiveness for on‐demand de‐adhesion and release. The poly[TA‐LA] adhesive layer can be easily released within a short time (<60 s) under a mild voltage (5≈10 V). After a combined experimental and theoretical investigation, It is concluded that the adhesive‐layer morphological and mechanical changes, activated by a weak current (1.1≈3.2 mA), are responsible for the adhesion failure, which takes place primarily at the anode. Importantly, rapid electric release of poly[TA‐LA] is applicable at low temperatures (5 V, 60 s, −40 °C) or underwater (5 V, 60 s, 25 °C).
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 22:57:07 -0700</pubDate>
+<pubDate>2025-04-08T10:57:07-07:00</pubDate>
+</item>
+<item>
+<title>Magnetically Switchable Adhesive Millirobots for Universal Manipulation in both Air and Water</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420045?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420045?af=R</guid>
+<content:encoded><![CDATA[
+
+This study presents a series of millirobots with magnetically switchable adhesion, enabled by soft, double‐reentrant micropillar arrays with side liquid‐repellency. These millirobots can universally manipulate a wide range of targets in both air and water. Beyond transportation, they are capable of performing various complex tasks, such as circuit repair, precision assembly, and high‐speed actuation in amphibious environments.
+
+
+
+
+
+
+
+
+Abstract
+Magnetic soft robots with multimodal locomotion have demonstrated significant potential for target manipulation tasks in hard‐to‐reach spaces in recent years. Achieving universal manipulation between robots and their targets requires a nondestructive and easily switchable interaction with broad applicability across diverse targets. However, establishing versatile and dynamic interactions between diverse targets and robotic systems remains a significant challenge. Herein, a series of magnetic millirobots capable of universal target manipulation with magnetically switchable adhesion is reported. Through two‐photon lithography‐assisted molding, magnetic soft double‐reentrant micropillar arrays with liquid repellency are fabricated on the robots. These micropillar arrays can serve as switchable adhesion units for the millirobots to effectively manipulate targets of various geometries (0D, 1D, 2D, and 3D) in both air and water. As proof‐of‐concept demonstrations, these adhesive robots can perform various complex tasks, including circuit repair, mini‐turbine assembly, and high‐speed underwater rotation of the turbine machine. This work may offer a versatile approach to magnetic manipulation of non‐magnetic objects through amphibious adhesion, emerging as a new paradigm in robotic manipulation.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 22:49:51 -0700</pubDate>
+<pubDate>2025-04-08T10:49:51-07:00</pubDate>
+</item>
+<item>
+<title>Multifunctional Spinel Structure for Efficient Direct Recycling of Spent Layered Cathodes into Fast‐Charging Materials</title>
+<link>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420467?af=R</link>
+<guid>https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420467?af=R</guid>
+<content:encoded><![CDATA[
+
+A channel‐assisted regeneration strategy that utilizes waste spinel cathode materials to construct fast lithium‐ion replenishment channels on the surface of spent LiNi0.5Co0.2Mn0.3O2 materials is proposed. This surface reconstruction not only facilitates efficient material regeneration but also effectively mitigates lattice expansion and side reactions under fast‐charging conditions, thereby optimizing the comprehensive electrochemical performance of the regenerated materials.
+
+
+
+
+
+
+
+
+Abstract
+Direct recycling is increasingly recognized as a promising solution to alleviate the burgeoning contradiction between the growing demand for lithium‐ion batteries (LIBs) and amidst resource shortages. A critical challenge in this process is achieving efficient lithium compensation, which is vital for replenishing lost elements and promoting the reconstruction of degraded structures. Herein, inspired by the concept of “recycle waste with waste,” a channel‐assisted regeneration strategy is proposed that utilizes waste spinel materials to reconstruct the surface of the spent layered cathode, clearing blocked channels and transforming them into a 3D structure that facilitates rapid lithium‐ion transmission. This approach enhances the efficient replenishment of exogenous lithium salts into the particle lattice and prevents intrinsic thermal decomposition during heat treatment due to element deficiencies. The presence of the 3D ion channels can also improve the fast‐charging performance of the regenerated cathode material, achieving a capacity retention rate of 87.9% after 500 cycles at 10 C. Additionally, its overall electrochemical performance significantly outperforms that of commercial materials. This work addresses critical challenges in the direct solid‐phase regeneration of cathode materials and offers valuable insights for optimizing next‐generation LIB recycling technologies.
+]]></content:encoded>
+<pubDate>Tue, 08 Apr 2025 00:50:02 -0700</pubDate>
+<pubDate>2025-04-08T12:50:02-07:00</pubDate>
+</item>
 
 <item>
 <title>Self‐Oxygenating PROTAC Microneedle for Spatiotemporally‐Confined Protein Degradation and Enhanced Glioblastoma Therapy</title>

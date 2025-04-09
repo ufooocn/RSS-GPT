@@ -5662,3 +5662,24 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-09 06:27:41.652948
+------------------------------------------------------
+Started: 2025-04-09 08:26:58.067283
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Phototunable Rayleigh 3D Soft Self‐Oscillator Enabling Versatile Biomimetic Tubular Peristaltic Pumping](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502434?af=R)
+Append: [Buried Interface Regulation with a Supramolecular Assembled Template Enables High‐Performance Perovskite Solar Cells for Minimizing the VOC Deficit](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418011?af=R)
+Append: [Optical Synaptic Devices with Multiple Encryption Features Based on SERS‐Revealed Charge‐Transfer Mechanism](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503146?af=R)
+Append: [Manipulating the Assembly and Architecture of Fibrillar Silk](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501096?af=R)
+Append: [Fast Encapsulation of Microbes into Dissolvable Hydrogel Beads Enables High‐Throughput Microbial Single‐Cell RNA Sequencing of Clinical Microbiome Samples](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500481?af=R)
+Append: [Stimulus‐Responsive Emission via Dynamic Triplet Energy Transfer in Organic Room‐Temperature Phosphorescence Glass](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418778?af=R)
+Append: [Polymer‐Halogen Pockets Steering *CO Adsorption Configurations for Highly Selective CO2 Electroreduction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202504292?af=R)
+Append: [Modulating Coalescence Timing of Liquid Marbles via Wettability Adaptation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420342?af=R)
+Append: [Mechanically Enhanced, Environmentally Stable, and Bioinspired Charge‐Gradient Hydrogel Membranes for Efficient Ion Gradient Power Generation and Linear Self‐Powered Sensing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417944?af=R)
+Append: [Pressure Induced Molecular‐Arrangement and Charge‐Density Perturbance in Doped Polymer for Intelligent Motion and Vocal Recognitions](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500077?af=R)
+Append: [Electric‐Field Regulation of Adhesion/De‐Adhesion/Release Capacity of Transparent and Electrochromic Adhesive](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500648?af=R)
+Append: [Magnetically Switchable Adhesive Millirobots for Universal Manipulation in both Air and Water](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420045?af=R)
+Append: [Multifunctional Spinel Structure for Efficient Direct Recycling of Spent Layered Cathodes into Fast‐Charging Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420467?af=R)
+append_entries: 13
+Finish: 2025-04-09 08:27:00.082629
