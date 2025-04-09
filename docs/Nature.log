@@ -4459,3 +4459,10 @@ Existing_entries: 759
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-09 08:26:57.567458
+------------------------------------------------------
+Started: 2025-04-09 10:22:18.344491
+Existing_entries: 759
+Fetching from https://www.nature.com/nature.rss
+Append: [Microbial warfare brought us CRISPR. What big breakthroughs could be next?](https://www.nature.com/articles/d41586-025-01065-4)
+append_entries: 1
+Finish: 2025-04-09 10:22:18.517856
