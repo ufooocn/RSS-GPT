@@ -5749,3 +5749,15 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-10 06:27:25.626655
+------------------------------------------------------
+Started: 2025-04-10 08:24:56.521207
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [Efficient Blue Perovskite LEDs via Bottom‐Up Charge Manipulation for Solution‐Processed Active‐Matrix Displays](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503234?af=R)
+Append: [Advanced GeTe‐Based Thermoelectrics: Charting the Path from Performance Optimization to Devices](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202500802?af=R)
+Append: [Molecular Reconstruction for the High‐Performance Recycled Fluororubbers](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501622?af=R)
+Append: [Flexible Tunable‐Plasticity Synaptic Transistors for Mimicking Dynamic Cognition and Reservoir Computing](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418418?af=R)
+append_entries: 4
+Finish: 2025-04-10 08:24:58.377577
