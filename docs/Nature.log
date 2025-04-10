@@ -4622,3 +4622,9 @@ Fetching from https://www.nature.com/nature.rss
 Append: [Can peer-reviewed podcasts fast-track science?](https://www.nature.com/articles/d41586-025-00832-7)
 append_entries: 1
 Finish: 2025-04-10 14:18:54.961430
+------------------------------------------------------
+Started: 2025-04-10 16:23:58.621914
+Existing_entries: 832
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-04-10 16:23:58.867753
