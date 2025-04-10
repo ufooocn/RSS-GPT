@@ -4602,3 +4602,10 @@ Existing_entries: 830
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-10 08:24:55.996804
+------------------------------------------------------
+Started: 2025-04-10 10:20:24.886589
+Existing_entries: 830
+Fetching from https://www.nature.com/nature.rss
+Append: [Daily briefing: Tonka bean trees survive lightning strikes that kill their competitors](https://www.nature.com/articles/d41586-025-01186-w)
+append_entries: 1
+Finish: 2025-04-10 10:20:25.104690
