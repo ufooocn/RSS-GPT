@@ -4628,3 +4628,12 @@ Existing_entries: 832
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-10 16:23:58.867753
+------------------------------------------------------
+Started: 2025-04-10 18:24:10.257899
+Existing_entries: 832
+Fetching from https://www.nature.com/nature.rss
+Append: [Allergic reactions flare in the gut after cuts to the skin, mouse research shows](https://www.nature.com/articles/d41586-025-01077-0)
+Append: [Top quarks spotted at mega-detector could reveal clues to early Universe](https://www.nature.com/articles/d41586-025-01075-2)
+Append: [‘Mind blowing’: quantum computer untangles the mathematics of knots](https://www.nature.com/articles/d41586-025-01094-z)
+append_entries: 3
+Finish: 2025-04-10 18:24:10.744122
