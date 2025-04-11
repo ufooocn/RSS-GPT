@@ -11931,3 +11931,9 @@ error: Connection error.
 Append: [P&B: Jedda](https://manuelmoreale.com/pb-jedda)
 append_entries: 1
 Finish: 2025-04-11 12:37:25.239310
+------------------------------------------------------
+Started: 2025-04-11 14:18:42.144678
+Existing_entries: 633
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-04-11 14:18:42.931285
