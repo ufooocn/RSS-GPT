@@ -4702,3 +4702,11 @@ Existing_entries: 840
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-11 14:18:22.159324
+------------------------------------------------------
+Started: 2025-04-11 16:24:01.050405
+Existing_entries: 840
+Fetching from https://www.nature.com/nature.rss
+Append: [Mystery of medieval manuscripts revealed by ancient DNA](https://www.nature.com/articles/d41586-025-01108-w)
+Append: [Liquids in a glass recover a graceful shape even after being shaken](https://www.nature.com/articles/d41586-025-01109-9)
+append_entries: 2
+Finish: 2025-04-11 16:24:01.412843
