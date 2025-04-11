@@ -28098,3 +28098,9 @@ error: Connection error.
 Append: [How to lead like a scientist](https://nesslabs.com/lead-like-a-scientist?utm_source=rss&utm_medium=rss&utm_campaign=lead-like-a-scientist)
 append_entries: 1
 Finish: 2025-04-11 10:20:10.411331
+------------------------------------------------------
+Started: 2025-04-11 12:37:20.970225
+Existing_entries: 72
+Fetching from https://nesslabs.com/feed
+append_entries: 0
+Finish: 2025-04-11 12:37:21.309358

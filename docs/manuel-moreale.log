@@ -11922,3 +11922,12 @@ Existing_entries: 632
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-04-11 10:20:12.946994
+------------------------------------------------------
+Started: 2025-04-11 12:37:23.049054
+Existing_entries: 632
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [P&B: Jedda](https://manuelmoreale.com/pb-jedda)
+append_entries: 1
+Finish: 2025-04-11 12:37:25.239310

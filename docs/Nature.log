@@ -4688,3 +4688,11 @@ Existing_entries: 838
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-11 10:19:36.124572
+------------------------------------------------------
+Started: 2025-04-11 12:37:15.103233
+Existing_entries: 838
+Fetching from https://www.nature.com/nature.rss
+Append: [Author Correction: Sulfide-rich continental roots at cratonic margins formed by carbonated melts](https://www.nature.com/articles/s41586-025-08911-5)
+Append: [Daily briefing: Dogs have a serious environmental impact — but owners can mitigate it](https://www.nature.com/articles/d41586-025-01196-8)
+append_entries: 2
+Finish: 2025-04-11 12:37:15.490473
