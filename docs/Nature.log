@@ -4710,3 +4710,9 @@ Append: [Mystery of medieval manuscripts revealed by ancient DNA](https://www.na
 Append: [Liquids in a glass recover a graceful shape even after being shaken](https://www.nature.com/articles/d41586-025-01109-9)
 append_entries: 2
 Finish: 2025-04-11 16:24:01.412843
+------------------------------------------------------
+Started: 2025-04-11 18:26:25.330416
+Existing_entries: 842
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-04-11 18:26:25.658372
