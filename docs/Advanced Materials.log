@@ -6000,3 +6000,17 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-12 08:21:30.438145
+------------------------------------------------------
+Started: 2025-04-12 10:17:22.515876
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [High‐Efficiency Large‐Area Perovskite Solar Cells via a Multifunctional Crystallization Regulating Passivation Additive](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502916?af=R)
+Append: [Revealing Trapped Carrier Dynamics at Buried Interfaces in Perovskite Solar Cells via Infrared‐Modulated Action Spectroscopy with Surface Photovoltage Detection](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502160?af=R)
+Append: [Key Role of Bridge Adsorbed Hydrogen Intermediate on Pt–Ru Pair for Efficient Acidic Hydrogen Production](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503221?af=R)
+Append: [On‐Chip Active Supercoupled Topological Cavity](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419261?af=R)
+Append: [Ferromagnetic Atomic d‐p Orbital Hybridization for Promoting Al‐S Batteries](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418784?af=R)
+Append: [Combination Treatment of Rituximab and Therapeutic Vaccines Affords Superior Tumor Suppression and Relapse Prevention for Non‐Hodgkin Lymphoma](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502372?af=R)
+append_entries: 6
+Finish: 2025-04-12 10:17:24.379340

@@ -11991,3 +11991,12 @@ Existing_entries: 633
 Fetching from https://manuelmoreale.com/feed/rss
 append_entries: 0
 Finish: 2025-04-12 08:22:04.844569
+------------------------------------------------------
+Started: 2025-04-12 10:17:30.938576
+Existing_entries: 633
+Fetching from https://manuelmoreale.com/feed/rss
+Summarization failed, append the original article
+error: Connection error.
+Append: [When a side project finds you](https://manuelmoreale.com/when-a-side-project-finds-you)
+append_entries: 1
+Finish: 2025-04-12 10:17:33.086331
