@@ -12000,3 +12000,9 @@ error: Connection error.
 Append: [When a side project finds you](https://manuelmoreale.com/when-a-side-project-finds-you)
 append_entries: 1
 Finish: 2025-04-12 10:17:33.086331
+------------------------------------------------------
+Started: 2025-04-12 12:33:57.816389
+Existing_entries: 634
+Fetching from https://manuelmoreale.com/feed/rss
+append_entries: 0
+Finish: 2025-04-12 12:33:58.574788
