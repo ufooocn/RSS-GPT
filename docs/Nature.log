@@ -4932,3 +4932,9 @@ Append: [Prdm16-dependent antigen-presenting cells induce tolerance to gut antig
 Append: [AI-boosted cameras help blind people to navigate](https://www.nature.com/articles/d41586-025-01214-9)
 append_entries: 2
 Finish: 2025-04-14 16:23:46.182926
+------------------------------------------------------
+Started: 2025-04-14 18:26:43.007912
+Existing_entries: 854
+Fetching from https://www.nature.com/nature.rss
+append_entries: 0
+Finish: 2025-04-14 18:26:43.259789
