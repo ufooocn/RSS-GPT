@@ -6140,3 +6140,35 @@ Existing_entries: 1000
 Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
 append_entries: 0
 Finish: 2025-04-14 06:28:51.253911
+------------------------------------------------------
+Started: 2025-04-14 08:26:08.271485
+Existing_entries: 1000
+Fetching from https://onlinelibrary.wiley.com/feed/15214095/most-recent
+Summarization failed, append the original article
+error: Connection error.
+Append: [High‐Performance Integrated Micro‐Vortex Air Filter Enabled With Honeycomb‐Like Structured Nanofibrous Networks](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419143?af=R)
+Append: [Solid Polymer Electrolytes for All‐Solid‐State Lithium–Sulfur Batteries: Different Designs Dependent on Their Interaction with Sulfur Cathodes](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202415864?af=R)
+Append: [Interface‐Engineered Polar Topological Domains in Ferroelectric Nematic Liquid Crystals](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501395?af=R)
+Append: [Legumain In Situ Engineering Promotes Efferocytosis of CAR Macrophage to Treat Cardiac Fibrosis](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417831?af=R)
+Append: [Decoding Directional Control in Metal‐Assisted Chemical Etching via Catalyst Architecture](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502840?af=R)
+Append: [Thermodynamically‐Driven Phase Engineering and Reconstruction Deduction of Medium‐Entropy Prussian Blue Analogue Nanocrystals](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503814?af=R)
+Append: [Responsive Ordered Assembly of Magnetic Nanoparticles for ROS Activatable Magnetic Particle Imaging](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413968?af=R)
+Append: [Full‐Color Tunable Time‐Dependent Room‐Temperature Phosphorescence from Self‐Protective Carbonized Polymer Dots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418722?af=R)
+Append: [Scalable Lithium Niobate Nanoimprinting for Nonlinear Metalenses](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418957?af=R)
+Append: [Enhanced Deformability Through Distributed Buckling in Stiff Quasicrystalline Architected Materials](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202505125?af=R)
+Append: [Deactivation Mechanism and Mitigation Strategies of Single‐Atom Site Electrocatalysts](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202420383?af=R)
+Append: [Gambogic Acid Based Coordination Polymer Reinforces High‐Intensity Focused Ultrasound Treatment of Gynecologic Malignancies](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501664?af=R)
+Append: [Intravasation‐On‐µDevice (INVADE): Engineering Dynamic Vascular Interfaces to Study Cancer Cell Intravasation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501466?af=R)
+Append: [Correction to “Tattoo‐Paper Transfer as a Versatile Platform for All‐Printed Organic Edible Electronics”](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202410274?af=R)
+Append: [Comment on “Non‐Polaritonic Effects in Cavity‐Modified Photochemistry”: On the Importance of Experimental Details](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202404602?af=R)
+Append: [Time‐Division Multiplexing Physical Unclonable Functions Based on Multicolor Phosphorescent Carbon Dots](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202502522?af=R)
+Append: [Nanoscale Inhomogeneity and Epitaxial Strain Control Metallicity in Single Crystalline Thin Films of High Entropy Oxide](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202418490?af=R)
+Append: [A Core‐Shell Perovskite Composite Air Electrode With Thermal‐Expansion Offset and Mechanical Support Functions for Highly Durable Reversible Protonic Ceramic Cells](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202419224?af=R)
+Append: [Interstitial‐Substitutional‐Mixed Solid Solution of RuO2 Nurturing a New Pathway Beyond the Activity‐Stability Linear Constraint in Acidic Water Oxidation](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503354?af=R)
+Append: [Mitigating Surface Energy and Core‐Shell Interface Strain of Yb3+‐Doped ZnSe‐Based Quantum Dots for Pure‐Blue Emission QLED Devices](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501500?af=R)
+Append: [A Microgel–Hydrogel Hybrid for Functional Compensation and Mechanical Stability in 3D Printed Cell‐Dense Vascularized Liver Tissue](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202413940?af=R)
+Append: [In Situ Impurity Phase Repair Strategy Enables Highly‐Efficient Perovskite Solar Cells with Periodic Photovoltaic Performance](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202501057?af=R)
+Append: [Constructing Controlled Vertical Gradient Morphology in Pseudo‐Planar Heterojunction Organic Photovoltaics via Self‐Assembled Interface Orthogonal Strategy](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202503813?af=R)
+Append: [Accurate Thermal Resection of Atomically Precise Copper Clusters to Achieve Near‐IR Light‐Driven CO2 Reduction](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202417747?af=R)
+append_entries: 24
+Finish: 2025-04-14 08:26:10.339602
