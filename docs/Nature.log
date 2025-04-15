@@ -4950,3 +4950,10 @@ Existing_entries: 854
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-14 22:17:47.167314
+------------------------------------------------------
+Started: 2025-04-15 01:28:00.039325
+Existing_entries: 854
+Fetching from https://www.nature.com/nature.rss
+Append: [Five key climate and space projects on Trump’s chopping block](https://www.nature.com/articles/d41586-025-01217-6)
+append_entries: 1
+Finish: 2025-04-15 01:28:00.346188
