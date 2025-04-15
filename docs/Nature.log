@@ -4981,3 +4981,12 @@ Existing_entries: 855
 Fetching from https://www.nature.com/nature.rss
 append_entries: 0
 Finish: 2025-04-15 08:26:30.716314
+------------------------------------------------------
+Started: 2025-04-15 10:20:43.437477
+Existing_entries: 855
+Fetching from https://www.nature.com/nature.rss
+Append: [Science’s golden oldies: the decades-old research papers still heavily cited today](https://www.nature.com/articles/d41586-025-01126-8)
+Append: [These are the most-cited research papers of all time](https://www.nature.com/articles/d41586-025-01124-w)
+Append: [Exclusive: the most-cited papers of the twenty-first century](https://www.nature.com/articles/d41586-025-01125-9)
+append_entries: 3
+Finish: 2025-04-15 10:20:43.953716
